@@ -1,0 +1,383 @@
+{{Ruban Pokémon
+| nomPrécédent=Tentacool
+| numéro=073
+| nom=Tentacruel
+| nomSuivant=Racaillou
+}}
+{{Infobox Pokémon
+| nom=Tentacruel
+| nomen=Tentacruel
+| nomja=ドククラゲ
+| nomtm=Dokukurage
+| nomde=Tentoxa
+| légende=Artwork de Tentacruel pour {{RFVF}}
+| ndex=073
+| jdex=163
+| njdex=165
+| hdex=067
+| sdex=137
+| adex=234
+| odex=R-277
+| type1=Eau
+| type2=Poison
+| espece=Mollusque
+| taille=1.6
+| poids=55.0
+| capspe1=Corps Sain
+| capspe2=Suintement
+| capspe3=Cuvette
+| groupoeuf1=Eau 3
+| oeufpas=5120
+| effortval=+2 Déf. Spé
+| expval=205
+| expmax=1250000
+| fmratio=.5 
+| captureval=60
+| couleur=Bleu
+| forme=10}}
+'''Tentacruel''' (anglais : '''Tentacruel''' ; japonais : '''ドククラゲ''' ''Dokukurage'') est un [[Pokémon]] évolué de [[type]] {{type|eau}} et {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Tentacruel est l'évolution de [[Tentacool]] à partir du [[niveau]] 30.
+{{TableauEvolutionHaut|Eau|Tentacool}}
+{{TableauEvolutionSimple|Niveau 30|Tentacruel}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Tentacruel dispose soit de la capacité spéciale [[Corps Sain]], qui le protège des diminutions de statistiques provoquées par les attaques d'un autre Pokémon (comme [[Rugissement]] ou [[Grincement]]) mais non des baisses de statistique dues à ses propres attaques (en guise de contrecoup, exemple: [[Tempêteverte]], [[Draco Météor]]), soit de la capacité spéciale [[Suintement]], qui a pour effet lorsqu'un adversaire utilise une attaque qui devrait drainer ses [[Points de Vie]] (comme [[Giga-Sangsue]] ou [[Vampigraine]]) de lui causer au contraire des dégâts équivalents au nombre de points de vies qui auraient dû être récupéré -Tentacruel sera par contre blessé normalement par l'attaque.
+
+===Étymologies===
+* Français : de tentacule et cruel
+* Anglais : de ''tentacle'', tentacule, et ''cruel''
+* Allemand : de ''Tentakel'' et de ''Toxisch''(toxique)
+* Japonais : Kurage signifie méduse et doku veut dire poison.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Ses tentacules sont rétractées au repos. En situation de chasse, ils rallongent.
+;[[Pokémon Jaune]]
+:Ses 80 tentacules sont extensibles et autonomes. Ils inoculent un poison au contact.
+;[[Pokémon Stadium]]
+:Il a 80 tentacules. Une fois l'ennemi enserré, les tentacules ne lâcheront jamais prise, quoi qu'il arrive.
+;[[Pokémon Or]]
+:Ses 80 tentacules absorbent de l'eau et s'étirent sans fin pour enserrer et capturer ses adversaires.
+;[[Pokémon Argent]]
+:En combat, il se sert de ses 80 tentacules pour emprisonner son adversaire dans un filet vénéneux.
+;[[Pokémon Cristal]]
+:Ses 80 tentacules absorbant de l'eau et s'étirent sans fin pour enserrer et capturer ses adversaires.
+;[[Pokémon Rubis]]
+:{{PCap|Tentacruel}} a deux gros globes sur la tête. Les globes s'illuminent lorsqu'il va envoyer un violent rayon d'ultrasons. Lorsque ce {{PCap|Pok}}é{{PCap|mon}} se déchaine, il crée d'énormes vagues autour de lui.
+;[[Pokémon Saphir]]
+:Les tentacules de {{PCap|Tentacruel}} peuvent s'allonger et se rétracter à volonté. Il serre sa proie dans ses tentacules et l'affaiblit en lui injectant une toxine. Il peut attraper jusqu'à 80 proies en même temps.
+;[[Pokémon Émeraude]]
+:Il vit dans les formations rocheuses au fond de l'océan et traque ses proies avec 80 tentacules. Ses globes rouges brillent quand il s'énerve ou s'agite.
+;[[Pokémon Rouge Feu]]
+:Les 80 tentacules que {{PCap|Tentacruel}} laisse s'agiter lui permettent d'injecter du poison dans les corps de ses ennemis mais aussi de les trancher.
+;[[Pokémon Vert Feuille]]
+:Ses tentacules sont rétractés au repos. En situation de chasse, ils s'allongent pour prendre ses proies au piège.
+;[[Pokémon Diamant]]
+:Ses 80 tentacules ligotent ses proies et les retiennent jusqu'à ce que son poison fasse effet.
+;[[Pokémon Perle]]
+:Il avertit ses semblables d'un danger en faisant clignoter les orbes rouges sur sa tête.
+;[[Pokémon Ranger 2]]
+:Il tire des épines toxiques et répand du poison pour attaquer.
+;[[Pokémon Platine]]
+:Ses 80 tentacules lui permettent d'emprisonner ses adversaires dans un redoutable filet venimeux.
+;[[Pokémon Or HeartGold]]
+:Ses 80 tentacules absorbent de l'eau et s'étirent sans fin pour enserrer et capturer ses adversaires.
+;[[Pokémon Argent SoulSilver]]
+:En combat, il se sert de ses 80 tentacules pour emprisonner son adversaire dans un filet venimeux.
+;[[Pokémon Noir et Blanc]]
+:Ses 80 tentacules lui permettent d'emprisonner ses adversaires dans un redoutable filet venimeux.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Tentacool]].
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Tentacool]].
+|-
+| [[Jaune]] || Rare || Routes [[Route 19|19]], [[Route 20|20]] et [[Chenal 21|21]] - pêcher avec la [[Méga Canne]] -
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || irisia.
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || À venir.
+|-
+| [[Cristal]] || Commun || À venir.
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Rare || [[Épave]].
+|-
+| [[Saphir]] || Rare || [[Épave]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Rare || [[Épave]].
+|-
+| [[Rouge Feu]] || Rare || À venir.
+|-
+| [[Vert Feuille]] || Rare || À venir.
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| {{DP}} || Commun || [[Route 205]] et [[Route 224|224]], [[Rivamar]], [[Ligue Pokémon]].
+|-
+| style="vertical-align: middle;"| {{Pt}} || Peu Commun || [[Route 205]], [[Route 212|212]], [[Route 213|213]], [[Route 218|218]], [[Route 219|219]], [[Chenal 220]], [[Route 221]], [[Route 222|222]], [[Route 223|223]], [[Route 224|224]], [[Chenal 226]] et [[Chenal 230|230]], [[Verchamps]], [[Joliberges]], [[Les Éoliennes]], [[Forge Fuego]], [[Île de Fer]], [[Ligue Pokémon]].
+|-
+| {{HGSS}} || style="vertical-align: middle;"| Commun || style="vertical-align: middle;"| [[Chenal 20 (Kanto)|Chenal 20]], [[Chenal 21 (Kanto)|Chenal 21]], [[Chenal 41]] et [[Route 42]].
+|}
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="vertical-align: middle;" |{{NB}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Acide|40|100|30}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|Départ|Ultrason|-|55|20}}
+{{Attaque|Départ|Dard-Venin|15|100|35}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|Départ|Constriction|10|100|35}}
+{{Attaque|N.35|Bouclier|-|-|30}}
+{{Attaque|N.43|Grincement|-|85|40}}
+{{Attaque|N.50|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Dard-Venin|15|100|35}}
+{{Attaque|Départ|Ultrason|-|55|20}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|Départ|Acide|40|100|30}}
+{{Attaque|Départ|Bulles d'O|65|100|20}}
+{{Attaque|Départ|Constriction|10|100|35}}
+{{Attaque|N.38|Bouclier|-|-|30}}
+{{Attaque|N.47|Grincement|-|85|40}}
+{{Attaque|N.55|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|Départ<br>N.6|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|Départ<br>N.12|Constriction|10|100|35|robustesse|2|3}}
+{{Attaque-III|N.19|Acide|40|100|30|intelligence|1|4}}
+{{Attaque-III|N.25|Bulles d'O|65|100|20|beauté|1|3}}
+{{Attaque-III|N.30|Ligotage|15|85|20|robustesse|3|0}}
+{{Attaque-III|N.38|Bouclier|-|-|30|sang-froid|1|0}}
+{{Attaque-III|N.47|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.55|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|Départ<br>N.5|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|Départ<br>N.8|Constriction|10|100|35|robustesse|0}}
+{{Attaque-IV|N.12|Acide|40|100|30|intelligence|3}}
+{{Attaque-IV|N.15|Pics Toxik|-|-|20|intelligence|2}}
+{{Attaque-IV|N.19|Bulles d'O|65|100|20|beauté|2}}
+{{Attaque-IV|N.22|Ligotage|15|85|20|robustesse|0}}
+{{Attaque-IV|N.26|Bouclier|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.29|Vibraqua|60|100|20|beauté|2}}
+{{Attaque-IV|N.36|Direct Toxik|80|100|20|intelligence|2}}
+{{Attaque-IV|N.42|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.49|Hydrocanon|120|80|5|beauté|2}}
+{{Attaque-IV|N.55|Essorage|1|100|5|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Dard-Venin|15|100|35}}
+{{Attaque-V|Départ<br>N.5|Ultrason|-|55|20}}
+{{Attaque-V|Départ<br>N.8|Constriction|10|100|35}}
+{{Attaque-V|N.12|Acide|40|100|30}}
+{{Attaque-V|N.15|Pics Toxik|-|-|20}}
+{{Attaque-V|N.19|Bulles d'O|65|100|20}}
+{{Attaque-V|N.22|Ligotage|15|90|20}}
+{{Attaque-V|N.26|Bombe Acide|40|100|20}}
+{{Attaque-V|N.29|Bouclier|-|-|30}}
+{{Attaque-V|N.34|Vibraqua|60|100|20}}
+{{Attaque-V|N.38|Direct Toxik|80|100|20}}
+{{Attaque-V|N.43|Grincement|-|85|40}}
+{{Attaque-V|N.47|Châtiment|50|100|10}}
+{{Attaque-V|N.52|Hydrocanon|120|80|5}}
+{{Attaque-V|N.56|Cradovague|95|100|10}}
+{{Attaque-V|N.61|Essorage|1|100|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=Eau
+|sensib-acier=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-poison=0.5
+|sensib-sol=2
+|sensib-psy=2
+|sensib-insecte=0.5
+|sensib-eau=0.5
+|sensib-glace=0.5
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=80
+|attaque=70
+|defense=65
+|atq-spc=80
+|def-spc=120
+|vitesse=100
+|special=120
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Tentacruel
+| numero=073
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Tentacruel RB.png
+| forme=10
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+Il fait ses débuts dans l'[[épisode 19]].<br/>
+
+Le trio des [[Frères Pokémon Invicibles]] en utilisent trois contre {{da|Ondine}} dans le but d'usurper le titre de champion de l'arène d'Azuria dans l'[[Hoso 2]].  
+
+[[Butch]] en possède également un, que l'on verra dans [[Épisode spécial 21|un autre épisode spécial]] impliquant cette fois [[Richie]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 19]]
+:{{PCap|Pok}}é{{PCap|mon}} Méduse. [[évolution|Forme évoluée]] du {{PCap|Tentacool}}. Ses nombreuses tentacules sont des armes redoutables. Il est surnommé le "Gangster des Mers".
+;[[Épisode 113]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Méduse. Ses terrifiants [[Dard-Venin]] paralysent rapidement ses victimes.
+;[[Épisode 656]]
+:{{PCap|Pok}}é{{PCap|mon}} Mollusque est la forme évoluée de {{PCap|Tentacool}}. {{PCap|Tentacruel}} utilise ses tentacules pour capturer sa proie et la maintient jusqu'à ce qu'elle soit affaiblie par le poison.
+
+{{Ruban Pokémon
+| nomPrécédent=Tentacool
+| numéro=073
+| nom=Tentacruel
+| nomSuivant=Racaillou
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/73| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Tentacruel| ]]
+
+[[de:Tentoxa]]
+[[en:Tentacruel (Pokémon)]]
+[[es:Tentacruel]]
+[[it:Tentacruel]]
+[[ja:ドククラゲ]]
+[[pl:Tentacruel]]
+[[pt:Tentacruel (pokémon)]]

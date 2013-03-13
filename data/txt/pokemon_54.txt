@@ -1,0 +1,522 @@
+{{Ruban Pokémon
+| nomPrécédent=Persian
+| numéro=054
+| nom=Psykokwak
+| nomSuivant=Akwakwak
+}}
+{{Infobox Pokémon 
+| nom=Psykokwak
+| nomen=Psyduck
+| nomja=コダック
+| nomtm=Koduck
+| nomromaji=Kodakku
+| nomde=Enton
+| légende=Artwork de Psykokwak pour {{RFVF}}
+| ndex=054
+| jdex=138
+| njdex=140
+| hdex=158
+| sdex=043
+| nudex=028
+| fdex=121
+| espece=Canard
+| taille=0.8
+| poids=19.6
+| fmratio=.5 
+| oeufpas=5120 
+| effortval=+1 Att. Spé 
+| type1=Eau
+| expval=80
+| expmax=1000000
+| captureval=190
+| groupoeuf1=Eau 1
+| groupoeuf2=Sol
+| capspe1=Moiteur
+| capspe2=Ciel Gris
+| capspe3=Glissade
+| couleur=Jaune
+| forme=6
+}}
+'''Psykokwak''' (anglais : '''Psyduck''' ; japonais : '''コダック''' ''Koduck''), le [[Pokémon]] ''[[:wp:Paracétamol|Doliprane]]'', a notamment été rendu célèbre dans le [[dessin animé]] par les prestations du [[Psykokwak d'Ondine]]. Présent dès la [[première génération]], ce Pokémon est de type {{type|eau}}.
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Psykokwak évolue en [[Akwakwak]] à partir du [[niveau]] 33.
+{{TableauEvolutionHaut|Eau|Psykokwak}}
+{{TableauEvolutionSimple|[[Niveau]] 33|Akwakwak}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Psykokwak peut posséder l'une des deux capacités spéciales suivantes :
+*[[Moiteur]], qui empêche l'utilisation de [[Destruction]] ou [[Explosion]] pour les deux combattants ;
+*[[Ciel Gris]], qui annule les effets du climat.
+
+===Étymologies===
+*Français : ''Psyko'' vient de psycho, ce qui a attrait au mental ; ''Kwak'' fait référence au cri du canard.
+*Anglais : ''Psy'' fait référence à ce qui a attrait au mental ; ''Duck'' veut dire canard en anglais.
+*Allemand : qui vient de ''Ente''(canard)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il distrait ses ennemis avec des grimaces débiles et les attaque ensuite avec ses pouvoirs {{PCap|[[Psy]]}}.
+;[[Pokémon Jaune]]
+:Il est victime de violents maux de tête. Il utilise ses pouvoirs psy de façon discrète.
+;[[Pokémon Stadium]]
+: Il semble en permanence distrait et absent. Toutefois, si ses migraines augmentent, il peut utiliser d'intrigants pouvoirs.
+;[[Pokémon Or]]
+:Il ne se souvient pas qu'il a des pouvoirs {{PCap|[[Psy]]}}. C'est pour cela qu'il a l'air si confus.
+;[[Pokémon Argent]]
+:Plus sa migraine devient forte plus il gagne d'étranges pouvoirs. Mais il oublie tout après.
+;[[Pokémon Cristal]]
+:Il ne peut utiliser ses pouvoirs {{PCap|[[Psy]]}} que lorsque ses neurones se réveillent.
+;[[Pokémon Rubis]]
+:{{PCap|Psykokwak}} utilise un mystérieux pouvoir. Ce {{PCap|Pok}}é{{PCap|mon}} peut générer des ondes cérébrales normalement observées chez les dormeurs. Cette découverte a lancé une polémique dans le milieu universitaire.
+;[[Pokémon Saphir]]
+:Lorsqu'il utilise son mystérieux pouvoir, {{PCap|Psykokwak}} ne s'en souvient pas. Apparemment, il ne peut pas garder ce genre d'évènement en mémoire, car il pratique ce pouvoir dans un état proche du sommeil profond.
+;[[Pokémon Émeraude]]
+:Il utilise des pouvoirs étranges quand ses maux de tête s'intensifient. Il n'en garde cependant aucun souvenir et a toujours l'air confus et désorienté.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} a tout le temps la migraine. Quand la douleur devient insupportable, il se met à utiliser ses pouvoirs {{PCap|[[Psy]]}}.
+;[[Pokémon Vert Feuille]]
+:Il distrait ses ennemis avec des grimaces débiles et les attaque ensuite avec ses attaques {{PCap|[[Psy]]}}.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Psykokwak est un Pokémon décontracté qui aime flotter sur l'eau sans but précis.
+;[[Pokémon Diamant]]
+:Quand son mal de crâne empire, il développe d'étranges pouvoirs dont il ne se souvient jamais.
+;[[Pokémon Perle]]
+:Possède d'étranges pouvoirs qu'il oublie après les avoir employés. Reconnaissable à son air ahuri.
+;[[Pokémon Platine]]
+:Ses pouvoirs déconcertants et mystérieux lui font subir de constantes migraines.
+;[[Pokémon Or HeartGold]]
+:Il ne se souvient pas qu'il a des pouvoirs psy. C'est pour cela qu'il a l'air si confus.
+;[[Pokémon Argent SoulSilver]]
+:Plus sa migraine devient forte, plus il gagne d'étranges pouvoirs. Mais il oublie tout après.
+;[[Pokémon Noir et Blanc]]
+:Ses pouvoirs déconcertants et mystérieux lui font subir de constantes migraines.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Rare || Îles écumes 
+|-
+| || Assez fréquent || Arène d'Azuria
+|-
+| [[Bleu]] || Rare || Parc Safari (Méga canne)// Îles écumes.
+|-
+| [[Jaune]] || Rare || [[Route 6]] (surf).
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || Lac du bois des chêne : surf, Route 35 : surf
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Lac du bois des chêne : surf
+|-
+| [[Cristal]] || Commun || bois au chêne dans l'herbe
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Commun || [[Parc Safari (Hoenn)|Parc Safari]]
+|-
+| [[Saphir]] || Commun || [[Parc Safari (Hoenn)|Parc Safari]]
+|-
+| [[Pokémon Émeraude|Émeraude]] || Commun || [[Parc Safari (Hoenn)|Parc Safari]]
+|-
+| [[Rouge Feu]] || Commun || Pêche, un peu partout
+|-
+| [[Vert Feuille]] || Inexistant || À échanger
+|-
+| [[Colosseum]] || Inexistant || À échanger.
+|-
+| [[XD]] || Inexistant || À échanger.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || width="400px" | Lieu
+|-
+| [[Diamant]] || Commun || rowspan="2" | [[Surf]] à [[Bonaugure]], [[Célestia]], [[Chemin Rocheux]], [[Entrée Charbourg]], [[Grand Marais]], [[Lac Courage]], [[Lac Savoir]], [[Lac Vérité]], [[Route 203]], [[Route 204]], [[Route 205]], [[Route 208]], [[Route 209]], [[Route 210]], [[Route 212]], [[Route 214]] et [[Vestigion]].
+|-
+| [[Perle]] || Commun
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Blanc}};" | {{Couleur lien|#000000|Blanc}} 
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| rowspan="2" style="vertical-align:middle;" | Obtenir oeuf d'[[Akwakwak]] à la pension
+| rowspan="2" style="vertical-align:middle;" | 1
+|-
+| style="background:{{Couleur|Noir}};" | {{Couleur lien|#FFFFFF|Noir}}
+|-
+| {{NB2}}
+| Peu Commun
+| style="vertical-align:middle;" | [[Ranch d'Amaillide|Ranch d'Amaillide]]
+| style="vertical-align:middle;" | 2-7
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|N.28|Mimi-Queue|-|100|30}}
+{{Attaque|N.31|Entrave|-|55|20}}
+{{Attaque|N.36|Choc Mental|50|100|25}}
+{{Attaque|N.43|Combo-Griffe|18|80|15}}
+{{Attaque|N.52|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|N.5|Mimi-Queue|-|100|30}}
+{{Attaque|N.10|Entrave|-|55|20}}
+{{Attaque|N.16|Choc Mental|50|100|25}}
+{{Attaque|N.23|Grincement|-|85|40}}
+{{Attaque|N.31|Boost|-|-|10}}
+{{Attaque|N.40|Combo-Griffe|18|80|15}}
+{{Attaque|N.50|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Tourniquet|-|100|15|grâce|4|0}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|N.5|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|N.10|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.16|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.23|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.31|Boost|-|-|10|intelligence|2|0}}
+{{Attaque-III|N.40|Combo-Griffe|18|80|15|robustesse|2|1}}
+{{Attaque-III|N.50|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Tourniquet|-|100|15|grâce|2}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|N.5|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|N.9|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.14|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.18|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.22|Vibraqua|60|100|20|beauté|2}}
+{{Attaque-IV|N.27|Combo-Griffe|18|80|15|robustesse|2}}
+{{Attaque-IV|N.31|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.35|Boost|-|-|10|intelligence|0}}
+{{Attaque-IV|N.40|Psykoud'Boul|80|90|15|beauté|2}}
+{{Attaque-IV|N.44|Amnésie|-|-|20|grâce|0}}
+{{Attaque-IV|N.48|Hydrocanon|120|80|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Tourniquet|-|100|15}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|N.5{{Sup|Noir}}{{Sup|Blanc}}<br>N.4<sup>NB2</sup>|Mimi-Queue|-|100|30}}
+{{Attaque-V|N.9{{Sup|Noir}}{{Sup|Blanc}}<br>N.8<sup>NB2</sup>|Pistolet à O|40|100|25}}
+{{Attaque-V|N.14{{Sup|Noir}}{{Sup|Blanc}}<br>N.11<sup>NB2</sup>|Entrave|-|100|20}}
+{{Attaque-V|N.18{{Sup|Noir}}{{Sup|Blanc}}<br>N.15<sup>NB2</sup>|Choc Mental|50|100|25}}
+{{Attaque-V|N.22{{Sup|Noir}}{{Sup|Blanc}}<br>N.18<sup>NB2</sup>|Vibraqua|60|100|20}}
+{{Attaque-V|N.27{{Sup|Noir}}{{Sup|Blanc}}<br>N.22<sup>NB2</sup>|Combo-Griffe|18|80|15}}
+{{Attaque-V|N.31{{Sup|Noir}}{{Sup|Blanc}}<br>N.25<sup>NB2</sup>|Grincement|-|85|40}}
+{{Attaque-V|N.32<sup>NB2</sup>|Hydroqueue|90|90|10}}
+{{Attaque-V|N.35{{Sup|Noir}}{{Sup|Blanc}}<br>N.36<sup>NB2</sup>|Détrempage|-|100|20}}
+{{Attaque-V|N.40{{Sup|Noir}}{{Sup|Blanc}}<br>N.39<sup>NB2</sup>|Boost|-|-|10}}
+{{Attaque-V|N.44{{Sup|Noir}}{{Sup|Blanc}}<br>N.29<sup>NB2</sup>|Psykoud'Boul|80|90|15}}
+{{Attaque-V|N.48{{Sup|Noir}}{{Sup|Blanc}}<br>N.43<sup>NB2</sup>|Amnésie|-|-|20}}
+{{Attaque-V|N.53{{Sup|Noir}}{{Sup|Blanc}}<br>N.46<sup>NB2</sup>|Hydrocanon|120|80|5}}
+{{Attaque-V|N.57{{Sup|Noir}}{{Sup|Blanc}}<br>N.50<sup>NB2</sup>|Zone Étrange|-|-|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Ultimapoing]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 05 || [[Ultimawashi]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 16 || [[Jackpot]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 18 || [[Riposte]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Dynamopoing]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 02 || [[Coup d'Boule]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 09 || [[Boost]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Poinglace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 05 || [[Flash]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 06 || [[Siphon]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+À noter qu'il ne peut pas apprendre la [[CT|CT 29]] de [[Génération I]], [[Psyko]], contrairement à ce qu'on pourrait penser
+
+===Par [[reproduction]]===
+
+;Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]
+
+;Dans les jeux de [[troisième génération]]
+
+;Dans [[Pokémon Diamant et Perle]]
+
+
+===Par [[Donneur de capacités]]===
+
+===Autres===
+
+Dans la [[Génération I]], il est possible de gagner un Psykokwak connaissant l'attaque [[Amnésie]] en remplissant intégralement la galerie des célébrités de [[Pokémon Stadium]]
+
+==Sensibilités==
+{{Sensibilités
+| nom=Psykokwak
+| type=Eau
+| sensib-acier=0.5
+| sensib-eau=0.5
+| sensib-feu=0.5
+| sensib-glace=0.5
+| sensib-électrique=2
+| sensib-plante=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=50
+|attaque=52
+|defense=48
+|atq-spc=65
+|def-spc=50
+|vitesse=55
+|special=50
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Psykokwak
+| numero=054
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Psykokwak RB.png
+| artwork_supp2-nom=[[Pokémon Donjon Mystère]]
+| artwork_supp2-img=Psykokwak-DM.png{{!}}x150px
+| forme=6
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+Psykokwak a été [[Pokémon évènementiel|distribué de manière évènementielle]] en diverses occasion :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Psykokwak|Psykokwak JEREMY]] (États-Unis)
+* '''2005'''
+** [[Liste des Pokémon distribués en 2005#Psykokwak|Psykokwak œuf surprise PokéPark]] (Japon)
+* '''2007'''
+** [[Liste des distributions par la GTS#Psykokwak|Psykokwak Jun/Ken/ShigeShige]] (GTS)
+
+==Apparitions dans le [[dessin animé]]==
+{{da|Ondine}} a un [[Psykokwak d'Ondine|Psykokwak]] et on peut aussi voir dans un épisode de la saison 11 des [[oeuf]]s de Psykokwak.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 27]]
+:{{PCap|Pok}}é{{PCap|mon}} Aquatique. Utilise des pouvoirs mystérieux pour ses différentes attaques. Souffre tout le temps de maux de tête.
+;[[Épisode 30]]
+:Les attaques de {{PCap|Psykokwak}} sont : 1, [[Mimi-Queue]] ; attaque de {{PCap|Psykokwak}} n°2 : [[Griffe]] ; attaque n°3 de {{PCap|Psykokwak}} : [[Entrave]] ; attaque n°4 de {{PCap|Psykokwak}} : [[Choc Mental]]. Quand ses maux de tête atteignent son paroxysme, {{PCap|Psykokwak}} dispose de pouvoirs fabuleux.
+;[[Épisode 414]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Canard. {{PCap|Psykokwak}} souffre de migraines chroniques durant lesquelles il utilise de mystérieuses attaques.
+;[[Épisode 553]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Canard. Lorsqu'il a mal à la tête, {{PCap|Psykokwak}} déclenche d'étranges pouvoirs.
+
+ {{Pokémon starter}}
+
+{{Ruban Pokémon
+| nomPrécédent=Persian
+| numéro=054
+| nom=Psykokwak
+| nomSuivant=Akwakwak
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/54| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Psyduck| ]]
+
+[[de:Enton]]
+[[en:Psyduck (Pokémon)]]
+[[es:Psyduck]]
+[[it:Psyduck]]
+[[ja:コダック]]
+[[pl:Psyduck]]
+[[pt:Psyduck (pokémon)]]

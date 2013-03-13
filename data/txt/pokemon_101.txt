@@ -1,0 +1,382 @@
+{{Ruban Pokémon
+| nomPrécédent=Voltorbe
+| numéro=101
+| nom=Électrode
+| nomSuivant=Nœunœuf
+}}
+{{Infobox Pokémon
+| nom=Électrode
+| nomen=Electrode
+| nomja=マルマイン
+| nomtm=Marumine
+| nomromaji=Marumain
+| nomde=Lektrobal
+| légende=Artwork d'Électrode pour {{RFVF}}
+| ndex=101
+| jdex=121
+| njdex=122
+| hdex=085
+| adex=077
+| odex=R-114
+| opdex=N-157
+| type1=Électrique
+| espece=Balle
+| taille=1.2
+| poids=66.6
+| capspe1=Anti-Bruit
+| capspe2=Statik
+| capspe3=Boom Final
+| groupoeuf1=Minéral
+| oeufpas=5120
+| effortval=+2 Vit.
+| expval=150
+| expmax=1000000
+| fmratio=-1
+| captureval=60
+| couleur=Rouge
+| forme=1}}
+'''Électrode''' (anglais : '''Electrode''' ; japonais : '''マルマイン''' ''Marumine'') est l'[[évolution]] de [[Voltorbe]], le [[Pokémon]] {{type|électrique}} ayant la forme d'une [[Pokéball]].<br/>
+Il s'agit de l'un des Pokémon les plus rapides qui soient, et il est également réputé pour ses [[Explosion]]s.
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Ce Pokémon est asexué, il n'y a donc pas d'Électrode mâle ou femelle.
+
+==== [[Chromatique]] ====
+
+La partie inférieure rouge devient bleue.
+
+===[[Évolution]]===
+Électrode est l'évolution de [[Voltorbe]] à partir du [[niveau]] 30.
+{{TableauEvolutionHaut|Électrique|Voltorbe}}
+{{TableauEvolutionSimple|[[Niveau]] 30|Électrode}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Électrode dispose soit de la capacité spéciale [[Anti-Bruit]], qui l'immunisera contre toutes les attaques basées sur le son, comme [[Grincement]], [[Berceuse]] ou [[Mégaphone]], soit de la capacuté spéciale [[Statik]], qui peut avoir comme conséquence pour l'adversaire la paralysie s'il utilise sur Électrode une attaque de contact.
+
+===Étymologies===
+* Français : de électrode 
+* Anglais : de ''electrode'' 
+* Allemand : de ''Elektronik''(éléctronique) et de ''Ball''
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il emmagasine des quantités énormes de courants électrique sous pression pouvant exploser.
+;[[Pokémon Jaune]]
+:Il stocke de l'énergie électrique dans son corps, ce qui le rend instable et explosif.
+;[[Pokémon Stadium]]
+:Il emmagasine d'énormes quantités d'électricité et explose à la moindre provocation. Il est extrêmement dangereux.
+;[[Pokémon Or]]
+:Il est dangereux. S'il est trop chargé en électricité et qu'il s'ennuie, il explose.
+;[[Pokémon Argent]]
+:Il stocke tellement d'énergie dans son corps qu'une simple secousse peut le faire exploser.
+;[[Pokémon Cristal]]
+:Plus il charge d'énergie, plus il est rapide. Il devient alors plus à même d'exploser.
+;[[Pokémon Rubis et Saphir]]
+:L'une des caractéristiques d'{{PCap|Électrode}} est son attirance pour l'électricité. Ces {{PCap|Pok}}é{{PCap|mon}} posent problème lorsqu'ils se rassemblent dans les usines d'électricité pour se nourrir de courant fraîchement généré.
+;[[Pokémon Émeraude]]
+:Ils apparaissent en grand nombre près des centrales électriques. Comme ils se nourrissent d'électricité, ils causent d'énormes pannes dans les villes voisines.
+;[[Pokémon Rouge Feu]]
+:Il explose au moindre choc. Son seul surnom de « Bomb Ball » suffit à effrayer ses adversaires.
+;[[Pokémon Vert Feuille]]
+:Il emmagasine des quantités énormes de courant électrique sous pression pouvant exploser.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il se laisse porter par les vents lorsque son corps est gonflé d'électricité à en éclater.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Son corps émet de l'électricité. Méfiance, il lui arrive d'exploser !
+;[[Pokémon Or HeartGold]]
+:Il est dangereux. S'il est trop chargé en électricité et qu'il s'ennuie, son corps explose.
+;[[Pokémon Argent SoulSilver]]
+:Il stocke tellement d'énergie dans son corps qu'une simple secousse peut le faire exploser.
+;[[Pokémon Noir et Blanc]]
+:Il se laisse porter par les vents lorsque son corps est gonflé d'électricité à en éclater.
+
+==Localisations==
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:250px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+|-
+| [[Rouge]] || Rare || [[Centrale]] (camouflés en objets), [[Grotte Inconnue]], échange à [[Cramois'Île]] avec [[Raichu]].
+|-
+| [[Bleu]] || Rare || [[Centrale]] (camouflés en objets), [[Grotte Inconnue]], échange à [[Cramois'Île]] avec [[Raichu]].
+|-
+| [[Jaune]] || Limité || [[Centrale]] (camouflés en objets).
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:250px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+|-
+| style="vertical-align: middle;" | {{OAC}}
+| style="vertical-align: middle;" | Trois
+| style="vertical-align: middle;" | Repaire [[Team Rocket]] à Acajou - camouflés en objets.
+|-
+| style="vertical-align: middle;" | [[Pokémon Or et Argent|Argent]]
+| style="vertical-align: middle;" | -
+| style="vertical-align: middle;" | Echange d'un Krabby à Oliville
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:250px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+|-
+| style="vertical-align: middle;" | {{RSE}}
+| style="vertical-align: middle;" | Rare
+| style="vertical-align: middle;" | [[New Lavandia]], Repaire ennemi [[Team Magma]]''{{infobulle|*|Version Rubis}} ou [[Team Aqua]]{{infobulle|*|Version Saphir et Emeraude}} (camouflés en objets).
+|-
+| style="vertical-align: middle;" | {{RFVF}}
+| style="vertical-align: middle;" | Rare
+| style="vertical-align: middle;" | [[Centrale]] (camouflés en objets), [[Grotte Inconnue]], échange à [[Cramois'Île]] avec [[Raichu]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || Faire évoluer [[Voltorbe]].
+|}
+
+===[[Quatrième génération]]===
+
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:250px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+|-
+| style="vertical-align: middle;" | {{DP}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | Faire évoluer [[Voltorbe]].
+|-
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:250px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+|-
+| style="vertical-align: middle;" | {{NB}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | Faire évoluer [[Voltorbe]].
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Grincement|-|85|40}}
+{{Attaque|Départ|Sonicboom|-|90|20}}
+{{Attaque|Départ|Destruction|130|100|5}}
+{{Attaque|Départ|Mur Lumière|-|-|30}}
+{{Attaque|N.40|Météores|60|-|20}}
+{{Attaque|N.50|Explosion|170|100|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Grincement|-|85|40}}
+{{Attaque|Départ|Sonicboom|-|90|20}}
+{{Attaque|Départ|Destruction|200|100|5}}
+{{Attaque|Départ|Roulade|30|90|20}}
+{{Attaque|N.34|Mur Lumière|-|-|30}}
+{{Attaque|N.40|Météores|60|-|20}}
+{{Attaque|N.44|Explosion|250|100|5}}
+{{Attaque|N.48|Voile Miroir|-|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Chargeur|-|100|20|intelligence|2|0}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.8|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|Départ<br>N.15|Sonicboom|-|90|20|sang-froid|2|0}}
+{{Attaque-III|N.21|Étincelle|65|100|20|sang-froid|1|4}}
+{{Attaque-III|N.27|Destruction|200|100|5|beauté|8|0}}
+{{Attaque-III|N.34|Roulade|30|90|20|robustesse|3|0}}
+{{Attaque-III|N.41|Mur Lumière|-|-|30|beauté|1|0}}
+{{Attaque-III|N.48|Météores|60|-|20|sang-froid|2|0}}
+{{Attaque-III|N.54|Explosion|250|100|5|beauté|8|0}}
+{{Attaque-III|N.59|Voile Miroir|-|100|20|beauté|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Chargeur|-|-|20|intelligence|0}}
+{{Attaque-IV|Départ<br>N.5|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.8|Sonicboom|-|90|20|sang-froid|3}}
+{{Attaque-IV|Départ<br>N.12|Étincelle|65|100|20|sang-froid|3}}
+{{Attaque-IV|N.15|Roulade|30|90|20|robustesse|2}}
+{{Attaque-IV|N.19|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.22|Mur Lumière|-|-|30|beauté|2}}
+{{Attaque-IV|N.26|Rayon Chargé|50|90|10|beauté|2}}
+{{Attaque-IV|N.29|Destruction|200|100|5|beauté|0}}
+{{Attaque-IV|N.35|Météores|60|-|20|sang-froid|2}}
+{{Attaque-IV|N.40|Vol Magnétik|-|-|10|grâce|2}}
+{{Attaque-IV|N.46|Gyroballe|1|100|5|beauté|2}}
+{{Attaque-IV|N.51|Explosion|250|100|5|beauté|0}}
+{{Attaque-IV|N.57|Voile Miroir|-|100|20|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Chargeur|-|-|20}}
+{{Attaque-V|Départ<br>N.5|Charge|50|100|35}}
+{{Attaque-V|Départ<br>N.8|Sonicboom|-|90|20}}
+{{Attaque-V|Départ<br>N.12|Étincelle|65|100|20}}
+{{Attaque-V|N.15|Roulade|30|90|20}}
+{{Attaque-V|N.19|Grincement|-|85|40}}
+{{Attaque-V|N.22|Rayon Chargé|50|90|10}}
+{{Attaque-V|N.26|Mur Lumière|-|-|30}}
+{{Attaque-V|N.29|Boule Élek|1|100|10}}
+{{Attaque-V|N.35|Destruction|200|100|5}}
+{{Attaque-V|N.40|Météores|60|-|20}}
+{{Attaque-V|N.46|Vol Magnétik|-|-|10}}
+{{Attaque-V|N.51|Gyroballe|1|100|5}}
+{{Attaque-V|N.57|Explosion|250|100|5}}
+{{Attaque-V|N.62|Voile Miroir|-|100|20}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=électrique
+|sensib-acier=0.5
+|sensib-électrique=0.5
+|sensib-sol=2
+|sensib-vol=0.5
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=électrique
+|PV=60
+|attaque=50
+|defense=70
+|atq-spc=80
+|def-spc=80
+|vitesse=140
+|special=80
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Électrode
+| numero=101
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Électrode RB.png
+| forme=1
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=non
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Un Électrode apparaît dans l'[[épisode 93]]. Il est utilisé par [[Danny]], le champion de l'[[Ile Double Chantilly]], pour l'épreuve de descente.
+
+Une plus grande apparition est dans l'[[épisode 114]], où une bande d’Électrode et de Voltorbe sont chassés de leur ville en raison de leurs explosions.
+
+Un Electrode original apparaît dans l'[[épisode 315]] : il est en effet peint de manière à ressembler à une pastèque géante. 
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 114]]
+:La [[évolution|forme évoluée]] de {{PCap|Voltorbe}}. Une concentration élevée d'énergie [[électrique]] provoque l'[[explosion]] inopinée de ce {{PCap|Pok}}é{{PCap|mon}}. Il est surnommé la "Balle Bombe". 
+
+{{Ruban Pokémon
+| nomPrécédent=Voltorbe
+| numéro=101
+| nom=Électrode
+| nomSuivant=Nœunœuf
+}}
+
+{{DEFAULTSORT:Electrode}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/101| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Electrode| ]]
+
+[[de:Lektrobal]]
+[[en:Electrode (Pokémon)]]
+[[es:Electrode]]
+[[it:Electrode]]
+[[ja:マルマイン]]
+[[pl:Electrode]]
+[[pt:Electrode (pokémon)]]

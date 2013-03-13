@@ -1,0 +1,349 @@
+{{Ruban Pokémon
+| nomPrécédent=Raichu
+| numéro=027
+| nom=Sabelette
+| nomSuivant=Sablaireau
+}}
+{{Infobox Pokémon 
+| nom=Sabelette
+| nomen=Sandshrew
+| nomja=サンド
+| nomromaji=Sando
+| nomtm=Sand
+| nomde=Sandan
+| légende=Artwork de Ken Sugimori
+| ndex=027
+| jdex=048
+| hdex=112
+| adex=194
+| odex=R-180
+| opdex=N-010
+| espece=Souris
+| taille=0.6
+| poids=12.0
+| fmratio=.5
+| oeufpas=5120 
+| effortval=+1 Déf.
+| type1=Sol
+| expval=93
+| expmax=1000000
+| captureval=255
+| groupoeuf1=Sol
+| capspe1=Voile Sable
+| capspe2=Baigne Sable
+| capspe2-reve=oui
+| couleur=Jaune
+| forme=6
+}}
+'''Sabelette''' (anglais : '''Sandshrew''' ; japonais : '''サンド''' ''Sand'') est un [[Pokémon]] du [[type]] {{type|sol}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+Sabelette est un Pokémon ressemblant à un tatou au corps cuirassé jaune. Son ventre est complètement blanc pâle en plus de son menton. Il possède des yeux noirs et deux petites oreilles. Ce bipède est muni de trois griffes aux bras et de deux aux jambes. Sabelette vit en horde.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====Chromatique====
+Lorsqu'il est chromatique, Sabelette a la cuirasse d'une couleur verte et non jaune.
+
+===[[Évolution]]===
+Sabelette évolue à partir du [[niveau]] 22 en [[Sablaireau]].
+
+{{TableauEvolutionHaut|Sol|Sabelette}}
+{{TableauEvolutionSimple|[[Niveau]] 22|Sablaireau}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+La capacité spéciale de Sabelette est [[Voile Sable]]: celle-ci applique un coefficient de X 0.8 à la précision adverse s'il y a une tempête de sable.
+
+===Étymologies===
+* Français : Sabelette vient des mots '''sab'''le et b'''elette'''.
+* Anglais : Sandshrew vient des mots ''sand'', qui signifie "sable" et ''shrew'', c'est-à-dire musaraigne. 
+* Japonais : Sand(le sable)
+* Allemand : Sand(sable) et "an" venant de "sand".
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il s'enterre dans les régions arides et désertiques. Il émerge seulement pour chasser.
+;[[Pokémon Jaune]]
+:Son corps est sec. Quand la nuit déploie ses ailes de fraîcheur, son épiderme se couvre de rosée.
+;[[Pokémon Stadium]]
+: En période de chasse, il se cache au bord de son terrier. Si une proie approche, il fond et l'entraîne en un éclair.
+;[[Pokémon Or]]
+:S'il tombe de haut, il peut amortir sa chute en se roulant en boule pour ainsi rebondir.
+;[[Pokémon Argent]]
+:Détestant l'eau, il vit dans de profondes tanières dans des régions arides. Il aime se rouler en boule.
+;[[Pokémon Cristal]]
+:Il aime les plages et les terrains secs : il se protège en se roulant dans le sable.
+;[[Pokémon Rubis]]
+:Le corps de {{PCap|Sabelette}} lui permet d'économiser l'eau qu'il absorbe, afin de survivre longtemps dans le désert. Ce {{PCap|Pok}}é{{PCap|mon}} s'enroule sur lui-même pour se protéger de ses ennemis.
+;[[Pokémon Saphir]]
+:{{PCap|Sabelette}} a une peau très sèche et extrêmement dure. Ce {{PCap|Pok}}é{{PCap|mon}} peut s'enrouler sur lui-même pour repousser les attaques. La nuit, il s'enterre dans le sable du désert pour dormir.
+;[[Pokémon Émeraude]]
+:Quand il se met en boule, il est capable d'attaquer en rebondissant sans se blesser. Le désert a rendu sa peau dure et résistante. 
+;[[Pokémon Rouge Feu]]
+:Il s'enterre et vit dans les sous-sols. S'il se sent menacé, il se met en boule pour se protéger.
+;[[Pokémon Vert Feuille]]
+:Il s'enterre dans les régions arides et désertiques. Il émerge seulement pour chasser.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il vit sur des terres arides épargnées par la pluie. Il se roule en boule pour se protéger.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en jetant du sable sur l'ennemi.
+;[[Pokémon Or HeartGold]]
+:S’il tombe de haut, il peut amortir sa chute en se roulant en boule pour ainsi rebondir.
+;[[Pokémon Argent SoulSilver]]
+:Détestant l'eau, il vit dans de profondes tanières des régions arides. Il aime se rouler en boule.
+;[[Pokémon Noir et Blanc]]
+:Il vit sur des terres arides épargnées par la pluie. Il se roule en boule pour se protéger.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant|| Doit être échangé
+|-
+| [[Bleu]] || peu commun|| Routes 4-11-23
+|-
+| [[Jaune]] ||Rare || Route 3-4 et [[Mont Sélénite]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-align="center"
+| [[Or]]
+| Rare
+| style="text-align:left;" | [[Route 32]], [[Caves Jumelles]] et [[Mont Sélénite]]
+|-align="center"
+| [[Pokémon Argent|Argent]]
+| Illimité
+| style="text-align:left;" | [[Casino]] de [[Céladopole]]
+|-align="center"
+| [[Cristal]]
+| Peu commun
+| style="text-align:left;" | Routes [[Route 3|3]], [[Route 4|4]], [[Caves Jumelles]] et [[Mont Sélénite]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Sol}}; width:250px" | Version
+! style="background-color:{{Couleur|Sol}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Sol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Sol}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RS}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Route 113]]
+| style="vertical-align:middle;" | 14-16
+|-
+| style="vertical-align:middle;" | {{RSE}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Route 111]]
+| style="vertical-align:middle;" | 19-21
+|-
+| [[Pokémon Émeraude|Émeraude]] || commun || [[Pilier Céleste]]
+|-
+| [[Rouge Feu]] || Inexistant || [[Échange de Pokémon|Échange]] à partir de [[Rubis]], [[Saphir]], [[Pokémon Émeraude|Émeraude]] ou [[Vert Feuille]]
+|-
+| [[Vert Feuille]] || commun || [[Route 4 (Kanto)|Routes 4]], [[Route 8 (Kanto)|8]], [[Route 9 (Kanto)|9]], [[Route 10 (Kanto)|10]], [[Route 11 (Kanto)|11]], [[Route 23 (Kanto)|23]] ou échange
+|-
+| [[Colosseum]] ||Inexistant || Échange à partir de [[Rubis]] ; [[Saphir]] ; [[Pokémon Émeraude|Émeraude]] ou [[Vert Feuille]]
+|-
+| [[XD]] || commun || [[Poké Place Roche]] 
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or HeartGold]] || || [[Caves Jumelles]] ou [[Mont Sélénite]] 
+|-
+| [[Diamant]] || || [[Grotte Revêche]]{{Infobulle|*|Avec Pokémon Vert Feuille dans le slot GBA}} ou échange 
+|-
+| [[Perle]] || || [[Grotte Revêche]]{{Infobulle|*|Avec Pokémon Vert Feuille dans le slot GBA}} ou échange 
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Sol}}; width:250px" | Version
+! style="background-color:{{Couleur|Sol}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Sol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Sol}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire un [[oeuf]] de [[Sablaireau]] à la [[Pension]]
+| style="vertical-align:middle;" | N/A
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|N.10|Jet de Sable|-|100|15}}
+{{Attaque|N.17|Tranche|70|100|20}}
+{{Attaque|N.24|Dard-Venin|15|100|35}}
+{{Attaque|N.31|Météores|60|-|20}}
+{{Attaque|N.38|Combo-Griffe|18|80|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|N.6|Boul'Armure|-|-|40}}
+{{Attaque|N.11|Jet de Sable|-|100|15}}
+{{Attaque|N.17|Dard-Venin|15|100|35}}
+{{Attaque|N.23|Tranche|70|100|20}}
+{{Attaque|N.30|Météores|60|-|20}}
+{{Attaque|N.37|Combo-Griffe|18|80|15}}
+{{Attaque|N.45|Tempêtesable|-|-|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|N.6|Boul'Armure|-|-|40|grâce|2|0}}
+{{Attaque-III|N.11|Jet de Sable|-|100|15|grâce|2|1}}
+{{Attaque-III|N.17|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|N.23|Tranche|70|100|20|sang-froid|3|0}}
+{{Attaque-III|N.30|Météores|60|-|20|sang-froid|2|0}}
+{{Attaque-III|N.37|Combo-Griffe|18|80|15|robustesse|2|1}}
+{{Attaque-III|N.45|Tourbi-Sable|15|70|15|intelligence|3|0}}
+{{Attaque-III|N.53|Tempêtesable|-|-|10|robustesse|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|N.3|Boul'Armure|-|-|40|grâce|2}}
+{{Attaque-IV|N.7|Jet de Sable|-|100|15|grâce|2}}
+{{Attaque-IV|N.9|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|N.13|Tour Rapide|20|100|40|sang-froid|2}}
+{{Attaque-IV|N.15|Météores|60|-|10|grâce|2}}
+{{Attaque-IV|N.19|Combo-Griffe|18|80|15|robustesse|2}}
+{{Attaque-IV|N.21|Roulade|30|90|20|robustesse|2}}
+{{Attaque-IV|N.25|Taillade|10|95|20|robustesse|2}}
+{{Attaque-IV|N.27|Tourbi-Sable|15|70|15|intelligence|0}}
+{{Attaque-IV|N.31|Tranche|70|100|20|sang-froid|3}}
+{{Attaque-IV|N.33|Gyroballe|1|100|5|beauté|2}}
+{{Attaque-IV|N.37|Tempêtesable|-|-|10|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|N.3|Boul'Armure|-|-|40}}
+{{Attaque-V|N.7|Jet de Sable|-|100|15}}
+{{Attaque-V|N.9|Dard-Venin|15|100|35}}
+{{Attaque-V|N.13|Tour Rapide|20|100|40}}
+{{Attaque-V|N.15|Météores|60|-|20}}
+{{Attaque-V|N.19|Combo-Griffe|18|80|15}}
+{{Attaque-V|N.21|Roulade|30|90|20}}
+{{Attaque-V|N.25|Taillade|20|95|20}}
+{{Attaque-V|N.27|Tourbi-Sable|35|85|15}}
+{{Attaque-V|N.31|Tranche|70|100|20}}
+{{Attaque-V|N.33|Gyroballe|1|100|5}}
+{{Attaque-V|N.37|Tempêtesable|-|-|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+===Par [[reproduction]]===
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=sol
+|sensib-eau=2
+|sensib-électrique=0
+|sensib-glace=2
+|sensib-plante=2
+|sensib-poison=0.5
+|sensib-roche=0.5
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=sol
+|PV=50
+|attaque=75
+|defense=85
+|atq-spc=20
+|def-spc=30
+|vitesse=40
+|special=30
+}}
+
+==Imagerie==
+{{Imagerie Pokémon
+| pokemon=Sabelette
+| numero=027
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Sabelette RB.png
+| forme=6
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Sabelette n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en une seule occasion :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Sabelette|Sabelette JEREMY]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+
+Un Sabelette apparaît dans l'[[épisode 1]] : on le voit brièvement tandis que [[Sacha]] et [[Pikachu de Sacha|Pikachu]] fuient des Pokémon. Un autre prend une place plus importante dans l'[[épisode 8]] où un dresseur, [[Albert (épisode 8)|Albert]], en possède un et bat Sacha à plate couture avec son Sabelette.
+
+Dans l'épisode 516, Sacha , Aurore et Pierre aident Maïté à récupérer son Sabelette qui est dans sa Pokéball au fond d'un lac.
+
+===Description du [[Pokédex]]===
+;[[Épisode 513]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Souris. {{PCap|[[Sabelette]]}} déteste l'humidité et vit sur les terres arides épargnées par la pluie. Il se roule en boule pour se protéger.
+
+{{Ruban Pokémon
+| nomPrécédent=Raichu
+| numéro=027
+| nom=Sabelette
+| nomSuivant=Sablaireau
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/27| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Sandshrew| ]]
+
+[[de:Sandan]]
+[[en:Sandshrew (Pokémon)]]
+[[es:Sandshrew]]
+[[it:Sandshrew]]
+[[ja:サンド]]
+[[pl:Sandshrew]]
+[[pt:Sandshrew (pokémon)]]

@@ -1,0 +1,613 @@
+{{Ruban Pokémon
+| nomPrécédent=Kabuto
+| numéro=141
+| nom=Kabutops
+| nomSuivant=Ptéra
+}}
+{{Infobox Pokémon
+| nom=Kabutops
+| nomen=Kabutops
+| nomja=カブトプス
+| nomtm=Kabutops
+| nomromaji=Kabutopusu
+| nomde=Kabutops
+| légende=Artwork de Kabutops pour {{RFVF}}
+| ndex=141
+| jdex=223
+| njdex=228
+| hdex=296
+| odex=R-272
+| opdex=N-116
+| espece=Carapace
+| taille=1.3
+| poids=40.5
+| fmratio=.125 
+| oeufpas=7680
+| effortval=+2 Att.
+| type1=Roche
+| type2=Eau
+| expval=199
+| expmax=1000000
+| captureval=45
+| groupoeuf1=Eau 1
+| groupoeuf2=Eau 3
+| capspe1=Glissade
+| capspe2=Armurbaston
+| capspe3=Armurouillée
+| couleur=Marron
+| forme=6}}
+'''Kabutops''' (anglais : '''Kabutops''' ; japonais : '''カブトプス''' ''Kabutops'') est l'un des [[Pokémon]] préhistoriques qui ne sont supposément plus censés exister autrement qu'à l'état de fossiles. Apparu dans la [[première génération]], il est de [[type]] {{type|roche}} et {{type|eau}}.
+
+==À propos du Pokémon==
+===Physionomie===
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Kabutops est l'évolution à partir du [[niveau]] 40 de [[Kabuto]], lui-même obtenu en faisant revivre le [[Fossile Dôme]].
+
+{{TableauEvolutionHaut|Roche|Kabuto}}
+{{TableauEvolutionSimple|Niveau 40|Kabutops}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Kabutops possède soit la capacité spéciale [[Glissade]], qui double la vitesse du Pokémon s'il pleut, soit la capacité spéciale [[Armurbaston]], qui l'empêche d'être victime de [[coups critiques]].
+
+===Étymologies===
+
+Toutes langues confondues, "Kabutops" vient de "kabuto" qui signifie "casque" en japonais, et du suffixe "tops" lié à certains dinosaures comme le tricératops. Le suffixe "tops" pourrait aussi être là pour rappeler sa ressemblance avec les triops, crustacés préhistoriques désormais considérés comme fossiles vivants.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Sa forme élancée lui permet de nager rapidement. Il lacère sa proie avant d'en absorber la vie.
+;[[Pokémon Jaune]]
+:C'est un très bon nageur. Il lacère sa proie de ses longues griffes et en absorbe les fluides corporels.
+;[[Pokémon Stadium]]
+:Il nage très rapidement. Il lacère ses ennemis grâce à ses longues griffes et en absorbe les fluides vitaux.
+;[[Pokémon Or]]
+:Dans l'eau, il se recroqueville sur ses jambes et il agite sa coquille pour nager à très grande vitesse.
+;[[Pokémon Argent]]
+:Avec ses griffes acérés, cet ancien {{PCap|Pok}}é{{PCap|mon}} aspire les fluides vitaux de ses proies.
+;[[Pokémon Cristal]]
+:Il pouvait nager rapidement en pliant complètement ses griffes acérées.
+;[[Pokémon Rubis et Saphir]]
+:Jadis, {{PCap|Kabutops}} plongeait dans les profondeurs pour trouver ses proies. Apparemment, ce {{PCap|Pok}}é{{PCap|mon}} vivant sur terre est l'[[évolution]] d'une créature marine, comme le prouvent les changements dans ses branchies.
+;[[Pokémon Émeraude]]
+:Jadis, il trouvait ses proies sous l'eau. Les changements dans ses branchies semblent indiquer que ce {{PCap|Pok}}é{{PCap|mon}} terrestre descend d'une créature marine.
+;[[Pokémon Rouge Feu]]
+:Il peut nager librement dans l'eau. Il lacère ses ennemis à l'aide de ses bras tranchants et absorbe ensuite leur énergie vitale.
+;[[Pokémon Vert Feuille]]
+:Sa forme pure et lisse lui permet de nager rapidement. Il lacère sa proie avant d'en absorber la vie.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:On pense que ce {{PCap|Pok}}é{{PCap|mon}} est venu sur la terre ferme pour suivre l'[[évolution]] de ses proies.
+;[[Pokémon Or HeartGold]]
+:''à compléter''
+;[[Pokémon Argent SoulSilver]]
+:Avec ses griffes acérées, cet ancien Pokémon aspire les fluides vitaux de ses proies.
+;[[Pokémon Noir et Blanc]]
+:On pense que ce Pokémon est venu sur la terre ferme pour suivre l'[[évolution]] de ses proies.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Kabuto]].
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Kabuto]].
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Kabuto]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || À obtenir par échange.
+|-
+| [[Cristal]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Kabuto]].
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Kabuto]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Kabuto]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Kabuto]].
+|-
+| [[Argent SoulSilver]] || Inexistant || Faire évoluer [[Kabuto]].
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Roche}}; width:250px" | Version
+! style="background-color:{{Couleur|Roche}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Roche}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Roche}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Kabuto]]
+| style="vertical-align:middle;" | 40
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Armure|-|-|30}}
+{{Attaque|Départ|Vol-Vie|20|100|20}}
+{{Attaque|Départ|Tranche|70|100|20}}
+{{Attaque|N.46|Groz'Yeux|-|100|30}}
+{{Attaque|N.53|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Armure|-|-|30}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Vol-Vie|20|100|20}}
+{{Attaque|Départ|Jet de Sable|-|100|15}}
+{{Attaque|Départ|Ténacité|-|-|10}}
+{{Attaque|N.40|Tranche|70|100|20}}
+{{Attaque|N.51|Méga-Sangsue|40|100|10|}}
+{{Attaque|N.65|Pouv. Antique|60|100|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ{{Sup|RF}}{{Sup|VF}}|Taillade|10|95|20|robustesse|4|0}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ|Armure|-|-|30|robustesse|2|0}}
+{{Attaque-III|Départ<br>N.13|Vol-Vie|20|100|20|intelligence|2|3}}
+{{Attaque-III|Départ<br>N.19|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.25|Tir de Boue|55|95|15|robustesse|1|3}}
+{{Attaque-III|N.31|Jet de Sable|-|100|15|grâce|2|1}}
+{{Attaque-III|N.37|Ténacité|-|-|10|robustesse|2|0}}
+{{Attaque-III|N.40|Tranche|70|100|20|sang-froid|3|0}}
+{{Attaque-III|N.46|Strido-Son|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.55|Méga-Sangsue|40|100|10|intelligence|1|4}}
+{{Attaque-III|N.65|Pouv. Antique|60|100|5|robustesse|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Ruse|50|100|10|beauté|0}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Armure|-|-|30|robustesse|2}}
+{{Attaque-IV|Départ<br>N.6|Vol-Vie|20|100|25|intelligence|1}}
+{{Attaque-IV|Départ<br>N.11|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.16|Tir de Boue|55|95|15|robustesse|2}}
+{{Attaque-IV|N.21|Jet de Sable|-|100|15|grâce|2}}
+{{Attaque-IV|N.26|Ténacité|-|-|10|robustesse|2}}
+{{Attaque-IV|N.31|Aqua-Jet|40|100|20|beauté|2}}
+{{Attaque-IV|N.36|Méga-Sangsue|40|100|15|intelligence|1}}
+{{Attaque-IV|N.40|Tranche|70|100|20|sang-froid|3}}
+{{Attaque-IV|N.45|Strido-Son|-|85|40|intelligence|2}}
+{{Attaque-IV|N.54|Pouv. Antique|60|100|5|robustesse|2}}
+{{Attaque-IV|N.63|Essorage|1|100|5|intelligence|2}}
+{{Attaque-IV|N.72|Tranche-Nuit|70|100|15|beauté|3}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Ruse|30|100|10}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|Départ|Armure|-|-|30}}
+{{Attaque-V|Départ<br>N.6|Vol-Vie|20|100|25}}
+{{Attaque-V|Départ<br>N.11|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.16|Tir de Boue|55|95|15}}
+{{Attaque-V|N.21|Jet de Sable|-|100|15}}
+{{Attaque-V|N.26|Ténacité|-|-|10}}
+{{Attaque-V|N.31|Aqua-Jet|40|100|20}}
+{{Attaque-V|N.36|Méga-Sangsue|40|100|15}}
+{{Attaque-V|N.40|Tranche|70|100|20}}
+{{Attaque-V|N.45|Strido-Son|-|85|40}}
+{{Attaque-V|N.54|Pouv. Antique|60|100|5}}
+{{Attaque-V|N.63|Essorage|1|100|5}}
+{{Attaque-V|N.72|Tranche-Nuit|70|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 03 || [[Danse-Lames]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 05 || [[Ultimawashi]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 01 || [[Coupe]] (version [[Jaune]] uniquement) || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coup d'Boule]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 04 || [[Roulade]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 19 || [[Giga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 49 || [[Taillade]] || [[Fichier:type miniat insecte.png]]
+|-
+|CS 01 || [[Coupe]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 06 || [[Siphon]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 19 || [[Giga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Casse-Brique]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 39 || [[Tomberoche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CS 01 || [[Coupe]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 08 || [[Plongée]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 19 || [[Giga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Casse-Brique]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 39 || [[Tomberoche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 55 || [[Saumure]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 58 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 68 || [[Giga Impact]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 69 || [[Poliroche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 71 || [[Lame de Roc]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 75 || [[Danse-Lames]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 76 || [[Piège de Roc]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 78 || [[Séduction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 80 || [[Éboulement]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 81 || [[Plaie-Croix]] || [[Fichier:type miniat insecte.png]]
+|-
+|CT 82 || [[Blabla dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 83 || [[Don Naturel]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 87 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 01 || [[Coupe]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 08 || [[Escalade]] || [[Fichier:type miniat normal.png]]
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+| type=Roche
+| sensib-combat=2
+| sensib-feu=0.25
+| sensib-électrique=2
+| sensib-glace=0.5
+| sensib-normal=0.5
+| sensib-plante=4
+| sensib-poison=0.5
+| sensib-sol=2
+| sensib-vol=0.5
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=roche
+|PV=60
+|attaque=115
+|defense=105
+|atq-spc=35
+|def-spc=70
+|vitesse=80
+|special=70
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Kabutops
+| numero=141
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Kabutops RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère 2]]''
+| artwork_supp2-img=Kabutops-DM2.png
+| forme=6
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:Kabutops anime.png|thumb|left|200px|Le Kabutops ressucité, lors du cinquième film.]]
+La première apparition d'un Kabutops est en même temps que les autres Pokémon fossiles de la [[Génération I]] dans l'[[Épisode 46]], où ils dormaient paisiblement depuis des millénaires avant que [[Sacha]] et la [[Team Rocket (trio)|Team Rocket]] ne viennent les interrompre.
+
+Un robot-Kabutops avait cependant déjà été vu dans l'[[épisode 17]], sur une île faisant office de parc d'attractions.
+
+On en voit également un dans le [[Film 5]], ressuscité à partir de vieil ADN.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 46]]
+:{{PCap|[[Amonita]]}} et {{PCap|[[Amonistar]]}}, {{PCap|[[Kabuto]]}} et {{PCap|Kabutops}}. Ces {{PCap|Pok}}é{{PCap|mon}} ont vraisemblablement disparus il y plusieurs dizaines de milliers d'années. Les détails concernant leurs comportements sont inconnus. Bien que certains pensent qu'il pourrait exister des spécimens encore vivants à l'heure actuelle, personne n'en a jamais vu.
+
+{{Ruban Pokémon
+| nomPrécédent=Kabuto
+| numéro=141
+| nom=Kabutops
+| nomSuivant=Ptéra
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/141| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Kabutops| ]]
+
+[[de:Kabutops]]
+[[en:Kabutops (Pokémon)]]
+[[es:Kabutops]]
+[[it:Kabutops]]
+[[ja:カブトプス]]
+[[pl:Kabutops]]
+[[pt:Kabutops (pokémon)]]

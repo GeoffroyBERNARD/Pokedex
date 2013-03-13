@@ -1,0 +1,324 @@
+{{Ruban Pokémon
+| nomPrécédent=Smogogo
+| numéro=111
+| nom=Rhinocorne
+| nomSuivant=Rhinoféros
+}}
+{{Infobox Pokémon
+| nom=Rhinocorne
+| nomen=Rhyhorn
+| nomja=サイホーン
+| nomtm=Sihorn
+| nomromaji=Saihōn
+| nomde=Rihorn
+| légende=Artwork de Rhinocorne pour {{RFVF}}
+| ndex=111
+| jdex=206
+| njdex=211
+| hdex=169
+| sdex=186
+| adex=149
+| espece=Piquant
+| taille=1.0
+| poids=115.0
+| fmratio=.5
+| oeufpas=5120
+| effortval=+1 Déf.
+| type1=Sol
+| type2=Roche
+| expval=135
+| expmax=1250000
+| captureval=120
+| groupoeuf1=Monstre
+| groupoeuf2=Sol
+| capspe1=Paratonnerre
+| capspe2=Tête de Roc
+| capspe3=Téméraire
+| couleur=Gris
+| forme=8
+}}
+'''Rhinocorne''' (anglais : '''Rhyhorn''' ; japonais : '''サイホーン''' ''Sihorn'') est un [[Pokémon]] de [[type]] {{type|sol}} et {{type|roche}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Les Rhinocorne femelles ont une corne plus petite que les mâles.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Rhinocorne a un corps marron et non gris.
+
+===[[Évolution]]===
+Rhinocorne évolue en [[Rhinoféros]] à partir du [[niveau]] 42, puis en [[Rhinastoc]] si Rhinoféros est échangé alors qu'il porte l'objet [[Protecteur]].
+{{TableauEvolutionHaut|Sol|Rhinocorne}}
+{{TableauEvolutionSimple|Niveau 42|Rhinoféros}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]] en tenant l'objet [[Protecteur]]|imageObjet=Miniat protecteur dp.png|Rhinastoc}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+*Français : Rhino(céros) + corne
+*Anglais : Rhy(no) (''Rhinocéros'') + horne (''corne'')
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Avec une ossature 1000 fois plus résistante que celle de l'homme, ses charges sont dévastatrices.
+;[[Pokémon Jaune]]
+:Un {{PCap|Pok}}é{{PCap|mon}} qui a des œillères. S'il se met à charger, il ne s'arrêtera qu'à l'épuisement.
+;[[Pokémon Stadium]]
+:Ses os sont 1000 fois plus durs que ceux de l'homme. Grâce à sa force et à sa résistance, il peut détruire d'importants immeubles.
+;[[Pokémon Or]]
+:Ses petites jambes ne lui permettent pas de tourner facilement. Il ne peut que charger tout droit.
+;[[Pokémon Argent]]
+:Quand il est lancé plus rien ne l'arrête. Il ne vaut mieux pas se trouver sur son passage !
+;[[Pokémon Cristal]]
+:Il ne peut se souvenir que d'une chose à la fois. S'il se met à courir, il oublie souvent pourquoi.
+;[[Pokémon Rubis et Saphir]]
+:Le cerveau de {{PCap|Rhinocorne}} est tout petit, à tel point que lorsqu'il attaque, il lui arrive d'oublier pourquoi il a commencé à charger. Il lui arrive de se souvenir qu'il a démoli certaines choses.
+;[[Pokémon Émeraude]]
+:Un {{PCap|Rhinocorne}} qui commence à courir ne s'arrête jamais. Il est si stupide qu'il oublie tout le temps pourquoi il a commencé à courir.
+;[[Pokémon Rouge Feu]]
+:Costaud mais pas très intelligent, ce {{PCap|Pok}}é{{PCap|mon}} est capable de détruire un immeuble entier en utilisant sa {{PCap|[[Charge]]}}.
+;[[Pokémon Vert Feuille]]
+:Avec une ossature 1 000 fois plus résistante que celle de l'homme, ses charges sont dévastatrices.
+;[[Pokémon Diamant et Perle]]
+:Sa peau est très épaisse et sa charge peut détruire un immeuble. Dommage qu'il soit stupide.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en créant des crevasses dans le sol.
+;[[Pokémon Platine]]
+:Ses puissantes charges pourraient démolir n'importe quel bâtiment. Dommage qu'il soit stupide.
+;[[Pokémon Or HeartGold]]
+:Ses petites jambes ne lui permettent pas de tourner facilement. Il ne peut que charger tout droit.
+;[[Pokémon Argent SoulSilver]]
+:Quand il est lancé, plus rien ne l'arrête. Il vaut mieux ne pas se trouver sur son passage !
+;[[Pokémon Noir et Blanc]]
+:Ses puissantes charges pourraient démolir n'importe quel bâtiment. Dommage qu'il soit stupide.
+
+==Localisations==
+On peut le trouver dans le [[Parc Safari]] dans la [[première génération]].<br \>On peut le trouver sur la [[Route Victoire]] et dans le [[Mont Argent]] dans la [[deuxième génération]].
+
+=== [[Cinquième génération]] ===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Sol}}; width:150px" | Version
+! style="background-color:{{Couleur|Sol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Sol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Sol}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Blanc}};" | {{Couleur lien|#000000|Blanc}} 
+| style="vertical-align:middle;" | Variable 
+| style="vertical-align:middle;" | [[Forêt Blanche]] (à condition que James soit dans la forêt)
+| style="vertical-align:middle;" | 5
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | [[Dream World]] : Le Mont Escarpé
+| style="vertical-align:middle;" | 10
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|N.30|Écrasement|65|100|20}}
+{{Attaque|N.35|Mimi-Queue|-|100|30}}
+{{Attaque|N.40|Furie|15|85|20}}
+{{Attaque|N.45|Empal'Korne|-|-|5}}
+{{Attaque|N.50|Groz'Yeux|-|100|30}}
+{{Attaque|N.55|Bélier|90|85|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|N.13|Écrasement|65|100|20}}
+{{Attaque|N.19|Furie|15|85|20}}
+{{Attaque|N.31|Grimace|-|90|10}}
+{{Attaque|N.37|Empal'Korne|-|-|5}}
+{{Attaque|N.49|Bélier|90|85|20}}
+{{Attaque|N.55|Séisme|100|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Koud'Korne|65|100|25|sang-froid|4|0}}
+{{Attaque-III|Départ|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|N.10|Écrasement|65|100|20|robustesse|1|4}}
+{{Attaque-III|N.15|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.24|Grimace|-|90|10|robustesse|2|1}}
+{{Attaque-III|N.29|Boule Roc|25|80|10|robustesse|2|0}}
+{{Attaque-III|N.38|Empal'Korne|-|-|5|sang-froid|2|1}}
+{{Attaque-III|N.43|Bélier|90|85|20|robustesse|6|0}}
+{{Attaque-III|N.52|Séisme|100|100|10|robustesse|1|3}}
+{{Attaque-III|N.57|Mégacorne|120|85|10|sang-froid|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Koud'Korne|65|100|25|sang-froid|3}}
+{{Attaque-IV|Départ|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|N.9|Écrasement|65|100|20|robustesse|3}}
+{{Attaque-IV|N.13|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.21|Grimace|-|90|10|robustesse|2}}
+{{Attaque-IV|N.25|Boule Roc|25|80|10|robustesse|2}}
+{{Attaque-IV|N.33|Bélier|90|85|20|robustesse|3}}
+{{Attaque-IV|N.37|Empal'Korne|-|-|5|sang-froid|0}}
+{{Attaque-IV|N.45|Lame de Roc|100|80|5|robustesse|2}}
+{{Attaque-IV|N.49|Séisme|100|100|10|robustesse|2}}
+{{Attaque-IV|N.57|Mégacorne|120|85|10|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Koud'Korne|65|100|25}}
+{{Attaque-V|Départ|Mimi-Queue|-|100|30}}
+{{Attaque-V|N.8|Écrasement|65|100|20}}
+{{Attaque-V|N.12|Furie|15|85|20}}
+{{Attaque-V|N.19|Grimace|-|100|10}}
+{{Attaque-V|N.23|Boule Roc|25|90|10}}
+{{Attaque-V|N.30|Piétisol|60|100|20}}
+{{Attaque-V|N.34|Attrition|70|100|20}}
+{{Attaque-V|N.41|Bélier|90|85|20}}
+{{Attaque-V|N.45|Tunnelier|80|95|10}}
+{{Attaque-V|N.52|Lame de Roc|100|80|5}}
+{{Attaque-V|N.56|Séisme|100|100|10}}
+{{Attaque-V|N.63|Empal'Korne|-|-|5}}
+{{Attaque-V|N.67|Mégacorne|120|85|10}}
+{{Attaques apprises-bas}}
+
+=== Par [[CT]]/[[CS]] ===
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Empal'Korne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 26 || [[Séisme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 27 || [[Abîme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 48 || [[Éboulement]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+==Sensibilités==
+{{Sensibilités
+|type=sol
+|sensib-acier=2
+|sensib-combat=2
+|sensib-eau=4
+|sensib-électrique=0
+|sensib-feu=0.5
+|sensib-glace=2
+|sensib-normal=0.5
+|sensib-poison=0.25
+|sensib-roche=0.5
+|sensib-sol=2
+|sensib-vol=0.5
+|sensib-plante=4
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=sol
+|PV=80
+|attaque=85
+|defense=95
+|atq-spc=30
+|def-spc=30
+|vitesse=25
+|special=30
+}}
+
+== Imagerie ==
+
+{{Imagerie Pokémon
+| pokemon=Rhinocorne
+| numero=111
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Rhinocorne RB.png
+| forme=8
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Le premier Rhinocorne vu dans le dessin animé apparaît dans l'[[épisode 33]], participant à la course.
+
+Lors de l'[[épisode 35]], [[Sacha]] tente en vain d'en capturer un.
+
+De nombreux [[Rhinocorne]] font leur apparition le long du dessin animé dans des rôles souvent mineurs.
+
+===Descriptions du [[Pokédex]]===
+
+;[[Épisode 35]]
+
+;[[Épisode 88]]
+:Le {{PCap|Pok}}é{{PCap|mon}} à pointe. Est connu pour son extraordinaire puissance, ainsi que pour ses charges d'une incroyable violence.
+
+{{Ruban Pokémon
+| nomPrécédent=Smogogo
+| numéro=111
+| nom=Rhinocorne
+| nomSuivant=Rhinoféros
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/111| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Rhyhorn| ]]
+
+[[de:Rihorn]]
+[[en:Rhyhorn (Pokémon)]]
+[[es:Rhyhorn]]
+[[it:Rhyhorn]]
+[[ja:サイホーン]]
+[[pl:Rhyhorn]]
+[[pt:Rhyhorn (pokémon)]]

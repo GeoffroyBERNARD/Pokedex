@@ -1,0 +1,633 @@
+{{Ruban Pokémon
+| nomPrécédent=Osselait
+| numéro=105
+| nom=Ossatueur
+| nomSuivant=Kicklee
+}}
+{{Infobox Pokémon
+| nom=Ossatueur
+| nomen=Marowak
+| nomja=ガラガラ
+| nomtm=Garagara
+| nomde=Knogga
+| légende=Artwork d'Ossatueur pour {{RFVF}}
+| ndex=105
+| jdex=204
+| njdex=209
+| hdex=273
+| espece=Gard'Os
+| taille=1.0
+| poids=45.0
+| fmratio=.5
+| oeufpas=5120
+| effortval=+2 Déf.
+| type1=Sol
+| expval=124
+| expmax=1000000
+| captureval=75
+| groupoeuf1=Monstre
+| capspe1=Tête de Roc
+| capspe2=Paratonnerre
+| capspe3=Armurbaston
+| couleur=Marron
+| forme=6
+}}
+'''Ossatueur''' (anglais : '''Marowak''' ; japonais : '''ガラガラ''' ''Garagara'') est un [[Pokémon]] de [[type]] {{type|sol}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie et attitudes===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Ossatueur a le corps vert et non marron.
+
+===[[Évolution]]===
+Ossatueur est l'évolution de [[Osselait]] à partir du [[niveau]] 28.
+{{TableauEvolutionHaut|Sol|Osselait}}
+{{TableauEvolutionSimple|Niveau 28|Ossatueur}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Ossatueur peut disposer soit de la capacité spéciale [[Tête de Roc]], qui l'empêchera de ressentir les dégâts de contrecoups, à savoir les [[PV]]s perdus lors de l'utilisation d'attaques comme [[Bélier]] ou [[Damoclès]], soit de la capacité spéciale [[Paratonnerre]], qui lui permet d'attirer en combat à 2 contre 2 les attaques électriques (qui seront sans effet sur lui, étant de type Sol), préservant ainsi son partenaire.
+
+===Étymologies===
+* Français : de Ossature et tueur.
+* Anglais : Marrow(moelle) et Wack(toucher, blesser)
+* Japonais :
+* Allemand : vient de ''Knochen''(os)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:L'os qu'il tient dans sa main est une arme. Il peut le lancer avec adresse pour assommer sa proie.
+;[[Pokémon Jaune]]
+:Petit et faible, ce {{PCap|Pok}}é{{PCap|mon}} est habile avec sa masse en os. Il devient vicieux avec l'âge.
+;[[Pokémon Stadium]]
+:A l'origine assez faible, ce Pokémon devient fort et agressif dès le jour où il apprend à se servir d'os comme d'une arme.
+;[[Pokémon Or]]
+:Il projette des rochers avec sa massue-os pour envoyer des messages à ses compagnons éloignés.
+;[[Pokémon Argent]]
+:Il collectionne des os. Il paraît qu'il existe un cimetière d'{{PCap|Ossatueur}} quelque part...
+;[[Pokémon Cristal]]
+:Il existe un cimetière pour les {{PCap|Ossatueur}}. C'est là qu'ils se fournissent en ossements.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Ossatueur}} est la forme évoluée d'{{PCap|[[Osselait]]}}. Il a surmonté le chagrin causé par la perte de sa maman et s'est endurci. Le tempérament décidé et entier de ce {{PCap|Pok}}é{{PCap|mon}} le rend très difficile à amadouer.
+;[[Pokémon Émeraude]]
+:Il est la forme évoluée d'{{PCap|[[Osselait]]}}. Il a surmonté le chagrin causé par la perte de sa maman et s'est endurci. Son tempérament le rend très difficile à amadouer.
+;[[Pokémon Rouge Feu]]
+:Ce petit {{PCap|Pok}}é{{PCap|mon}} était à l'origine très faible. Il est devenu redoutable le jour où il a appris à se servir de ses os.
+;[[Pokémon Vert Feuille]]
+:L'os qu'il tient dans la main est son arme la plus efficace. Il s'en sert comme d'un boomerang pour assommer sa proie.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} sauvage possède des os depuis sa naissance. Il s'en sert pour combattre avec dextérité.
+;[[Pokémon Or HeartGold]]
+:Il frappe sur les rochers avec sa massue-os pour envoyer des messages à ses compagnons éloignés.
+;[[Pokémon Argent SoulSilver]]
+:Il collectionne des os. Il paraît qu'il existe un cimetière d'{{PCap|Ossatueur}} quelque part...
+;[[Pokémon Noir et Blanc]]
+:Ce [[Pokémon]] sauvage possède des os depuis sa naissance. Il s'en sert pour combattre avec dextérité.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Rouge]] et [[Bleu]] || rowspan="4" style="vertical-align: middle;" | Rare || [[Route Victoire]] - 1er étage || N. 40 || 4%
+|-
+| [[Route Victoire]] - 2ème étage || N. 43 || 1%
+|-
+| [[Grotte Inconnue]] - 1er étage || N. 52 || 10%
+|-
+| [[Grotte Inconnue]] - 2ème étage || N. 55 || 15%
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Jaune]] || rowspan="2" style="vertical-align: middle;" | Rare || [[Parc Safari]] à [[Parmanie]] - Zone 1 || N. 24 || 5%
+|-
+| [[Parc Safari]] à [[Parmanie]] - Zone 3 || N. 24 || 5%
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Or]] et [[Pokémon Or et Argent|Argent]] || Rare || [[Grotte]] - Sous-sol / Parc safari || N. 14 || 5%
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Cristal]] || rowspan="4" style="vertical-align: middle;" | Rare || [[Route 9]] - [[Temps|Matin, Journée]] || N. 18 || 5%
+|-
+| [[Route 10]] - [[Temps|Matin, Journée]] || N. 15 || 5%
+|-
+| [[Grotte]] - Rez-de-chaussée - [[Temps|Matin, Journée]] || N. 12 || 5%
+|-
+| [[Grotte]] - Sous-sol - [[Temps|Matin, Journée]] || N. 15 || 5%
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange. || - || -
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange. || - || -
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange. || - || -
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Rouge Feu]] et [[Vert Feuille]] || rowspan="4" style="vertical-align: middle;" | Commun || [[Route Victoire]] - Rez-de-chaussée || N. 44-46 || 5%
+|-
+| [[Route Victoire]] - 1er étage || N. 46-48 || 5%
+|-
+| [[Route Victoire]] - 2ème étage || N. 44-46 || 5%
+|-
+| [[Île 7]] - [[Canyon Sesor]] || N. 52 || 10%
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange. || - || -
+|-
+| [[XD]] || Unique || À venir || ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] et [[Perle]] || Inexistant || Faire évoluer [[Osselait]]
+|-
+| [[Or HeartGold]] et [[Argent SoulSilver]] || Rare || [[Parc Safari (Johto)]], [[Grotte (Kanto)]]
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Sol}}; width:150px" | Version
+! style="background-color:{{Couleur|Sol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Sol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Sol}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Route 15 (Unys)|Route 15]]
+| style="vertical-align:middle;" | 47-57
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Massd'Os|65|85|20}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ{{Sup|J}}|Coup d'Boule|70|100|15}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|N.33|Puissance|-|-|30}}
+{{Attaque|N.41|Mania|90|100|20}}
+{{Attaque|N.48|Osmerang|50|90|10}}
+{{Attaque|N.55|Frénésie|20|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Massd'Os|65|85|20}}
+{{Attaque|Départ|Coup d'Boule|70|100|15}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Puissance|-|-|30}}
+{{Attaque|Départ|Osmerang|50|90|10}}
+{{Attaque|N.32|Frénésie|20|100|20}}
+{{Attaque|N.39|Faux-Chage|40|100|40}}
+{{Attaque|N.46|Mania|90|100|20}}
+{{Attaque|N.53|Charge-Os|25|80|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|Départ<br>N.5|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ<br>N.9|Massd'Os|65|85|20|robustesse|2|1}}
+{{Attaque-III|Départ<br>N.13|Coup d'Boule|70|100|15|robustesse|2|3}}
+{{Attaque-III|N.17|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.21|Puissance|-|-|30|sang-froid|1|3}}
+{{Attaque-III|N.25|Osmerang|50|90|10|robustesse|4|0}}
+{{Attaque-III|N.32|Frénésie|20|100|20|sang-froid|3|0}}
+{{Attaque-III|N.39|Faux-Chage|40|100|40|sang-froid|1|3}}
+{{Attaque-III|N.46|Mania|90|100|20|robustesse|4|4}}
+{{Attaque-III|N.53|Charge-Os|25|80|10|robustesse|4|0}}
+{{Attaque-III|N.61|Damoclès|120|100|15|robustesse|6|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|Départ<br>N.3|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|Départ<br>N.7|Massd'Os|65|85|20|robustesse|3}}
+{{Attaque-IV|Départ<br>N.11|Coup d'Boule|70|100|15|robustesse|3}}
+{{Attaque-IV|N.13|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.17|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.21|Osmerang|50|90|10|robustesse|2}}
+{{Attaque-IV|N.23|Frénésie|20|100|20|sang-froid|0}}
+{{Attaque-IV|N.27|Faux-Chage|40|100|40|sang-froid|0}}
+{{Attaque-IV|N.33|Mania|90|100|20|robustesse|2}}
+{{Attaque-IV|N.37|Dégommage|1|100|10|robustesse|1}}
+{{Attaque-IV|N.43|Charge-Os|25|80|10|robustesse|2}}
+{{Attaque-IV|N.49|Effort|-|100|5|robustesse|2}}
+{{Attaque-IV|N.53|Damoclès|120|100|15|robustesse|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|Départ<br>N.3|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ<br>N.7|Massd'Os|65|85|20}}
+{{Attaque-V|Départ<br>N.11|Coup d'Boule|70|100|15}}
+{{Attaque-V|N.13|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.17|Puissance|-|-|30}}
+{{Attaque-V|N.21|Osmerang|50|90|10}}
+{{Attaque-V|N.23|Frénésie|20|100|20}}
+{{Attaque-V|N.27|Faux-Chage|40|100|40}}
+{{Attaque-V|N.33|Mania|120|100|20}}
+{{Attaque-V|N.37|Dégommage|1|100|10}}
+{{Attaque-V|N.43|Charge-Os|25|90|10}}
+{{Attaque-V|N.49|Effort|-|100|5}}
+{{Attaque-V|N.53|Damoclès|120|100|15}}
+{{Attaque-V|N.59|Vengeance|70|100|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Ultimapoing]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 05 || [[Ultimawashi]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 18 || [[Riposte]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 26 || [[Séisme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 27 || [[Abîme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Dynamopoing]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 02 || [[Coup d'Boule]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 26 || [[Séisme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 41 || [[Poing-Éclair]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 43 || [[Détection]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 48 || [[Poing de Feu]] || [[Fichier:type miniat feu.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Mitra-Poing]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 26 || [[Séisme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Casse-Brique]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Lance-Flamme]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 39 || [[Tomberoche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Mitra-Poing]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 26 || [[Séisme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Casse-Brique]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Lance-Flamme]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 39 || [[Tomberoche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 52 || [[Exploforce]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 54 || [[Faux-Chage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 56 || [[Dégommage]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 58 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 68 || [[Giga Impact]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 71 || [[Lame de Roc]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 75 || [[Danse-Lames]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 76 || [[Piège de Roc]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 78 || [[Séduction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 80 || [[Éboulement]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 82 || [[Blabla dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 83 || [[Don Naturel]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 87 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CS 08 || [[Escalade]] || [[Fichier:type miniat normal.png]]
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=sol
+|sensib-eau=2
+|sensib-électrique=0
+|sensib-glace=2
+|sensib-plante=2
+|sensib-poison=0.5
+|sensib-roche=0.5
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=sol
+|PV=60
+|attaque=80
+|defense=110
+|atq-spc=50
+|def-spc=80
+|vitesse=45
+|special=50
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Ossatueur
+| numero=105
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Ossatueur RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère 2]]''
+| artwork_supp2-img=Ossatueur-DM2.png{{!}}x125px
+| forme=6
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Ossatueur apparaît pour la première fois dans l'[[Épisode 73]].
+
+[[Luana]], championne de l'[[Ile Citrus]], utilise un [[Ossatueur]] lors de son match contre [[Sacha]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 73]]
+:Un {{PCap|Pok}}é{{PCap|mon}} Gard'Os. Malgré sa petite taille, ses capacités en [[défense]] et en [[attaque (statistique)|attaque]] sont impressionnantes.
+
+{{Ruban Pokémon
+| nomPrécédent=Osselait
+| numéro=105
+| nom=Ossatueur
+| nomSuivant=Kicklee
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/105| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Marowak| ]]
+
+[[de:Knogga]]
+[[en:Marowak (Pokémon)]]
+[[es:Marowak]]
+[[it:Marowak]]
+[[ja:ガラガラ]]
+[[pl:Marowak]]
+[[pt:Marowak (pokémon)]]

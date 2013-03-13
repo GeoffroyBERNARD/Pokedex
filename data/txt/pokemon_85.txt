@@ -1,0 +1,266 @@
+{{Ruban Pokémon
+| nomPrécédent=Doduo
+| numéro=085
+| nom=Dodrio
+| nomSuivant=Otaria
+}}
+{{Infobox Pokémon
+| nom=Dodrio
+| nomen=Dodrio
+| nomja=ドードリオ
+| nomtm=Dodorio
+| nomromaji=Dōdorio
+| nomde=Dodri
+| légende=Artwork de Dodrio pour {{RFVF}}
+| ndex=085
+| jdex=200
+| njdex=205
+| hdex=093
+| fdex=042
+| adex=135
+| odex=R-242
+| opdex=N-112
+| espece=Trioiseau
+| taille=1.8
+| poids=85.2
+| fmratio=.5
+| oeufpas=5120
+| effortval=+2 Att.
+| type1=Normal
+| type2=Vol
+| expval=158
+| expmax=1000000
+| captureval=45
+| groupoeuf1=Vol
+| capspe1=Fuite (capacité spéciale){{!}}Fuite
+| capspe2=Matinal
+| capspe3=Pied Confus
+| couleur=Marron
+| forme=7}}
+'''Dodrio''' (anglais : '''Dodrio''' ; japonais : '''ドードリオ''' ''Dodorio'') est un [[Pokémon]] de [[type]] {{type|normal}} et {{type|vol}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Les Dodrio femelles ont des cous beiges, alors qu'ils sont noirs pour les mâles.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Dodrio a les trois têtes et le corps verts.
+
+===[[Évolution]]===
+Dodrio est l'évolution de [[Doduo]] à partir du [[niveau]] 31.
+{{TableauEvolutionHaut|Normal|Doduo}}
+{{TableauEvolutionSimple|[[Niveau]] 31|Dodrio}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+* Français : vient de ''dodo'' et ''trio''
+* Anglais : c.f. français
+* Allemand : vient de ''dodo'' et ''tri''
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il élabore des plans complexes avec ses trois cerveaux. Une de ses têtes reste toujours éveillée.
+;[[Pokémon Jaune]]
+:Quand une des 2 têtes d'un {{PCap|[[Doduo]]}} se divise, il devient un {{PCap|Dodrio}} capable de courir à 60 Km/h.
+;[[Pokémon Stadium]]
+:Ses trois têtes expriment respectivement joie, colère et tristesse pour élaborer une stratégie. La nuit, une tête reste éveillée.
+;[[Pokémon Or]]
+:Il réfléchit trois fois avant de prendre une décision, cela pouvant le rendre immobile.
+;[[Pokémon Argent]]
+:Si l'une des têtes mange, les autres seront également rassasiées et arrêteront ainsi de se chamailler.
+;[[Pokémon Cristal]]
+:Un ennemi ne faisant pas attention à l'une des trois têtes pendant une seconde se fait picorer.
+;[[Pokémon Rubis]]
+:Il faut se méfier lorsque les trois têtes de {{PCap|Dodrio}} regardent dans des directions différentes. Cela signifie qu'il est sur ses gardes. Si c'est le cas, il vaut mieux ne pas s'approcher de ce {{PCap|Pok}}é{{PCap|mon}}, il pourrait décider d'attaquer.
+;[[Pokémon Saphir]]
+:Apparemment, {{PCap|Dodrio}} ne se contente pas d'avoir trois têtes. Il semble également avoir trois cœurs et six poumons, ce qui lui permet de courir très longtemps sans s'épuiser.
+;[[Pokémon Émeraude]]
+:Une espèce rare de {{PCap|Pok}}é{{PCap|mon}} à trois têtes. Il cout énergiquement à travers les plaines même pendant les saisons où la pluie tombe très peu.
+;[[Pokémon Rouge Feu]]
+:Une espèce étrange que l'on trouve rarement. Les trois têtes représentent la joie, la tristesse et la colère.
+;[[Pokémon Vert Feuille]]
+:Il élabore des plans complexes avec ses trois cerveaux. Une de ses têtes reste toujours éveillée.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: {{PCap|Dodrio}} est difficile à attraper car il court et bondit très vite.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Quand {{PCap|[[Doduo]]}} connaît cette étrange [[évolution]], l'une de ses têtes se dédouble. Il atteint les 60 Km/h.
+;[[Pokémon Ranger 2]]
+:Il attaque en donnant des coups avec ses becs acérés.
+;[[Pokémon Or HeartGold]]
+:Il réfléchit trois fois avant de prendre une décision, ce qui peut le rendre immobile.
+;[[Pokémon Argent SoulSilver]]
+:Si l'une des têtes mange, les autres seront également rassasiées et arrêteront ainsi de se chamailler.
+;[[Pokémon Noir et Blanc]]
+:Quand [[Doduo]] connaît cette étrange [[évolution]], l'une de ses têtes se dédouble. Il atteint les 60 Km/h.
+
+==Localisation==
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Vol}}; width:150px" | Version
+! style="background-color:{{Couleur|Vol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Vol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Vol}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Doduo]]
+| style="vertical-align:middle;" | 31
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Furie|15|85|20}}
+{{Attaque|Départ|Bec Vrille|90|100|20}}
+{{Attaque|N.39|Frénésie|20|100|20}}
+{{Attaque|N.45|Triplattaque|80|100|10}}
+{{Attaque|N.51|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Poursuite|40|100|20}}
+{{Attaque|Départ|Furie|15|85|20}}
+{{Attaque|Départ|Triplattaque|80|100|10}}
+{{Attaque|Départ|Frénésie|20|100|20}}
+{{Attaque|N.38|Bec Vrille|90|100|20}}
+{{Attaque|N.47|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Picpic|35|100|35|sang-froid|4|0}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|Départ<br>N.9|Poursuite|40|100|20|intelligence|2|1}}
+{{Attaque-III|Départ<br>N.13|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.21|Triplattaque|80|100|10|beauté|2|2}}
+{{Attaque-III|N.25|Frénésie|20|100|20|sang-froid|3|0}}
+{{Attaque-III|N.38|Brouhaha|50|100|10|grâce|3|0}}
+{{Attaque-III|N.47|Bec Vrille|80|100|20|sang-froid|4|0}}
+{{Attaque-III|N.60|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Picore|60|100|20|grâce|0}}
+{{Attaque-IV|Départ|Picpic|35|100|35|sang-froid|3}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|Départ<br>N.5|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|Départ<br>N.10|Frénésie|20|100|20|sang-froid|0}}
+{{Attaque-IV|N.14|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.19|Poursuite|40|100|20|intelligence|1}}
+{{Attaque-IV|N.23|Brouhaha|50|100|10|grâce|2}}
+{{Attaque-IV|N.28|Acupression|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.34|Triplattaque|80|100|10|beauté|3}}
+{{Attaque-IV|N.41|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.47|Bec Vrille|80|100|20|sang-froid|3}}
+{{Attaque-IV|N.54|Effort|-|100|5|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Picore|60|100|20}}
+{{Attaque-V|Départ|Picpic|35|100|35}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|Départ<br>N.5|Vive-Attaque|40|100|30}}
+{{Attaque-V|Départ<br>N.10|Frénésie|20|100|20}}
+{{Attaque-V|N.14|Furie|15|85|20}}
+{{Attaque-V|N.19|Poursuite|40|100|20}}
+{{Attaque-V|N.23|Brouhaha|90|100|10}}
+{{Attaque-V|N.28|Acupression|-|-|30}}
+{{Attaque-V|N.34|Triplattaque|80|100|10}}
+{{Attaque-V|N.41|Hâte|-|-|30}}
+{{Attaque-V|N.47|Bec Vrille|80|100|20}}
+{{Attaque-V|N.54|Effort|-|100|5}}
+{{Attaque-V|N.60|Mania|120|100|10}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-électrique=2
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol={{Infobulle|'''''× 0'''''|sauf utilisation de Gravité ou Balle Fer}}
+|sensib-spectre=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est normale.
+|rmq-sol-num=1
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=normal
+|PV=60
+|attaque=110
+|defense=70
+|atq-spc=60
+|def-spc=60
+|vitesse=100
+|special=60
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Dodrio
+| numero=085
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Dodrio RB.png
+| forme=7
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Dodrio apparaît brièvement dans le premier épisode, où il chante au lever du soleil tel un coq. On le retrouve de façon plus présente dans l'[[épisode 33]].
+
+[[Albert]], le champion de [[Mauville]] oppose un [[Dodrio]] à [[Sacha]] durant leur match. 
+
+[[Régis]] en a également un dans son équipe.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 33]]
+:{{PCap|Pok}}é{{PCap|mon}} Oiseau à trois têtes qui court plus vite qu'il ne vole. Une des têtes représente la joie, une autre la tristesse et la dernière la colère.
+;[[Épisode 47]]
+:{{PCap|Pok}}é{{PCap|mon}} Trioiseau. L'une de ses têtes représente la joie, une autre la tristesse et la dernière la colère.
+
+{{Ruban Pokémon
+| nomPrécédent=Doduo
+| numéro=085
+| nom=Dodrio
+| nomSuivant=Otaria
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/85| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Dodrio| ]]
+
+[[de:Dodri]]
+[[en:Dodrio (Pokémon)]]
+[[es:Dodrio]]
+[[it:Dodrio]]
+[[ja:ドードリオ]]
+[[pl:Dodrio]]
+[[pt:Dodrio (pokémon)]]

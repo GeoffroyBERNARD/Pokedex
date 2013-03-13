@@ -1,0 +1,313 @@
+{{Ruban Pokémon
+| nomPrécédent=Aspicot
+| numéro=014
+| nom=Coconfort
+| nomSuivant=Dardargnan
+}}
+{{Infobox Pokémon 
+| nom=Coconfort
+| nomen=Kakuna
+| nomja=コクーン
+| nomromaji=Kokūn
+| nomtm=Cocoon
+| nomde=Kokuna
+| légende=Artwork de Coconfort pour {{RFVF}}
+| ndex=014
+| jdex=028
+| hdex=216
+| espece=Cocon
+| taille=0.6
+| poids=10.0
+| fmratio=.500 
+| oeufpas=3840 
+| effortval=+2 Déf.
+| type1=Insecte
+| type2=Poison
+| expval=71
+| expmax=1000000
+| captureval=120
+| groupoeuf1=Insecte
+| capspe1=Mue
+| capspe1-desc=A chaque tour, vous avez 1/3 de chances de revenir à votre statut normal.
+| couleur=Jaune
+| forme=2}}
+'''Coconfort''' (anglais : '''Kakuna''' ; japonais : '''コクーン''' ''Cocoon'') est un Pokémon {{type|insecte}} et {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+Coconfort est en fait un Pokémon enveloppé dans une armure marron claire attendant son [[évolution]]. Il y a les deux dards du [[Dardargnan]] sous sa tête triangulaire, signe de sa future évolution en Dardargnan. Son dard ne s'est pas encore développé et il a deux yeux noires à pupille blanche.
+
+Ce Pokémon dort constamment, puis, à son réveil, il évolue en Dardargnan.
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Coconfort a le corps verdâtre.
+
+===Évolution===
+Coconfort est l'évolution d'[[Aspicot]] à partir du [[niveau]] 7 et il évolue en [[Dardargnan]] à partir du niveau 10.
+
+{{TableauEvolutionHaut|Insecte|Aspicot}}
+{{TableauEvolutionSimple|[[Niveau]] 7|Coconfort}}
+{{TableauEvolutionSimple|[[Niveau]] 10|Dardargnan}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Mue : À chaque tour, ce Pokémon à 1 chance sur 3 d'être soigné de ses altérations de statut.
+
+===Étymologies===
+
+* Français : vient de '''''co'''con'', de '''confort''' et de ''fort''.
+* Anglais : Dérivé de cocoon (Cocon)
+* Japonais : xxx.
+* Allemand : Dérivé de kokon (Cocon).
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Incapable de se déplacer de lui-même, il se défend en durcissant sa carapace.
+;[[Pokémon Jaune]]
+: Il se déplace très lentement. Menacé, il sort son aiguillon et empoisonne ses ennemis.
+;[[Pokémon Stadium]]
+: Parce qu'immobile, il apparaît comme mort aux yeux du profane. À l'intérieur, toutefois, une transformation s'opère...
+;[[Pokémon Or]]
+: Bien qu'il ne soit qu'un cocon, il peut se déplacer lentement. Il se défend avec une pique empoisonnée.
+;[[Pokémon Argent]]
+: De cette forme, il deviendra adulte. Son corps plus tendre est protégé par sa carapace.
+;[[Pokémon Cristal]]
+: Pratiquement incapable de bouger, il se colle aux arbres et attend d'évoluer.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Coconfort}} est la plupart du temps immobile, puisqu'il reste accroché à un arbre. Cependant, intérieurement, il est très actif, car il se prépare pour sa prochaine évolution. En touchant sa carapace, on peut sentir sa chaleur.
+;[[Pokémon Émeraude]]
+: {{PCap|Coconfort}} est souvent immobile car il reste accroché à un arbre. Il prépare intérieurement sa prochaine évolution ce qui explique la chaleur de sa carapace.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} a pris cette forme transitoire le temps de développer sa forme véritable. Il est quasiment incapable de se déplacer tout seul.
+;[[Pokémon Vert feuille]]
+:Incapable de se déplacer de lui-même, il se défend en durcissant sa carapace.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il se cache sous les feuilles et les branches pour fuir les prédateurs en attendant d'évoluer.
+;[[Pokémon Or HeartGold]]
+: Bien qu'il ne soit qu'un cocon, il peut se déplacer lentement. Il se défend avec une pique empoisonnée.
+;[[Pokémon Argent SoulSilver]]
+: À partir de cette forme, il deviendra adulte. Son corps plus tendre est protégé par sa carapace.
+; [[Pokémon Noir et Blanc]]
+: Il se cache sous les feuilles et les branches pour fuir les prédateurs en attendant d'évoluer.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | [[Pokémon Rouge et Bleu|''Pokémon Rouge'']]
+| style="vertical-align:middle;" | Peu commun
+| style="vertical-align:middle;" | [[Forêt de Jade]]
+| style="vertical-align:middle;" | 
+|-
+| style="vertical-align:middle;" | [[Pokémon Rouge et Bleu|''Pokémon Bleu'']]
+| style="vertical-align:middle;" | Peu commun
+| style="vertical-align:middle;" | [[Forêt de Jade]]
+| style="vertical-align:middle;" | 
+|-
+| [[Jaune]] || || ||
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| [[Or]] || || ||
+|-
+| [[Pokémon Or et Argent|Argent]] || || ||
+|-
+| [[Cristal]] || || ||
+|}
+
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| [[Rubis]] || || ||
+|-
+| [[Saphir]] || || ||
+|-
+| [[Pokémon Émeraude|Émeraude]] || || ||
+|-
+| [[Rouge Feu]] || || ||
+|-
+| [[Vert Feuille]] || || ||
+|-
+| [[Colosseum]] || || ||
+|-
+| [[XD]] || || ||
+|}
+
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| [[Diamant]] || || ||
+|-
+| [[Perle]] || || ||
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | [[Pokémon Noir et Blanc|''Pokémon Blanc'']]
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Échanger avec la version [[Pokémon Noir et Blanc|''Pokémon Noir'']]
+| style="vertical-align:middle;" | -
+|-
+| style="vertical-align:middle;" | [[Pokémon Noir et Blanc|''Pokémon Noir'']]
+| style="vertical-align:middle;" | Peu commun
+| style="vertical-align:middle;" | [[Route 12 (Unys)|Route 12]]
+| style="vertical-align:middle;" | 48
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ{{Sup|R}}{{Sup|B}}<br>N.7{{Sup|J}}|Armure|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|N.7|Armure|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ<br>N.7|Armure|-|-|30|robustesse|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ<br>N.7|Armure|-|-|30|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ<br>N.7|Armure|-|-|30}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| class="wikitable"
+! Numéro || [[Bleu]]/[[Rouge]]/[[Jaune]] || [[Or]]/[[Pokémon Or et Argent|Argent]]/[[Cristal]] || [[Rubis]]/[[Saphir]]/[[Pokémon Émeraude|Émeraude]]/[[RF]]/ [[VF]] || [[Diamant]]/[[Perle]]
+|}
+
+
+===Par [[reproduction]]===
+
+
+
+===Par [[Donneur de capacités]]===
+
+;Dans [[Pokémon Platine]]
+
+:- [[Mur de Fer]]
+
+==Sensibilités==
+
+{{Sensibilités
+|type=insecte
+|sensib-combat=0.25
+|sensib-feu=2
+|sensib-insecte=0.5
+|sensib-plante=0.25
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-roche=2
+|sensib-vol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison (type)|Poison]] -donc sur '''Coconfort'''- dans la [[première génération]].
+|rmq-insecte-num=1
+|rmq-poison=Les attaques de type [[Poison (type)|Poison]] étaient très efficaces sur les Pokémon de type [[Insecte]] dans la [[première génération]]. De ce fait, elles possédaient dans cette génération une efficacité normale sur '''Coconfort''' dans la mesure où ce dernier possède un double type [[Poison (type)|Poison]] qui, lui, est résistant à ces attaques.
+|rmq-poison-num=2
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=insecte
+|PV=45
+|attaque=25
+|defense=50
+|atq-spc=25
+|def-spc=25
+|vitesse=35
+|special=25
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Coconfort
+| numero=014
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Coconfort RB.png
+| forme=2
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+Dans l'épisode 4, De nombreux Coconfort apparaissent à deux reprises dans des arbres qui leur servent de nid.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 4]]
+: Etat intermédiaire entre l'{{PCap|Aspicot}} et le {{PCap|Dardargnan}}. Les {{PCap|[[Coconfort]]}} restent en sommeil jusqu'à ce qu'ils éclosent et donnent des {{PCap|Dardargnan}}.
+
+{{Ruban Pokémon
+| nomPrécédent=Aspicot
+| numéro=014
+| nom=Coconfort
+| nomSuivant=Dardargnan
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/14| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Kakuna| ]]
+
+[[de:Kokuna]]
+[[en:Kakuna (Pokémon)]]
+[[es:Kakuna]]
+[[it:Kakuna]]
+[[ja:コクーン]]
+[[pl:Kakuna]]
+[[pt:Kakuna (pokémon)]]

@@ -1,0 +1,394 @@
+{{Ruban Pokémon
+| nomPrécédent=Mackogneur
+| numéro=069
+| nom=Chétiflor
+| nomSuivant=Boustiflor
+}}
+{{Infobox Pokémon
+| nom=Chétiflor
+| nomen=Bellsprout
+| nomja=マダツボミ
+| nomtm=Madatsubomi
+| nomde=Knofensa
+| légende=Artwork de Chétiflor pour {{RFVF}}
+| ndex=069
+| jdex=064
+| hdex=250
+| fdex=004
+| type1=Plante
+| type2=Poison
+| espece=Fleur
+| taille=0.7
+| poids=4.0
+| capspe1=Chlorophyle
+| capspe2=Gloutonnerie
+| capspe2-reve=oui
+| groupoeuf1=Plante
+| oeufpas=5120
+| effortval=+1 Att.
+| expval=84
+| expmax=1059860
+| fmratio=.5 
+| captureval=255
+| couleur=Vert
+| forme=12}}
+'''Chétiflor''' (anglais : '''Bellsprout''' ; japonais : '''マダツボミ''' ''Madatsubomi'') est un [[Pokémon]] de base de [[type]] {{type|plante}} et {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+Chétiflor ressemble a une sorte de plante, sa tête ressemble à une poire, ses babilles sont énormes. Son corps se limite à une tige frêle terminée par deux groupes de racines servant de pieds. Il possède deux feuilles en guise de bras.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Chétiflor peut évoluer en [[Boustiflor]] à partir du [[niveau]] 21, qui peut lui-même évoluer en [[Empiflor]] s'il est mis en contact avec une [[Pierre Plante]].
+
+{{TableauEvolutionHaut|Plante|Chétiflor}}
+{{TableauEvolutionSimple|Niveau 21|Boustiflor}}
+{{TableauEvolutionSimple|Avec une [[Pierre Plante]]|imageObjet=Miniat pierre plante dp.png|Empiflor}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+La capacité spéciale [[Chlorophyle]] permet à Chétiflor de voir sa vitesse augmenter si le soleil brille (suite à une utilisation de [[Zénith]], ou à l'apparition de [[Groudon]] et de sa capacité spéciale [[Sécheresse]] plus tôt dans le match).
+
+===Étymologies===
+* Français : vient de ''chétif'' et ''fleur''.
+* Anglais : vient de ''bell''(cloche) et ''sprout''(germer).
+* Allemand : vient de ''Knospe''(bourgeon), de ''Fenchel ''(fenouil) et de ''samen''(graine).
+* Japonais : vient de mada "pour le moment" et tsubomi "bouton, bourgeon".
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Un {{PCap|Pok}}é{{PCap|mon}} carnivore qui se nourrit de petits insectes. Ses racines servent d'attaches.
+;[[Pokémon Jaune]]
+:Il préfère les endroits chauds et humides. Il capture sa proie avec ses lianes pour la dévorer.
+;[[Pokémon Stadium]]
+:Une sorte de plante carnivore chassant de petits insectes. Il utilise ses racines comme des pieds pour marcher.
+;[[Pokémon Or]]
+:Même si son corps est très frêle, il est extrêmement rapide quand il attaque ses adversaires.
+;[[Pokémon Argent]]
+:Il enracine profondément ses pieds pour puiser de l'eau. Il ne peut pas fuir dans cette position.
+;[[Pokémon Cristal]]
+:S'il repère quelque chose en mouvement, il lance immédiatement ses lianes dans cette direction.
+;[[Pokémon Rubis et Saphir]]
+:Le corps long et flexible de {{PCap|Chétiflor}} lui permet de se tordre et d'osciller pour éviter tout type d'attaque, même les plus puissantes. Ce {{PCap|Pok}}é{{PCap|mon}} crache un fluide corrosif qui peut même dissoudre le fer.
+;[[Pokémon Émeraude]]
+:Son corps long et flexible lui permet de se tordre et d'osciller pour éviter tout type d'attaque. Il crache un fluide corrosif qui peut même dissoudre le fer.
+;[[Pokémon Rouge Feu]]
+:Son bourgeon ressemble à un visage humain. Selon la légende, {{PCap|Chétiflor}} serait un type de mandragore légendaire.
+;[[Pokémon Vert Feuille]]
+:Un {{PCap|Pok}}é{{PCap|mon}} carnivore qui se nourrit de petits insectes. Il se désaltère en puisant de l'eau par les racines de ses pieds.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Chétiflor}} a des feuilles tranchantes. Ce n'est qu'une petite pousse, mais attention !
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il préfère les climats chauds et humides. Ses lianes peuvent capturer une proie en un clin d'œil.
+;[[Pokémon Or HeartGold]]
+:Même si son corps est très frêle, ce Pokémon est extrêmement rapide quand il attaque ses adversaires.
+;[[Pokémon Argent SoulSilver]]
+:Il enracine profondément ses pieds pour puiser de l'eau. Il ne peut pas fuir dans cette position.
+;[[Pokémon Noir et Blanc]]
+:Il préfère les climats chauds et humides. Ses lianes peuvent capturer une proie en un clin d’œil.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || À obtenir par échange.
+|-
+| [[Bleu]] || Commun || Routes [[Route 5|5]], [[Route 6|6]], [[Route 7|7]], [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Route 24|24]] et [[Route 25|25]]
+|-
+| [[Jaune]] || Commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Route 24|24]] et [[Route 25|25]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || Herbes
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Herbes
+|-
+| [[Cristal]] || Commun || Herbes et Tour chetiflor.
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Inexistant || À obtenir par échange.
+|-
+| [[Vert Feuille]] || Commun || Route 5 à 7, 12 à 15, 24, 25.
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Diamant]] et [[Perle]] || rowspan="2" style="vertical-align: middle;" |Commun || [[Route 229]] || N. 20, 22 || 5%
+|-
+| [[Route 230]] || N. 18, 23 || 11%
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | ''[[Pokémon Blanc]]''
+| style="vertical-align:middle;" | Variable
+| style="vertical-align:middle;" | [[Forêt Blanche]] (à condition qu'Enola soit dans la forêt)
+| style="vertical-align:middle;" | 5
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | [[Dream World]]: Le Bosquet
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Fouet Lianes|35|100|10}}
+{{Attaque|Départ|Croissance|-|-|40}}
+{{Attaque|N.13|Ligotage|15|85|20}}
+{{Attaque|N.15|Poudre Toxik|-|75|35}}
+{{Attaque|N.18|Poudre Dodo|-|75|15}}
+{{Attaque|N.21|Para-Spore|-|75|30}}
+{{Attaque|N.26|Acide|40|100|30}}
+{{Attaque|N.33|Tranch'Herbe|55|95|25}}
+{{Attaque|N.42|Souplesse|80|75|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Fouet Lianes|35|100|10}}
+{{Attaque|N.6|Croissance|-|-|40}}
+{{Attaque|N.11|Ligotage|15|85|20}}
+{{Attaque|N.15|Poudre Dodo|-|75|15}}
+{{Attaque|N.17|Poudre Toxik|-|75|35}}
+{{Attaque|N.19|Para-Spore|-|75|30}}
+{{Attaque|N.23|Acide|40|100|30}}
+{{Attaque|N.30|Doux Parfum|-|100|20}}
+{{Attaque|N.37|Tranch'Herbe|55|95|25}}
+{{Attaque|N.45|Souplesse|80|75|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Fouet Lianes|35|100|10|sang-froid|4|0}}
+{{Attaque-III|N.6|Croissance|-|-|40|beauté|1|0}}
+{{Attaque-III|N.11|Ligotage|15|85|20|robustesse|3|0}}
+{{Attaque-III|N.15|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.17|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.19|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|N.23|Acide|40|100|30|intelligence|1|4}}
+{{Attaque-III|N.30|Doux Parfum|-|100|20|grâce|1|3}}
+{{Attaque-III|N.37|Tranch'Herbe|55|95|25|sang-froid|3|0}}
+{{Attaque-III|N.45|Souplesse|80|75|20|robustesse|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Fouet Lianes|35|100|15|sang-froid|3}}
+{{Attaque-IV|N.7|Croissance|-|-|40|beauté|0}}
+{{Attaque-IV|N.11|Ligotage|15|85|20|robustesse|0}}
+{{Attaque-IV|N.13|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.15|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.17|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|N.23|Acide|40|100|30|intelligence|3}}
+{{Attaque-IV|N.27|Sabotage|20|100|20|intelligence|3}}
+{{Attaque-IV|N.29|Doux Parfum|-|100|20|grâce|2}}
+{{Attaque-IV|N.35|Suc Digestif|-|100|10|beauté|2}}
+{{Attaque-IV|N.39|Tranch'Herbe|55|95|25|sang-froid|3}}
+{{Attaque-IV|N.41|Souplesse|80|75|20|robustesse|3}}
+{{Attaque-IV|N.47|Essorage|1|100|5|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Fouet Lianes|35|100|15}}
+{{Attaque-V|N.7|Croissance|-|-|40}}
+{{Attaque-V|N.11|Ligotage|15|90|20}}
+{{Attaque-V|N.13|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.15|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.17|Para-Spore|-|75|30}}
+{{Attaque-V|N.23|Acide|40|100|30}}
+{{Attaque-V|N.27|Sabotage|20|100|20}}
+{{Attaque-V|N.29|Doux Parfum|-|100|20}}
+{{Attaque-V|N.35|Suc Digestif|-|100|10}}
+{{Attaque-V|N.39|Tranch'Herbe|55|95|25}}
+{{Attaque-V|N.41|Souplesse|80|75|20}}
+{{Attaque-V|N.47|Essorage|1|100|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=plante
+|sensib-glace=2
+|sensib-combat=0.5
+|sensib-vol=2
+|sensib-feu=2
+|sensib-électrique=0.5
+|sensib-eau=0.5
+|sensib-plante=0.25
+|sensib-psy=2
+|rmq-insecte=Dans les jeux de la [[première génération]], '''{{PAGENAME}}''' est faible aux attaques de type [[Insecte]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=plante
+|PV=50
+|attaque=75
+|defense=35
+|atq-spc=70
+|def-spc=30
+|vitesse=40
+|special=70
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Chétiflor
+| numero=069
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Chétiflor RB.png
+| forme=12
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Chétiflor n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasions :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Pokémon Center - Œufs surprise|Chétiflor œuf surprise, Pokémon Center]] (Japon)
+* '''2006'''
+** [[Liste des Pokémon distribués en 2006#Chétiflor|Chétiflor Gotta Catch'Em All]] (Japon)
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Chétiflor a une figurine à son effigie dans le jeu de figurines à collectionner, dans la [[3e extension (JFC)|3e extension]]. Sa figurine est la numéro 4. Pour plus d'informations, voir ''[[Chétiflor (3e extension 4)]]''.
+
+[[Fichier:JFC-3e extension-4.png|thumb|center|La figurine de Chétiflor]]
+
+==Apparitions dans le [[dessin animé]]==
+[[Fichier:Ep77 5.png|thumb|left|Coup de racine]] La première apparition majeur de Chétiflor se fera dans l'[[épisode 77]], où le quatrième match de la [[Ligue Indigo]] de [[Sacha]] verra l'apparition comme adversaire d'un Chétiflor inhabituellement puissant qui parviendra à vaincre [[Bulbizarre]] (à l'aide de subtils trucages) et [[Pikachu de Sacha|Pikachu]] avant d'être vaincu par [[Grotadmorv de Sacha|Grotadmorv]].<br/>
+Dans l'[[épisode 130]], l'un des étudiants d'une académie Pokémon essaye d'attraper [[Pikachu de Sacha|Pikachu]] mais capturera par erreur un Chétiflor qui sera son premier Pokémon et aidera à sauver la [[Tour Chétiflor]].
+
+===Descriptions du [[Pokédex]]===
+''Aucune''
+
+{{Ruban Pokémon
+| nomPrécédent=Mackogneur
+| numéro=069
+| nom=Chétiflor
+| nomSuivant=Boustiflor
+}}
+
+{{DEFAULTSORT:Chetiflor}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/69| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Bellsprout| ]]
+
+[[de:Knofensa]]
+[[en:Bellsprout (Pokémon)]]
+[[es:Bellsprout]]
+[[it:Bellsprout]]
+[[ja:マダツボミ]]
+[[pl:Bellsprout]]
+[[pt:Bellsprout (pokémon)]]

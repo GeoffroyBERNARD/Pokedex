@@ -1,0 +1,371 @@
+{{Ruban Pokémon
+| nomPrécédent=Ptitard
+| numéro=061
+| nom=Têtarte
+| nomSuivant=Tartard
+}}
+{{Infobox Pokémon 
+| nom=Têtarte
+| nomen=Poliwhirl
+| nomja=ニョロゾ
+| nomtm=Nyorozo
+| nomde=Quaputzi
+| légende=Artwork de Têtarte pour {{RFVF}}
+| ndex=061
+| jdex=073
+| hdex=248
+| fdex=053
+| type1=Eau
+| espece=Têtard
+| taille=1.0
+| poids=20.0
+| capspe1=Absorb Eau
+| capspe2=Moiteur
+| capspe3=Glissade
+| groupoeuf1=Eau 1
+| oeufpas=5120
+| effortval=+2 Vit.
+| expval=131
+| expmax=1059860
+| fmratio=.5 
+| captureval=120
+| couleur=Bleu
+| forme=12
+}}
+'''Têtarte''' (anglais : '''Poliwhirl''' ; japonais : '''ニョロゾ''' ''Nyorozo'') est un [[Pokémon]] de [[type]] {{type|eau}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Têtarte est l'évolution de [[Ptitard]] à partir du [[niveau]] 25, et peut lui-même évoluer en [[Tartard]] s'il est mis en contact avec une [[Pierre Eau]] ou en [[Tarpaud]] s'il est échangé en tenant une [[Roche Royale]].
+{{TableauEvolutionHaut|Eau|Ptitard|2}}
+{{TableauEvolutionSimple|Niveau 25|Têtarte|2}}
+{{TableauEvolutionConditionBranche/1|Avec une [[Pierre Eau]]|imageObjet=Miniat pierre eau dp.png}}
+{{TableauEvolutionConditionBranche|[[échange de Pokémon|Échange]] en tenant [[Roche Royale]]|imageObjet=Miniat roche royale dp.png}}
+{{TableauEvolutionBranche/1|Tartard}}
+{{TableauEvolutionBranche|Tarpaud}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Têtarte peut disposer soit de la capacité [[Absorb Eau]], qui lui permet de récupérer un quart de ses [[PV]] lorsqu'il est touché par une attaque Eau, soit de la capacité [[Moiteur]], qui empêche les combattants de s'autodétruire.
+
+===Étymologies===
+
+* Français : vient de ''têtard'' et ''tarte''(baffe) 
+* Anglais : Poli- vient de polywag, un surnom pour un têtard + Whirl (tourbillon)
+* Allemand : vient de ''Kaulquappe'' (têtard) et de ''putzig'' (mignon, drôle)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Amphibie, il peut vivre a l'air libre mais il doit rester mouillé pour survivre.
+;[[Pokémon Jaune]]
+:Attaqué, il se sert de sa spirale pour endormir sa proie. Il peut ainsi s'enfuir.
+;[[Pokémon Stadium]]
+:Pouvant vivre sur le sol, il préfère rester dans l'eau. Hors d'un milieu aquatique, il transpire pour garder sa peau humide.
+;[[Pokémon Or]]
+:Le tourbillon sur son ventre bouge légèrement. Le regarder longtemps peut engendrer une somnolence.
+;[[Pokémon Argent]]
+:Sur la plus grande partie de son corps, sa peau est moite. La peau de sa spirale est très douce.
+;[[Pokémon Cristal]]
+:Bien qu'il sache parfaitement marcher, il préfère les fonds marins, bien moins dangereux.
+;[[Pokémon Rubis et Saphir]]
+:La peau de {{PCap|Têtarte}} est toujours maintenue humide par un liquide huileux. Grâce à cette protection graisseuse, il peut facilement se glisser hors de l'étreinte de n'importe quel ennemi.
+;[[Pokémon Émeraude]]
+:Sa peau est lubrifiée par un liquide huileux. Grâce à cette protection graisseuse, il peut facilement se glisser hors de l'étreinte de n'importe quel ennemi.
+;[[Pokémon Rouge Feu]]
+:Ses deux jambes sont très développées. Bien qu'il puisse se déplacer sur la terre ferme, ce {{PCap|Pok}}é{{PCap|mon}} préfère vivre sous l'eau.
+;[[Pokémon Vert Feuille]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} amphibie transpire continuellement quand il est hors de l'eau afin d'hydrater son corps.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Têtarte}} attaque avec des jets d'eau. Faites attention, il attaque en rafale.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: La spirale qui orne son ventre ondule doucement. Celui qui la fixe est saisi d'une étrange torpeur.
+;[[Pokémon Or HeartGold]]
+:Le tourbillon sur son ventre bouge légèrement. Le regarder longtemps peut engendrer une somnolence.
+;[[Pokémon Argent SoulSilver]]
+:Sur la plus grande partie de son corps, sa peau est moite. La peau de sa spirale est très douce.
+;[[Pokémon Noir et Blanc]]
+: La spirale qui orne son ventre ondule doucement. Celui qui la fixe est saisi d'une étrange torpeur.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Rouge}};" | {{Couleur lien|#000000|Rouge}}
+| rowspan="2" style="vertical-align:middle;" | Assez Rare
+| rowspan="2" style="vertical-align:middle;" | [[Route 10]] et à [[Azuria]] avec la [[Méga Canne]]
+|-
+| style="background:{{Couleur|Bleu}};" | {{Couleur lien|#000000|Bleu}}
+|-
+| style="background:{{Couleur|Jaune}};" | {{Couleur lien|#000000|Jaune}} || Assez Rare || [[Route 23]] avec la [[Méga Canne]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Or}};" | {{Couleur lien|#000000|Or}}
+| rowspan="3" style="vertical-align:middle;" | Commun
+| rowspan="3" style="vertical-align:middle;" | 	Routes [[Route 22|22]], [[Route 28|28]], [[Route 30|30]], [[Route 31|31]], et [[Route 44|44]], [[Rosalia]], [[Mauville]], [[Grotte Argentée]] et [[Jadielle]].
+|-
+| style="background:{{Couleur|Argent}};" | {{Couleur lien|#000000|Argent}}
+|-
+| style="background:{{Couleur|Cristal}};" | {{Couleur lien|#000000|Cristal}}
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Rubis}};" | {{Couleur lien|#000000|Rubis}}
+| rowspan="3" style="vertical-align:middle;" | Inexistant
+| rowspan="3" style="vertical-align:middle;" | 	À obtenir par échange.
+|-
+| style="background:{{Couleur|Saphir}};" | {{Couleur lien|#000000|Saphir}}
+|-
+| style="background:{{Couleur|Émeraude}};" | {{Couleur lien|#000000|Émeraude}}
+|-
+| style="background:{{Couleur|Rouge Feu}};" | {{Couleur lien|#000000|Rouge Feu}}
+| rowspan="2" style="vertical-align:middle;" | Peu Commun
+| rowspan="2" style="vertical-align:middle;" | Routes [[Route 6 (Kanto)|6]], [[Route 22|22]], [[Route 23|23]] et [[Route 25|25]], [[Jadielle]], [[Cap Falaise]], [[Caverne Azurée]], [[Île 4]], [[Grotte de Glace]] et [[Vallée Ruine]].
+|-
+| style="background:{{Couleur|Vert Feuille}};" | {{Couleur lien|#000000|Vert Feuille}}
+|-
+| style="background:{{Couleur|Colosseum}};" | {{Couleur lien|#000000|Colosseum}} || Inexistant || À obtenir par échange.
+|-
+| style="background:{{Couleur|XD}};" | {{Couleur lien|#000000|XD}} || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Diamant}};" | {{Couleur lien|#000000|Diamant}}
+| rowspan="2" style="vertical-align:middle;" | Peu Commun
+| rowspan="2" style="vertical-align:middle;" | Routes [[Route 225|225]], [[Route 227|227]] et [[Route 228|228]]
+|-
+| style="background:{{Couleur|Perle}};" | {{Couleur lien|#000000|Perle}}
+|-
+| style="background:{{Couleur|Platine}};" | {{Couleur lien|#000000|Platine}} || Commmun || Routes [[Route 227|227]] et [[Route 228|228]]
+|-
+| style="background:{{Couleur|Or HeartGold}};" | {{Couleur lien|#000000|Or HeartGold}}
+| rowspan="2" style="vertical-align:middle;" | Peu Commun
+| rowspan="2" style="vertical-align:middle;" | Routes [[Route 22|22]], [[Route 28|28]], [[Route 30|30]], [[Route 31|31]], et [[Route 44|44]], [[Rosalia]], [[Mauville]], [[Grotte Argentée]], [[Jadielle]] et [[Caverne Azurée]].
+|-
+| style="background:{{Couleur|Argent SoulSilver}};" | {{Couleur lien|#000000|Argent SoulSilver}}
+|}
+
+===[[Cinquième génération]]===
+
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="5" style="vertical-align:middle;" | {{NB}}
+| rowspan="5" style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Route 6 (Unys)|Route 6]]{{infobulle|*|Pêche}}
+| style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Veine Souterraine]]
+| style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Antre d'Entraînement]]
+| style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Route Victoire (Unys)|Route Victoire]]
+| style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Grotte Cyclopéenne]]{{infobulle|*|Pêche dans les Grottes}}
+| style="vertical-align:middle;" | 35-70
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Écume|20|100|30}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|N.26|Torgnoles|15|85|10}}
+{{Attaque|N.33|Plaquage|85|100|15}}
+{{Attaque|N.41|Amnésie|-|-|20}}
+{{Attaque|N.49|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écume|20|100|30}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|N.19|Torgnoles|15|85|10}}
+{{Attaque|N.27|Danse Pluie|-|-|5}}
+{{Attaque|N.35|Plaquage|85|100|15}}
+{{Attaque|N.43|Cognobidon|-|-|10}}
+{{Attaque|N.51|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Écume|20|100|30|grâce|2|2}}
+{{Attaque-III|Départ<br>N.7|Hypnose|-|60|20|intelligence|1|3}}
+{{Attaque-III|Départ<br>N.13|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|N.19|Torgnoles|15|85|10|robustesse|2|1}}
+{{Attaque-III|N.27|Danse Pluie|-|-|5|robustesse|1|0}}
+{{Attaque-III|N.35|Plaquage|85|100|15|robustesse|1|4}}
+{{Attaque-III|N.43|Cognobidon|-|-|10|grâce|1|0}}
+{{Attaque-III|N.51|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Tourniquet|-|-|15|grâce|2}}
+{{Attaque-IV|Départ<br>N.5|Écume|20|100|30|grâce|2}}
+{{Attaque-IV|Départ<br>N.8|Hypnose|-|70%{{Sup|D}}{{Sup|P}}<br>60{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|20|intelligence|2}}
+{{Attaque-IV|N.11|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.15|Torgnoles|15|85|10|robustesse|2}}
+{{Attaque-IV|N.18|Danse Pluie|-|-|5|robustesse|2}}
+{{Attaque-IV|N.21|Plaquage|85|100|15|robustesse|3}}
+{{Attaque-IV|N.27|Bulles d'O|65|100|20|beauté|2}}
+{{Attaque-IV|N.32|Tir de Boue|55|95|15|robustesse|2}}
+{{Attaque-IV|N.37|Cognobidon|-|-|10|grâce|0}}
+{{Attaque-IV|N.43|Réveil Forcé|60|100|10|intelligence|0}}
+{{Attaque-IV|N.48|Hydrocanon|120|80|5|beauté|2}}
+{{Attaque-IV|N.53|Boue-Bombe|65|85|10|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Tourniquet|-|-|15}}
+{{Attaque-V|Départ<br>N.5|Écume|20|100|30}}
+{{Attaque-V|Départ<br>N.8|Hypnose|-|60|20}}
+{{Attaque-V|N.11|Pistolet à O|40|100|25}}
+{{Attaque-V|N.15|Torgnoles|15|85|10}}
+{{Attaque-V|N.18|Danse Pluie|-|-|5}}
+{{Attaque-V|N.21|Plaquage|85|100|15}}
+{{Attaque-V|N.27|Bulles d'O|65|100|20}}
+{{Attaque-V|N.32|Tir de Boue|55|95|15}}
+{{Attaque-V|N.37|Cognobidon|-|-|10}}
+{{Attaque-V|N.43|Réveil Forcé|60|100|10}}
+{{Attaque-V|N.48|Hydrocanon|120|80|5}}
+{{Attaque-V|N.53|Boue-Bombe|65|85|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+{{incomplet}}
+Surf
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=eau
+|sensib-acier=0.5
+|sensib-eau=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-plante=2
+|rmq-eau=Lorsque la [[capacité spéciale]] [[Absorb Eau]] de '''{{PAGENAME}}''' est active, les attaques de type [[Eau]] ne produisent pas de dégâts sur lui.
+|rmq-eau-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=65
+|attaque=65
+|defense=65
+|atq-spc=50
+|def-spc=50
+|vitesse=90
+|special=50
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Têtarte
+| numero=061
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Têtarte RB.png
+| forme=12
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Le [[Ptitard d'Ondine|Ptitard]] d'{{da|Ondine}} évolue en Têtarte dans l'[[épisode 151]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 151]]
+:{{PCap|Pok}}é{{PCap|mon}} Têtard. Sa musculature très développée lui confère une grande facilité de déplacement sur la terre ferme mais il est encore plus agile dans l'eau.
+
+{{Ruban Pokémon
+| nomPrécédent=Ptitard
+| numéro=061
+| nom=Têtarte
+| nomSuivant=Tartard
+}}
+
+{{DEFAULTSORT:Tetarte}}
+
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Eau]]
+[[Catégorie:Pokémon évoluant en tenant un objet]]
+[[Catégorie:Pokémon évoluant lors d'un échange]]
+[[Catégorie:Pokémon évoluant en tenant un objet lors d'un échange]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/61| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Poliwhirl| ]]
+
+[[de:Quaputzi]]
+[[en:Poliwhirl (Pokémon)]]
+[[es:Poliwhirl]]
+[[it:Poliwhirl]]
+[[ja:ニョロゾ]]
+[[pl:Poliwhirl]]
+[[pt:Poliwhirl (pokémon)]]

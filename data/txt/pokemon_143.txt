@@ -1,0 +1,394 @@
+{{Ruban Pokémon
+| nomPrécédent=Ptéra
+| numéro=143
+| nom=Ronflex
+| nomSuivant=Artikodin
+}}
+{{Infobox Pokémon
+| nom=Ronflex
+| nomen=Snorlax
+| nomja=カビゴン
+| nomtm=Kabigon
+| nomde=Relaxo
+| légende=Artwork de Ronflex pour {{RFVF}}
+| ndex=143
+| jdex=225
+| njdex=230
+| hdex=298
+| sdex=113
+| fdex=105
+| type1=Normal
+| espece=Pionceur
+| taille=2.1
+| poids=460.0
+| capspe1=Vaccin
+| capspe2=Isograisse
+| capspe3=Gloutonnerie
+| groupoeuf1=Monstre
+| oeufpas=10240
+| effortval=+2 PV
+| expval=154
+| expmax=1250000
+| fmratio=.125
+| captureval=25
+| couleur=Noir
+| forme=12}}
+'''Ronflex''' (anglais : '''Snorlax''' ; japonais : '''カビゴン''' ''Kabigon''), le [[Pokémon]] pionceur, est un Pokémon extrêmement lourd de [[type]] {{type|normal}} réputé pour ne faire que dormir et manger.<br/>
+Sa puissance couplée à son impressionnante capacité à encaisser les coups due à son physique "avantageux" en a très vite fait un Pokémon intéressant pour les tacticiens dans toutes les générations.
+
+==À propos du Pokémon==
+===Physionomie===
+C'est l'un des plus lourds Pokémon existants avec un poids de 460 kilos. Il ne fait que dormir et ne se réveille que pour manger (quel goinfre!). Il peut faire penser à un ours, d'ailleurs, dans les épisodes où des Ronflex sauvages sont présents, ils se situent généralement en forêt.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===Évolution===
+Ronflex a longtemps été considéré comme un Pokémon de base n'ayant ni pré-évolution ni évolution, mais la [[quatrième génération]] a vu l'apparition (quasiment à titre de nouvelle mascotte) de [[Goinfrex]], bébé qui évoluera en Ronflex s'il est suffisamment [[bonheur|heureux]].
+
+Il est à noter que lors d'une reproduction, si Ronflex tient un [[Encens Plein]], le Pokémon obtenu est un Goinfrex. Sinon, c'est un Ronflex qui est obtenu.
+
+{{TableauEvolutionHaut|Normal|Goinfrex}}
+{{TableauEvolutionSimple|[[Bonheur]]|Ronflex}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Ronflex peut soit disposer de la capacité spéciale [[Vaccin]], qui l'empêche d'être empoisonné, soit de la capacité spéciale [[Isograisse]], qui utilise son imposante couche de gras à titre d'isolant pour diminuer de 50% la puissance des attaques Feu et Glace, et qui l'empêche d'être brûlé ou gelé.
+
+===Étymologies===
+* Français : contraction de ronflement et relax.
+* Anglais : de ''snore'', ronfler, et ''lax'', relâché ou se reposer.
+* Japonais :
+* Allemand : de relax
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Très paresseux, il ne fait que manger et dormir. Plus il est gros, plus il devient fainéant.
+;[[Pokémon Jaune]]
+:Il peut tout manger, même de la nourriture avariée. Il n'a jamais mal au ventre.
+;[[Pokémon Stadium]]
+:Un Pokémon super-flemmard qui devient super-gros plus il super-mange. Il ne se réveille que pour super-manger.
+;[[Pokémon Or]]
+:Ce qui semble être son cri serait en fait le bruit de ses ronflements et des gargouillis de son estomac.
+;[[Pokémon Argent]]
+:Ses sucs digestifs peuvent dissoudre n'importe quel type de poison. Il peut même manger en vol.
+;[[Pokémon Cristal]]
+:L'estomac de ce {{PCap|Pok}}é{{PCap|mon}} est si résistant qu'il peut même digérer de la nourriture avariée.
+;[[Pokémon Rubis et Saphir]]
+:Les journées de {{PCap|Ronflex}} se résument aux repas et aux siestes. C'est un {{PCap|Pok}}é{{PCap|mon}} tellement gentil que les enfants n'hésitent pas à jouer sur son énorme ventre.
+;[[Pokémon Émeraude]]
+:Les journées de {{PCap|Ronflex}} se résument aux repas et aux siestes. Il est tellement gentil que les enfants n'hésitent pas à jouer sur son énorme ventre.
+;[[Pokémon Rouge Feu]]
+:{{PCap|Ronflex}} n'est pas satisfait tant qu'il n'a pas avalé ses 400 kilos de nourriture quotidienne. Dès qu'il a fini de manger, il commence une sieste pour digérer.
+;[[Pokémon Vert Feuille]]
+:Très paresseux, il ne fait que manger et dormir. Plus il grossit, plus il devient fainéant.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Ronflex est un Pokémon énorme et lourd. Il dort tout le temps.
+;[[Pokémon Diamant]]
+:Son estomac peut digérer n'importe quel type de nourriture, même quand elle est moisie ou pourrie.
+;[[Pokémon Perle]]
+:Il n'arrête de manger que pour se reposer. Il lui faut 400 Kg de nourriture pour être rassasié.
+;[[Pokémon Platine]]
+:Une fois le ventre plein, il est trop amorphe pour lever le petit doigt. Sautez sur son ventre !
+;[[Pokémon Or HeartGold]]
+:Ce qui semble être son cri serait en fait le bruit de ses ronflements et des gargouillis de son estomac.
+;[[Pokémon Argent SoulSilver]]
+:Ses sucs digestifs peuvent dissoudre n'importe quel type de poison. Il peut manger des aliments trouvés par terre.
+;[[Pokémon Noir et Blanc]]
+:Une fois le ventre plein, il est trop amorphe pour lever le petit doigt. Sautez sur son ventre !
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Rouge]] || Deux || Bloquent la route (endormis, à réveiller avec la [[Pokéflûte]]), l'un sur la [[Route 16]] à l'ouest de [[Céladopole]], l'autre au carrefour de la [[Route 12]] et de la fin est de la [[Route 11]]. || Niveau 30
+|-
+| [[Bleu]] || Deux || Bloquent la route (endormis, à réveiller avec la [[Pokéflûte]]), l'un sur la [[Route 16]] à l'ouest de [[Céladopole]], l'autre au carrefour de la [[Route 12]] et de la fin est de la [[Route 11]]. || Niveau 30
+|-
+| [[Jaune]] || Deux || Bloquent la route (endormis, à réveiller avec la [[Pokéflûte]]), l'un sur la [[Route 16]] à l'ouest de [[Céladopole]], l'autre au carrefour de la [[Route 12]] et de la fin est de la [[Route 11]]. || Niveau 30
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Or]] || Unique || Endormi, bloque l'entrée de la [[Cave Taupiqueur]] sur la [[Route 11]]. || Niveau 50
+|-
+| [[Pokémon Or et Argent|Argent]] || Unique || Endormi, bloque l'entrée de la [[Cave Taupiqueur]] sur la [[Route 11]]. || Niveau 50
+|-
+| [[Cristal]] || Unique || Endormi, bloque l'entrée de la [[Cave Taupiqueur]] sur la [[Route 11]]. || Niveau 50
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange. || -
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange. || -
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange. || -
+|-
+| [[Rouge Feu]] || Deux || Bloquent la route (endormis, à réveiller avec la [[Pokéflûte]]), l'un sur la [[Route 16]] à l'ouest de [[Céladopole]], l'autre au carrefour de la [[Route 12]] et de la fin est de la [[Route 11]]. || Niveau 30
+|-
+| [[Vert Feuille]] || Deux || Bloquent la route (endormis, à réveiller avec la [[Pokéflûte]],) l'un sur la [[Route 16]] à l'ouest de [[Céladopole]], l'autre au carrefour de la [[Route 12]] et de la fin est de la [[Route 11]]. || Niveau 30
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange. || -
+|-
+| [[XD]] || Unique || Île Ténébra (pont). || 
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Goinfrex]]
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Goinfrex]]
+|-
+| [[Argent SoulSilver]] || Unique || Bloque la [[Cave Taupiqueur]]
+|- 
+| [[Or HeartGold]] || Unique || Bloque la [[Cave Taupiqueur]]
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | Faire évoluer [[Goinfrex]]
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Amnésie|-|-|20}}
+{{Attaque|Départ|Coup d'Boule|70|100|15}}
+{{Attaque|Départ|Repos|-|-|10}}
+{{Attaque|N.35|Plaquage|85|100|15}}
+{{Attaque|N.41|Armure|-|-|30}}
+{{Attaque|N.48|Damoclès|100|100|15}}
+{{Attaque|N.56|Ultralaser|150|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.8|Amnésie|-|-|20}}
+{{Attaque|N.15|Boul'Armure|-|-|40}}
+{{Attaque|N.22|Cognobidon|-|-|10}}
+{{Attaque|N.29|Coup d'Boule|70|100|15}}
+{{Attaque|N.36|Repos|-|-|10}}
+{{Attaque|N.36|Ronflement|40|100|15}}
+{{Attaque|N.43|Plaquage|85|100|15}}
+{{Attaque|N.50|Roulade|30|90|20}}
+{{Attaque|N.57|Ultralaser|150|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|N.6{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.5{{Sup|RF}}{{Sup|VF}}|Amnésie|-|-|20|grâce|1|0}}
+{{Attaque-III|N.10{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.9{{Sup|RF}}{{Sup|VF}}|Boul'Armure|-|-|40|grâce|2|0}}
+{{Attaque-III|N.15{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.13{{Sup|RF}}{{Sup|VF}}|Cognobidon|-|-|10|grâce|1|0}}
+{{Attaque-III|N.19{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.17{{Sup|RF}}{{Sup|VF}}|Coup d'Boule|70|100|15|robustesse|2|3}}
+{{Attaque-III|N.24{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.21{{Sup|RF}}{{Sup|VF}}|Baillement|-|100|10|grâce|2|0}}
+{{Attaque-III|N.28{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.25{{Sup|RF}}{{Sup|VF}}|Repos|-|-|10|grâce|2|0}}
+{{Attaque-III|N.28{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.29{{Sup|RF}}{{Sup|VF}}|Ronflement|40|100|15|grâce|4|0}}
+{{Attaque-III|N.33|Plaquage|85|100|15|robustesse|1|4}}
+{{Attaque-III|N.37{{Sup|RF}}{{Sup|VF}}|Blabla Dodo|-|-|10|grâce|2|0}}
+{{Attaque-III|N.37{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.41{{Sup|RF}}{{Sup|VF}}|Barrage|-|100|5|grâce|2|0}}
+{{Attaque-III|N.42{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.45{{Sup|RF}}{{Sup|VF}}|Implore|40|100|40|grâce|1|0}}
+{{Attaque-III|N.46{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.49{{Sup|RF}}{{Sup|VF}}|Roulade|30|90|20|robustesse|3|0}}
+{{Attaque-III|N.51{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.53{{Sup|RF}}{{Sup|VF}}|Ultralaser|150|90|5|sang-froid|4|4}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|N.4|Boul'Armure|-|-|40|grâce|2}}
+{{Attaque-IV|N.9|Amnésie|-|-|20|grâce|0}}
+{{Attaque-IV|N.12|Léchouille|20|100|30|robustesse|2}}
+{{Attaque-IV|N.17|Cognobidon|-|-|10|grâce|0}}
+{{Attaque-IV|N.20|Baillement|-|-|10|grâce|2}}
+{{Attaque-IV|N.25|Repos|-|-|10|grâce|0}}
+{{Attaque-IV|N.28|Ronflement|40|100|15|grâce|3}}
+{{Attaque-IV|N.28|Blabla Dodo|-|-|10|grâce|3}}
+{{Attaque-IV|N.33|Plaquage|85|100|15|robustesse|3}}
+{{Attaque-IV|N.36|Barrage|-|-|5|grâce|2}}
+{{Attaque-IV|N.41|Roulade|30|90|20|robustesse|2}}
+{{Attaque-IV|N.44|Mâchouille|80|100|20|grâce|0}}
+{{Attaque-IV|N.49|Giga Impact|150|90|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|N.4|Boul'Armure|-|-|40}}
+{{Attaque-V|N.9|Amnésie|-|-|20}}
+{{Attaque-V|N.12|Léchouille|20|100|30}}
+{{Attaque-V|N.17|Cognobidon|-|-|10}}
+{{Attaque-V|N.20|Baillement|-|-|10}}
+{{Attaque-V|N.25|Attrition|70|100|20}}
+{{Attaque-V|N.28|Repos|-|-|10}}
+{{Attaque-V|N.28|Ronflement|40|100|15}}
+{{Attaque-V|N.33|Blabla Dodo|-|-|10}}
+{{Attaque-V|N.36|Plaquage|85|100|15}}
+{{Attaque-V|N.41|Barrage|-|-|5}}
+{{Attaque-V|N.44|Roulade|30|90|20}}
+{{Attaque-V|N.49|Mâchouille|80|100|15}}
+{{Attaque-V|N.52|Tacle Lourd|1|100|10}}
+{{Attaque-V|N.57|Giga Impact|150|90|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=normal
+|PV=160
+|attaque=110
+|defense=65
+|atq-spc=65
+|def-spc=110
+|vitesse=30
+|special=65
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Ronflex
+| numero=143
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Ronflex RB.png
+| forme=12
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Ronflex apparaît pour la première fois dans l'[[Épisode 41]], où un Ronflex bloque le cours d'une rivière, entrainant la sécheresse dans la ville située en aval.<br/>
+[[Sacha]] capture un [[Ronflex de Sacha|Ronflex]] dans l'[[épisode 94]], dans l'[[Archipel Orange]].
+
+D'autres Ronflex feront également des apparitions temporaires dans le dessin animé.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 41]]
+:Un {{PCap|Pok}}é{{PCap|mon}} qui passe son temps à dormir et ne se réveille que pour manger. {{PCap|Ronflex}} est le plus lourd de tous les {{PCap|Pok}}é{{PCap|mon}} connus. Il pèse plus de cinq-cent kilos. Pour satisfaire son appétit, le Ronflex va consommer quatre-cent cinquante kilos de nourriture. Et ensuite, il se rendort.
+;[[Épisode 94]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Dormeur. Ronflex, pour assouvir sa faim, doit engloutir une demi-tonne de nourriture par jour. Une fois rassasié, il s'endort immédiatement.
+;[[Épisode 362]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Pionçeur. Ronflex n'est pas satisfait avant d'avoir ingurgité ses quatre-cent kilos de nourriture quotidienne. Après quoi, il s'endort.
+;[[Épisode 542]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Pionçeur. [[évolution|Forme évoluée]] de {{PCap|Goinfrex}}. Il peut manger jusqu'à deux-cent kilos de nourriture avant d'être rassasié.
+;[[Épisode 626]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Pionçeur. Ronflex est tellement paresseux que lorsqu'il a le ventre plein, il n'arrive même plus à lever le petit doigt.  
+
+{{Ruban Pokémon
+| nomPrécédent=Ptéra
+| numéro=143
+| nom=Ronflex
+| nomSuivant=Artikodin
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/143| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Snorlax| ]]
+
+[[de:Relaxo]]
+[[en:Snorlax (Pokémon)]]
+[[es:Snorlax]]
+[[it:Snorlax]]
+[[ja:カビゴン]]
+[[pl:Snorlax]]
+[[pt:Snorlax (pokémon)]]

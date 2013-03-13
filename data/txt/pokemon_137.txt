@@ -1,0 +1,377 @@
+{{Ruban Pokémon
+| nomPrécédent=Pyroli
+| numéro=137
+| nom=Porygon
+| nomSuivant=Amonita
+}}
+{{Infobox Pokémon
+| nom=Porygon
+| nomen=Porygon
+| nomja=ポリゴン
+| nomtm=Porygon
+| nomromaji=Porigon
+| nomde=Porygon
+| légende=Artwork de Porygon pour {{RFVF}}
+| ndex=137
+| jdex=215
+| njdex=220
+| hdex=292
+| sdex=192
+| fdex=103
+| type1=Normal
+| espece=Virtuel
+| taille=0.8
+| poids=36.5
+| capspe1=Calque
+| capspe2=Télécharge
+| capspe3=Analyste
+| groupoeuf1=Minéral
+| oeufpas=5120
+| effortval=+1 Att. Spé
+| expval=130
+| expmax=1000000
+| fmratio=-1
+| captureval=45
+| couleur=Rose
+| forme=7}}
+'''Porygon''' (anglais : '''Porygon''' ; japonais : '''ポリゴン''' ''Porygon''), le [[Pokémon]] virtuel qui peut voyager à l'intérieur des réseaux informatiques, est un Pokémon de base de [[type]] {{type|normal}} apparu dans la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+====Différences mâle/femelle====
+
+Ce Pokémon est asexué, il n'y a donc pas de Porygon mâle ou femelle.
+
+===[[Évolution]]===
+Porygon n'avait pas d'évolution dans la [[première génération]], mais une « mise à jour » officielle de ce Pokémon informatique est apparue lors de la [[seconde génération]], où un échange de Porygon avec l'objet tenu [[Améliorator]] le fait évoluer en [[Porygon2]].<br/>
+Une seconde mise à jour, d'origine plus « underground », est apparue dans la [[quatrième génération]], où un [[Porygon2]] échangé avec l'objet tenu [[CD Douteux]] évolue en [[Porygon-Z]].
+{{TableauEvolutionHaut|Normal|Porygon}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]] en tenant [[Améliorator]]|imageObjet=Miniat evolutor dp.png|Porygon2}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]] en tenant [[CD Douteux]]|imageObjet=Miniat cd douteux dp.png|Porygon-Z}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Porygon dispose soit de la capacité spéciale [[Calque]], qui imite la capacité spéciale de l'adversaire en cours, soit de la capacité spéciale [[Télécharge]], qui augmente soit son [[Attaque]], soit son [[Attaque Spéciale]], selon la statistique défensive correspondante ([[Défense]] ou [[Défense Spéciale]]) qui est la plus faible chez son adversaire.
+
+===Étymologies===
+* Toutes langues : Porygon est soit un mix entre polygone et origami, soit du au fait que les japonais prononcent leurs "l" comme des "r", d'où la déformation de polygone.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Un {{PCap|Pok}}é{{PCap|mon}} fait de programmes et d'algorithmes. Il peut survivre en milieu virtuel.
+;[[Pokémon Jaune]]
+:Conçu pour voler dans l'espace, on ne lui a toujours pas trouvé une autre utilité.
+;[[Pokémon Stadium]]
+:Un Pokémon créé par l'homme composé de codes de programmation. Il se déplace librement en espace virtuel.
+;[[Pokémon Or]]
+:Il a été conçu par l'homme. Comme il ne respire pas, on le teste dans tous les environnements.
+;[[Pokémon Argent]]
+:Un {{PCap|Pok}}é{{PCap|mon}} crée par l'homme après de longues recherches. Il ne connait que peu de mouvements.
+;[[Pokémon Cristal]]
+:Un {{PCap|Pok}}é{{PCap|mon}} artificiel créé après de longues recherches. Il ne fait qu'exécuter son programme.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Porygon}} est capable de se décompiler et de retourner à l'état de programme informatique pour entrer dans le cyber-espace. Ce {{PCap|Pok}}é{{PCap|mon}} est protégé contre le piratage, il est donc impossible de le copier.
+;[[Pokémon Émeraude]]
+:Il peut se décompiler et retourner à l'état de programme informatique pour entrer dans le cyber-espace. Protégé contre le piratage, il est impossible à copier.
+;[[Pokémon Rouge Feu]]
+:En utilisant les dernières avancées technologiques, des scientifiques ont réussi à créer {{PCap|Porygon}}, le premier {{PCap|Pok}}é{{PCap|mon}} artificiel.
+;[[Pokémon Vert Feuille]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est fait de programmes et d'algorithmes. Il peut survivre en milieu virtuel.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: {{PCap|Porygon}} se rend invisible pour troubler l'ennemi et rendre la capture plus difficile.
+;[[Pokémon Diamant et Perle]]
+: Le premier {{PCap|Pok}}é{{PCap|mon}} artificiel au monde. Il a le pouvoir d'arpenter l'espace électronique.
+;[[Pokémon Platine]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} créé par des scientifiques peut arpenter librement le cyberespace.
+;[[Pokémon Or HeartGold]]
+:Il a été conçu par l'homme. Comme il ne respire pas, on le teste dans tous les environnements.
+;[[Pokémon Argent SoulSilver]]
+:Un {{PCap|Pok}}é{{PCap|mon}} créé par l'homme après de longues recherches. Il ne connaît que peu de mouvements.
+;[[Pokémon Noir et Blanc]]
+:Ce Pokémon créé par des scientifiques peut arpenter librement le cyberespace.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rouge]]|| Rare || [[Céladopole]] - Prix du [[Casino]] || N. 26 || Échanger 9999 jetons.
+|-
+| [[Bleu]] || Rare || [[Céladopole]] - Prix du [[Casino]] || N. 18 || Échanger 6500 jetons.
+|-
+| [[Jaune]] || Rare || [[Céladopole]] - Prix du [[Casino]] || N. 26 || Échanger 9999 jetons.
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Or]] || Rare || [[Céladopole]] - Prix du [[Casino]] || N. 20 || Échanger 9999 jetons.
+|-
+| [[Pokémon Or et Argent|Argent]] || Rare || [[Céladopole]] - Prix du [[Casino]] || N. 20 || Échanger 9999 jetons.
+|-
+| [[Cristal]] || Rare || [[Céladopole]] - Prix du [[Casino]] || N. 15 || Échanger 5555 jetons.
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.|| - || -
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.|| - || -
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.|| - || -
+|-
+| [[Rouge Feu]] || Rare || [[Céladopole]] - Prix du [[Casino]] || N. 26 || Échanger 9999 jetons.
+|-
+| [[Vert Feuille]] || Rare || [[Céladopole]] - Prix du [[Casino]] || N. 18 || Échanger 6500 jetons.
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.|| - || -
+|-
+| [[XD]] || Inexistant || À obtenir par échange.|| - || -
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Diamant]] et [[Perle]] || Rare || L'un des Pokémon du jour possibles dans le [[Jardin Trophée]] du [[Manoir Pokémon]] après avoir parlé à son propriétaire - Pokédex National nécessaire || N. 16, 18 || 5%
+|-
+| [[Platine]] || Unique || Donné à [[Voilaroc]] (maison derrière le [[Centre Pokémon]]) || N.25
+|}
+
+=== [[Cinquième génération]] ===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Noir}};" | {{Couleur lien|#FFFFFF|Noir}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | [[Échange de Pokémon|Échanger]] avec ''[[Pokémon Blanc]]''
+| style="vertical-align:middle;" | Variable
+|-
+| style="background:{{Couleur|Blanc}};" | {{Couleur lien|#000000|Blanc}} 
+| style="vertical-align:middle;" | Variable 
+| style="vertical-align:middle;" | [[Forêt Blanche]] (à condition que Fabio soit dans la forêt)
+| style="vertical-align:middle;" | 5
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Adaptation|-|-|30}}
+{{Attaque|Départ|Affûtage|-|-|30}}
+{{Attaque|N.23|Rafale Psy|65|100|20}}
+{{Attaque|N.28|Soin|-|-|20}}
+{{Attaque|N.35|Hâte|-|-|30}}
+{{Attaque|N.42|Triplattaque|80|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Adaptation|-|-|30}}
+{{Attaque|Départ|Conversion 2|-|100|30}}
+{{Attaque|N.9|Hâte|-|-|30}}
+{{Attaque|N.12|Rafale Psy|65|100|20}}
+{{Attaque|N.20|Soin|-|-|20}}
+{{Attaque|N.24|Affûtage|-|-|30}}
+{{Attaque|N.32|Verrouillage|-|-|5}}
+{{Attaque|N.36|Triplattaque|80|100|10}}
+{{Attaque|N.44|Élécanon|100|50|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Conversion 2|-|100|30|beauté|2|0}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ|Adaptation|-|-|30|beauté|2|0}}
+{{Attaque-III|N.9|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.12|Rafale Psy|65|100|20|beauté|3|0}}
+{{Attaque-III|N.20|Soin|-|-|20|intelligence|2|1}}
+{{Attaque-III|N.24|Affûtage|-|-|30|grâce|1|0}}
+{{Attaque-III|N.32|Verrouillage|-|-|5|intelligence|3|0}}
+{{Attaque-III|N.36|Triplattaque|80|100|10|beauté|2|2}}
+{{Attaque-III|N.44|Recyclage|-|100|10|intelligence|3|0}}
+{{Attaque-III|N.48|Élécanon|100|50|5|sang-froid|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Conversion 2|-|100|30|beauté|1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ|Adaptation|-|-|30|beauté|1}}
+{{Attaque-IV|Départ|Affûtage|-|-|30|grâce|0}}
+{{Attaque-IV|N.7|Rafale Psy|65|100|20|beauté|2}}
+{{Attaque-IV|N.12|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.18|Soin|-|-|10|intelligence|0}}
+{{Attaque-IV|N.23|Vol Magnétik|-|-|10|grâce|2}}
+{{Attaque-IV|N.29|Rayon Signal|75|100|15|beauté|0}}
+{{Attaque-IV|N.34|Recyclage|-|-|10|intelligence|0}}
+{{Attaque-IV|N.40|Coup d'Jus|80|100|15|robustesse|2}}
+{{Attaque-IV|N.45|Verrouillage|-|-|5|intelligence|1}}
+{{Attaque-IV|N.51|Triplattaque|80|100|10|beauté|3}}
+{{Attaque-IV|N.56|Reflet Magik|-|-|15|beauté|2}}
+{{Attaque-IV|N.62|Élécanon|120|50|5|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Conversion 2|-|100|30}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ|Adaptation|-|-|30}}
+{{Attaque-V|Départ|Affûtage|-|-|30}}
+{{Attaque-V|N.7|Rafale Psy|65|100|20}}
+{{Attaque-V|N.12|Hâte|-|-|30}}
+{{Attaque-V|N.18|Soin|-|-|10}}
+{{Attaque-V|N.23|Vol Magnétik|-|-|10}}
+{{Attaque-V|N.29|Rayon Signal|75|100|15}}
+{{Attaque-V|N.34|Recyclage|-|-|10}}
+{{Attaque-V|N.40|Coup d'Jus|80|100|15}}
+{{Attaque-V|N.45|Verrouillage|-|-|5}}
+{{Attaque-V|N.51|Triplattaque|80|100|10}}
+{{Attaque-V|N.56|Reflet Magik|-|-|15}}
+{{Attaque-V|N.62|Élécanon|120|50|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=normal
+|PV=65
+|attaque=60
+|defense=70
+|atq-spc=85
+|def-spc=75
+|vitesse=40
+|special=75
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Porygon
+| numero=137
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Porygon RB.png
+| forme=7
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Porygon apparaît dans un seul épisode, le tristement célèbre [[épisode 38]] ''Le soldat virtuel Porygon'', qui lors de sa première diffusion au Japon a causé, suite aux effets de lumière utilisés (suite à une alternance rapide de couleur bleu et rouge) lors d'une explosion, des crises d'épilepsie chez plusieurs centaines d'enfants japonais, avec pour conséquence une suspension de la diffusion du dessin animé pendant plusieurs mois. Cet épisode n'a de ce fait jamais plus été diffusé dans aucun pays.
+
+Il a été aperçu au début du [[Les protecteurs de la cité des eaux|5ème film Pokémon]].
+
+===Descriptions du [[Pokédex]]===
+
+{{Ruban Pokémon
+| nomPrécédent=Pyroli
+| numéro=137
+| nom=Porygon
+| nomSuivant=Amonita
+}}
+
+[[Catégorie:Pokémon]][[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon évoluant en tenant un objet]]
+[[Catégorie:Pokémon évoluant lors d'un échange]]
+[[Catégorie:Pokémon évoluant en tenant un objet lors d'un échange]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/137| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Porygon| ]]
+
+[[de:Porygon]]
+[[en:Porygon (Pokémon)]]
+[[es:Porygon]]
+[[it:Porygon]]
+[[ja:ポリゴン]]
+[[pl:Porygon]]
+[[pt:Porygon (pokémon)]]

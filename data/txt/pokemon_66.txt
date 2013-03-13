@@ -1,0 +1,472 @@
+{{Ruban Pokémon
+| nomPrécédent=Alakazam
+| numéro=066
+| nom=Machoc
+| nomSuivant=Machopeur
+}}
+{{Infobox Pokémon
+| nom=Machoc
+| nomen=Machop
+| nomja=ワンリキー
+| nomtm=Wanriky
+| nomromaji=Wanrikī
+| nomde=Machollo
+| légende=Artwork de Machoc pour {{RFVF}}
+| ndex=066
+| jdex=140
+| njdex=142
+| hdex=073
+| sdex=040
+| fdex=080
+| adex=161
+| type1=Combat
+| espece=Colosse
+| taille=0.8
+| poids=19.5
+| capspe1=Cran
+| capspe2=Annule Garde
+| capspe3=Impassible
+| groupoeuf1=Humanoïde
+| oeufpas=5120
+| effortval=+1 Att.
+| expval=75
+| expmax=1059860
+| fmratio=.25 
+| captureval=180
+| couleur=Gris
+| forme=12}}
+'''Machoc''' (anglais : '''Machop''' ; japonais : '''ワンリキー''' ''Wanriky'') est un Pokémon de type {{type|combat}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+D'apparence humanoïde, Machoc est reconnaissable à sa peau bleu-gris, ses yeux rouges et ses trois crêtes beiges. Il possède une queue, et ses pieds n'ont pas d'orteils.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Machoc peut évoluer en [[Machopeur]] à partir du [[niveau]] 28, qui évolue lui-même en [[Mackogneur]] s'il est échangé entre dresseurs.
+{{TableauEvolutionHaut|Combat|Machoc}}
+{{TableauEvolutionSimple|[[Niveau]] 28|Machopeur}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]]|Mackogneur}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Machoc peut disposer :
+* soit de la capacité spéciale [[Cran]], qui augmente son attaque s'il est victime d'une paralysie, du sommeil, d'une brûlure ou d'un empoisonnement,
+* soit de la capacité spéciale [[Annule Garde]], qui a pour effet la réussite systématique des attaques lancées par les deux Pokémon qui se combattent, même si l'un d'entre eux utilise [[Vol (attaque)|Vol]] ou [[Tunnel]], et lui permet même de toucher un Pokémon ayant utilisé [[Abri]] ou [[Détection]] à la condition d'utiliser une attaque ayant une précision inférieure à 100%.
+Cette seconde capacité spéciale diminue également le taux de rencontre des Pokémon sauvage lorsque le Pokémon la possédant est en tête de l'équipe.
+
+===Étymologies===
+* Français : ''Macho'' et ''choc''
+* Anglais : ''Macho'' et ''chop'', débiter/couper en rondelles
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il adore la musculation. Il pratique les arts martiaux pour devenir encore plus fort.
+;[[Pokémon Jaune]]
+:Très puissant malgré sa petite taille, il est passé maître en plusieurs types d'arts martiaux.
+;[[Pokémon Stadium]]
+:Son corps entier est recouvert de muscles. Il peut soulever jusqu'à 100 humains et les balancer un peu partout.
+;[[Pokémon Or]]
+:Toujours en train de s'entraîner, il passe son temps à soulever des poids pour devenir plus puissant.
+;[[Pokémon Argent]]
+:Il aime faire de la musculation. Constamment insatisfait, il s'entraine toute la journée.
+;[[Pokémon Cristal]]
+:Il s'entraine en soulevant des rochers dans les montagnes. Il peut même soulever un {{PCap|[[Gravalanch]]}}.
+;[[Pokémon Rubis]]
+:Les muscles de {{PCap|Machoc}} sons spéciaux. Quels que soient les efforts qu'il produit, il n'a jamais de courbature. Ce {{PCap|Pok}}é{{PCap|mon}} est assez puissant pour lancer une centaine d'hommes adultes.
+;[[Pokémon Saphir]]
+:{{PCap|Machoc}} s'entraîne en soulevant un {{PCap|[[Gravalanch]]}}, comme s'il s'agissait d'haltères. Certains {{PCap|Machoc}} voyagent un peu partout dans le monde pour apprendre à maitriser tous les types d'arts martiaux.
+;[[Pokémon Émeraude]]
+:Il s'entraine sans cesse pour maitriser toutes les formes d'arts martiaux. Il est si fort qu'il peut facilement porter un lutteur de sumo sur ses épaules.
+;[[Pokémon Rouge Feu]]
+:Son corps est essentiellement composé de muscles. Même s'il a la taille d'un petit enfant, il peut soulever 100 adultes avec ses bras.
+;[[Pokémon Vert Feuille]]
+:Il adore la musculation. Il pratique les arts martiaux pour devenir encore plus fort.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Machoc}} renferme une grande force dans son petit corps. Il peut fracasser les Pierres.
+;[[Pokémon Diamant]]
+:Il muscle son corps en soulevant régulièrement un {{PCap|[[Gravalanch]]}}. Il est rompu à tous les arts martiaux.
+;[[Pokémon Perle]]
+:Il a beau s'entrainer, ses muscles ne fatiguent jamais. Il vit dans les montagnes à l'écart des humains.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il se bat comme un boxeur et projette des orbes au pouvoir d'aura.
+;[[Pokémon Platine]]
+:Malgré sa petite taille, sa force lui permet de soulever plusieurs {{PCap|[[Racaillou]]}} à la fois.
+;[[Pokémon Or HeartGold]]
+:Toujours en train de s'entraîner, il passe son temps à soulever des poids pour devenir plus puissant.
+;[[Pokémon Argent SoulSilver]]
+:Il aime faire de la musculation. Constamment insatisfait, il s’entraîne toute la journée.
+;[[Pokémon Noir et Blanc]]
+:Malgré sa petite taille, sa force lui permet de soulever plusieurs [[Racaillou]] à la fois.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Combat}}; width:250px" | Version
+! style="background-color:{{Couleur|Combat}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Combat}}; width:450px" | Lieu
+|-
+| style="vertical-align:middle;" | {{RB}}
+| style="vertical-align:middle;" | Commun
+| [[Grotte]], [[Route Victoire (Kanto)|Route Victoire]].
+|-
+| style="vertical-align:middle;" | {{J}}
+| style="vertical-align:middle;" | Commun 
+| [[Grotte]], [[Route 10 (Kanto)|Route 10]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Combat}}; width:250px" | Version
+! style="background-color:{{Couleur|Combat}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Combat}}; width:450px" | Lieu
+|-
+| style="vertical-align:middle;" | {{OAC}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Grotte]], [[Mont Creuset]].
+|-
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Combat}}; width:250px" | Version
+! style="background-color:{{Couleur|Combat}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Combat}}; width:450px" | Lieu
+|-
+| style="vertical-align:middle;" | {{RS}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Chemin Ardent]], [[Route 112]], [[Sentier Sinuroc]].
+|-
+| style="vertical-align:middle;" | {{E}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Chemin Ardent]], [[Sentier Sinuroc]].
+|-
+| style="vertical-align:middle;" | {{RFVF}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Grotte]], [[Route Victoire (Kanto)|Route Victoire]], [[Mont Braise]].
+|-
+| style="vertical-align:middle;" | ''[[Pokémon Colosseum]] et [[Pokémon XD]]''
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | À obtenir par échange.
+|-
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|combat}};width:250px"|Version
+! style="background-color:{{couleur|combat}};width:100px"|Rareté
+! style="background-color:{{couleur|combat}};width:450px"|Lieu
+! style="background-color:{{couleur|combat}};width:50px"|Niveau
+! style="background-color:{{couleur|combat}};width:100px"|Pourcentage de rencontre
+|-
+| rowspan="9" style="vertical-align:middle;" | {{DP}}
+| rowspan="9" style="vertical-align: middle;" | Commun || [[Route 207]] - [[Temps|Matinée]] || N. 5-7 || 35%
+|-
+| [[Route 207]] - [[Temps|Journée]] || N. 5-7 || 45%
+|-
+| [[Route 207]] - [[Temps|Nuit]] || N. 5-7 || 25%
+|-
+| [[Route 208]] - [[Temps|Matinée et journée]] || N. 16-17 || 20%
+|-
+| [[Route 208]] - [[Temps|Nuit]] || N. 16-17 || 10%
+|-
+| [[Route 210]] - [[Temps|Matinée et journée]] || N. 25-26 || 20%
+|-
+| [[Route 210]] - [[Temps|Nuit]] || N. 25-26 || 10%
+|-
+| [[Mont Couronné]] - Entrée Nord - Rez-de-chaussée || N. 13 || 10%
+|-
+| [[Mont Couronné]] - Entrée Sud - Rez-de-chaussée || N. 15-16 || 25%
+|}
+=== [[Cinquième génération]] ===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Combat}}; width:250px" | Version
+! style="background-color:{{Couleur|Combat}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Combat}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Combat}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | ''[[Pokémon Blanc]]''
+| style="vertical-align:middle;" | variable
+| style="vertical-align:middle;" | [[Forêt Blanche]] (à condition que Takuma soit dans la forêt)
+| style="vertical-align:middle;" | 5
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | inexistant 
+| style="vertical-align:middle;" | [[Dream World]] : Le Mont Escarpé
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Poing-Karaté|50|100|25}}
+{{Attaque|N.20|Balayage|50|100|20}}
+{{Attaque|N.25|Groz'Yeux|-|100|30}}
+{{Attaque|N.32|Puissance|-|-|30}}
+{{Attaque|N.39|Frappe Atlas|-|100|20}}
+{{Attaque|N.46|Sacrifice|80|80|25}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Balayage|50|100|20}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|N.7|Puissance|-|-|30}}
+{{Attaque|N.13|Poing-Karaté|50|100|25}}
+{{Attaque|N.19|Frappe Atlas|-|100|20}}
+{{Attaque|N.25|Clairvoyance|-|100|40}}
+{{Attaque|N.31|Corps Perdu|70|-|10}}
+{{Attaque|N.37|Coup-Croix|100|80|5}}
+{{Attaque|N.43|Grimace|-|90|10}}
+{{Attaque|N.49|Sacrifice|80|80|25}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Balayage|-|100|20|robustesse|1|4}}
+{{Attaque-III|Départ|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.7|Puissance|-|-|30|sang-froid|1|3}}
+{{Attaque-III|N.13|Poing-Karaté|50|100|25|robustesse|3|0}}
+{{Attaque-III|N.19|Frappe Atlas|-|100|20|robustesse|2|1}}
+{{Attaque-III|N.22|Clairvoyance|-|100|40|intelligence|3|0}}
+{{Attaque-III|N.25|Vendetta|60|100|10|robustesse|3|0}}
+{{Attaque-III|N.31|Corps Perdu|70|-|10|sang-froid|3|0}}
+{{Attaque-III|N.37|Sacrifice|80|80|25|sang-froid|6|0}}
+{{Attaque-III|N.40|Coup-Croix|100|80|5|sang-froid|3|0}}
+{{Attaque-III|N.43|Grimace|-|90|10|robustesse|2|1}}
+{{Attaque-III|N.49|Dynamopoing|100|50|5|sang-froid|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Balayage|-|100|20|robustesse|3}}
+{{Attaque-IV|Départ|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.7|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.10|Poing-Karaté|50|100|25|robustesse|3}}
+{{Attaque-IV|N.13|Clairvoyance|-|-|40|intelligence|1}}
+{{Attaque-IV|N.19|Frappe Atlas|-|100|20|robustesse|3}}
+{{Attaque-IV|N.22|Vendetta|60|100|10|robustesse|2}}
+{{Attaque-IV|N.25|Corps Perdu|70|-|10|sang-froid|2}}
+{{Attaque-IV|N.31|Sacrifice|80|80|25|sang-froid|3}}
+{{Attaque-IV|N.34|Réveil Forcé|60|100|10|intelligence|0}}
+{{Attaque-IV|N.37|Coup-Croix|100|80|5|sang-froid|2}}
+{{Attaque-IV|N.43|Grimace|-|90|10|robustesse|2}}
+{{Attaque-IV|N.46|Dynamopoing|100|50|5|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Balayage|-|100|20}}
+{{Attaque-V|Départ|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.7|Puissance|-|-|30}}
+{{Attaque-V|N.10|Poing-Karaté|50|100|25}}
+{{Attaque-V|N.13|Balayette|60|100|20}}
+{{Attaque-V|N.19|Clairvoyance|-|-|40}}
+{{Attaque-V|N.22|Frappe Atlas|-|100|20}}
+{{Attaque-V|N.25|Vendetta|60|100|10}}
+{{Attaque-V|N.31|Corps Perdu|70|-|10}}
+{{Attaque-V|N.34|Sacrifice|80|80|25}}
+{{Attaque-V|N.37|Réveil Forcé|60|100|10}}
+{{Attaque-V|N.43|Coup-Croix|100|80|5}}
+{{Attaque-V|N.46|Grimace|-|100|10}}
+{{Attaque-V|N.49|Dynamopoing|100|50|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Ultimapoing]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 05 || [[Ultimawashi]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 18 || [[Riposte]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 26 || [[Séisme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 27 || [[Abîme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Métronome (attaque)|Métronome]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 48 || [[Éboulement]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=Combat
+|sensib-ténèbres=0.5
+|sensib-insecte=0.5
+|sensib-roche=0.5
+|sensib-psy=2
+|sensib-vol=2
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=combat
+|PV=70
+|attaque=80
+|defense=50
+|atq-spc=35
+|def-spc=35
+|vitesse=35
+|special=35
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Machoc
+| numero=066
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Machoc RB.png{{!}}x140px
+| artwork_supp3-nom=[[Pokémon Donjon Mystère]]
+| artwork_supp3-img=Machoc-DM.png{{!}}x140px
+| artwork_supp4-nom=[[Pokémon Ranger 2]]
+| artwork_supp4-img=Machoc-Ranger 2.png{{!}}x140px
+| forme=12
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Machoc a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 29. Pour plus d'informations, voir ''[[Machoc (Premier Défi 29)]]''.
+
+[[Fichier:JFC-Premier Défi-29.png|thumb|center|La figurine de Machoc]]
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Bastien]], le champion du [[Village Myokara]] en possède un. Il l'oppose à [[Sacha]] durant leur match.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 29]]
+:Son corps est tout en muscles. Son attaque spéciale est la [[Frappe Atlas]].
+;[[Épisode 294]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Colosse. Les {{PCap|[[Machoc]]}} ont des muscles qui ne se fatiguent jamais, peu importe le temps qu'on les sollicite. Les {{PCap|[[Machoc]]}} sont assez forts pour soulever cent adultes de taille moyenne.
+
+{{Pokémon starter}}
+
+{{Ruban Pokémon
+| nomPrécédent=Alakazam
+| numéro=066
+| nom=Machoc
+| nomSuivant=Machopeur
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/66| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Machop| ]]
+
+[[de:Machollo]]
+[[en:Machop (Pokémon)]]
+[[es:Machop]]
+[[it:Machop]]
+[[ja:ワンリキー]]
+[[pl:Machop]]
+[[pt:Machop (pokémon)]]

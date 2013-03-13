@@ -1,0 +1,367 @@
+{{Ruban Pokémon
+| nomPrécédent=Boustiflor
+| numéro=071
+| nom=Empiflor
+| nomSuivant=Tentacool
+}}
+{{Infobox Pokémon
+| nom=Empiflor
+| nomen=Victreebel
+| nomja=ウツボット
+| nomtm=Utsubot
+| nomtm=Utsubotto
+| nomde=Sarzenia
+| légende=Artwork d'Empiflor pour {{RFVF}}
+| ndex=071
+| jdex=066
+| hdex=252
+| fdex=006
+| adex=242
+| type1=Plante
+| type2=Poison
+| espece=Carnivore
+| taille=1.7
+| poids=15.5
+| capspe1=Chlorophyle
+| capspe2=Gloutonnerie
+| capspe2-reve=oui
+| groupoeuf1=Plante
+| oeufpas=5120
+| effortval=+3 Att.
+| expval=191
+| expmax=1059860
+| fmratio=.5 
+| captureval=45
+| couleur=Vert
+| forme=5}}
+'''Empiflor''' (anglais : '''Victreebel''' ; japonais : '''ウツボット''' ''Utsubot'') est la toute dernière [[évolution]] de [[Chétiflor]]. C'est un [[Pokémon]] de [[type]] {{type|plante}} et {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+[[Boustiflor]], évolution de [[Chétiflor]] à partir du [[niveau]] 21, évolue en Empiflor s'il est mis en contact avec une [[Pierre Plante]].
+
+{{TableauEvolutionHaut|Plante|Chétiflor}}
+{{TableauEvolutionSimple|Niveau 21|Boustiflor}}
+{{TableauEvolutionSimple|Avec une [[Pierre Plante]]|imageObjet=Miniat pierre plante dp.png|Empiflor}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+La capacité spéciale [[Chlorophyle]] permet à Empiflor de voir sa vitesse augmenter si le soleil brille (suite à une utilisation de [[Zénith]], ou à l'apparition de [[Groudon]] et de sa capacité spéciale [[Sécheresse]] plus tôt dans le match).
+
+===Étymologies===
+
+* Français : vient de ''empiffrer'' et ''fleur''
+* Anglais : vient de ''victory'' et ''bell'' (cloche)
+* Allemand : vient de''Sarracenia''[http://s1.e-monsite.com/2009/08/17/05/44170648rugg-jpg.jpg]
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il vit en colonie dans la jungle mais personne n'en est jamais revenu vivant.
+;[[Pokémon Jaune]]
+:Il attire sa proie avec une odeur de miel et l'avale en entier. Il la digère en un seul jour.
+;[[Pokémon Stadium]]
+:Il attire ses proies avec des senteurs de miel. Il avale tout insecte, bien sûr, mais aussi de petits animaux à l'occasion.
+;[[Pokémon Or]]
+:Son {{PCap|[[Acide]]}} devient avec le temps plus doux, ce qui le rend plus attractif pour son gibier.
+;[[Pokémon Argent]]
+:Ce terrible {{PCap|Pok}}é{{PCap|mon}} des plantes attire ses proies avec un miel onctueux puis les avale tout rond.
+;[[Pokémon Cristal]]
+:Tout corps ingéré par ce {{PCap|Pok}}é{{PCap|mon}} est systématiquement dissout en bouillie.
+;[[Pokémon Rubis]]
+:{{PCap|Empiflor}} est doté d'une longue liane qui part de sa tête. Cette liane se balance et remue comme un animal pour attirer ses proies. Lorsqu'une proie d'approche un peu trop près, ce {{PCap|Pok}}é{{PCap|mon}} l'avale facilement.
+;[[Pokémon Émeraude]]
+:{{PCap|Empiflor}} est doté d'une longue liane qui part de sa tête. Elle se balance et remue comme un animal pour attirer ses proies. Les imprudents sont avalés.
+;[[Pokémon Rouge Feu]]
+:L'odeur mielleuse qu'il propage lui permet d'attirer ses proies jusqu'à sa bouche. La proie piégée est alors digérée grâce à un fluide très acide.
+;[[Pokémon Vert Feuille]]
+:Il vit en colonie dans la jungle mais personne n'en est jamais revenu vivant.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: {{PCap|Empiflor}} fait couler du poison de sa bouche. Attention aux flaques !
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Sa bouche sécrète un fluide à l'odeur du miel, qui s'avère être un acide extrêmement corrosif.
+;[[Pokémon Ranger 2]]
+:Il attaque en projetant des feuilles et en secrétant du poison.
+;[[Pokémon Or HeartGold]]
+:Son acide devient plus doux avec le temps, ce qui le rend plus attractif pour son gibier.
+;[[Pokémon Argent SoulSilver]]
+:Ce terrible Pokémon Plante attire ses proies avec un miel onctueux puis les avale tout rond.
+;[[Pokémon Noir et Blanc]]
+:Sa bouche sécrète un fluide à l'odeur du miel, qui s'avère être un acide extrêmement corrosif.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || À obtenir par échange.
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Boustiflor]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Boustiflor]] à l'aide d'une [[Pierre Plante]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer [[Boustiflor]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Faire évoluer [[Boustiflor]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Cristal]] || Inexistant || Faire évoluer [[Boustiflor]] à l'aide d'une [[Pierre Plante]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Inexistant || À obtenir par échange.
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Boustiflor]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || Faire évoluer [[Boustiflor]] à l'aide d'une [[Pierre Plante]].
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] et [[Perle]] || Inexistant || Faire évoluer [[Boustiflor]] à l'aide d'une [[Pierre Plante]].
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}  
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Boustiflor]] ([[Pierre Plante]])
+| style="vertical-align:middle;" | -
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|Départ|Poudre Toxik|-|75|35}}
+{{Attaque|Départ|Poudre Dodo|-|75|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|Départ|Poudre Dodo|-|75|15}}
+{{Attaque|Départ|Poudre Toxik|-|75|35}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ{{Sup|RF}}{{Sup|VF}}|Stockage|-|-|10|robustesse|2|0}}
+{{Attaque-III|Départ{{Sup|RF}}{{Sup|VF}}|Relâche|100|100|10|robustesse|4|0}}
+{{Attaque-III|Départ{{Sup|RF}}{{Sup|VF}}|Avale|-|-|10|robustesse|1|0}}
+{{Attaque-III|Départ|Fouet Lianes|35|100|10|sang-froid|4|0}}
+{{Attaque-III|Départ|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|Départ|Doux Parfum|-|100|20|grâce|1|3}}
+{{Attaque-III|Départ|Tranch'Herbe|55|95|25|sang-froid|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Stockage|-|-|20|robustesse|0}}
+{{Attaque-IV|Départ|Avale|-|-|10|robustesse|0}}
+{{Attaque-IV|Départ|Relâche|100|100|10|robustesse|2}}
+{{Attaque-IV|Départ|Fouet Lianes|35|100|15|sang-froid|3}}
+{{Attaque-IV|Départ|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|Départ|Doux Parfum|-|100|20|grâce|2}}
+{{Attaque-IV|Départ|Tranch'Herbe|55|95|25|sang-froid|3}}
+{{Attaque-IV|N.47|Tempêteverte|140|90|5|robustesse|2}}
+{{Attaque-IV|N.47{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Lame-Feuille|90|100|15|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Stockage|-|-|20}}
+{{Attaque-V|Départ|Avale|-|-|10}}
+{{Attaque-V|Départ|Relâche|100|100|10}}
+{{Attaque-V|Départ|Fouet Lianes|35|100|15}}
+{{Attaque-V|Départ|Poudre Dodo|-|75|15}}
+{{Attaque-V|Départ|Doux Parfum|-|100|20}}
+{{Attaque-V|Départ|Tranch'Herbe|55|95|25}}
+{{Attaque-V|N.27|Phytomixeur|65|90|10}}
+{{Attaque-V|N.47|Tempêteverte|140|90|5}}
+{{Attaque-V|N.47|Lame-Feuille|90|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=plante
+|sensib-glace=2
+|sensib-combat=0.5
+|sensib-vol=2
+|sensib-feu=2
+|sensib-électrique=0.5
+|sensib-eau=0.5
+|sensib-plante=0.25
+|sensib-psy=2
+|rmq-insecte=Dans les jeux de la [[première génération]], '''{{PAGENAME}}''' est faible aux attaques de type [[Insecte]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=plante
+|PV=80
+|attaque=105
+|defense=65
+|atq-spc=100
+|def-spc=60
+|vitesse=70
+|special=100
+}}
+
+{{Performances
+<!-- Pokémon -->
+| nom           = Empiflor
+| type          = Plante
+<!-- performances -->
+| vitesse       = 1
+| vitesse-max   = 1
+| force         = 4
+| force-max     = 4
+| habilité      = 3
+| habilité-max  = 4
+| endurance     = 4
+| endurance-max = 4
+| saut          = 3
+| saut-max      = 3
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Empiflor
+| numero=071
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Empiflor RB.png
+| forme=5
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[James]] notamment en possèdera longtemps un, puis un second en échangeant le premier contre un [[Boustiflor]] auprès de son [[vendeur de Magicarpe]] favori dans l'[[épisode 263]], où les deux Empiflor seront rejetés et partiront finalement vivre ensemble une passion dévorante.
+
+===Descriptions du [[Pokédex]]===
+
+{{Ruban Pokémon
+| nomPrécédent=Boustiflor
+| numéro=071
+| nom=Empiflor
+| nomSuivant=Tentacool
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/71| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Victreebel| ]]
+
+[[de:Sarzenia]]
+[[en:Victreebel (Pokémon)]]
+[[es:Victreebel]]
+[[it:Victreebel]]
+[[ja:ウツボット]]
+[[pl:Victreebel]]
+[[pt:Victreebel (pokémon)]]

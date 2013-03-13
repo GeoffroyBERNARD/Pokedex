@@ -1,0 +1,297 @@
+{{Ruban Pokémon
+| nomPrécédent=Excelangue
+| numéro=109
+| nom=Smogo
+| nomSuivant=Smogogo
+}}
+{{Infobox Pokémon
+| nom=Smogo
+| nomen=Koffing
+| nomja=ドガース
+| nomtm=Dogars
+| nomromaji=Dogāsu
+| nomde=Smogon
+| légende=Artwork de Smogo pour {{RFVF}}
+| ndex=109
+| jdex=114
+| njdex=115
+| hdex=108
+| fdex=089
+| adex=187
+| odex=R-045
+| opdex=N-113
+| espece=Gaz Mortel
+| taille=0.6
+| poids=1.0
+| fmratio=.5
+| oeufpas=5120
+| effortval=+1 Déf.
+| type1=Poison
+| expval=114
+| expmax=1000000
+| captureval=190
+| groupoeuf1=Indéterminé
+| capspe1=Lévitation
+| capspe1-desc=Évite les attaques sol.
+| couleur=Violet
+| forme=1}}
+'''Smogo''' (anglais : '''Koffing''' ; japonais : '''ドガース''' ''Dogars'') est un [[Pokémon]] de [[type]] {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Smogo évolue en [[Smogogo]] à partir du [[niveau]] 35.
+{{TableauEvolutionHaut|Poison|Smogo}}
+{{TableauEvolutionSimple|[[Niveau]] 35|Smogogo}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+* Français, Allemand : vient de ''smog'' (épais brouillard de pollution).
+* Anglais : "Koffing" a la même consonance que ''Coughing'' (''to cough'' signifie "tousser"  ''koff'' est l'onomatopée de la toux en anglais).
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Son corps instable constitué de gaz toxiques peut exploser soudainement.
+;[[Pokémon Jaune]]
+:Dans des endroits chauds, son corps fait de gaz devient instable et peut exploser. Attention !
+;[[Pokémon Stadium]]
+:Un Pokémon à l'apparence d'un fin ballon rempli de gaz hautement toxique. Il est connu pour exploser très facilement.
+;[[Pokémon Or]]
+:Sa fine enveloppe est remplie de gaz qui provoquent en permanence des reniflements et des irritations.
+;[[Pokémon Argent]]
+:Les gaz nocifs qu'il contient sont un peu plus légers que l'air et le maintiennent en lévitation.
+;[[Pokémon Cristal]]
+:Si l'on s'approche suffisamment quand il envoie du gaz, on peut voir ses réserve de poison.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Smogo}} est composé de substances toxiques. Il mélange des toxines et des détritus pour déclencher une réaction chimique générant un gaz très dangereux. Plus la températures est élevée, plus la quantité de gaz est importante.
+;[[Pokémon Émeraude]]
+:Il suffit de s'approcher d'un {{PCap|Smogo}} pour apercevoir les gaz toxiques qui circulent dans son corps. Il explose à la moindre stimulation.
+;[[Pokémon Rouge Feu]]
+:Son corps très fin en forme de ballon est rempli d'un horrible gaz toxique. Essayez de respirer par la bouche si vous vous trouvez près de lui.
+;[[Pokémon Vert Feuille]]
+:Son corps, constitué de divers gaz toxiques et instables, peut exploser à tout instant.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Smogo}} vaporise un nuage de poison. Si une boucle est tracée autour de lui, il se gonfle.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il flotte en retenant des gaz plus légers que l'air. Ceux-ci sont explosifs, en plus d'être fétides.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il dégage un nuage de poison pour attaquer.
+;[[Pokémon Or HeartGold]]
+:Sa fine enveloppe est remplie de gaz qui provoquent en permanence des reniflements et des irritations.
+;[[Pokémon Argent SoulSilver]]
+:Les gaz nocifs qu'il contient sont un peu plus légers que l'air et le maintiennent en lévitation.
+;[[Pokémon Noir et Blanc]]
+:Il flotte en retenant des gaz plus légers que l'air. Ceux-ci sont explosifs, en plus d'être fétides.
+
+== Localisations ==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Poison}}; width:150px" | Version
+! style="background-color:{{Couleur|Poison}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+|-
+| style="vertical-align: middle;" |{{RB}}
+| style="vertical-align: middle;" | Courant
+| style="vertical-align: middle;" | [[Manoir Pokémon]]
+|-
+| style="vertical-align: middle;" |{{J}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | Echange depuis une autre version
+|}
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Poison}}; width:150px" | Version
+! style="background-color:{{Couleur|Poison}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+|-
+| style="vertical-align: middle;" |''[[Pokémon Argent]]''
+| style="vertical-align: middle;" | Courant
+| style="vertical-align: middle;" | [[Tour Cendrée]]
+|-
+|style="vertical-align: middle;" |''[[Pokémon Or]]''
+| style="vertical-align: middle;" | Courant
+| style="vertical-align: middle;" | [[Tour Cendrée]]
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Poison}}; width:150px" | Version
+! style="background-color:{{Couleur|Poison}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| style="vertical-align: middle;" |{{NB}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | [[Dream World]] : Le Mont Escarpé
+| style="vertical-align: middle;" | 10
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Purédpois|20|70|20}}
+{{Attaque|N.32|Détritus|65|100|20}}
+{{Attaque|N.37|Brouillard|-|100|20}}
+{{Attaque|N.40|Destruction|130|100|5}}
+{{Attaque|N.45|Buée Noire|-|-|30}}
+{{Attaque|N.53|Explosion|170|100|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Gaz Toxik|-|55|40}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.9|Purédpois|20|70|20}}
+{{Attaque|N.17|Destruction|200|100|5}}
+{{Attaque|N.21|Détritus|65|100|20}}
+{{Attaque|N.25|Brouillard|-|100|20}}
+{{Attaque|N.33|Buée Noire|-|-|30}}
+{{Attaque|N.44|Explosion|250|100|5}}
+{{Attaque|N.45|PRLVT Destin|-|-|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Gaz Toxik|-|55|40|intelligence|3|0}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|N.9|Purédpois|20|70|20|robustesse|1|3}}
+{{Attaque-III|N.17|Destruction|200|100|5|beauté|8|0}}
+{{Attaque-III|N.21|Détritus|65|100|20|robustesse|1|4}}
+{{Attaque-III|N.25|Brouillard|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.33|Buée Noire|-|-|30|beauté|3|0}}
+{{Attaque-III|N.41|Explosion|250|100|5|beauté|8|0}}
+{{Attaque-III|N.45|PRLVT Destin|-|-|5|intelligence|8|0}}
+{{Attaque-III|N.49|Souvenir|-|100|10|robustesse|8|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Gaz Toxik|-|55|40|intelligence|3}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|N.6|Purédpois|20|70|20|robustesse|3}}
+{{Attaque-IV|N.10|Brouillard|-|100|20|intelligence|2}}
+{{Attaque-IV|N.15|Assurance|50|100|10|beauté|2}}
+{{Attaque-IV|N.19|Destruction|200|100|5|beauté|0}}
+{{Attaque-IV|N.24|Détritus|65|100|20|robustesse|2}}
+{{Attaque-IV|N.28|Buée Noire|-|-|30|beauté|2}}
+{{Attaque-IV|N.33|Gyroballe|1|100|5|beauté|2}}
+{{Attaque-IV|N.37|Explosion|250|100|5|beauté|0}}
+{{Attaque-IV|N.42|Bomb-Beurk|90|100|10|robustesse|2}}
+{{Attaque-IV|N.46|PRLVT Destin|-|-|5|intelligence|0}}
+{{Attaque-IV|N.51|Souvenir|-|100|10|robustesse|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Gaz Toxik|-|80|40}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|N.6|Purédpois|20|70|20}}
+{{Attaque-V|N.10|Brouillard|-|100|20}}
+{{Attaque-V|N.15|Assurance|50|100|10}}
+{{Attaque-V|N.19|Bain de Smog|50|-|15}}
+{{Attaque-V|N.24|Destruction|200|100|5}}
+{{Attaque-V|N.28|Détritus|65|100|20}}
+{{Attaque-V|N.33|Buée Noire|-|-|30}}
+{{Attaque-V|N.37|Gyroballe|1|100|5}}
+{{Attaque-V|N.42|Explosion|250|100|5}}
+{{Attaque-V|N.46|Bomb-Beurk|90|100|10}}
+{{Attaque-V|N.51|PRLVT Destin|-|-|5}}
+{{Attaque-V|N.55|Souvenir|-|100|10}}
+{{Attaques apprises-bas}}
+
+===Localisations===
+
+Dans Pokémon Platine, Perle et Diamant: parfois dans le mont Abrupt
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-combat=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-sol=0
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison]], donc sur '''{{PAGENAME}}''', dans la [[première génération]].
+|rmq-insecte-num=1
+|rmq-sol=Les attaques de type [[Sol]] n'ont pas d'effet sur '''{{PAGENAME}}''' grâce à sa [[capacité spéciale]] [[Lévitation]]. Sans elle, ces attaques ont un effet double.
+|rmq-sol-num=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=poison
+|PV=40
+|attaque=65
+|defense=95
+|atq-spc=60
+|def-spc=45
+|vitesse=35
+|special=60
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Smogo
+| numero=109
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Smogo RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère 2]]''
+| artwork_supp2-img=Smogo-DM2.png{{!}}x125px
+| forme=1
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Smogo de James|Smogo]] fait sa première apparition dans l'[[épisode 2]] en tant que Pokémon de [[James]]. Il [[évolution|évolue]] dans l'[[épisode 31]]. Il reste dans son équipe jusqu'à son départ dans l'[[épisode 280]].
+
+Au cours du dessin animé, plusieurs [[dresseur]]s utilisent des [[Smogo]].
+
+Smogo réapparaît beaucoup plus tard à Unys où il est utilisé par [[Strykna]], lors du match contre Sacha. Étant donné qu'il connaît Smogo par cœur (car il en a affronté un pendant longtemps), Sacha parvient à le battre.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 742]]
+:Le Pokémon Gaz Mortel. Smogo flotte dans l'air grâce au gaz empoisonné qu'il contient. Ce gaz a une odeur ignoble et peut exploser.
+
+{{Ruban Pokémon
+| nomPrécédent=Excelangue
+| numéro=109
+| nom=Smogo
+| nomSuivant=Smogogo
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/109| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Koffing| ]]
+
+[[de:Smogon]]
+[[en:Koffing (Pokémon)]]
+[[es:Koffing]]
+[[it:Koffing]]
+[[ja:ドガース]]
+[[pl:Koffing]]
+[[pt:Koffing (pokémon)]]

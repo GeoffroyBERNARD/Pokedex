@@ -1,0 +1,328 @@
+{{Ruban Pokémon
+| nomPrécédent=Papilusion
+| numéro=013
+| nom=Aspicot
+| nomSuivant=Coconfort
+}}
+{{Infobox Pokémon 
+| nom=Aspicot
+| nomen=Weedle
+| nomja=ビードル
+| nomromaji=Bīdoru
+| nomtm=Beedle
+| nomde=Hornliu
+| légende=Artwork d'Aspicot pour {{RFVF}}
+| ndex=013
+| jdex=027
+| njdex=027
+| hdex=215
+| adex=057
+| espece=Insectopic
+| taille=0.3
+| poids=3.2
+| fmratio=.500 
+| oeufpas=3840 
+| effortval=+1 Vit.
+| type1=Insecte
+| type2=Poison
+| expval=52
+| expmax=1000000
+| captureval=255
+| groupoeuf1=Insecte
+| capspe1=Écran Poudre
+| capspe2=Fuite (capacité spéciale){{!}}Fuite
+| capspe2-reve=oui
+| couleur=Marron
+| forme=2
+}}
+'''Aspicot''' (anglais : '''Weedle''' ; japonais : '''ビードル''' ''Beedle'') est un Pokémon {{type|insecte}} et {{type|poison}} de la [[première génération]]. Il  est le Pokémon qui évolue le plus vite avec [[Chenipan]].
+
+==À propos du Pokémon==
+===Physionomie===
+Aspicot est à moitié chenille et à moitié asticot. Sa tête est recouvert d'un aiguillon empoisonné qui fait sa dangereuse réputation.
+
+Contrairement à son "rival" Chenipan, il est muni de petits yeux noirs et de quatorze petites pattes rondes et violettes le long de son corps marron clair. Au bout de sa queue, il possède un autre aiguillon empoisonné qui lui sert beaucoup moins. Il n'a pas de bouche ni d'oreille, mais a un gros nez violet de forme ovale. 
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Aspicot possède un corps doré et son nez et ses pattes deviennent roses.
+
+===Évolution===
+Aspicot évolue en [[Coconfort]] à partir du [[niveau]] 7, qui évolue en [[Dardargnan]] à partir du niveau 10.
+
+{{TableauEvolutionHaut|Insecte|Aspicot}}
+{{TableauEvolutionSimple|[[Niveau]] 7|Coconfort}}
+{{TableauEvolutionSimple|[[Niveau]] 10|Dardargnan}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+[[Écran poudre]] : annule les effets cumulés d'une attaque ennemie.
+
+===Étymologies===
+* Français : '''As'''ticot et '''Picot''' et '''Aspic''', un serpent dont la piqûre est venimeuse.
+* Anglais : Wee (Minuscule) + Needle (Aiguille)
+* Japonais : xxx.
+* Allemand : Vient de horn (corne)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Il se nourrit de feuilles dans les fôrets. L'aiguillon sur son front est empoisonné..
+;[[Pokémon Jaune]]
+: Prenez garde à la pique empoisonnée sur son front. Il se cache dans les buissons et les hautes herbes.
+;[[Pokémon Stadium]]
+: On en trouve des tas dans les forêts et les hautes herbes. Son pic empoisonné le défendra si quelqu'un lui marche dessus.
+;[[Pokémon Or]]
+: Son aiguillon empoisonné est très dangereux. Son corps est coloré pour repousser ses ennemis.
+;[[Pokémon Argent]]
+: Il attaque grâce au pic empoisonné de sa tête. Il se cache sous les feuilles qu'il mange.
+;[[Pokémon Cristal]]
+: Son aiguillon empoisonné est très dangereux. Il l'utilise pour se protéger de ses ennemis.
+;[[Pokémon Rubis et Saphir]]
+: L'odorat d'{{PCap|Aspicot}} est extrêmement développé. Il lui suffit de renifler ses feuilles préférées avec son gros appendice nasal pour les reconnaître entre mille.
+;[[Pokémon Émeraude]]
+: L'odorat d'{{PCap|Aspicot}} est très développé. Il lui suffit de renifler ses feuilles préférées avec son gros appendice nasal pour les reconnaître entre mille.
+;[[Pokémon Rouge Feu]]
+:On trouve souvent ce {{PCap|Pok}}é{{PCap|mon}} dans les forêts et les hautes herbes. L'aiguillon de 5 cm sur sa tête contient un venin très toxique.
+;[[Pokémon Vert feuille]]
+:Il vit dans les forêts et se nourrit essentiellement de feuilles. L'aiguillon sur sa tête est empoisonné.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Il mange chaque jour son poids en feuilles. Il utilise l'aiguillon sur sa tête pour repousser l'ennemi.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en crachant de la soie gluante.
+;[[Pokémon Or HeartGold]]
+:Son aiguillon empoisonée est très dangereux. Son corps est coloré afin de repousser ses ennemis.
+;[[Pokémon Argent SoulSilver]]
+:Il attaque grâce au pic empoisonné de sa tête. Il se cache sous les feuilles qu'il mange.
+;[[Pokémon Noir et Blanc]]
+:Il mange chaque jour son poids en feuilles. Il utilise l'aiguillon sur sa tête pour repousser l'ennemi.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:100px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:280px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Insecte}}; width:170px" | Pourcentage de rencontre
+|-
+| rowspan="4" style="vertical-align: middle;" | ''[[Pokémon Rouge]]'' || rowspan="4" style="vertical-align: middle;" | Commun || [[Route 2 (Kanto)|Route 2]] || N. 3-5 || 15%
+|-
+| [[Route 24]] || N. 7 || 25%
+|-
+| [[Route 25]] || N. 8 || 25%
+|-
+| [[Forêt de Jade]] || N. 3-5 || 50%
+|-
+| rowspan="2" style="vertical-align: middle;" | ''[[Pokémon Bleu]]'' || rowspan="2" style="vertical-align: middle;" | Rare || [[Route 25]] || N. 8 || 1%
+|-
+| [[Forêt de Jade]] || N. 3 || 5%
+|-
+| ''[[Pokémon Jaune]]'' || Inexistant || doit être échangé avec {{RB}} || - || -
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+!rowspan="2" style="background-color:{{Couleur|Insecte}}; width:100px"  |Version
+!rowspan="2" style="background-color:{{Couleur|Insecte}}; width:80px" |Rareté
+!rowspan="2" style="background-color:{{Couleur|Insecte}}; width:260px" |Lieu
+!rowspan="2" style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+!colspan="3" style="background-color:{{Couleur|Insecte}}; width:170px" |Pourcentage de rencontre  
+|-
+|[[Fichier:Matin icone.png|30px|Matin|link=Temps]]||[[Fichier:Jour icone.png|30px|Jour|link=Temps]]||[[Fichier:Nuit icone.png|30px|Nuit|link=Temps]]
+|-
+|''[[Pokémon Or]]''||Peu commun||[[Parc Naturel]] ([[Concours de capture d'insecte]])||7-18||colspan="3"|20%
+|-
+|rowspan="5" style="vertical-align: middle;"|''[[Pokémon Argent]]''||rowspan="5" style="vertical-align: middle;"|Commun||[[Route 30]]||3-4||35%||50%||0%
+|-
+|[[Route 31]]||4-5||30%||35%||0%
+|-
+|[[Bois aux chênes]]||5-6||50%||60%||0%
+|-
+|[[Parc Naturel]]||10-12||50%||30%||0%
+|-
+|[[Parc Naturel]] ([[Concours de capture d'insecte]])||7-18||colspan="3"|20%
+|-
+|rowspan="5" style="vertical-align: middle;"|''[[Pokémon Cristal]]''||rowspan="5" style="vertical-align: middle;"|Commun||[[Route 30]]||3||5%||5%||0% 
+|-
+|[[Route 31]]||4||5%||5%||0%
+|-
+|[[Bois aux chênes]]||5||30%||30%||0%
+|-
+|[[Parc Naturel]]||10-12||5%||5%||0%
+|-
+|[[Parc Naturel]] ([[Concours de capture d'insecte]])||7-18||colspan="3"|20%
+|}
+
+===[[Troisième génération]]===
+
+===[[Quatrième génération]]===
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire un [[oeuf]] de [[Dardargnan]] ou de [[Coconfort]] à la [[Pension]]
+| style="vertical-align:middle;" | N/A
+|}
+===[[Sixième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:120px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="background:#6050DC;"|{{couleur lien|#FFFFFF|X}}
+| rowspan="2" style="vertical-align: middle;" | ?
+| rowspan="2" style="vertical-align: middle;" | À venir
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#DE2916;"| {{couleur lien|#FFFFFF|Y}}
+|-
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Dard-Venin|15|100|35}}
+{{Attaque|Départ|Sécrétion|-|95|40}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Dard-Venin|15|100|35}}
+{{Attaque|Départ|Sécrétion|-|95|40}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|Départ|Sécrétion|-|95|40|intelligence|2|3}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|Départ|Sécrétion|-|95|40|intelligence|2}}
+{{Attaque-IV|N.15{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Piqûre|60|100|20|robustesse|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Dard-Venin|15|100|35}}
+{{Attaque-V|Départ|Sécrétion|-|95|40}}
+{{Attaque-V|N.15|Piqûre|60|100|20}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| class="wikitable"
+! Numéro || [[Bleu]]/[[Rouge]]/[[Jaune]] || [[Or]]/[[Pokémon Or et Argent|Argent]]/[[Cristal]] || [[Rubis]]/[[Saphir]]/[[Pokémon Émeraude|Émeraude]]/[[RF]]/ [[VF]] || [[Diamant]]/[[Perle]]
+|}
+
+===Par [[reproduction]]===
+
+
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=insecte
+|sensib-combat=0.25
+|sensib-feu=2
+|sensib-insecte=0.5
+|sensib-plante=0.25
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-roche=2
+|sensib-vol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison (type)|Poison]] -donc sur '''Aspicot'''- dans la [[première génération]].
+|rmq-insecte-num=1
+|rmq-poison=Les attaques de type [[Poison (type)|Poison]] étaient très efficaces sur les Pokémon de type [[Insecte]] dans la [[première génération]]. De ce fait, elles possédaient dans cette génération une efficacité normale sur '''Aspicot''' dans la mesure où ce dernier possède un double type [[Poison (type)|Poison]] qui lui est résistant à ces attaques.
+|rmq-poison-num=2
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=insecte
+|PV=40
+|attaque=35
+|defense=30
+|atq-spc=20
+|def-spc=20
+|vitesse=50
+|special=20
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Aspicot
+| numero=013
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Aspicot RB.png
+| forme=2
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_4G-fm=non
+| pinballRB-gif=oui
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Aspicot a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 38. Pour plus d'informations, voir ''[[Aspicot (Premier Défi 38)]]''.
+
+[[Fichier:JFC-Premier Défi-38.png|thumb|center|La figurine d'Aspicot]]
+
+==Apparitions dans le [[dessin animé]]==
+
+Aspicot apparaît dans l'[[épisode 4]], lorsque [[Sacha]] veut en capturer un. Sacha rate de peu, du fait que le samourai l'ait interpelé, permettant ainsi à l'Aspicot de s'enfuir.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 4]]
+: L'aiguillon sur la tête de ce {{PCap|Pok}}é{{PCap|mon}} est très douloureux et il sait où piquer pour que ça fasse très mal.
+
+{{Ruban Pokémon
+| nomPrécédent=Papilusion
+| numéro=013
+| nom=Aspicot
+| nomSuivant=Coconfort
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/13| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Weedle| ]]
+
+[[de:Hornliu]]
+[[en:Weedle (Pokémon)]]
+[[es:Weedle]]
+[[it:Weedle]]
+[[ja:ビードル]]
+[[pl:Weedle]]
+[[pt:Weedle (pokémon)]]

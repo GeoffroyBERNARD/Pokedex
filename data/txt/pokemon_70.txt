@@ -1,0 +1,378 @@
+{{Ruban Pokémon
+| nomPrécédent=Chétiflor
+| numéro=070
+| nom=Boustiflor
+| nomSuivant=Empiflor
+}}
+{{Infobox Pokémon
+| nom=Boustiflor
+| nomen=Weepinbell
+| nomja=ウツドン
+| nomtm=Utsudon
+| nomde=Ultrigaria
+| légende=Artwork de Boustiflor pour {{RFVF}}
+| ndex=070
+| jdex=065
+| hdex=251
+| fdex=005
+| type1=Plante
+| type2=Poison
+| espece=Carnivore
+| taille=1.0
+| poids=6.4
+| capspe1=Chlorophyle
+| capspe2=Gloutonnerie
+| capspe2-reve=oui
+| groupoeuf1=Plante
+| oeufpas=5120
+| effortval=+2 Att.
+| expval=151
+| expmax=1059860
+| fmratio=.5 
+| captureval=120
+| couleur=Vert
+| forme=5}}
+'''Boustiflor''' (anglais : '''Weepinbell''' ; japonais : '''ウツドン''' ''Utsudon'') est la première [[évolution]] de [[Chétiflor]] et un Pokémon de [[type]] {{type|plante}} et {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Boustiflor est l'évolution de [[Chétiflor]] à partir du [[niveau]] 21, et peut évoluer en [[Empiflor]] s'il est mis en contact avec une [[Pierre Plante]].
+
+{{TableauEvolutionHaut|Plante|Chétiflor}}
+{{TableauEvolutionSimple|Niveau 21|Boustiflor}}
+{{TableauEvolutionSimple|Avec une [[Pierre Plante]]|imageObjet=Miniat pierre plante dp.png|Empiflor}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+La capacité spéciale [[Chlorophyle]] permet à Boustiflor de voir sa vitesse augmenter si le soleil brille (suite à une utilisation de [[Zénith]], ou à l'apparition de [[Groudon]] ou [[Feunard]] et de leurs capacités spéciales [[Sécheresse]] plus tôt dans le match).
+
+===Étymologies===
+* Français : vient de ''boustifaille'' et de ''flor''
+* Allemand : vient de ''Ultra'' et de ''Geraniaceae[http://4.bp.blogspot.com/_U5oECNBru3g/RXZgDjLV4JI/AAAAAAAAAA0/kgmed-0wcaY/s400/geranium+carolinianum+(wild+geranium)+geraniaceae.JPG]''
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il crache de la {{PCap|[[Poudre Toxik]]}} pour immobiliser sa proie et il l'achève avec de l'{{PCap|[[Acide]]}}.
+;[[Pokémon Jaune]]
+:Il peut avaler et digérer n'importe quoi grâce à l'hyperacidité de son estomac vorace.
+;[[Pokémon Stadium]]
+:Armé de feuilles fines comme un rasoir, il utilise son pollen toxique pour immobiliser l'ennemi et le dissoudre à coup d'{{PCap|[[Acide]]}}.
+;[[Pokémon Or]]
+:Il sécrète de l'{{PCap|[[Acide]]}} mais il ne se consume pas car il produit aussi un élément qui le neutralise.
+;[[Pokémon Argent]]
+:Si sa proie est plus grande que sa bouche, il la découpe avec ses feuilles acérées puis la dévore.
+;[[Pokémon Cristal]]
+:Affamé, il remue ses feuilles acérées et tranche sans scrupule tout ce qui l'entoure.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Boustiflor}} est doté d'un gros crochet sur l'arrière. La nuit, ce {{PCap|Pok}}é{{PCap|mon}} s'accroche à une branche pour s'endormir. Quand il a un sommeil agité, il se réveille par terre.
+;[[Pokémon Émeraude]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est doté d'un gros crochet. La nuit, il s'accroche à une branche pour s'endormir. Quand il a un sommeil agité, il se réveille par terre.
+;[[Pokémon Rouge Feu]]
+:Ses membres en forme de feuilles permettent à {{PCap|Boustiflor}} de trancher ses adversaires. Il crache un fluide capable de tout dissoudre.
+;[[Pokémon Vert Feuille]]
+:Il crache de la {{PCap|[[Poudre Toxik]]}} pour immobiliser sa proie et il l'achève avec de l'{{PCap|[[Acide]]}}.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Boustiflor}} avale les imprudents et les renvoie d'où ils viennent en les crachant.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Un {{PCap|Pok}}é{{PCap|mon}} végétal. Il capture les proies étourdies en les endormant à l'aide d'une poudre toxique.
+;[[Pokémon Or HeartGold|Pokémon Or HeartGold]]
+:Il sécrète de l'acide qui ne se consume pas car il produit aussi un élément qui le neutralise.
+;[[Pokémon Argent SoulSilver]]
+:Si sa proie est plus grande que sa bouche, il la découpe avec ses feuilles acérées puis la dévore.
+;[[Pokémon Noir et Blanc]]
+:Un Pokémon végétal. Il capture les proies étourdies en les endormant à l'aide d'une poudre toxique.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || À obtenir par échange.
+|-
+| [[Bleu]] || Rare || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]]
+|-
+| [[Jaune]] || Commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]] et [[Grotte Inconnue]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Rare || Routes [[Route 24|24]], [[Route 25|25]] et [[Route 44|44]]
+|-
+| [[Pokémon Or et Argent|Argent]] || Rare || Routes [[Route 24|24]], [[Route 25|25]] et [[Route 44|44]]
+|-
+| [[Cristal]] || Rare || [[Route 44]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Inexistant || À obtenir par échange.
+|-
+| [[Vert Feuille]] || Commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]] et [[Îles Sévii]]
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Unique ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Diamant]] et [[Perle]] || rowspan="4" style="vertical-align: middle;" |Commun || [[Route 224]] || N. 53 || 5%
+|-
+| [[Route 229]] - [[Temps|Matinée et Nuit]] || N. 51-52 || 20%
+|-
+| [[Route 229]] - [[Temps|Jour]] || N. 51-52 || 30%
+|-
+| [[Route 230]] || N. 50 || 20%
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Chétiflor]]
+| style="vertical-align:middle;" | 21
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Fouet Lianes|35|100|10}}
+{{Attaque|Départ|Croissance|-|-|40}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|Départ|Poudre Toxik|-|75|35}}
+{{Attaque|Départ|Poudre Dodo|-|75|15}}
+{{Attaque|N.23|Para-Spore|-|75|30}}
+{{Attaque|N.29|Acide|40|100|30}}
+{{Attaque|N.38|Tranch'Herbe|55|95|25}}
+{{Attaque|N.49|Souplesse|80|75|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Fouet Lianes|35|100|10}}
+{{Attaque|Départ|Croissance|-|-|40}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|Départ|Poudre Dodo|-|75|15}}
+{{Attaque|Départ|Poudre Toxik|-|75|35}}
+{{Attaque|Départ|Para-Spore|-|75|30}}
+{{Attaque|N.24|Acide|40|100|30}}
+{{Attaque|N.33|Doux Parfum|-|100|20}}
+{{Attaque|N.42|Tranch'Herbe|55|95|25}}
+{{Attaque|N.54|Souplesse|80|75|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Fouet Lianes|35|100|10|sang-froid|4|0}}
+{{Attaque-III|Départ<br>N.6|Croissance|-|-|40|beauté|1|0}}
+{{Attaque-III|Départ<br>N.11|Ligotage|15|85|20|robustesse|3|0}}
+{{Attaque-III|N.15|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.17|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.19|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|N.24|Acide|40|100|30|intelligence|1|4}}
+{{Attaque-III|N.33|Doux Parfum|-|100|20|grâce|1|3}}
+{{Attaque-III|N.42|Tranch'Herbe|55|95|25|sang-froid|3|0}}
+{{Attaque-III|N.54|Souplesse|80|75|20|robustesse|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Fouet Lianes|35|100|15|sang-froid|3}}
+{{Attaque-IV|Départ<br>N.7|Croissance|-|-|40|beauté|0}}
+{{Attaque-IV|Départ<br>N.11|Ligotage|15|85|20|robustesse|0}}
+{{Attaque-IV|N.13|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.15|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.17|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|N.23|Acide|40|100|30|intelligence|3}}
+{{Attaque-IV|N.27|Sabotage|20|100|20|intelligence|3}}
+{{Attaque-IV|N.29|Doux Parfum|-|100|20|grâce|2}}
+{{Attaque-IV|N.35|Suc Digestif|-|100|10|beauté|2}}
+{{Attaque-IV|N.39|Tranch'Herbe|55|95|25|sang-froid|3}}
+{{Attaque-IV|N.41|Souplesse|80|75|20|robustesse|3}}
+{{Attaque-IV|N.47|Essorage|1|100|5|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Fouet Lianes|35|100|15}}
+{{Attaque-V|Départ<br>N.7|Croissance|-|-|40}}
+{{Attaque-V|Départ<br>N.11|Ligotage|15|90|20}}
+{{Attaque-V|N.13|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.15|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.17|Para-Spore|-|75|30}}
+{{Attaque-V|N.23|Acide|40|100|30}}
+{{Attaque-V|N.27|Sabotage|20|100|20}}
+{{Attaque-V|N.29|Doux Parfum|-|100|20}}
+{{Attaque-V|N.35|Suc Digestif|-|100|10}}
+{{Attaque-V|N.39|Tranch'Herbe|55|95|25}}
+{{Attaque-V|N.41|Souplesse|80|75|20}}
+{{Attaque-V|N.47|Essorage|1|100|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=plante
+|sensib-glace=2
+|sensib-combat=0.5
+|sensib-vol=2
+|sensib-feu=2
+|sensib-électrique=0.5
+|sensib-eau=0.5
+|sensib-plante=0.25
+|sensib-psy=2
+|rmq-insecte=Dans les jeux de la [[première génération]], '''{{PAGENAME}}''' est faible aux attaques de type [[Insecte]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=plante
+|PV=65
+|attaque=90
+|defense=50
+|atq-spc=85
+|def-spc=45
+|vitesse=55
+|special=85
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Boustiflor
+| numero=070
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Boustiflor RB.png
+| forme=5
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Première apparition dans l'[[épisode 9]].<br/>
+[[Sacha]] combattra contre celui d'[[Erika]] dans l'[[épisode 26]].<br/>
+[[James]] en aura possédé deux, qui auront tous les deux évolué en [[Empiflor]] puis seront partis.
+
+===Descriptions du [[Pokédex]]===
+
+{{Ruban Pokémon
+| nomPrécédent=Chétiflor
+| numéro=070
+| nom=Boustiflor
+| nomSuivant=Empiflor
+}}
+
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Plante]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/70| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Weepinbell| ]]
+
+[[de:Ultrigaria]]
+[[en:Weepinbell (Pokémon)]]
+[[es:Weepinbell]]
+[[it:Weepinbell]]
+[[ja:ウツドン]]
+[[pl:Weepinbell]]
+[[pt:Weepinbell (pokémon)]]

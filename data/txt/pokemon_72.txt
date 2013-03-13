@@ -1,0 +1,381 @@
+{{Ruban Pokémon
+| nomPrécédent=Empiflor
+| numéro=072
+| nom=Tentacool
+| nomSuivant=Tentacruel
+}}
+{{Infobox Pokémon
+| nom=Tentacool
+| nomen=Tentacool
+| nomja=メノクラゲ
+| nomtm=Menokurage
+| nomde=Tentacha
+| légende=Artwork de Tentacool pour {{RFVF}}
+| ndex=072
+| jdex=162
+| njdex=164
+| hdex=066
+| sdex=136
+| odex=R-276
+| type1=Eau
+| type2=Poison
+| espece=Mollusque
+| taille=0.9
+| poids=45.5
+| capspe1=Corps Sain
+| capspe2=Suintement
+| capspe3=Cuvette
+| groupoeuf1=Eau 3
+| oeufpas=5120
+| effortval=+1 Déf. Spé
+| expval=105
+| expmax=1250000
+| fmratio=.5 
+| captureval=190
+| couleur=Bleu
+| forme=10}}
+'''Tentacool''' (anglais : '''Tentacool''' ; japonais : '''メノクラゲ''' ''Menokurage'') est un [[Pokémon]] de base de [[type]] {{type|eau}} et {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Tentacool peut évoluer en [[Tentacruel]] à partir du [[niveau]] 30.
+{{TableauEvolutionHaut|Eau|Tentacool}}
+{{TableauEvolutionSimple|Niveau 30|Tentacruel}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Tentacool dispose soit de la capacité spéciale [[Corps Sain]], qui le protège des diminutions de statistiques provoquées par les attaques d'un autre Pokémon (comme [[Rugissement]]) mais non des baisses de statistique dues à ses propres attaques (comme l'usage de [[Marto-Poing]]), soit de la capacité spéciale [[Suintement]], qui a pour effet lorsqu'un adversaire utilise une attaque qui devrait drainer ses [[Points de Vie]] (comme [[Giga-Sangsue]]) de lui causer au contraire des dégâts équivalents au nombre de points de vies qui auraient du être récupéré -Tentacool sera par contre blessé normalement par l'attaque-.
+
+===Étymologies===
+* Français, Anglais : de tentacule et cool
+* Allemand : vient de ''Tentakel''(tentacule) et de ''acht''(huit)
+* Japonais : Kurage signifie méduse
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Flottant au bord des cotes, les pêcheurs se font souvent arroser d'acide quand ils en accrochent un.
+;[[Pokémon Jaune]]
+:Certains échouent sur la plage et sèchent sur le sable. Poussez-les dans l'eau et ils revivent.
+;[[Pokémon Stadium]]
+:Il lance des rayons lumineux de ses yeux. Il flotte dans les eaux peu profondes et pique les pêcheurs imprudents.
+;[[Pokémon Or]]
+:Quand la marée descend, il est assez fréquent de retrouver des {{PCap|Tentacool}} échoués sur le sable.
+;[[Pokémon Argent]]
+:Il se laisse porter par le courant. Il est difficile à voir jusqu'à ce qu'il pique.
+;[[Pokémon Cristal]]
+:En flottant à la surface de l'eau, il pique tout ce qu'il croise de ses tentacules empoisonnées.
+;[[Pokémon Rubis]]
+:Le corps de {{PCap|Tentacool}} est principalement aqueux. Si on le retire de l'eau, il se déshydrate complètement. Si cela arrive, il suffit de le replonger dans un liquide pour qu'il reprenne sa forme normale.
+;[[Pokémon Saphir]]
+:Grâce à l'eau de son corps, {{PCap|Tentacool}} convertit la lumière du soleil absorbée et la renvoie sous forme de rayon d'énergie. Ce {{PCap|Pok}}é{{PCap|mon}} lance ces rayons par ses yeux, semblables à des cristaux.
+;[[Pokémon Émeraude]]
+:Son corps est presque entièrement composé d'eau. Il enlace ses adversaires de ses deux longs tentacules avant de leur injecter du poison.
+;[[Pokémon Rouge Feu]]
+:Ses yeux sont aussi transparents que du cristal. Grâce à eux, il peut tirer de puissants rayons lumineux.
+;[[Pokémon Vert Feuille]]
+:Il vit en bord de mer. Les pêcheurs se font souvent arroser d'acide quand ils en accrochent un.
+;[[Pokémon Diamant]]
+:Son corps est principalement composé d'eau. Ses yeux cristallins projettent d'étranges rayons.
+;[[Pokémon Perle]]
+:Il dérive au gré des courants marins. De nombreux pêcheurs sont blessés par ses piqûres toxiques.
+;[[Pokémon Platine]]
+:Presque entièrement composé d'eau, son corps a tendance à se dessécher sur la terre ferme.
+;[[Pokémon Or HeartGold]]
+:Quand la marée descend, il est assez fréquent de retrouver des {{PCap|Tentacool}} échoués sur le sable.
+;[[Pokémon Argent SoulSilver]]
+:Il se laisse porter par le courant. Il est difficile à voir jusqu'à ce qu'il pique.
+;[[Pokémon Noir et Blanc]]
+:Presque entièrement composé d'eau, son corps a tendance à se dessécher sur la terre ferme.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:280px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| rowspan="2" style="vertical-align: middle;" | {{RBJ}}
+| rowspan="2" style="vertical-align: middle;" | Commun
+| style="vertical-align: middle;" |  [[Carmin-sur-Mer]]
+|-
+| style="vertical-align: middle;" | [[Bug-ville]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:280px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| rowspan="3" style="vertical-align: middle;" |{{OAC}}
+| rowspan="3" style="vertical-align: middle;" | Commun
+| style="vertical-align: middle;" | [[Oliville]]
+|-
+| style="vertical-align: middle;" | [[Carmin-sur-Mer]]
+|-
+| style="vertical-align: middle;" | [[Acajou]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:280px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| rowspan="2" style="vertical-align: middle;" |{{RSE}}
+| rowspan="2" style="vertical-align: middle;" | Commun
+| style="vertical-align: middle;" | [[Route 103]] et [[Route 110]]
+|-
+| style="vertical-align: middle;" | [[Chenal 105]], [[Chenal 106]], [[Chenal 107]], [[Chenal 108]] et [[Chenal 109]]
+|-
+| style="vertical-align: middle;" |{{RFVF}}
+| style="vertical-align: middle;" |Commun
+| style="vertical-align: middle;" | À venir.
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:280px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| [[Diamant]] || Commun || À venir.
+|-
+| [[Perle]] || Commun || À venir.
+|}
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:280px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="vertical-align: middle;" |{{NB}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Acide|40|100|30}}
+{{Attaque|N.13|Ligotage|15|85|20}}
+{{Attaque|N.17|Ultrason|-|55|20}}
+{{Attaque|N.18|Dard-Venin|15|100|35}}
+{{Attaque|N.22|Pistolet à O|40|100|25}}
+{{Attaque|N.27|Constriction|10|100|35}}
+{{Attaque|N.33|Bouclier|-|-|30}}
+{{Attaque|N.40|Grincement|-|85|40}}
+{{Attaque|N.48|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Dard-Venin|15|100|35}}
+{{Attaque|N.6|Ultrason|-|55|20}}
+{{Attaque|N.12|Ligotage|15|85|20}}
+{{Attaque|N.19|Acide|40|100|30}}
+{{Attaque|N.25|Bulles d'O|65|100|20}}
+{{Attaque|N.30|Constriction|10|100|35}}
+{{Attaque|N.36|Bouclier|-|-|30}}
+{{Attaque|N.43|Grincement|-|85|40}}
+{{Attaque|N.49|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|N.6|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.12|Constriction|10|100|35|robustesse|2|3}}
+{{Attaque-III|N.19|Acide|40|100|30|intelligence|1|4}}
+{{Attaque-III|N.25|Bulles d'O|65|100|20|beauté|1|3}}
+{{Attaque-III|N.30|Ligotage|15|85|20|robustesse|3|0}}
+{{Attaque-III|N.36|Bouclier|-|-|30|sang-froid|1|0}}
+{{Attaque-III|N.43|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.49|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|N.5|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|N.8|Constriction|10|100|35|robustesse|0}}
+{{Attaque-IV|N.12|Acide|40|100|30|intelligence|3}}
+{{Attaque-IV|N.15|Pics Toxik|-|-|20|intelligence|2}}
+{{Attaque-IV|N.19|Bulles d'O|65|100|20|beauté|2}}
+{{Attaque-IV|N.22|Ligotage|15|85|20|robustesse|0}}
+{{Attaque-IV|N.26|Bouclier|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.29|Vibraqua|60|100|20|beauté|2}}
+{{Attaque-IV|N.33|Direct Toxik|80|100|20|intelligence|2}}
+{{Attaque-IV|N.36|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.40|Hydrocanon|120|80|5|beauté|2}}
+{{Attaque-IV|N.43|Essorage|1|100|5|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Dard-Venin|15|100|35}}
+{{Attaque-V|N.5|Ultrason|-|55|20}}
+{{Attaque-V|N.8|Constriction|10|100|35}}
+{{Attaque-V|N.12|Acide|40|100|30}}
+{{Attaque-V|N.15|Pics Toxik|-|-|20}}
+{{Attaque-V|N.19|Bulles d'O|65|100|20}}
+{{Attaque-V|N.22|Ligotage|15|90|20}}
+{{Attaque-V|N.26|Bombe Acide|40|100|20}}
+{{Attaque-V|N.29|Bouclier|-|-|30}}
+{{Attaque-V|N.33|Vibraqua|60|100|20}}
+{{Attaque-V|N.36|Direct Toxik|80|100|20}}
+{{Attaque-V|N.40|Grincement|-|85|40}}
+{{Attaque-V|N.43|Châtiment|50|100|10}}
+{{Attaque-V|N.47|Hydrocanon|120|80|5}}
+{{Attaque-V|N.50|Cradovague|95|100|10}}
+{{Attaque-V|N.54|Essorage|1|100|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=Eau
+|sensib-acier=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-poison=0.5
+|sensib-sol=2
+|sensib-psy=2
+|sensib-insecte=0.5
+|sensib-eau=0.5
+|sensib-glace=0.5
+}}
+
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=40
+|attaque=40
+|defense=35
+|atq-spc=50
+|def-spc=100
+|vitesse=70
+|special=100
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Tentacool
+| numero=072
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Tentacool RB.png
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| forme=10
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+{{PCap|[[Tentacool]]}} fait sa première apparition dans l'[[épisode 19]]. Il a été peu vu depuis.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 19]]
+:{{PCap|Pok}}é{{PCap|mon}} Méduse. Il est composé à 99% d'eau.
+
+{{Ruban Pokémon
+| nomPrécédent=Empiflor
+| numéro=072
+| nom=Tentacool
+| nomSuivant=Tentacruel
+}}
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/72| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Tentacool| ]]
+
+[[de:Tentacha]]
+[[en:Tentacool (Pokémon)]]
+[[es:Tentacool]]
+[[it:Tentacool]]
+[[ja:メノクラゲ]]
+[[pl:Tentacool]]
+[[pt:Tentacool (pokémon)]]

@@ -1,0 +1,231 @@
+{{Ruban Pokémon
+| nomPrécédent=Stari
+| numéro=121
+| nom=Staross
+| nomSuivant=M. Mime
+}}
+{{Infobox Pokémon
+| nom=Staross
+| nomen=Starmie
+| nomja=スターミー
+| nomtm=Starmie
+| nomromaji=Sutāmī
+| nomde=Starmie
+| légende=Artwork de Staross pour {{RFVF}}
+| ndex=121
+| jdex=168
+| njdex=170
+| hdex=144
+| fdex=113
+| adex=095
+| espece=Mystérieux
+| taille=1.1
+| poids=80.0
+| fmratio=-1
+| oeufpas=5120
+| effortval=+2 Vit.
+| type1=Eau
+| type2=Psy
+| expval=207
+| expmax=1250000
+| captureval=60
+| groupoeuf1=Eau 3
+| groupoeuf2=
+| capspe1=Médic Nature
+| capspe2=Lumiattirance
+| capspe3=Analyste
+| couleur=Violet
+| forme=5}}
+'''Staross''' (anglais : '''Starmie''' ; japonais : '''スターミー''' ''Starmie'') est un [[Pokémon]] de [[type]]s {{type|eau}} et {{type|psy}} de la [[première génération]] et l'[[évolution]] de [[Stari]]. Il est l'un des Pokémon préférés d'{{da|Ondine}}.
+
+==À propos du Pokémon==
+===Physionomie===
+====Différences mâle/femelle====
+
+Ce Pokémon est asexué, il n'y a donc pas de Staross mâle ou femelle.
+
+====Évolution====
+
+Staross est l'évolution de [[Stari]] lorsqu'il est mis en contact avec une [[Pierre Eau]].
+{{TableauEvolutionHaut|Eau|Stari}}
+{{TableauEvolutionSimple|Avec une [[Pierre Eau]]|imageObjet=Miniat pierre eau dp.png|Staross}}
+{{TableauEvolutionBas}}
+
+===Capacité spéciale===
+
+Staross possède soit la capacité spéciale [[Médic Nature]], qui soigne ses problèmes de statut s'il est switché ou si le combat est terminé, ou alors [[Lumiattirance]] qui attirera 2 fois plus de Pokémon sauvages.
+
+===Étymologies===
+
+* Français : vient de ''star'' (mot anglais pour étoile) et ''us'' (mot anglais signifiant "nous")
+* Anglais, Allemand, Japonais : vient de ''star'' (étoile) et ''me'' (moi)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Son cœur brille des couleurs de l'arc-en-ciel. On dit que c'est une pierre précieuse.
+;[[Pokémon Jaune]]
+:Quand le centre de son corps, appelé le cœur, brille de 7 couleurs, il essaie de parler.
+;[[Pokémon Stadium]]
+:Loin des yeux des humains, on raconte que son cœur brille de sept étranges couleurs. On le dit originaire de l'espace.
+;[[Pokémon Or]]
+:La partie centrale de son corps est appelée le cœur. Il brille d'une couleur différente à chaque fois.
+;[[Pokémon Argent]]
+:Quel que soit son environnement, son corps grandit de façon à créer une forme géométrique et symétrique.
+;[[Pokémon Cristal]]
+:On dit qu'il peut envoyer des ondes dans l'espace avec la partie centrale et colorée de son corps.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Staross}} nage en faisant tournoyer son corps en forme d'étoile, un peu à la manière d'une hélice de bateau. le cœur au centre du corps de ce {{PCap|Pok}}é{{PCap|mon}} brille de sept couleurs.
+;[[Pokémon Émeraude]]
+:Autrefois, les gens pensaient que les {{PCap|Staross}} provenaient du reflet des étoiles sur les vagues lors d'une nuit paisible.
+;[[Pokémon Rouge Feu]]
+:Le corps de ce {{PCap|Pok}}é{{PCap|mon}} à une forme géométrique. À cause de cette particularité, les pêcheurs racontent que ce {{PCap|Pok}}é{{PCap|mon}} vient d'une autre planète.
+;[[Pokémon Vert Feuille]]
+:Son cœur brille des couleurs de l'arc-en-ciel. On raconte que c'est une pierre précieuse.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: {{PCap|Staross}} tournoie pour attaquer. Il se déplace rapidement à la surface de l'eau.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Un noyau rouge trône en son centre. Il envoie des signaux radio mystérieux vers le ciel nocturne.
+;[[Pokémon Ranger 2]]
+:Il attaque en lançant des orbes bizarres et en tournoyant.
+;[[Pokémon Or HeartGold]]
+:La partie centrale de son corps est appelée le coeur. Il brille d'une couleur différent à chaque fois.
+;[[Pokémon Argent SoulSilver]]
+:Quel que soit son environnement, son corps grandit de façon à créer une forme géométrique et symétrique.
+;[[Pokémon Noir et Blanc]]
+:Un noyau rouge trône en son centre. Il envoie des signaux radio mystérieux vers le ciel nocturne.
+
+==Localisations==
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Surf]] à la [[Route 13 (Unys)|Route 13]] ([[Tourbillons]])
+| style="vertical-align:middle;" | N/A
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I|type=Eau}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|Départ|Armure|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II|type=Eau}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Armure|-|-|30}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|N.37|Onde Folie|-|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III|type=Eau}}
+{{Attaque-III|Départ|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|Départ|Tour Rapide|20|100|40|sang-froid|2|0}}
+{{Attaque-III|Départ|Soin|-|-|20|intelligence|2|1}}
+{{Attaque-III|Départ|Météores|60|-|20|sang-froid|2|0}}
+{{Attaque-III|N.33|Onde Folie|-|100|10|intelligence|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1|type=Eau}}
+{{Attaque-IV|Départ|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|Départ|Tour Rapide|20|100|40|sang-froid|2}}
+{{Attaque-IV|Départ|Soin|-|-|10|intelligence|0}}
+{{Attaque-IV|Départ|Météores|60|-|20|sang-froid|2}}
+{{Attaque-IV|N.28|Onde Folie|-|100|10|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1|type=Eau}}
+{{Attaque-V|Départ|Pistolet à O|40|100|25}}
+{{Attaque-V|Départ|Tour Rapide|20|100|40}}
+{{Attaque-V|Départ|Soin|-|-|10}}
+{{Attaque-V|Départ|Météores|60|-|20}}
+{{Attaque-V|N.28|Onde Folie|-|100|10}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+{{Sensibilités
+|type=eau
+|sensib-acier=0.5
+|sensib-combat=0.5
+|sensib-eau=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-insecte=2
+|sensib-plante=2
+|sensib-psy=0.5
+|sensib-spectre=2
+|sensib-ténèbres=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=60
+|attaque=75
+|defense=85
+|atq-spc=100
+|def-spc=85
+|vitesse=115
+|special=100
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Staross
+| numero=121
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Staross RB.png
+| forme=5
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+{{da|Ondine}} en a [[Staross d'Ondine|un]] dans la saison 1. Elle fait peu souvent appel à lui, préférant utiliser son [[Stari d'Ondine|Stari]] en combat. Elle le confie à ses [[sœurs Sensationnelles|sœurs]] (à leur demande, celles-ci voulant le lui emprunter pour leurs combats) dans l'[[épisode 61]] de la même saison, en même temps que son [[Hypotrempe d'Ondine|Hypotrempe]].
+
+Dans l'[[épisode 91]], Marina en possède un qu'elle utilise lors de son match contre Ondine.
+
+[[Rudy]], champion de l'[[Ile Tartoufo]], possède un [[Staross]]. Durant le match d'arène, il est opposé à [[Carapuce de Sacha|Carapuce]].
+
+Staross n'est quasiment pas apparu dans l'anime en dehors de ces trois cas.
+
+===Descriptions du [[Pokédex]]===
+
+{{Ruban Pokémon
+| nomPrécédent=Stari
+| numéro=121
+| nom=Staross
+| nomSuivant=M. Mime
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/121| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Starmie| ]]
+
+[[de:Starmie]]
+[[en:Starmie (Pokémon)]]
+[[es:Starmie]]
+[[it:Starmie]]
+[[ja:スターミー]]
+[[pl:Starmie]]
+[[pt:Starmie (pokémon)]]

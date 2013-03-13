@@ -1,0 +1,446 @@
+{{Ruban Pokémon
+| nomPrécédent=Grodoudou
+| numéro=041
+| nom=Nosferapti
+| nomSuivant=Nosferalto
+}}
+{{Infobox Pokémon 
+| nom=Nosferapti
+| nomen=Zubat
+| nomja=ズバット
+| nomtm=Zubat
+| nomromaji=Zubatto
+| nomde=Zubat
+| légende=Artwork de Nosferapti pour {{RFVF}}
+| ndex=041
+| jdex=037
+| hdex=063
+| sdex=028
+| fdex=058
+| adex=014
+| odex=R-042
+| opdex=N-064
+| espece=Chovsouris
+| taille=0.8
+| poids=7.5
+| fmratio=.5 
+| oeufpas=3840 
+| effortval=+1 Vit. 
+| type1=Poison
+| type2=Vol
+| expval=54
+| expmax=1000000
+| captureval=255
+| groupoeuf1=Vol
+| capspe1=Attention
+| capspe2=Infiltration
+| capspe2-reve=oui
+| couleur=Violet
+| forme=9}}
+'''Nosferapti''' (anglais : '''Zubat''' ; japonais : '''ズバット''' ''Zubat'') est un [[Pokémon]] de [[type]] {{type|poison}} et {{type|vol}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie et attitudes===
+Nosferapti est une petite chauve-souris bleu foncé. La membrane de ses ailes est violette, tout comme le creux de ses grandes oreilles. Sa mâchoire possède quatre crocs apparents. Ses membres inférieurs ne sont pas munis de pieds et son visage ne possède pas d'yeux, puisque ce Pokémon utilise des ultrasons pour se déplacer dans l'obscurité des grottes où il vit principalement.
+
+====Différences mâle/femelle====
+Les Nosferapti femelles ont des crocs plus petits.
+
+===[[Évolution]]===
+Nosferapti évolue à partir du [[niveau]] 22 en [[Nosferalto]], qui peut évoluer en [[Nostenfer]] s'il est suffisamment [[Bonheur|heureux]].
+{{TableauEvolutionHaut|Poison|Nosferapti}}
+{{TableauEvolutionSimple|[[Niveau]] 22|Nosferalto}}
+{{TableauEvolutionSimple|[[Bonheur]]|Nostenfer}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+===Étymologies===
+* Français : de '''Nosfera'''tu et '''p'''e'''ti'''t ou '''p'ti'''t.
+* Anglais, Allemand, Japonais : vien de Zu(Dieu sumérien de l'air) et Bat(chauve-souris)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Se déplace en colonie dans les endroits sombres. Il s'oriente grâce aux ultrasons.
+;[[Pokémon Jaune]]
+:Il se dirige avec des ultrasons qui lui servent de sonar pour éviter les obstacles sur son trajet.
+;[[Pokémon Stadium]]
+: N'a ni yeux ni nez. Il émet des ultrasons qui rebondissent sur les parois, lui permettant de voler sans se cogner partout.
+;[[Pokémon Or]]
+:Il émet des ultrasons avec sa bouche pour se repérer dans les environs pendant qu'il vole.
+;[[Pokémon Argent]]
+:Capable de voler dans des grottes obscures,il émet des ultrasons pour détecter les divers obstacles.
+;[[Pokémon Cristal]]
+:La journée, il se joint à d'autres et s'accroche au plafond des vieux immeubles ou dans les grottes.
+;[[Pokémon Rubis]]
+: {{PCap|Nosferapti}} reste calme et immobile dans un coin sombre pendant la journée. En effet, une exposition trop longue à la lumière du soleil lui brûle légèrement la peau.
+;[[Pokémon Saphir]]
+:{{PCap|Nosferapti}} évite la lumière du soleil, car ça le rend malade. Pendant la journée, il reste dans les cavernes ou à l'ombre des vieilles maisons, où il dort, la tête à l'envers.
+;[[Pokémon Émeraude]]
+:Il a perdu l'usage de ses yeux à force de vivre dans des cavernes obscures. Il utilise les ultrasons pour détecter les obstacles.
+;[[Pokémon Rouge Feu]]
+:Comme il ne possède pas d'yeux, il n'utilise que ses ultrasons pour se déplacer dans les ténèbres.
+;[[Pokémon Vert Feuille]]
+:Il vit en colonie dans les régions peu éclairées. Il s'oriente grâce aux ultrasons.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Nosferapti}} aime l'obscurité des grottes. Il attaque avec des ultrasons.
+;[[Pokémon Diamant]]
+:Bien que dépourvu d'yeux, il repère les obstacles grâce aux ultrasons émis par sa gueule.
+;[[Pokémon Perle]]
+:Il n'aime pas la lumière du soleil. Il se tapit au fond des grottes et des forêts jusqu'à la nuit tombée.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque avec des ultrasons tout en voletant.
+;[[Pokémon Platine]]
+:Il se repère dans l'espace grâce aux [[ultrason]]s émis par sa gueule.
+;[[Pokémon Or HeartGold]]
+:Il émet des ultrasons avec sa bouche pour se repérer dans les environs pendant qu’il vole.
+;[[Pokémon Argent SoulSilver]]
+:Capable de voler dans des grottes obscures, il émet des ultrasons pour détecter les divers obstacles.
+;[[Pokémon Noir et Blanc]]
+:Il se repère dans l'espace grâce aux [[ultrason]]s émis par sa gueule.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Commun || Mont sélénite, grotte, îles écumes
+|-
+| [[Bleu]] || Commun || Mont sélénite, grotte, îles écumes
+|-
+| [[Jaune]] || Commun || Mont sélénite, grotte, îles écumes
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || Antre Noire
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Antre Noire
+|-
+| [[Cristal]] || Commun || Antre Noire, Route 30
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:250px" | Version
+! style="background-color:{{Couleur|Poison}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}} 
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Grotte Granite]]
+| style="vertical-align:middle;" | 7-11
+|-
+| [[Rouge Feu]] || Commun || À venir
+|-
+| [[Vert Feuille]] || Commun || Grotte Metamo
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Commun || À venir
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Commun || route victoire,mont couronné et échange
+|-
+| [[Perle]] ||  Commun || route victoire,mine de charbourg, echange et mont couronné
+|-
+| [[Or HeartGold]] || Commun || [[Route 32]], [[Route 33]], [[Antre Noir]], [[Bois aux Chênes]], [[Caves Jumelles]], [[Mont Creuset]], [[Puits Ramoloss]], [[Route de Glace]], [[Tourb'Îles]], [[Tour Cendrée]], [[Chutes Tohjo]], [[Grotte (Kanto)]], [[Îles Écume]] et [[Mont Sélénite]]
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:250px" | Version
+! style="background-color:{{Couleur|Poison}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | [[Dream World]] : Le [[Vaste Ciel]]
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Vampirisme|20|100|15}}
+{{Attaque|N.10|Ultrason|-|55|20}}
+{{Attaque|N.15|Morsure|60|100|25}}
+{{Attaque|N.21|Onde Folie|-|100|10}}
+{{Attaque|N.28|Cru-Aile|35|100|35}}
+{{Attaque|N.36|Buée Noire|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Vampirisme|20|100|15}}
+{{Attaque|N.6|Ultrason|-|55|20}}
+{{Attaque|N.12|Morsure|60|100|25}}
+{{Attaque|N.19|Onde Folie|-|100|10}}
+{{Attaque|N.27|Cru-Aile|60|100|35}}
+{{Attaque|N.36|Regard Noir|-|90|10}}
+{{Attaque|N.46|Buée Noire|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Vampirisme|20|100|15|intelligence|2|3}}
+{{Attaque-III|N.6|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.11|Étonnement|30|100|15|intelligence|2|3}}
+{{Attaque-III|N.16|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.21|Cru-Aile|60|100|35|sang-froid|2|0}}
+{{Attaque-III|N.26|Onde Folie|-|100|10|intelligence|3|0}}
+{{Attaque-III|N.31|Tranch'Air|55|95|25|sang-froid|2|1}}
+{{Attaque-III|N.36|Regard Noir|-|100|5|beauté|2|0}}
+{{Attaque-III|N.41|Crochetvenin|50|100|15|intelligence|3|0}}
+{{Attaque-III|N.46|Buée Noire|-|-|30|beauté|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Vampirisme|20|100|15|intelligence|1}}
+{{Attaque-IV|N.5|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|N.9|Étonnement|30|100|15|intelligence|3}}
+{{Attaque-IV|N.13|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.17|Cru-Aile|60|100|35|sang-froid|3}}
+{{Attaque-IV|N.21|Onde Folie|-|100|10|intelligence|2}}
+{{Attaque-IV|N.25|Tranch'Air|55|95|25|sang-froid|3}}
+{{Attaque-IV|N.29|Regard Noir|-|-|5|beauté|2}}
+{{Attaque-IV|N.33|Crochetvenin|50|100|15|intelligence|2}}
+{{Attaque-IV|N.37|Buée Noire|-|-|30|beauté|2}}
+{{Attaque-IV|N.41|Lame d'Air|75|95|20|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Vampirisme|20|100|15}}
+{{Attaque-V|N.5|Ultrason|-|55|20}}
+{{Attaque-V|N.9|Étonnement|30|100|15}}
+{{Attaque-V|N.13|Morsure|60|100|25}}
+{{Attaque-V|N.17|Cru-Aile|60|100|35}}
+{{Attaque-V|N.21|Onde Folie|-|100|10}}
+{{Attaque-V|N.25|Tranch'Air|55|95|25}}
+{{Attaque-V|N.29|Regard Noir|-|-|5}}
+{{Attaque-V|N.33|Acrobatie|55|100|15}}
+{{Attaque-V|N.37|Crochetvenin|50|100|15}}
+{{Attaque-V|N.41|Buée Noire|-|-|30}}
+{{Attaque-V|N.45|Lame d'Air|75|95|20}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 04 || [[Cyclone]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Méga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]] 
+|-
+|CT 10 || [[Puis. Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 12 || [[Provoc]] || [[Fichier:type miniat ténèbres.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 19 || [[Giga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 30 || [[Ball'Ombre]] || [[Fichier:type miniat spectre.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 36 || [[Bomb-Beurk]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 41 || [[Tourmente]] || [[Fichier:type miniat ténèbres.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat ténèbres.png]]
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-électrique=2
+|sensib-roche=2
+|sensib-glace=2
+|sensib-psy=2
+|sensib-insecte=0.25
+|sensib-poison=0.5
+|sensib-plante=0.25
+|sensib-combat=0.25
+|sensib-sol=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est de x2.
+|rmq-insecte=Dans les jeux de la [[première génération]], '''{{PAGENAME}}''' est faible aux attaques de type [[Insecte]].
+|rmq-sol-num=2
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=poison
+|PV=40
+|attaque=45
+|defense=35
+|atq-spc=30
+|def-spc=40
+|vitesse=55
+|special=40
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Nosferapti
+| numero=041
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Nosferapti RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère 2]]''
+| artwork_supp2-img=Nosferapti-DM2.png
+| forme=9
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Nosferapti apparaît pour la première fois dans l'[[Épisode 5]], où [[Pierre (Kanto)|Pierre]] en capture [[Nosferapti de Pierre|un]].
+===Descriptions du [[Pokédex]]===
+;[[Épisode 6]]
+:Les {{PCap|[[Nosferapti]]}} sont des {{PCap|Pok}}é{{PCap|mon}} volants qui possèdent des pouvoirs supersoniques. Les {{PCap|[[Nosferapti]]}} vivent dans les grottes et n'en sortent que la nuit.
+
+{{Ruban Pokémon
+| nomPrécédent=Grodoudou
+| numéro=041
+| nom=Nosferapti
+| nomSuivant=Nosferalto
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/41| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Zubat| ]]
+
+[[de:Zubat]]
+[[en:Zubat (Pokémon)]]
+[[es:Zubat]]
+[[it:Zubat]]
+[[ja:ズバット]]
+[[pl:Zubat]]
+[[pt:Zubat (pokémon)]]

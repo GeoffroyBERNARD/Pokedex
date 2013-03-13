@@ -1,0 +1,324 @@
+{{Ruban Pokémon
+| nomPrécédent=Insécateur
+| numéro=124
+| nom=Lippoutou
+| nomSuivant=Élektek
+}}
+{{Infobox Pokémon
+| nom=Lippoutou
+| nomen=Jynx
+| nomja=ルージュラ
+| nomde=Rossana
+| nomtm=Rougela
+| nomromaji=Rūjura
+| légende=Artwork de Lippoutou pour {{RFVF}}
+| ndex=124
+| jdex=153
+| njdex=155
+| hdex=282
+| fdex=168
+| adex=210
+| espece=Humanoïde
+| taille=1.4
+| poids=40.6 
+| oeufpas=6400
+| groupoeuf1=Humanoïde
+| effortval=+2 Att. Spé
+| type1=Glace
+| type2=Psy
+| expval=137
+| fmratio=1
+| expmax=1000000
+| captureval=45
+| couleur=Rouge
+| capspe1=Benêt
+| capspe2=Prédiction
+| capspe3=Peau Sèche
+| forme=12}}
+'''Lippoutou''' (anglais : '''Jynx''' ; japonais : '''ルージュラ''' ''Rougela'') est un [[Pokémon]] de [[type]] {{type|glace}} et {{type|psy}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+Lippoutou ressemble a une chanteuse d'opéra
+====Différences mâle/femelle====
+
+Cette espèce est composée uniquement d'individus femelles.
+
+===[[Évolution]]===
+Lippoutou est l'évolution de [[Lippouti]] à partir du [[niveau]] 30, à partir de la [[deuxième génération]].
+{{TableauEvolutionHaut|Glace|Lippouti}}
+{{TableauEvolutionSimple|Niveau 30|Lippoutou}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+* Français : vient de ''lip'' (lèvre) et ''poutou'' (argot signifiant ''bisou'')
+* Anglais : Vient de ''Jinx'' (Qui porte la poisse)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il ondule ses hanches en marchant et entraine les gens dans des danses frénétiques.
+;[[Pokémon Jaune]]
+:Il bouge en rythme comme s'il dansait. Il ondule du popotin quand il marche.
+;[[Pokémon Stadium]]
+:Il parle d'une façon incompréhensible et étrange. Il est connu pour ses gigotements ridicules entraînant les gens à danser.
+;[[Pokémon Or]]
+:Il bouge son corps en cadence. Le rythme change en fonction de son humeur.
+;[[Pokémon Argent]]
+:Il utilise un langage proche de celui des humains.Il semble communiquer en dansant.
+;[[Pokémon Cristal]]
+:Il a plusieurs cris différents. Chacun d'eux semble avoir un sens propre.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Lippoutou}} marche en rythme, ondule de tout son corps et se déhanche comme s'il dansait. Ses mouvements sont si communicatifs que les gens qui le voient sont soudain pris d'une terrible envie de bouger les hanches, sans réfléchir.
+;[[Pokémon Émeraude]]
+:Il marche en rythme comme s'il dansait. Ses mouvement sont si communicatifs que les gens qui le voient sont pris d'une terrible envie de bouger les hanches.
+;[[Pokémon Rouge Feu]]
+:Il communique en utilisant un langage qui semble être humain. Des recherches sont en cours pour déterminer ce qu'il dit.
+;[[Pokémon Vert Feuille]]
+:Il ondule ses hanches en marchant et entraîne les gens dans des danses frénétiques.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Lippoutou}} balance ses hanches quand il marche. Attention à ses bisous !
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Son cri ressemble à des paroles humaines. Mais nul n'est jamais parvenu à les comprendre.
+;[[Pokémon Ranger 2]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} attaque en lançant des orbes bizarres et se protège avec une barrière psychique.
+;[[Pokémon Or HeartGold]]
+:Il bouge son corps en cadence. Le rythme change en fonction de son humeur.
+;[[Pokémon Argent SoulSilver]]
+:Il utilise un langage proche de celui des humains. Il semble communiquer en dansant.
+;[[Pokémon Noir et Blanc]]
+:Son cri ressemble à des paroles humaines. Mais nul n'est jamais parvenu à les comprendre.
+
+==Localisations==
+
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Glace}}; width:200px" | Version
+! style="background-color:{{Couleur|Glace}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Glace}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Rouge}};"|{{Couleur lien|#000000|Rouge}}
+| rowspan="2" style="vertical-align: middle;" | Rare
+| rowspan="2" style="vertical-align: middle;" | [[Azuria]] (Echange, le Pokémon échangé s'appelle Nini)
+|-
+| style="background:{{Couleur|Bleu}};"|{{Couleur lien|#000000|Bleu}}
+|-
+| style="background:{{Couleur|Jaune}};"|{{Couleur lien|#000000|Jaune}}
+| style="vertical-align:middle;"| Inexistant 
+| style="vertical-align:middle;"| Echange avec une autre version
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Glace}}; width:200px" | Version
+! style="background-color:{{Couleur|Glace}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Glace}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Or}};"| {{Couleur lien|#000000|Or}}
+|rowspan="3" style="vertical-align:middle;"| Rare 
+|rowspan="3" style="vertical-align:middle;"| Route de Glace
+|-
+| style="background:{{Couleur|Argent}};"| {{Couleur lien|#000000|Pokémon Argent|Argent}}
+|-
+| style="background:{{Couleur|Cristal}};"|{{Couleur lien|#000000|Cristal}}
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Glace}}; width:200px" | Version
+! style="background-color:{{Couleur|Glace}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Glace}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|RF}};"| {{Couleur lien|#000000|Rouge Feu}}
+|rowspan="2" style="vertical-align:middle;"| Rare 
+|rowspan="2" style="vertical-align:middle;"| [[Azuria]] (échange), Faire évoluer [[Lippouti]]
+|-
+| style="background:{{Couleur|VF}};"| {{Couleur lien|#000000|Vert Feuille}}
+|-
+| style="background:{{Couleur|Rubis}};"| {{Couleur lien|#000000|Rubis}}
+|rowspan="3" style="vertical-align:middle;"| Inexistant 
+|rowspan="3" style="vertical-align:middle;"| Echange avec une autre version
+|-
+| style="background:{{Couleur|Émeraude}};"| {{Couleur lien|#000000|Pokémon Émeraude|Émeraude}}
+|-
+| style="background:{{Couleur|Saphir}};"| {{Couleur lien|#000000|Saphir}}
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Glace}}; width:200px" | Version
+! style="background-color:{{Couleur|Glace}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Glace}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align:middle;" | Peu Commun
+| rowspan="2" style="vertical-align:middle;" | [[Grotte Cyclopéenne]]{{infobulle|*|Grottes}}
+|-
+| style="background:{{Couleur|Blanc}};"|{{couleur lien|#000000|Blanc}}
+|-
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Léchouille|20|100|30}}
+{{Attaque|Départ|Grobisou|-|75|10}}
+{{Attaque|N.15|Berceuse|-|55|15}}
+{{Attaque|N.23|Torgnoles|15|85|10}}
+{{Attaque|N.31|Poinglace|75|100|15}}
+{{Attaque|N.39|Plaquage|85|100|15}}
+{{Attaque|N.47|Mania|90|100|20}}
+{{Attaque|N.58|Blizzard|120|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Léchouille|20|100|30}}
+{{Attaque|Départ|Grobisou|-|75|10}}
+{{Attaque|Départ|Poudreuse|40|100|25}}
+{{Attaque|N.21|Torgnoles|15|85|10}}
+{{Attaque|N.25|Poinglace|75|100|15}}
+{{Attaque|N.35|Regard Noir|-|-|5}}
+{{Attaque|N.41|Plaquage|85|100|15}}
+{{Attaque|N.51|Requiem|-|-|5}}
+{{Attaque|N.57|Blizzard|120|70|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Écras'Face|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ|Léchouille|20|100|30|robustesse|1|4}}
+{{Attaque-III|Départ<br>N.9|Grobisou|-|75|10|beauté|1|3}}
+{{Attaque-III|Départ<br>N.13|Poudreuse|40|100|25|beauté|4|0}}
+{{Attaque-III|N.21|Torgnoles|15|85|10|robustesse|2|1}}
+{{Attaque-III|N.25|Poinglace|75|100|15|beauté|4|0}}
+{{Attaque-III|N.35|Regard Noir|-|100|5|beauté|2|0}}
+{{Attaque-III|N.41|Croco Larme|-|100|20|intelligence|2|0}}
+{{Attaque-III|N.51|Plaquage|85|100|15|robustesse|1|4}}
+{{Attaque-III|N.57|Requiem|-|-|5|beauté|2|1}}
+{{Attaque-III|N.67|Blizzard|120|70|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Écras'Face|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.5|Léchouille|20|100|30|robustesse|2}}
+{{Attaque-IV|Départ<br>N.8|Grobisou|-|75|10|beauté|2}}
+{{Attaque-IV|Départ<br>N.11|Poudreuse|40|100|25|beauté|3}}
+{{Attaque-IV|N.15|Torgnoles|15|85|10|robustesse|2}}
+{{Attaque-IV|N.18|Poinglace|75|100|15|beauté|2}}
+{{Attaque-IV|N.21|Regard Noir|-|-|5|beauté|2}}
+{{Attaque-IV|N.25|Croco Larme|-|100|20|intelligence|2}}
+{{Attaque-IV|N.28|Réveil Forcé|60|100|10|intelligence|0}}
+{{Attaque-IV|N.33|Avalanche|60|100|10|sang-froid|2}}
+{{Attaque-IV|N.39|Plaquage|85|100|15|robustesse|3}}
+{{Attaque-IV|N.44|Essorage|1|100|5|intelligence|2}}
+{{Attaque-IV|N.49|Requiem|-|-|5|beauté|2}}
+{{Attaque-IV|N.55|Blizzard|120|70|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Écras'Face|40|100|35}}
+{{Attaque-V|Départ<br>N.5|Léchouille|20|100|30}}
+{{Attaque-V|Départ<br>N.8|Grobisou|-|75|10}}
+{{Attaque-V|Départ<br>N.11|Poudreuse|40|100|25}}
+{{Attaque-V|N.15|Torgnoles|15|85|10}}
+{{Attaque-V|N.18|Poinglace|75|100|15}}
+{{Attaque-V|N.21|Crèvecœur|60|100|25}}
+{{Attaque-V|N.25|Regard Noir|-|-|5}}
+{{Attaque-V|N.28|Croco Larme|-|100|20}}
+{{Attaque-V|N.33|Réveil Forcé|60|100|10}}
+{{Attaque-V|N.39|Avalanche|60|100|10}}
+{{Attaque-V|N.44|Plaquage|85|100|15}}
+{{Attaque-V|N.49|Essorage|1|100|5}}
+{{Attaque-V|N.55|Requiem|-|-|5}}
+{{Attaque-V|N.60|Blizzard|120|70|5}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+{{Sensibilités
+|type=glace
+|sensib-feu=2
+|sensib-acier=2
+|sensib-roche=2
+|sensib-glace=0.5
+|sensib-insecte=2
+|sensib-psy=0.5
+|sensib-spectre=2
+|sensib-ténèbres=2
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=glace
+|PV=65
+|attaque=50
+|defense=35
+|atq-spc=115
+|def-spc=95
+|vitesse=95
+|special=95
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Lippoutou
+| numero=124
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Lippoutou RB.png
+| forme=12
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Siréna]], membre du Conseil 4, possède un Lippoutou.
+
+Dans un épisode spécial Noël, un Lippoutou du Père Noël veut réparer un jouet de [[Jessie]].
+
+Suite à l'[[épisode 250]] (qui est censuré), Lippoutou, qui était noir de couleur, est devenu violet : ses traits physiques pouvaient être assimilés à la caricature coloniale d'une ''Mama'' africaine.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode HS1]]
+:Est un {{PCap|Pok}}é{{PCap|mon}} à forme humaine. Ce {{PCap|Pok}}é{{PCap|mon}} possède des pouvoirs inhabituels. Son [[attaque]] spéciale est le [[Grobisou]]. Il plonge ceux qui le reçoivent dans un profond sommeil.
+;[[Épisode 389]]
+:L'humanoïde {{PCap|Pok}}é{{PCap|mon}}. {{PCap|Lippoutou}} exprime ses sentiments divers et variés en dansant d'une manière gracieuse et cadencée.
+
+{{Ruban Pokémon
+| nomPrécédent=Insécateur
+| numéro=124
+| nom=Lippoutou
+| nomSuivant=Élektek
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon uniquement femelle]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/124| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Jynx| ]]
+
+[[de:Rossana]]
+[[en:Jynx (Pokémon)]]
+[[es:Jynx]]
+[[it:Jynx]]
+[[ja:ルージュラ]]
+[[pl:Jynx]]
+[[pt:Jynx (pokémon)]]

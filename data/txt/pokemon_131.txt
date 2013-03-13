@@ -1,0 +1,585 @@
+{{Ruban Pokémon
+| nomPrécédent=Léviator
+| numéro=131
+| nom=Lokhlass
+| nomSuivant=Métamorph
+}}
+{{Infobox Pokémon
+| nom=Lokhlass
+| nomen=Lapras
+| nomja=ラプラス
+| nomtm=Laplace
+| nomromaji=Rapurasu
+| nomde=Lapras
+| légende=Artwork de Lokhlass pour {{RFVF}}
+| ndex=131
+| jdex=219
+| njdex=224
+| hdex=286
+| fdex=106
+| odex=R-058
+| espece=Transport
+| taille=2.5
+| poids=220.0
+| fmratio=.5 
+| oeufpas=10240
+| effortval=+2 PV 
+| type1=Eau
+| type2=Glace
+| expval=219
+| expmax=1250000
+| captureval=45
+| groupoeuf1=Monstre
+| groupoeuf2=Eau 1
+| capspe1=Absorb Eau
+| capspe2=Coque Armure
+| capspe3=Hydratation
+| couleur=Bleu
+| forme=3}}
+Apparu dès la [[première génération]], '''Lokhlass''' (anglais : '''Lapras''' ; japonais : '''ラプラス''' ''Laplace'') est un [[Pokémon]] de [[type]] {{type|eau}} et {{type|glace}}. C'est une espèce ancienne et très rare, pratiquement menacée d'extinction. Il est inspiré de [[wp:Nessie|Nessie]], le monstre du Loch Ness, dont son nom est issu.
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Lokhlass n'a pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===[[Capacité spéciale]]===
+Les deux capacités spéciales dont peut être doté Lokhlass sont [[Absorb Eau]], qui transforme les dommages infligés par des attaques [[eau]] en [[PV]], et [[Coque Armure]], qui empêche les coups critiques.
+
+===Étymologies===
+
+* Français : vient de ''Loch Ness'' et ''Laplace''
+* Anglais/Japonais/Allemand : vient de ''Laplace''
+
+PS : ici, on voit l'utilisation du nom d'un grand scientifique français. Pourtant, ses recherches n'ont rien à voir avec l'eau, la glace, ou ce genre de chose. Indirectement, tout au plus, a-t-il aidé à comprendre l'influence de la lune sur les marées. C'est donc plus une éloge de l'intelligence de Lokhlass qu'autre chose.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} en voie d'extinction peut transporter des passagers sur son dos par-delà les océans.
+;[[Pokémon Jaune]]
+: D'une âme noble, il peut lire dans les esprits. Il transporte les humains sur son dos.
+;[[Pokémon Stadium]]
+: Il comprend parfaitement le langage des hommes et aime les transporter sur son dos. Il est malheureusement en voie d'extinction.
+;[[Pokémon Or]]
+:Ils sont d'une nature gentille. Ils se battent rarement et sont en voie d'extinction.
+;[[Pokémon Argent]]
+:Il transporte les gens sur sont dos.S'il est de bonne humeur,il se met à chanter un air agréable.
+;[[Pokémon Cristal]]
+:Il sont d'une nature gentille. Ils sont toujours prêts à transporter les humains confortablement.
+;[[Pokémon Rubis et Saphir]]
+:Les {{PCap|Lokhlass}} sont en voie d'extinction. Le soir, on entend ce {{PCap|Pok}}é{{PCap|mon}} chantonner une complainte mélancolique, espérant retrouver ses rares congénères.
+;[[Pokémon Émeraude]]
+:Les {{PCap|Lokhlass}} sont en voie d'extinction. Le soir, on entend ce {{PCap|Pok}}é{{PCap|mon}} chantonner une complainte mélancolique, espérant retrouver ses rares congénères.
+;[[Pokémon Rouge Feu]]
+:Son intelligence lui permet de comprendre le langage des humains. Il adore promener les gens sur son dos.
+;[[Pokémon Vert Feuille]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} en voie d'extinction peut transporter des passagers sur son dos par-delà les océans.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Si vous établissez un lien avec {{PCap|Lokhlass}}, il vous prendra peut-être sur son dos en mer.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Il aime naviguer en portant des humains et des {{PCap|Pok}}é{{PCap|mon}} sur son dos. Il comprend le langage humain.
+;[[Pokémon Or HeartGold]]
+: Ils sont d'une nature gentille. Comme ils se battent rarement, ils sont en voie d'extinction.
+;[[Pokémon Argent SoulSilver]]
+:Il transporte les gens sur son dos. S'il est de bonne humeur, il se met à chanter un air agréable.
+;[[Pokémon Noir et Blanc]]
+: Il aime naviguer en portant des humains et des [[Pokémon]] sur son dos. Il comprend le langage humain.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Rouge]] || Unique || Obtenu à [[Safrania]], dans le bâtiment de la [[Sylphe SARL]], en parlant à l'un des employés juste après avoir battu le rival. || Niveau 15
+|-
+| [[Bleu]] || Unique || Obtenu à [[Safrania]], dans le bâtiment de la [[Sylphe SARL]], en parlant à l'un des employés juste après avoir battu le rival. || Niveau 15
+|-
+| [[Jaune]] || Unique || Obtenu à [[Safrania]], dans le bâtiment de la [[Sylphe SARL]], en parlant à l'un des employés juste après avoir battu le rival. || Niveau 15
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Or]] || Un par semaine || Présent au second sous-sol des [[Caves_jumelles|Caves Jumelles]] le vendredi. || Niveau 20
+|-
+| [[Pokémon Or et Argent|Argent]] || Un par semaine || Présent au second sous-sol des [[Caves_jumelles|Caves Jumelles]] le vendredi. || Niveau 20
+|-
+| [[Cristal]] || Un par semaine || Présent au second sous-sol des [[Caves_jumelles|Caves Jumelles]] le vendredi. || Niveau 20
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À échanger depuis [[Rouge Feu]], [[Vert Feuille]] ou [[XD]].
+|-
+| [[Saphir]] || Inexistant || À échanger depuis [[Rouge Feu]], [[Vert Feuille]] ou [[XD]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À échanger depuis [[Rouge Feu]], [[Vert Feuille]] ou [[XD]].
+|-
+| [[Rouge Feu]] ||Rare || [[Sylphe SARL]] (unique) et Cave de Glace ([[îles Sévii]]).
+|-
+| [[Vert Feuille]] || Rare || [[Sylphe SARL]] (unique) et Cave de Glace ([[îles Sévii]]).
+|-
+| [[Colosseum]] || Inexistant || À échanger depuis [[Rouge Feu]], [[Vert Feuille]] ou [[XD]].
+|-
+| [[XD]] || Unique || [[Ile Ténébra]] au niveau 44.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| {{DPP}} || Peu commun || [[Route Victoire (Sinnoh)|Route Victoire]].
+|-
+| {{HGSS}} || Rare|| [[Caves Jumelles]] ; [[Parc Safari (Johto)|Parc Safari]], partie "lacs".
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| {{NB}} || Rare || [[Pont du Hameau]] (tourbillons).
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.16|Berceuse|-|55|15}}
+{{Attaque|N.20|Brume|-|-|30}}
+{{Attaque|N.25|Plaquage|85|100|15}}
+{{Attaque|N.31|Onde Folie|-|100|10}}
+{{Attaque|N.38|Laser Glace|95|100|10}}
+{{Attaque|N.46|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Berceuse|-|55|15}}
+{{Attaque|N.8|Brume|-|-|30}}
+{{Attaque|N.15|Plaquage|85|100|15}}
+{{Attaque|N.22|Onde Folie|-|100|10}}
+{{Attaque|N.29|Requiem|-|-|5}}
+{{Attaque|N.36|Laser Glace|95|100|10}}
+{{Attaque|N.43|Danse Pluie|-|-|5}}
+{{Attaque|N.50|Rune Protect|-|-|25}}
+{{Attaque|N.57|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|Départ|Berceuse|-|55|15|grâce|2|0}}
+{{Attaque-III|N.7|Brume|-|-|30|beauté|1|0}}
+{{Attaque-III|N.13|Plaquage|85|100|15|robustesse|1|4}}
+{{Attaque-III|N.19|Onde Folie|-|100|10|intelligence|3|0}}
+{{Attaque-III|N.25|Requiem|-|-|5|beauté|2|1}}
+{{Attaque-III|N.31|Laser Glace|95|100|10|beauté|2|1}}
+{{Attaque-III|N.37|Danse Pluie|-|-|5|robustesse|1|0}}
+{{Attaque-III|N.43|Rune Protect|-|-|25|beauté|1|0}}
+{{Attaque-III|N.49|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaque-III|N.55|Glaciation|-|30|5|beauté|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Berceuse|-|55|15|grâce|2}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|Départ|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.4|Brume|-|-|30|beauté|2}}
+{{Attaque-IV|N.7|Onde Folie|-|100|10|intelligence|2}}
+{{Attaque-IV|N.10|Éclats Glace|40|100|30|beauté|2}}
+{{Attaque-IV|N.14|Vibraqua|60|100|20|beauté|2}}
+{{Attaque-IV|N.18|Plaquage|85|100|15|robustesse|3}}
+{{Attaque-IV|N.22|Danse Pluie|-|-|5|robustesse|2}}
+{{Attaque-IV|N.27|Requiem|-|-|5|beauté|2}}
+{{Attaque-IV|N.32|Laser Glace|95|100|10|beauté|2}}
+{{Attaque-IV|N.37|Saumure|65|100|10|intelligence|2}}
+{{Attaque-IV|N.43|Rune Protect|-|-|25|beauté|2}}
+{{Attaque-IV|N.49|Hydrocanon|120|80|5|beauté|2}}
+{{Attaque-IV|N.55|Glaciation|-|30|5|beauté|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Berceuse|-|55|15}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|Départ|Pistolet à O|40|100|25}}
+{{Attaque-V|N.4|Brume|-|-|30}}
+{{Attaque-V|N.7|Onde Folie|-|100|10}}
+{{Attaque-V|N.10|Éclats Glace|40|100|30}}
+{{Attaque-V|N.14|Vibraqua|60|100|20}}
+{{Attaque-V|N.18|Plaquage|85|100|15}}
+{{Attaque-V|N.22|Danse Pluie|-|-|5}}
+{{Attaque-V|N.27|Requiem|-|-|5}}
+{{Attaque-V|N.32|Laser Glace|95|100|10}}
+{{Attaque-V|N.37|Saumure|65|100|10}}
+{{Attaque-V|N.43|Rune Protect|-|-|25}}
+{{Attaque-V|N.49|Hydrocanon|120|80|5}}
+{{Attaque-V|N.55|Glaciation|-|30|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Empal'Korne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 22 || [[Lance-Soleil]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 23 || [[Draco-Rage]] || [[Fichier:type miniat dragon.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 29 || [[Psyko]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 46 || [[Vague Psy]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coup d'Boule]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Élécanon]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 08 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 24 || [[Dracosouffle]] || [[Fichier:type miniat dragon.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 29 || [[Psyko]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 06 || [[Siphon]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 05 || [[Hurlement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Rune Protectrice]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 29 || [[Psyko]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Onde de Choc (attaque)|Onde de Choc]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 08 || [[Plongée]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|-
+|CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 05 || [[Hurlement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Rune Protectrice]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 29 || [[Psyko]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Onde de Choc (attaque)|Onde de Choc]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 05 || [[Siphon]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 08 || [[Plongée]] || [[Fichier:type miniat eau.png]]
+
+|}
+|}
+
+===Par [[reproduction]]===
+
+==Sensibilités==
+{{Sensibilités
+| type=Eau
+| sensib-eau=0.5
+| sensib-glace=0.25
+| sensib-électrique=2
+| sensib-plante=2
+| sensib-roche=2
+| sensib-combat=2
+|rmq-eau=Si '''{{PAGENAME}}''' possède la [[capacité spéciale]] [[Absorb Eau]], les attaques de type [[Eau]] ne produisent aucun dégâts sur lui.
+|rmq-eau-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=130
+|attaque=85
+|defense=80
+|atq-spc=85
+|def-spc=95
+|vitesse=60
+|special=95
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Lokhlass
+| numero=131
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Lokhlass RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère 2|PDM2]]''
+| artwork_supp2-img=Lokhlass-DM2.png
+| forme=3
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+*Le plus connu des Lokhlass est [[Lokhlass de Sacha|celui]] de [[Sacha]], qu'il recueille et capture dans l'[[épisode 84]].
+
+*[[Solidad]] posséde également un [[Lokhlass]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode HS]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} possède une intelligence supérieure. Il est capable de comprendre le langage humain. Doté d'un tempérament pacifique, {{PCap|[[Lokhlass]]}} préfère porter les humains sur son dos plutôt que de disputer des matchs.
+
+{{Ruban Pokémon
+| nomPrécédent=Léviator
+| numéro=131
+| nom=Lokhlass
+| nomSuivant=Métamorph
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/131| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Lapras| ]]
+
+[[de:Lapras]]
+[[en:Lapras (Pokémon)]]
+[[es:Lapras]]
+[[it:Lapras]]
+[[ja:ラプラス]]
+[[pl:Lapras]]
+[[pt:Lapras (pokémon)]]

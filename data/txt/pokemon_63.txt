@@ -1,0 +1,360 @@
+{{Ruban Pokémon
+| nomPrécédent=Tartard
+| numéro=063
+| nom=Abra
+| nomSuivant=Kadabra
+}}
+{{Infobox Pokémon 
+| nom=Abra
+| nomen=Abra
+| nomja=ケーシィ
+| nomtm=Casey
+| nomromaji=Kēshī
+| nomde=Abra
+| légende=Artwork d'Abra pour {{RFVF}}
+| ndex=063
+| jdex=089
+| hdex=039
+| sdex=020
+| fdex=029
+| adex=183
+| espece=Psy
+| taille=0.9
+| poids=19.5
+| fmratio=.25 
+| oeufpas=5120
+| effortval=+1 Att. Spé 
+| type1=Psy
+| expval=75
+| expmax=1059860
+| captureval=200
+| groupoeuf1=Humanoïde
+| capspe1=Synchro
+| capspe2=Attention
+| capspe3=Garde Magik
+| couleur=Marron
+| forme=6}}
+'''Abra''' (anglais : '''Abra''' ; japonais : '''ケーシィ''' ''Casey'') est un [[Pokémon]] de [[type]] {{type|psy}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Abra évolue à partir du [[niveau]] 16 en [[Kadabra]], qui évolue lors d'un échange entre dresseurs en [[Alakazam]].
+{{TableauEvolutionHaut|Psy|Abra}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Kadabra}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]]|Alakazam}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Abra peut disposer soit de la capacité spéciale [[Synchro]], qui transmet à l'ennemi l'empoisonnement, la brûlure ou la paralysie du Pokémon et augmente la probabilité de rencontrer des Pokémon sauvages ayant la même nature lorsqu'il est en tête de l'équipe, soit de la capacité spéciale  [[Attention]], qui l'empêche d'"avoir la trouille" et de passer son tour face à des attaques comme [[Morsure]].
+
+===Étymologies===
+* Français, Allemand, Anglais : ''Abra'' vient de Abrakadabra(1er partie), terme de magie
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Bleu et Rouge]]
+: Son don de télépathie lui permet de sentir le danger et de se téléporter en un lieu sur.
+;[[Pokémon Jaune]]
+:Il dort 18 heures par jour. En cas de danger, il se téléporte vers un lieu sûr, même s'il est assoupi.
+;[[Pokémon Stadium]]
+:Même endormi, il peut repérer les ennemis et se {{PCap|[[Téléport]]er}} dans un endroit sûr, à l'abri du danger.
+;[[Pokémon Or]]
+: Il prévoit les attaques futures et lance {{PCap|[[Téléport]]}} pour se mettre à l'abri et éviter le combat.
+;[[Pokémon Argent]]
+: En utilisant {{PCap|[[Téléport]]}} d'une façon aléatoire, il donne l'impression d'avoir des doubles.
+;[[Pokémon Cristal]]
+: Il s'hypnotise et peut lancer {{PCap|[[Téléport]]}}, même endormi, pour éviter tout danger.
+;[[Pokémon Rubis]]
+: {{PCap|Abra}} dort dix-huit heures par jour. Pourtant, il peut sentir la présence de ses ennemis, même endormi. Dans ce genre de situation, ce {{PCap|Pok}}é{{PCap|mon}} se téléporte en lieu sûr.
+;[[Pokémon Saphir]]
+: {{PCap|Abra}} doit dormir dix-huit heures par jour. S'il dort moins, ce {{PCap|Pok}}é{{PCap|mon}} ne peut plus utiliser ses pouvoirs télékinésiques. Lorsqu'il est attaqué, {{PCap|Abra}} s'enfuit en utilisant {{PCap|[[Téléport]]}}, sans même se réveiller.
+;[[Pokémon Émeraude]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} dort 18 heures par jour. Des études ont révélé qu'il utilise {{PCap|[[Téléport]]}} pour changer de lieu toutes les heures.
+;[[Pokémon Rouge Feu]]
+: Il dort 18 heures par jour. Il peut utiliser de nombreux pouvoirs psy, même pendant son sommeil.
+;[[Pokémon Vert Feuille]]
+: Son don de télépathie lui permet de sentir le danger et de se {{PCap|[[Téléport]]er}} en un lieu sûr.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Grâce à la télékinésie, {{PCap|Abra}} se déplace en lévitation.
+;[[Pokémon Diamant]]
+: Il dort 18 heures par jour. Même éveillé, il ne prend pas la peine de se lever pour se téléporter.
+;[[Pokémon Perle]]
+: Même assoupi, ce {{PCap|Pok}}é{{PCap|mon}} maintient son radar télépathique activé. Il se téléporte en cas de danger.
+;[[Pokémon Ranger 2]]
+:Il se téléporte pour échapper à la capture. Pour l'attraper, écoutez ses cris.
+;[[Pokémon Platine]]
+:L'utilisation de ses pouvoirs mentaux le fatigue tellement qu'il dort 18 heures par jour.
+;[[Pokémon Or HeartGold]]
+:Il prévoit les attaques futures et se téléporte pour se mettre à l'abri et éviter le combat.
+;[[Pokémon Argent SoulSilver]]
+:En se téléportant d'une façon aléatoire, il donne l'impression d'avoir des doubles.
+;[[Pokémon Noir et Blanc]]
+:L'utilisation de ses pouvoirs mentaux le fatigue tellement qu'il dort 18 heures par jour.
+
+==Localisations==
+
+=== [[Première génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:600px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | ''[[Pokémon Rouge]]''
+| rowspan="3" style="vertical-align:middle;" | Rare
+| Azuria, dans la bande de terre entre chez Leo et la ville
+| rowspan="3" style="vertical-align:middle;" | N/A
+|-
+| style="vertical-align:middle;" | [[Pokémon Rouge et Bleu|''Pokémon Bleu'']]
+|Route 24 et 25 au nord d'Azuria
+|-
+| style="vertical-align:middle;" | {{J}}
+|Est Céladopole, Sud Azuria, Ouest Lavanville et au Nord de Carmin Sur Mer. (Route 5, 6, 7 et 8)
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]]
+| rowspan="3" style="vertical-align:middle;" | Peu commun 
+| rowspan="3" style="vertical-align:middle;" | [[Route]]s [[Route 5 (Kanto)|5]], [[Route 6 (Kanto)|6]], [[Route 8 (Kanto)|8]], [[Route 24 (Kanto)|24]], [[Route 25 (Kanto)|25]], [[Route 34|34]] et [[Route 35|35]]
+|-
+| [[Pokémon Or et Argent|Argent]]
+|-
+| [[Cristal]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:250px" | Version
+! style="background-color:{{Couleur|Psy}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}} 
+| style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Grotte Granite]]
+| style="vertical-align:middle;" | 8-10
+|-
+| style="vertical-align:middle;" | {{E}} 
+| style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Route 116]], [[Grotte Granite]]
+| style="vertical-align:middle;" | N/A
+|-
+| [[Rouge Feu]] || Peu commun || Routes [[Route 24|24]] et [[Route 25|25]].
+|-
+| [[Vert Feuille]] || Peu commun || Routes [[Route 24|24]] et [[Route 25|25]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Diamant]] et [[Perle]] || rowspan="2" style="vertical-align: middle;" | Peu commun || [[Route 203]] || N. 4 - 5 || 15%
+|-
+| [[Route 215]] || N. 20 || 10%
+|-
+| style="vertical-align: middle;" |[[Platine]] || style="vertical-align: middle;" | Peu commun || [[Route 203]], [[Route 215]] ou via [[échange de Pokémon|échange]] interne à [[Charbourg]] || N. 6 - 9 || 15%
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | [[Pokémon Noir et Blanc|''Pokémon Blanc'']] 
+| style="vertical-align:middle;" | Variable
+| style="vertical-align:middle;" | [[Forêt Blanche]] (à condition que Sergei soit dans la forêt)
+| style="vertical-align:middle;" | 5
+|-
+| style="vertical-align:middle;" | [[Pokémon Noir et Blanc|''Pokémon Noir'']] 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Echange
+| style="vertical-align:middle;" | -
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Téléport|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Téléport|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Téléport|-|-|20|sang-froid|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Téléport|-|-|20|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Téléport|-|-|20}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=psy
+|sensib-combat=0.5
+|sensib-insecte=2
+|sensib-psy=0.5
+|sensib-spectre=2
+|sensib-ténèbres=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=psy
+|PV=25
+|attaque=20
+|defense=15
+|atq-spc=105
+|def-spc=55
+|vitesse=90
+|special=105
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Abra
+| numero=063
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Abra RB.png
+| forme=6
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+| diff_rs-rfvf=oui
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Abra a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 7. Pour plus d'informations, voir ''[[Abra (Premier Défi 7)]]''.
+
+[[Fichier:JFC-Premier Défi-7.png|thumb|center|La figurine d'Abra]]
+
+==Apparitions dans le [[dessin animé]]==
+Maïté possède un Abra (épisode 515)
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 22]]
+:{{PCap|Pok}}é{{PCap|mon}} à pouvoir psychokinétique. Il dort dix-huit heures par jour mais utilise ses pouvoirs même en dormant.
+;[[Épisode 513]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Psy. Il a le pouvoir de disparaître en se téléportant dès qu'il sent qu'il va être attaqué.
+
+{{Ruban Pokémon
+| nomPrécédent=Tartard
+| numéro=063
+| nom=Abra
+| nomSuivant=Kadabra
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/63| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Abra| ]]
+
+[[de:Abra]]
+[[en:Abra (Pokémon)]]
+[[es:Abra]]
+[[it:Abra]]
+[[ja:ケーシィ]]
+[[pl:Abra]]
+[[pt:Abra (pokémon)]]

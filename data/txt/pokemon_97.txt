@@ -1,0 +1,385 @@
+{{Ruban Pokémon
+| nomPrécédent=Soporifik
+| numéro=097
+| nom=Hypnomade
+| nomSuivant=Krabby
+}}
+{{Infobox Pokémon
+| nom=Hypnomade
+| nomen=Hypno
+| nomja=スリーパー
+| nomtm=Sleeper
+| nomromaji=Surīpā
+| nomde=Hypno
+| légende=Artwork d'Hypnomade pour {{RFVF}}
+| ndex=097
+| jdex=088
+| hdex=267
+| fdex=091
+| adex=167
+| type1=Psy
+| espece=Hypnose
+| taille=1.6
+| poids=75.6
+| oeufpas=5120
+| effortval=+2 Déf. Spé
+| expval=165
+| expmax=1000000
+| fmratio=.5 
+| captureval=75
+| groupoeuf1=Humanoïde
+| capspe1=Insomnia
+| capspe2=Prédiction
+| capspe3=Attention
+| couleur=Jaune
+| forme=12
+}}
+'''Hypnomade''' (anglais : '''Hypno''' ; japonais : '''スリーパー''' ''Sleeper'') est un [[Pokémon]] de [[type]] {{type|psy}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie et attitudes===
+
+Hypnomade a le corps d'un félin de couleur jaune. Bipède, il possède une fourrure blanche autour de son cou et un pendule, lui servant à hypnotiser ses adversaires. En effet, une fois endormis, ces derniers sont violemment projetés sur un mur ou sur un rocher. Plusieurs légendes urbaines sont contées autour de ce pokémon: on raconte notamment qu'il hypnotise les enfants afin de les enlever.
+
+====Différences mâle/femelle====
+
+Les Hypnomade mâles ont un collier de fourrure plus petit que celui des femelles.
+
+====Chromatique====
+
+Les Hypnomade chromatiques ont le corps rose au lieu de jaune. La fourrure de leur cou reste blanche.
+
+===[[Évolution]]===
+Hypnomade est l'évolution de [[Soporifik]] à partir du [[niveau]] 26.
+{{TableauEvolutionHaut|Psy|Soporifik}}
+{{TableauEvolutionSimple|[[Niveau]] 26|Hypnomade}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Hypnomade peut disposer soit de la capacité spéciale [[Insomnia]], qui l'empêche de s'endormir, soit de la capacité spéciale [[Prédiction]], qui indique avant un combat la capacité de l'adversaire avec la puissance de base la plus importante.
+
+===Étymologies===
+* Français : de hypnose et nomade.
+* Anglais, Allemand : de hypnose.
+* Japonais : de ''Sleeper'', celui qui dort.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:En fixant son adversaire, il l'assaille avec les attaques psy d'{{PCap|[[hypnose]]}} et de {{PCap|[[choc mental]]}}.
+;[[Pokémon Jaune]]
+:Évitez son regard quand vous en croisez un, ou il essayera de vous hypnotiser avec son pendule.
+;[[Pokémon Stadium]]
+:Si vous croisez son regard, il tentera de vous hypnotiser. Il est donc conseillé de fermer les yeux avant de le rencontrer.
+;[[Pokémon Or]]
+:S'il est affamé, il endort les humains qu'il rencontre pour se repaître de leurs rêves.
+;[[Pokémon Argent]]
+:Il a un pendule qui va et vient de façon régulière et qui peut endormir les ennemis aux alentours.
+;[[Pokémon Cristal]]
+:Plus il balance son pendule, plus il maintient ses adversaires endormis.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Hypnomade}} tient un pendule dans sa main. Les mouvements de balancier et les reflets brillants du pendule hypnotisent profondément son ennemi. Lorsque ce {{PCap|Pok}}é{{PCap|mon}} cherche ses proies, il nettoie son pendule.
+;[[Pokémon Émeraude]]
+:Le mouvement de balancier et les reflets brillants de son pendule hypnotisent profondément son ennemi. Lorsqu'il cherche ses proies, il nettoie son pendule.
+;[[Pokémon Rouge Feu]]
+:Il transporte toujours un petit pendule. On raconte qu'il aurait un jour enlevé un enfant après l'avoir hypnotisé.
+;[[Pokémon Vert Feuille]]
+:Quand il regarde fixement son adversaire, c'est qu'il va l'attaquer avec des attaques {{PCap|[[Psy]]}} comme {{PCap|[[Hypnose]]}} ou {{PCap|[[Choc Mental]]}}.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Hypnomade}} écarte les bras pour préparer ses attaques psychiques.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:La vue de son pendule oscillant endort en trois secondes, même quand on vient de se réveiller.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Des orbes étranges sortent de la paume de ses mains.
+;[[Pokémon Or HeartGold]]
+:S'il est affamé, il endort les humains qu'il rencontre pour se repaître de leurs rêves.
+;[[Pokémon Argent SoulSilver]]
+:Il a un pendule qui va et vient de façon régulière et qui peut endormir les ennemis aux alentours.
+;[[Pokémon Noir et Blanc]]
+:La vue de son pendule oscillant endort en trois secondes, même quand on vient de se réveiller.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Rare || [[Grotte Inconnue]].
+|-
+| [[Bleu]] || Rare || [[Grotte Inconnue]].
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Soporifik]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Peu commun || [[Route 11 (Kanto)|Route 11]]
+|-
+| [[Pokémon Or et Argent|Argent]] || Peu commun || À venir
+|-
+| [[Cristal]] || Peu commun || À venir
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Rare || [[Bois Baies]]
+|-
+| [[Vert Feuille]] || Rare || [[Bois Baies]]
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Unique || À venir.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] et [[Perle]] || Inexistant || Faire évoluer [[Soporifik]].
+|-
+| [[Or HeartGold]] et [[Argent SoulSilver]] || Rare || [[Route 11 (Kanto)|Route 11]], [[Parc Safari (Johto)]]
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Soporifik]]
+| style="vertical-align:middle;" | 26
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Choc Mental|50|100|25}}
+{{Attaque|Départ|Coup d'Boule|70|100|15}}
+{{Attaque|N.33|Gaz Toxik|-|55|40}}
+{{Attaque|N.37|Psyko|90|100|10}}
+{{Attaque|N.43|Yoga|-|-|40}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Choc Mental|50|100|25}}
+{{Attaque|Départ|Coup d'Boule|70|100|15}}
+{{Attaque|N.33|Gaz Toxik|-|55|40}}
+{{Attaque|N.40|Yoga|-|-|40}}
+{{Attaque|N.49|Psyko|90|100|10}}
+{{Attaque|N.55|Boost|-|-|10}}
+{{Attaque|N.60|Prescience|80|90|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ{{Sup|RF}}{{Sup|VF}}|Cauchemar|-|100|15|intelligence|1|3}}
+{{Attaque-III|Départ|Écras'Face|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ|Hypnose|-|60|20|intelligence|1|3}}
+{{Attaque-III|Départ<br>N.10{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.7{{Sup|RF}}{{Sup|VF}}|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|Départ<br>N.18{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.11{{Sup|RF}}{{Sup|VF}}|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.25{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.17{{Sup|RF}}{{Sup|VF}}|Coup d'Boule|70|100|15|robustesse|2|3}}
+{{Attaque-III|N.33{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.21{{Sup|RF}}{{Sup|VF}}|Gaz Toxik|-|55|40|intelligence|3|0}}
+{{Attaque-III|N.40{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.29{{Sup|RF}}{{Sup|VF}}|Yoga|-|-|40|beauté|1|0}}
+{{Attaque-III|N.49{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.35{{Sup|RF}}{{Sup|VF}}|Psyko|90|100|10|intelligence|1|3}}
+{{Attaque-III|N.55{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.43{{Sup|RF}}{{Sup|VF}}|Boost|-|-|10|intelligence|2|0}}
+{{Attaque-III|N.49{{Sup|RF}}{{Sup|VF}}|Vantardise|-|90|15|grâce|2|0}}
+{{Attaque-III|N.60{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.57{{Sup|RF}}{{Sup|VF}}|Prescience|80|90|15|intelligence|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Cauchemar|-|100|15|intelligence|2}}
+{{Attaque-IV|Départ|Passe-Passe|-|100|10|sang-froid|0}}
+{{Attaque-IV|Départ|Écras'Face|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Hypnose|-|70{{Sup|D}}{{Sup|P}}<br>60{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|20|intelligence|2}}
+{{Attaque-IV|Départ<br>N.7|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|Départ<br>N.9|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.15|Coup d'Boule|70|100|15|robustesse|3}}
+{{Attaque-IV|N.18|Gaz Toxik|-|55|40|intelligence|3}}
+{{Attaque-IV|N.21|Yoga|-|-|40|beauté|0}}
+{{Attaque-IV|N.28|Rafale Psy|65|100|20|beauté|2}}
+{{Attaque-IV|N.33|Boost|-|-|10|intelligence|0}}
+{{Attaque-IV|N.38|Coup d'Boule|70|100|15|robustesse|3}}
+{{Attaque-IV|N.45|Vantardise|-|90|15|grâce|2}}
+{{Attaque-IV|N.50|Psyko|90|100|10|intelligence|2}}
+{{Attaque-IV|N.55|Machination|-|-|20|grâce|0}}
+{{Attaque-IV|N.64|Psykoud'Boul|80|90|15|beauté|2}}
+{{Attaque-IV|N.69|Prescience|80|90|15|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Cauchemar|-|100|15}}
+{{Attaque-V|Départ|Passe-Passe|-|100|10}}
+{{Attaque-V|Départ|Écras'Face|40|100|35}}
+{{Attaque-V|Départ|Hypnose|-|60|20}}
+{{Attaque-V|Départ<br>N.5|Entrave|-|100|20}}
+{{Attaque-V|Départ<br>N.9|Choc Mental|50|100|25}}
+{{Attaque-V|N.13|Coup d'Boule|70|100|15}}
+{{Attaque-V|N.17|Gaz Toxik|-|80|40}}
+{{Attaque-V|N.21|Yoga|-|-|40}}
+{{Attaque-V|N.25|Rafale Psy|65|100|20}}
+{{Attaque-V|N.29|Coup d'Boule|70|100|15}}
+{{Attaque-V|N.33|Boost|-|-|10}}
+{{Attaque-V|N.37|Synchropeine|70|100|15}}
+{{Attaque-V|N.41|Psykoud'Boul|80|90|15}}
+{{Attaque-V|N.45|Vantardise|-|90|15}}
+{{Attaque-V|N.49|Psyko|90|100|10}}
+{{Attaque-V|N.53|Machination|-|-|20}}
+{{Attaque-V|N.57|Choc Psy|80|100|10}}
+{{Attaque-V|N.61|Prescience|100|100|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=psy
+|sensib-combat=0.5
+|sensib-insecte=2
+|sensib-psy=0.5
+|sensib-spectre=2
+|sensib-ténèbres=2
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=psy
+|PV=85
+|attaque=73
+|defense=70
+|atq-spc=73
+|def-spc=115
+|vitesse=67
+|special=115
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Hypnomade
+| numero=097
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Hypnomade RB.png
+| forme=12
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+==Apparitions dans le [[dessin animé]]==
+Un Hypnomade apparaît d'abord dans l'[[Épisode 27]], où ses ondes hypnotiques amènent les enfants à disparaître pour se retrouver dans un parc, où ils se comportent comme des Pokémon.
+
+[[Harrison]] utilise un Hypnomade durant son match contre [[Sacha]] lors de la [[Conférence Argentée]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 27]]
+:{{PCap|Pok}}é{{PCap|mon}} Hypnose. Il ne se sépare jamais de son pendule. Il est spécialiste des attaques [[Hypnose]].
+
+{{Ruban Pokémon
+| nomPrécédent=Soporifik
+| numéro=097
+| nom=Hypnomade
+| nomSuivant=Krabby
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/97| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Hypno| ]]
+
+[[de:Hypno]]
+[[en:Hypno (Pokémon)]]
+[[es:Hypno]]
+[[it:Hypno]]
+[[ja:スリーパー]]
+[[pl:Hypno]]
+[[pt:Hypno (pokémon)]]

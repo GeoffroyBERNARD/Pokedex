@@ -1,0 +1,356 @@
+{{Ruban Pokémon
+| nomPrécédent=Coconfort
+| numéro=015
+| nom=Dardargnan
+| nomSuivant=Roucool
+}}
+{{Infobox Pokémon 
+| nom=Dardargnan
+| nomen=Beedrill
+| nomja=スピアー
+| nomtm=Spear
+| nomromaji=Supiā
+| nomde=Bibor
+| légende=Artwork de Dardargnan pour {{RFVF}}
+| ndex=015
+| jdex=029
+| hdex=217
+| fdex=025
+| adex=058
+| espece=Guêpoison
+| taille=1.0
+| poids=29.5
+| fmratio=.500 
+| oeufpas=3840 
+| effortval=+2 Att. ; +1 Déf. Spé
+| type1=Insecte
+| type2=Poison
+| expval=159
+| expmax=1000000
+| captureval=45
+| groupoeuf1=Insecte
+| capspe1=Essaim (capacité spéciale){{!}}Essaim
+| capspe2=Sniper
+| capspe2-reve=oui
+| couleur=Jaune
+| forme=13}}
+'''Dardargnan''' (anglais : '''Beedrill''' ; japonais : '''スピアー''' ''Spear'') est un Pokémon {{type|insecte}} et {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+Dardargnan est un Pokémon guêpe qui possède deux grandes antennes sur sa tête triangulaire. Il est jaune et noir et possède quatre pattes dont les deux avant sont munies de gros dards.
+
+Il possède quatre ailes transparentes et un dard jaune en guise de queue.
+
+Ses yeux sont rouges et lui permettent de voir même en grande vitesse pendant son vol.
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Dardargnan a le corps vert au lieu de jaune et les yeux bleus au lieu de rouges.
+
+=== [[Évolution]] ===
+Dardargnan est l'évolution de [[Coconfort]] à partir du [[niveau]] 10, lui-même l'évolution d'[[Aspicot]] à partir du niveau 7.
+{{TableauEvolutionHaut|Insecte|Aspicot}}
+{{TableauEvolutionSimple|[[Niveau]] 7|Coconfort}}
+{{TableauEvolutionSimple|[[Niveau]] 10|Dardargnan}}
+{{TableauEvolutionBas}}
+
+=== [[Capacité spéciale]] ===
+Dardargnan peut avoir [[Essaim (capacité spéciale)|Essaim]], qui augmente la puissance des attaques de type [[Insecte]]. Il peut aussi avoir la capacité [[Sniper]] qui triple la puissance des coups critiques.
+
+=== Étymologies ===
+* Français : '''dar'''d, "'''dar'''e-'''dar'''e" (notion d'empressement, de vitesse) et D'[[:wp:Charles de Batz-Castelmore d'Artagnan|Arta'''gnan''']].
+* Anglais : ''Beedrill'' vient de ''bee'' (abeille) et ''drill'' (perceuse).
+* Japonais : ''spear'' signifie lance en anglais.
+* Allemand : ''Bibor'' vient de ''Biene'' (abeille) et ''Bohrer'' (perceuse).
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Il vole à très grande vitesse. Il se bat avec les dards empoisonnés de ses bras.
+;[[Pokémon Jaune]]
+: Il se sert de ses trois aiguillons empoisonnés pour attaquer sans relâche ses adversaires.
+;[[Pokémon Stadium]]
+: Il vole à grande vitesse et attaque de ses trois dards: un sur l'abdomen et un au bout de chaque patte avant. Apparaît en nuée.
+;[[Pokémon Or]]
+: Il peut venir à bout de ses adversaires grâce à ses aiguillons. Il attaque souvent en nuées.
+;[[Pokémon Argent]]
+: Il a trois dards vénéneux. Le dard sur sa queue secrète le poison le plus puissant et dangereux.
+;[[Pokémon Cristal]]
+: Il utilise ses aiguillons pour attaquer sa proie. Il la transporte ensuite à son nid pour la dévorer.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Dardargnan}} est extrêmement possessif. Il vaut mieux ne pas toucher son nid si on veut éviter d'avoir des ennuis. Lorsqu'ils sont en colère, ces {{PCap|Pok}}é{{PCap|mon}} attaquent en masse.
+;[[Pokémon Émeraude]]
+:{{PCap|Dardargnan}} est extrêmement possessif. Il vaut mieux ne pas toucher son nid si on veut éviter d'avoir des ennuis. En colère, ils attaquent en groupe.
+;[[Pokémon Rouge Feu]]
+:On le voit souvent voler dans un essaim. Il vole très rapidement, piquant sans cesse ses adversaires de son dard toxique.
+;[[Pokémon Vert feuille]]
+:Il vole à très grande vitesse. Il se bat avec les dards empoisonnés de ses bras.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Dardargnan}} tire des épines pointues pouvant détruire des Pierres.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Il virevolte rapidement autour de l'ennemi et frappe de son dard empoisonné avant de décamper.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il tire des épines empoisonnées en voletant à toute allure.
+;[[Pokémon Or HeartGold]]
+:Il peut venir à bout de ses adversaires grâce à ses aiguillons. Il attaque souvent en nuées.
+;[[Pokémon Argent SoulSilver]]
+: Il a trois dards venimeux. Le dard sur sa queue sécrète le poison le plus puissant et dangereux.
+;[[Pokémon Noir et Blanc]]
+:Il virevolte rapidement autour de l'ennemi et frappe de son dard empoisonné avant de décamper.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:200px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Coconfort]]
+| style="vertical-align:middle;" | 10
+|-
+| style="vertical-align:middle;" | ''[[Pokémon Jaune]]''
+| Inexistant || À échanger depuis [[Pokémon Rouge et Bleu|Rouge ou Bleu]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:200px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|- 
+| style="vertical-align:middle;" | {{OAC}}
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | Concours de capture d'insectes.
+|-
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:200px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}}
+| ||.
+|-
+| style="vertical-align:middle;" | {{RFVF}}
+| ||
+|-
+| [[Colosseum]] || ||.
+|-
+| [[XD]] || ||.
+|}
+
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:200px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{DP}}
+| ||.
+|-
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:200px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | [[Pokémon Noir et Blanc|''Pokémon Blanc'']]
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Echange avec la version [[Pokémon Noir et Blanc|''Pokémon Noir'']]
+| style="vertical-align:middle;" | -
+|-
+| style="vertical-align:middle;" | [[Pokémon Noir et Blanc|''Pokémon Noir'']]
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Route 12 (Unys)|Route 12]] ([[Herbes mouvantes]])
+| style="vertical-align:middle;" | 50
+|-
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|N.12|Furie|15|85|20}}
+{{Attaque|N.16|Puissance|-|-|30}}
+{{Attaque|N.20|Double-Dard|25|100|20}}
+{{Attaque|N.25|Frénésie|20|100|20}}
+{{Attaque|N.30|Dard-Nuée|14|85|20}}
+{{Attaque|N.35|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|N.10|Furie|15|85|20}}
+{{Attaque|N.15|Puissance|-|-|30}}
+{{Attaque|N.20|Double-Dard|25|100|20}}
+{{Attaque|N.25|Frénésie|20|100|20}}
+{{Attaque|N.30|Poursuite|40|100|20}}
+{{Attaque|N.35|Dard-Nuée|14|85|20}}
+{{Attaque|N.40|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ<br>N.10|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.15|Puissance|-|-|30|sang-froid|1|3}}
+{{Attaque-III|N.20|Double-Dard|25|100|20|sang-froid|2|3}}
+{{Attaque-III|N.25|Frénésie|20|100|20|sang-froid|3|0}}
+{{Attaque-III|N.30|Poursuite|40|100|20|intelligence|2|1}}
+{{Attaque-III|N.35|Dard-Nuée|14|85|20|sang-froid|2|1}}
+{{Attaque-III|N.40|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.45|Effort|-|100|5|robustesse|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ<br>N.10|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.13|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.16|Double-Dard|25|100|20|sang-froid|2}}
+{{Attaque-IV|N.19|Frénésie|20|100|20|sang-froid|0}}
+{{Attaque-IV|N.22|Poursuite|40|100|20|intelligence|1}}
+{{Attaque-IV|N.25|Pics Toxik|-|-|20|intelligence|2}}
+{{Attaque-IV|N.28|Dard-Nuée|14|85|20|sang-froid|2}}
+{{Attaque-IV|N.31|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.34|Assurance|50|100|10|beauté|2}}
+{{Attaque-IV|N.37|Direct Toxik|80|100|20|intelligence|2}}
+{{Attaque-IV|N.40|Effort|-|100|5|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ<br>N.10|Furie|15|85|20}}
+{{Attaque-V|N.13|Puissance|-|-|30}}
+{{Attaque-V|N.16|Double-Dard|25|100|20}}
+{{Attaque-V|N.19|Frénésie|20|100|20}}
+{{Attaque-V|N.22|Poursuite|40|100|20}}
+{{Attaque-V|N.25|Pics Toxik|-|-|20}}
+{{Attaque-V|N.28|Dard-Nuée|14|85|20}}
+{{Attaque-V|N.31|Hâte|-|-|30}}
+{{Attaque-V|N.34|Assurance|50|100|10}}
+{{Attaque-V|N.37|Direct Toxik|80|100|20}}
+{{Attaque-V|N.40|Effort|-|100|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| class="wikitable"
+! Numéro || [[Bleu]]/[[Rouge]]/[[Jaune]] || [[Or]]/[[Pokémon Or et Argent|Argent]]/[[Cristal]] || [[Rubis]]/[[Saphir]]/[[Pokémon Émeraude|Émeraude]]/[[RF]]/ [[VF]] || [[Diamant]]/[[Perle]]
+|}
+
+===Par [[reproduction]]===
+
+
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=insecte
+|sensib-combat=0.25
+|sensib-feu=2
+|sensib-insecte=0.5
+|sensib-plante=0.25
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-roche=2
+|sensib-vol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison (type)|poison]] -donc sur '''Dardargnan'''- dans la [[première génération]].
+|rmq-insecte-num=1
+|rmq-poison=Les attaques de type [[Poison (type)|poison]] étaient très efficaces sur les Pokémon de type [[Insecte]] dans la [[première génération]]. De ce fait, elles possédaient dans cette génération une efficacité normale sur '''Dardargnan''' dans la mesure où ce dernier possède un double type [[Poison (type)|poison]] qui lui est résistant à ces attaques.
+|rmq-poison-num=2
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=insecte
+|PV=65
+|attaque=80
+|defense=40
+|atq-spc=45
+|def-spc=80
+|vitesse=75
+|special=45
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Dardargnan
+| numero=015
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Dardargnan RB.png
+| forme=13
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_4G-fm=non
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Dardargnan a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 26. Pour plus d'informations, voir ''[[Dardargnan (Premier Défi 26)]]''.
+
+[[Fichier:JFC-Premier Défi-26.png|thumb|center|La figurine de Dardargnan]]
+
+==Apparitions dans le [[dessin animé]]==
+
+Il apparaît dans l'[[épisode 4]], lorsque [[Sacha]] veut capturer un [[Aspicot]], mais le [[samouraï]] l'en empêche alors. Par la suite, [[Aspicot]] va chercher ses congénères Dardargnan.
+
+Dans l'[[épisode 161]], Sacha attrape un Dardargnan pendant le concours insecte. Il le donne à [[Cathy]] à la fin de l'épisode.
+
+On revoit des Dardargnan dans de nombreux épisodes.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 4]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est la [[évolution|forme évoluée]] de l'{{PCap|Aspicot}}, le stade intermédiaire étant le {{PCap|Coconfort}}. Ses dards sont venimeux.
+
+{{Ruban Pokémon
+| nomPrécédent=Coconfort
+| numéro=015
+| nom=Dardargnan
+| nomSuivant=Roucool
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/15| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Beedrill| ]]
+
+[[de:Bibor]]
+[[en:Beedrill (Pokémon)]]
+[[es:Beedrill]]
+[[it:Beedrill]]
+[[ja:スピアー]]
+[[pl:Beedrill]]
+[[pt:Beedrill (pokémon)]]

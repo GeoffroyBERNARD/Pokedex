@@ -1,0 +1,518 @@
+{{Ruban Pokémon
+| nomPrécédent=Arbok
+| numéro=025
+| nom=Pikachu
+| nomSuivant=Raichu
+}}
+{{Infobox Pokémon
+| nom=Pikachu
+| nomen=Pikachu
+| nomja=ピカチュウ
+| nomromaji=Pikachū
+| nomtm=Pikachu
+| nomde=Pikachu
+| nomko=피카츄 ''Pikachyu''
+| nomch=皮卡丘 ''Píkǎqiū''
+| légende=Artwork par Ken Sugimori
+| ndex=025
+| jdex=022
+| hdex=156
+| sdex=104
+| fdex=023
+| adex=002
+| odex=R-005
+| opdex=N-154
+| espece=Souris
+| taille=0.4
+| poids=6.0
+| fmratio=.500
+| couleur=Jaune
+| oeufpas=2560
+| effortval=+2 Vit.
+| type1=Électrique
+| expval=82
+| expmax=1000000
+| captureval=190
+| groupoeuf1=Sol
+| groupoeuf2=Fée
+| capspe1=Statik
+| forme=8
+}}
+'''Pikachu''' (anglais : '''Pikachu''' ; japonais : '''ピカチュウ''' ''Pikachu'') est un [[Pokémon]] Souris de [[type]] {{type|électrique}} apparu dès la [[première génération]]. En tant que partenaire de [[Sacha]], héros du [[dessin animé]] tiré du jeu, il est le plus célèbre des Pokémon et la mascotte officielle de la licence.
+
+==À propos du Pokémon==
+
+===Physionomie et attitude===
+Pikachu est un Pokémon ressemblant à une [[:wp:Souris|souris]]. Son corps est jaune, avec une queue en forme d'éclair et des joues rouges ; c'est de là que sort son [[:wp:Électricité|électricité]], mais il la tire de sa queue. Ses oreilles sont longues et en pointe en plus d'être noires au bout. Il possède cinq doigts sur ses pattes avant et trois sur ses pattes arrières, mais ses pattes arrières sont beaucoup plus musclées et beaucoup plus utiles que celles de l'avant. Il a aussi deux rayures marrons sur son dos.
+
+Pikachu peut avoir un très mauvais caractère.
+
+==== Différences mâle/femelle ====
+
+Les Pikachu femelles ont une encoche en biseau interne à l'extrémité de leur queue.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Pikachu à une teinte plus orangée que d'habitude.
+
+===[[Évolution]]===
+Pikachu est l'évolution de [[Pichu]], si celui-ci est suffisament [[Bonheur|heureux]]. Pikachu évolue en [[Raichu]] grâce à une [[Pierre Foudre]].<br>
+Une exception concerne le Pikachu [[starter]] de ''[[Pokémon Jaune]]'', qui n'évolue jamais, en accord avec le [[dessin animé]] dont il adapte l'intrigue. De plus, [[Pichu]] n'existant pas dans la première génératon, Pikachu était un Pokémon de base.
+
+{{TableauEvolutionHaut|Électrique|Pichu}}
+{{TableauEvolutionSimple|[[Bonheur]]|Pikachu}}
+{{TableauEvolutionSimple|Avec une [[Pierre Foudre]]|imageObjet=Miniat pierre foudre dp.png|Raichu}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+'''[[Statik]]''' : si l'ennemi attaque physiquement le Pokémon, il a 30% de chance d'être paralysé.
+
+===Étymologies===
+* Français, anglais, allemand : transcription du nom japonais.
+* Japonais : ピカチュウ ''Pikachū'' vient de ぴかぴか '''pika'''pika (qui veut dire "éclat" ou "scintillement" en japonais) et de ちゅうちゅう '''chū'''chū (bruit d'une souris). Le [[:wp:pika|pika]] est également un petit mammifère [[:wp:lagomorphe|lagomorphe]] ressemblant à une souris.
+On dit aussi que Ken l'aurait appelé ainsi en hommage au hamster d'un amour de jeunesse qui s'appelait aussi Pikachu<ref>http://www.p-pokemon.com/pokemon/?page=phenomene</ref>.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Quand plusieurs de ces Pokémon se réunissent, ils provoquent de gigantesques orages.
+;[[Pokémon Jaune]]
+: Sa queue est dressée quand il est aux aguets. Si vous tirez dessus, il vous mordra.
+;[[Pokémon Stadium]]
+: Il vit en forêt loin des hommes. Il emmagasine de l'électricité dans ses joues pour neutraliser tout assaillant.
+;[[Pokémon Or]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} rusé électrifie les fruits pas assez mûrs pour les rendre tendres et bons à manger.
+;[[Pokémon Argent]]
+: Il élève sa queue pour surveiller les environs. Elle attire souvent la foudre dans cette position.
+;[[Pokémon Cristal]]
+: Énervé, il envoie instantanément l'énergie emmagasinée dans ses joues.
+;[[Pokémon Rubis]]
+: Chaque fois que {{PCap|Pikachu}} découvre quelque chose de nouveau, il envoie un arc électrique. Lorsqu'on tombe sur une {{PCap|[[Baie]]}} carbonisée, ça signifie sans doute qu'un de ces {{PCap|Pok}}é{{PCap|mon}} a envoyé une charge trop forte.
+;[[Pokémon Saphir]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} dispose de petites poches dans les joues pour stocker de l'électricité. Elles semblent se charger pendant que {{PCap|Pikachu}} dort. Il libère parfois un peu d'électricité lorsqu'il n'est pas encore bien réveillé.
+;[[Pokémon Émeraude]]
+: Il stocke de l'électricité dans les poches de ses joues. Quand il relâche d'un coup toute l'énergie accumulée, la puissance électrique équivaut à celle d'un éclair.
+;[[Pokémon Rouge Feu]]
+:{{PCap|Pikachu}} a de petites poches pleine d'électricité sur ses joues. S'il se sent menacé, il laisse s'échapper des décharges électriques.
+;[[Pokémon Vert Feuille]]
+:Quand plusieurs de ces {{PCap|Pok}}é{{PCap|mon}} se réunissent, ils provoquent de gigantesques orages.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Pikachu}} produit des décharges électriques pour recharger le [[Capstick]].
+;[[Pokémon Diamant]]
+: Il vit en forêt avec ses pairs. Il accumule l'électricité dans les poches de ses joues.
+;[[Pokémon Perle]]
+: Si les poches électriques de ses joues crépitent, c'est qu'il est sur ses gardes.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il produit des décharges électriques pour attaquer.
+;[[Super Smash Bros Brawl]]
+Un Pokémon Souris. Sa queue en éclair et ses joues rondes sont caractéristiques. À l'approche d'un danger, il utilise de petites poches à l'intérieur de ses joues pour envoyer de l'électricité. S'il est vraiment énervé, il lance des éclairs contre ses rivaux. Il semblerait qu'il se recharge en dormant. Il évolue en [[Raichu]].
+;[[Pokémon Platine]]
+:Il lui arrive de remettre d'aplomb un {{PCap|Pikachu}} allié en lui envoyant une décharge électrique.
+;[[Pokémon Or HeartGold]]
+:Ce Pokémon rusé électrifie les fruits pas assez mûrs pour les rendre tendres et bons à manger.
+;[[Pokémon Argent SoulSilver]]
+:Il élève sa queue pour surveiller les environs. Elle attire souvent la foudre dans cette position.
+;[[Pokémon Noir et Blanc]]
+:Il lui arrive de remettre d'aplomb un Pikachu allié en lui envoyant une décharge électrique.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Pourcentage de rencontre
+|-
+| rowspan="2" style="vertical-align: middle;" | {{RB}} || Rare || [[Forêt de Jade]] || N. 3-5 || 5%
+|-
+| Commun || [[Centrale]] || N. 20-24 || 25%
+|-
+| ''[[Pokémon Jaune]]'' || Unique || Votre [[starter]], donné par le [[Prof. Chen]] au début de l'aventure à [[Bourg Palette]]. || N. 5 || 100%
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Pourcentage de rencontre
+|-
+| {{OAC}} || Rare || [[Route 2 (Kanto)|Route 2]] et [[Casino de Céladopole]] || N.4 || 5%
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Pourcentage de rencontre
+|-
+| rowspan="2" style="vertical-align: middle;" | {{RS}} || Rare || Zone 1 du [[Parc Safari]] || N. 25-27 || 5%
+|-
+| Abondant || Zone 2 du [[Parc Safari]] || N. 25 || 40%
+|-
+| rowspan="2" style="vertical-align: middle;" | ''[[Pokémon Émeraude]]'' || Rare || Zone 1 du [[Parc Safari]] || N. 25-27 || 5%
+|-
+| Abondant || Zone 2 du [[Parc Safari]] || N. 25 || 40%
+|-
+| rowspan="2" style="vertical-align: middle;" | {{RFVF}} || Rare || [[Forêt de Jade]] || N. 3-5 || 5%
+|-
+| Commun || [[Centrale]] || N. 22-24-26 || 25%
+|-
+| [[Colosseum]] || rowspan="2" style="vertical-align: middle;" | Inexistant || rowspan="2" style="vertical-align: middle;" | Échange à partir de {{RSE}} ou {{RFVF}} || rowspan="2" style="vertical-align: middle;" | - || rowspan="2" style="vertical-align: middle;" | -
+|-
+| [[XD]]
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Pourcentage de rencontre
+|-
+| {{DP}} || rowspan="2" style="vertical-align: middle;"| Peu Commun || rowspan="2" style="vertical-align: middle;"| Au [[Jardin Trophée]] || N. 17/18 || rowspan="2" style="vertical-align: middle;"| 10%
+|-
+| ''[[Pokémon Platine]]'' || N. 20 à 24
+|-
+| {{HGSS}} || style="vertical-align: middle;" | Rare || style="vertical-align: middle;"| [[Forêt de Jade]] || N.4-7 || style="vertical-align: middle;"| 5%
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;"| {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | A transférer avec le Poké Fret
+| style="vertical-align:middle;" | -
+|-
+| style="vertical-align:middle;"| {{NB2}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | A transférer avec le Poké Fret
+| style="vertical-align:middle;" | -
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Éclair|40|100|30}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.6{{Sup|J}}|Mimi-Queue|-|100|30}}
+{{Attaque|N.9{{Sup|R}}{{Sup|B}}<br>N.8{{Sup|J}}|Cage-Éclair|-|100|20}}
+{{Attaque|N.16{{Sup|R}}{{Sup|B}}<br>N.11{{Sup|J}}|Vive-Attaque|40|100|30}}
+{{Attaque|N.15{{Sup|J}}|Reflet|-|-|15}}
+{{Attaque|N.20{{Sup|J}}|Souplesse|80|75|20}}
+{{Attaque|N.26{{Sup|J}}|Tonnerre|95|100|15}}
+{{Attaque|N.26{{Sup|R}}{{Sup|B}}|Météores|60|-|20}}
+{{Attaque|N.33|Hâte|-|-|30}}
+{{Attaque|N.43{{Sup|R}}{{Sup|B}}<br>N.41{{Sup|J}}|Fatal-Foudre|120|70|10}}
+{{Attaque|N.50{{Sup|J}}|Mur Lumière|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Éclair|40|100|30}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.6|Mimi-Queue|-|100|30}}
+{{Attaque|N.8|Cage-Éclair|-|100|20}}
+{{Attaque|N.11|Vive-Attaque|40|100|30}}
+{{Attaque|N.15|Reflet|-|-|15}}
+{{Attaque|N.20|Souplesse|80|75|20}}
+{{Attaque|N.26|Tonnerre|95|100|15}}
+{{Attaque|N.33|Hâte|-|-|30}}
+{{Attaque|N.41|Fatal-Foudre|120|70|10}}
+{{Attaque|N.50|Mur Lumière|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Éclair|40|100|30|sang-froid|4|0}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|N.6|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|N.8|Cage-Éclair|-|100|20|sang-froid|2|1}}
+{{Attaque-III|N.11|Vive-Attaque|40|100|30|sang-froid|3|0}}
+{{Attaque-III|N.15|Reflet|-|-|15|sang-froid|2|0}}
+{{Attaque-III|N.20|Souplesse|80|75|20|robustesse|2|1}}
+{{Attaque-III|N.26|Tonnerre|95|100|15|sang-froid|4|0}}
+{{Attaque-III|N.33|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.41|Fatal-Foudre|120|70|10|sang-froid|2|2}}
+{{Attaque-III|N.50|Mur Lumière|-|-|30|beauté|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Éclair|40|100|30|sang-froid|3}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|N.5|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|N.10|Cage-Éclair|-|100|20|sang-froid|2}}
+{{Attaque-IV|N.13|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|N.18|Reflet|-|-|15|sang-froid|2}}
+{{Attaque-IV|N.21|Souplesse|80|75|20|robustesse|3}}
+{{Attaque-IV|N.26|Tonnerre|95|100|15|sang-froid|2}}
+{{Attaque-IV|N.29|Ruse|50|100|10|beauté|0}}
+{{Attaque-IV|N.34|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.37|Coup d'Jus|80|100|15|robustesse|2}}
+{{Attaque-IV|N.42|Mur Lumière|-|-|30|beauté|2}}
+{{Attaque-IV|N.45|Fatal-Foudre|120|70|10|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|Départ|Éclair|40|100|30}}
+{{Attaque-V|N.5|Mimi-Queue|-|100|30}}
+{{Attaque-V|N.10|Cage-Éclair|-|100|20}}
+{{Attaque-V|N.13|Vive-Attaque|40|100|30}}
+{{Attaque-V|N.18|Boule Élek|1|100|10}}
+{{Attaque-V|N.21|Reflet|-|-|15}}
+{{Attaque-V|N.26|Souplesse|80|75|20}}
+{{Attaque-V|N.29|Tonnerre|95|100|15}}
+{{Attaque-V|N.34|Ruse|30|100|10}}
+{{Attaque-V|N.37|Hâte|-|-|30}}
+{{Attaque-V|N.42|Coup d'Jus|80|100|15}}
+{{Attaque-V|N.45|Mur Lumière|-|-|30}}
+{{Attaque-V|N.50|Fatal-Foudre|120|70|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+{{incomplet}}
+====[[Première génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}" | [[Niveau]]
+! style="background-color:{{Couleur|Électrique}}" | [[Attaque]]
+! style="background-color:{{Couleur|Électrique}}" | [[Type]]
+! style="background-color:{{Couleur|Électrique}}" | [[Puissance]]
+! style="background-color:{{Couleur|Électrique}}" | [[Précision]]
+! style="background-color:{{Couleur|Électrique}}" | [[PP]]
+|-
+| [[CT01]] || [[Ultimapoing]] || {{type|normal}} || 80 || 85% || 20
+|-
+| [[CT05]] || [[Ultimawashi]] || {{type|normal}} || 120 || 75% || 5
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}} || — || 85% || 10
+|-
+| [[CT08]] || [[Plaquage]] || {{type|normal}} || 85 || 100% || 15
+|-
+| [[CT09]] || [[Bélier]] || {{type|normal}} || 90 || 85% || 20
+|-
+| [[CT10]] || [[Damoclès]] || {{type|normal}} || 120 || 100% || 15
+|-
+| [[CT16]] || [[Jackpot]] || {{type|normal}} || 40 || 100% || 20
+|-
+| [[CT17]] || [[Sacrifice]] || {{type|combat}} || 80 || 80% || 25
+|-
+| [[CT19]] || [[Frappe Atlas]] || {{type|combat}} || — || 100% || 20
+|-
+| [[CT20]] || [[Frénésie]] || {{type|normal}} || 20 || 100% || 20
+|-
+| [[CT24]] || [[Tonnerre]] || {{type|électrique}} || 95 || 100% || 15
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}} || 120 || 70% || 10
+|-
+| [[CT31]] || [[Copie]] || {{type|normal}} || — || — || 10
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}} || — || — || 15
+|-
+| [[CT33]] || [[Protection]] || {{type|psy}} || — || — || 20
+|-
+| [[CT34]] || [[Patience]] || {{type|normal}} || — || — || 10
+|-
+| [[CT39]] || [[Météores]] || {{type|normal}} || 60 || — || 20
+|-
+| [[CT40]] || [[Coud'Krâne]] || {{type|normal}} || 100 || 100% || 15
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}} || — || — || 10
+|-
+| [[CT45]] || [[Cage-Éclair]] || {{type|électrique}} || — || 100% || 20
+|-
+| [[CT50]] || [[Clonage (attaque)|Clonage]] || {{type|normal}} || — || — || 10
+|-
+| [[CS05]] || [[Flash]] || {{type|normal}} || — || 70% || 20
+|}
+
+===Par [[reproduction]]===
+Electacle si la femelle tient une [[Balle Lumière]].
+
+===Par [[donneur de capacités]]===
+{{incomplet}}
+Dans {{NB2}}, Pikachu peut apprendre [[Queue De Fer]] grâce a un [[Maître des Capacités]] en échange de 6 [[Tesson Bleu]] à [[Arpentières]].
+
+==Sensibilités==
+
+{{Sensibilités
+|type=électrique
+|sensib-acier=0.5
+|sensib-électrique=0.5
+|sensib-sol=2
+|sensib-vol=0.5
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=électrique
+|PV=35
+|attaque=55
+|defense=30
+|atq-spc=50
+|def-spc=40
+|vitesse=90
+|special=50
+}}
+
+== Imagerie ==
+{{Imagerie Pokémon
+| pokemon=Pikachu
+| numero=025
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Pikachu RB.png{{!}}x140px
+| artwork_supp2-nom=''Jaquette de [[Pokémon Jaune]]''
+| artwork_supp2-img=Pikachu_-_Pokémon_Jaune.png
+| artwork_supp3-nom=[[Pokémon Ranger 2]]
+| artwork_supp3-img=Pikachu-Ranger 2.png{{!}}x140px
+| artwork_supp4-nom=[[Pokémon Donjon Mystère]]
+| artwork_supp4-img=Pikachu-DM.png{{!}}x140px
+| artwork_supp5-nom=[[Pokémon Donjon Mystère 2]]
+| artwork_supp5-img=Pikachu-DM2.png{{!}}x140px
+| artwork_supp6-nom=[[Pokémon Donjon Mystère : Explorateurs du Ciel|Explorateurs du Ciel]]
+| artwork_supp6-img=Pikachu-EdC.png
+| forme=8
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+}}
+
+== Distributions évènementielles ==
+Du fait de son statut de mascotte de la franchise, Pikachu est sans doute le Pokémon ayant eut droit au plus grand nombre de [[Pokémon évènementiel|distributions évènementielles]] :
+* '''2003'''
+** [[Liste des Pokémon distribués en 2003#Pikachu|Pikachu Evolution Stone (PCNY)]] (États-Unis)
+** [[Pokémon Colosseum#Pikachu Colosseum|Pikachu Colosseum]] (Japon)
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Pikachu ANA|Pikachu ANA]] <small>-[[Pikachu volant|volant]]-</small> (Japon)
+* '''2005'''
+** [[Liste des Pokémon distribués en 2005#Pikachu Yokohama|Pikachu Yokohama]] <small>-[[Pikachu surfeur|surfeur]]-</small> (Japon)
+** [[Liste des Pokémon distribués en 2005#Pikachu GW|Pikachu GW]] <small>-[[Pikachu volant|volant]]-</small> (Japon)
+** [[Liste des Pokémon distribués en 2005#Pikachu Sapporo|Pikachu Sapporo]] <small>-[[Pikachu surfeur|surfeur]]-</small> (Japon)
+* '''2006'''
+** [[Liste des Pokémon distribués en 2006#Pikachu|Pikachu Gotta Catch 'Em All (série 3)]] (Japon)
+** [[Liste des Pokémon distribués en 2006#Série 5|Pikachu Gotta Catch 'Em All (série 5)]] (Japon)
+** [[Liste des Pokémon distribués en 2006#Série 6|Pikachu Gotta Catch 'Em All (série 6)]] (Japon)
+** [[Pokémon Battle Revolution#Pikachu surfeur|Pikachu Pokétopia (Pokémon Battle Revolution)]] <small>-[[Pikachu surfeur|surfeur]]-</small> (Japon)
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Pikachu|Pikachu 10 ANIV]] (États-Unis)
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Pikachu surfeur|Pikachu 10 ANIV]] <small>-[[Pikachu surfeur|surfeur]]-</small> (États-Unis)
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Pikachu volant|Pikachu 10 ANIV]] <small>-[[Pikachu volant|volant]]-</small> (États-Unis)
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Europe|Pikachu 10 ANIV/10ANNI/10ANNIV/10JAHRE]] (Europe)
+* '''2007'''
+** [[Liste des Pokémon distribués en 2007#Pikachu TCG World Championships|Pikachu TCG World Championships]] <small>-[[Pikachu surfeur|surfeur]]-</small> (États-Unis)
+** [[Pokémon Battle Revolution#Pikachu surfeur|Pikachu PKTOPIA (Pokémon Battle Revolution)]] <small>-[[Pikachu surfeur|surfeur]]-</small> (Amérique du Nord et Europe)
+* '''2008'''
+** [[Liste des Pokémon distribués en 2008#Pikachu McDonald's|Pikachu McDonald's]] (Japon)
+** [[Liste des Pokémon distribués en 2008#Pikachu Yokohama|Pikachu Yokohama]] <small>-[[Pikachu surfeur|surfeur]]-</small> (Japon)
+** [[Liste des Pokémon distribués en 2008#Pikachu Anniversaire|Pikachu Anniversaire]] <small>-[[Pikachu surfeur|surfeur]]-</small> (Japon)
+** [[Liste des Pokémon distribués en 2008#Pikachu Nintendo Zone|Pikachu Nintendo Zone]] (États-Unis)
+** [[Liste des Pokémon pouvant être obtenus dans My Pokémon Ranch#Pikachu|Pikachu d'Eulalie (My Pokémon Ranch)]] (Monde entier)
+* '''2009'''
+** [[Liste des Pokémon distribués en 2009#Pikachu Onemuri|Pikachu Onemuri]] (Japon)
+** [[Liste des Pokémon distribués en 2009#Pikachu Kyoto CMEX 2009|Pikachu Kyoto CMEX 2009]] (Japon)
+** [[Liste des Pokémon distribués en 2009#Pikachu ARIO|Pikachu ARIO]] (Japon)
+** [[Liste des Pokémon distribués en 2009#Pikachu Anniversaire|Pikachu Anniversaire]] <small>-[[Pikachu surfeur|surfeur]]-</small> (Japon)
+** [[Liste des Pokémon distribués en 2009#Character Fair|Pikachu Character Fair]] (Corée du Sud)
+* '''2010'''
+** [[Liste des Pokémon distribués en 2010#Pikachu de Sacha|Pikachu de Sacha]] (Japon)
+** [[Liste des Pokémon distribués en 2010#Pikachu 7-Eleven|Pikachu 7-Eleven]] (Japon)
+* '''2011'''
+** [[Liste des Pokémon distribués en 2011#Pikachu ANA|Pikachu ANA]] <small>-[[Pikachu volant|volant]]-</small> (Japon)
+** [[Liste des Pokémon distribués en 2011#Pikachu Chantant|Pikachu Chantant]] (Japon)
+** [[Liste des Pokémon distribués en 2011#Pikachu de Sacha|Pikachu de Sacha]] (Amérique du Nord)
+** [[Liste des Pokémon distribués en 2011#Corée du Sud|Pikachu de Sacha]] (Corée du Sud)
+* '''2012'''
+** [[Liste des Pokémon distribués en 2012#Pikachu Sakura Shinkansen|Pikachu Sakura Shinkansen]] (Japon)
+** [[Liste des Pokémon distribués en 2012#Pikachu Tohoku|Pikachu Tohoku]] (Japon)
+** [[Liste des Pokémon distribués en 2012#Pikachu Isetan|Pikachu Isetan]] (Singapour)
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Pikachu a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 18. Pour plus d'informations, voir ''[[Pikachu (Premier Défi 18)]]''.
+
+[[Fichier:JFC-Premier Défi-18.png|thumb|center|La figurine de Pikachu]]
+
+==Apparitions dans le [[dessin animé]]==
+
+De nombreux Pikachu apparaissent au fil des épisodes de la série, surtout lors des premières [[génération]]s.
+
+Le Pikachu le plus connu est bien évidemment le [[Pikachu de Sacha]], mais il y a aussi [[Sparky]], le Pikachu de [[Richie]].
+
+Dans l'[[épisode 2|épisode]] ''[[Pokémon aux urgences]]'', de nombreux Pikachu viennent prêter main-forte au Pikachu de Sacha, ils appartiennent certainement à des [[dresseur]]s de [[Jadielle]].
+
+Dans l'[[épisode 67|épisode]] ''[[Le Pi-Kahuna]]'', [[Victor]] possède un [[Pikachu surfeur]] appelé [[Puka]].
+
+<center><gallery style="font-size:90%">
+Fichier:Pikachu de Sacha.png|Le [[Pikachu de Sacha]]
+Fichier:Episode 67.png|[[Puka]] et [[Victor]]
+</gallery></center>
+
+=== Descriptions du [[Pokédex]] ===
+;[[Épisode 468]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Souris. {{PCap|Pikachu}} peut lancer des décharges électriques grâce aux générateurs situés dans ses joues.
+;[[Épisode 658]]
+:Le Pokémon Souris est la forme évoluée de Pichu. La queue de Pikachu est parfois atteinte par la foudre lorsqu'il la lève pour observer son environnement.
+;[[Épisode 752]]
+:Le Pokémon Souris est la forme évoluée de Pichu. Pikachu peut aider d'autres Pikachu plus faibles que lui en partageant son courant électrique.
+
+==Anecdotes==
+*Pikachu a fait une apparition aux côtés de [[Reshiram]] et de [[Zekrom]] ainsi que d'une [[Poké Ball]] au cours de l'édition 2010 du [[:wp:Macy's Thanksgiving Day Parade|Macy's Thanksgiving Day Parade]].
+
+== Notes et références ==
+<references />
+
+{{Pokémon starter}}
+
+{{Ruban Pokémon
+| nomPrécédent=Arbok
+| numéro=025
+| nom=Pikachu
+| nomSuivant=Raichu
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon de départ]]
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Foudre]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/25| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Pikachu| ]]
+
+[[de:Pikachu]]
+[[en:Pikachu (Pokémon)]]
+[[es:Pikachu]]
+[[it:Pikachu]]
+[[ja:ピカチュウ]]
+[[pl:Pikachu]]
+[[pt:Pikachu (pokémon)]]

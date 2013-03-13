@@ -1,0 +1,319 @@
+{{Ruban Pokémon
+| nomPrécédent=Magicarpe
+| numéro=130
+| nom=Léviator
+| nomSuivant=Lokhlass
+}}
+{{Infobox Pokémon
+| nom=Léviator
+| nomen=Gyarados
+| nomja=ギャラドス
+| nomromaji=Gyaradosu
+| nomtm=Gyarados
+| nomde=Garados
+| légende=Artwork par [[Ken Sugimori]]
+| ndex=130
+| jdex=077
+| hdex=053
+| sdex=024
+| fdex=125
+| espece=Terrifiant
+| taille=6.5
+| poids=235.0
+| fmratio=.5
+| oeufpas=1280
+| effortval=+2 Att.
+| type1=Eau
+| type2=Vol
+| expval=214
+| expmax=1250000
+| captureval=45
+| groupoeuf1=Eau 2
+| groupoeuf2=Dragon
+| capspe1=Intimidation (capacité spéciale){{!}}Intimidation
+| capspe2=Impudence
+| capspe2-reve=oui
+| couleur=Bleu
+| forme=2}}
+'''Léviator''' (anglais : '''Gyarados''' ; japonais : '''ギャラドス''' ''Gyaradosu'') est un [[Pokémon]] de [[type]] {{type|eau}} et {{type|vol}} de la [[première génération]] et est l'[[évolution]] de [[Magicarpe]].
+
+==À propos du Pokémon==
+===Physionomie===
+Léviator à la physionnomie d'un grand serpent de mer bleu. Il possède des moustache, tout comme sa pré-évolution.
+
+====Différences mâle/femelle====
+
+Les Léviator femelles ont des moustaches blanches, alors qu'elles sont bleues pour les mâles.
+
+==== [[Chromatique]] ====
+
+Tout ceux qui ont joué à {{OAC}} connaissent le Léviator Chromatique sous le nom de [[Léviator Rouge]], du fait qu'il y en a un au [[Lac Colère]]. Ce célèbre chromatique est rouge au lieu de bleu. De plus, les mâles ont leurs moustaches qui deviennent de cette couleur alors que les femelles chromatiques ont toujours leurs moustaches blanches.
+
+===[[Évolution]]===
+Léviator est l'évolution de [[Magicarpe]] à partir du [[niveau]] 20.
+{{TableauEvolutionHaut|Eau|Magicarpe}}
+{{TableauEvolutionSimple|Niveau 20|Léviator}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+* Français : vient du ''[[:wp:Léviathan|Léviathan]]'' (monstre légendaire de l'Apocalypse souvent assimilé au milieu marin) et du suffixe "or", donnant un aspect brutal et dangereux, à l'instar du Terminator par exemple.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Gigantesque et maléfique, il est capable de raser une ville entière dans un accès de rage.
+;[[Pokémon Jaune]]
+: Brutal, vicieux et dangereux, il est connu pour avoir rasé des villes entières par le passé.
+;[[Pokémon Stadium]]
+:Vicieux, hargneux, teigneux et brutal. Il est assez fort pour détruire une ville entière s'il n'est pas de bonne humeur.
+;[[Pokémon Or]]
+: On dit que pendant les guerres il serait apparu et il aurait semé chaos et destruction sur le monde.
+;[[Pokémon Argent]]
+: Quand il apparaît,il se lance dans une rage destructrice jusqu'à ce que tout soit détruit.
+;[[Pokémon Cristal]]
+: Il apparaît à chaque conflit mondial, semant chaos et destruction sur son passage.
+;[[Pokémon Rubis]]
+: Quand {{PCap|[[Magicarpe]]}} évolue et devient {{PCap|Léviator}}, la structure de ses cellules cérébrales est modifiée. On pense que l'extrême violence de ce {{PCap|Pok}}é{{PCap|mon}} découle de cette modification.
+;[[Pokémon Saphir]]
+: Lorsque {{PCap|Léviator}} commence à s'énerver, sa nature violente ne se calme qu'une fois qu'il a tout réduit en cendres. La fureur de ce {{PCap|Pok}}é{{PCap|mon}} peut durer pendant un mois.
+;[[Pokémon Émeraude]]
+: C'est un {{PCap|Pok}}é{{PCap|mon}} extrêmement violent. Quand les humains commencent à se battre, il apparaît et brûle tout de ses flammes intenses.
+;[[Pokémon Rouge Feu]]
+: Il est d'une nature très agressive. L'{{PCap|[[Ultralaser]]}} qu'il tire de sa bouche est capable de désintégrer n'importe quelle cible.
+;[[Pokémon Vert Feuille]]
+:Gigantesque et maléfique, il est capable de raser une ville entière dans un accès de rage.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Léviator}} est un {{PCap|Pok}}é{{PCap|mon}} brutal qui crache un gros jet d'eau de sa bouche.
+;[[Pokémon Diamant]]
+: Lorsqu'il apparaît, sa rage ne cesse qu'après qu'il a rasé les plaines et montagnes alentour.
+;[[Pokémon Perle]]
+: La littérature fait état d'un {{PCap|Léviator}} qui aurait rasé un village sous le coup de la colère.
+;[[Pokémon Platine]]
+:Quand il se laisse emporter par la rage, il ne se calme qu'après avoir détruit tout ce qui l'entoure.
+;[[Pokémon Or HeartGold]]
+:On dit que pendant les guerres, il serait apparu et il aurait semé chaos et destruction sur le monde.
+;[[Pokémon Argent SoulSilver]]
+:Quand il apparaît, il se lance dans une rage destructrice jusqu'à ce que tout soit détruit.
+;[[Pokémon Noir et Blanc]]
+:Quand il se laisse emporter par la rage, il ne se calme qu'après avoir détruit tout ce qui l'entoure.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| {{RB}} || Inexistant|| Faire évoluer [[Magicarpe]]
+|-
+| {{J}} ||Rare||Pecher dans le jardin du gardien du Parc Safari avec la méga canne ou faire évoluer [[Magicarpe]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| {{OAC}} || Rare || [[Lac Colère]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| {{RSE}} || Rare || Pêcher dans le lac d'[[Atalanopolis]] avec la méga canne ou faire évoluer [[Magicarpe]]
+|-
+| {{RFVF}} ||Rare || [[Parmanie]], [[Méga Canne]]
+|-
+| [[Pokémon Colosseum|''Pokémon Colosseum'']] || || 
+|-
+| {{XD}} || || 
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| {{DPP}} || Commun ||  Dans tous les points d'eau, avec la [[méga canne]] ou [[surf]]
+|-
+| {{HGSS}} || Rare || [[Lac Colère]], avec [[méga canne]] ou [[surf]]
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | Faire évoluer [[Magicarpe]]
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.20|Morsure|60|100|25}}
+{{Attaque|N.25|Draco-Rage|-|100|10}}
+{{Attaque|N.32|Groz'Yeux|-|100|30}}
+{{Attaque|N.41|Hydrocanon|120|80|5}}
+{{Attaque|N.52|Ultralaser|150|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.20|Morsure|60|100|25}}
+{{Attaque|N.25|Draco-Rage|-|100|10}}
+{{Attaque|N.30|Groz'Yeux|-|100|30}}
+{{Attaque|N.35|Ouragan|40|100|20}}
+{{Attaque|N.40|Hydrocanon|120|80|5}}
+{{Attaque|N.45|Danse Pluie|-|-|5}}
+{{Attaque|N.50|Ultralaser|150|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Mania|90|100|20|robustesse|4|4}}
+{{Attaque-III|N.20|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.25|Draco-Rage|-|100|10|sang-froid|1|0}}
+{{Attaque-III|N.30|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.35|Ouragan|40|100|20|sang-froid|3|0}}
+{{Attaque-III|N.40|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaque-III|N.45|Danse Pluie|-|-|5|robustesse|1|0}}
+{{Attaque-III|N.50|Danse Draco|-|100|10|sang-froid|1|0}}
+{{Attaque-III|N.55|Ultralaser|150|90|5|sang-froid|4|4}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Mania|90|100|20|robustesse|2}}
+{{Attaque-IV|N.20|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.23|Draco-Rage|-|100|10|sang-froid|3}}
+{{Attaque-IV|N.26|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.29|Ouragan|40|100|20|sang-froid|3}}
+{{Attaque-IV|N.32|Crocs Givre|65|95|15|sang-froid|3}}
+{{Attaque-IV|N.35|Hydroqueue|90|90|10|grâce|3}}
+{{Attaque-IV|N.38|Danse Pluie|-|-|5|robustesse|2}}
+{{Attaque-IV|N.41|Hydrocanon|120|80|5|beauté|2}}
+{{Attaque-IV|N.44|Danse Draco|-|-|20|sang-froid|0}}
+{{Attaque-IV|N.47|Ultralaser|150|90|5|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Mania|120|100|10}}
+{{Attaque-V|N.20|Morsure|60|100|25}}
+{{Attaque-V|N.23|Draco-Rage|-|100|10}}
+{{Attaque-V|N.26|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.29|Ouragan|40|100|20}}
+{{Attaque-V|N.32|Crocs Givre|65|95|15}}
+{{Attaque-V|N.35|Hydroqueue|90|90|10}}
+{{Attaque-V|N.38|Danse Pluie|-|-|5}}
+{{Attaque-V|N.41|Hydrocanon|120|80|5}}
+{{Attaque-V|N.44|Danse Draco|-|-|20}}
+{{Attaque-V|N.47|Ultralaser|150|90|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| class="wikitable"
+! Version || [[Bleu]]/[[Rouge]]/[[Jaune]] || [[Or]]/[[Pokémon Or et Argent|Argent]]/[[Cristal]] || [[Rubis]]/[[Saphir]]/[[Pokémon Émeraude|Émeraude]] || [[Diamant]]/[[Perle]]
+|-
+|}
+
+===Par [[reproduction]]===
+
+
+
+===Par [[Donneur de capacités]]===
+
+== Sensibilités ==
+
+{{Sensibilités
+| type=eau
+| sensib-eau=0.5
+| sensib-sol=0
+| sensib-électrique=4
+| sensib-roche=2
+| sensib-combat=0.5
+| sensib-insecte=0.5
+| sensib-acier=0.5
+| sensib-feu=0.5
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=95
+|attaque=125
+|defense=79
+|atq-spc=60
+|def-spc=100
+|vitesse=81
+|special=100
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Léviator
+| numero=130
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Léviator RB.png
+| forme=2
+| pinballRS=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+==Apparitions dans le [[dessin animé]]==
+*Le premier Léviator (sauvage) apparaît dès l'[[épisode 1]].
+*Un Léviator appartenant à un dresseur inconnu/anonyme apparaît dans [[Pokémon : le Film]].
+*Un autre apparaît dans l'[[épisode 16]], qui est le [[Magicarpe de James]].
+*Un autre léviator sauvage dans l'épisode [[La légende de Minidraco]]
+*{{da|Ondine}} en a [[Léviator d'Ondine|un]].
+*[[Peter]], membre de l'Élite des 4 de [[Kanto]] et [[Johto]] et dresseur de [[Pokémon]] {{tp|Dragon}} en a [[Léviator Rouge|un]], de couleur rouge ([[chromatique]]).
+*[[Sandra]], la championne de l'arène  d'[[Ébènelle]] à [[Johto]] et cousine de [[Peter]], en possède un également, qu'elle utilise lors de son match contre [[Sacha]].
+*[[Lovis]] en utilise un également pour le match contre [[Sacha]]. On le voit aussi dans un flashback.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 16]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est très méchant. Alors, agissez avec prudence! Ses crocs peuvent fendre la pierre et ses écailles sont aussi dures que l'acier. 
+
+{{Ruban Pokémon
+| nomPrécédent=Magicarpe
+| numéro=130
+| nom=Léviator
+| nomSuivant=Lokhlass
+}}
+
+{{DEFAULTSORT:Leviator}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/130| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Gyarados| ]]
+
+[[de:Garados]]
+[[en:Gyarados (Pokémon)]]
+[[es:Gyarados]]
+[[it:Gyarados]]
+[[ja:ギャラドス]]
+[[pl:Gyarados]]
+[[pt:Gyarados (pokémon)]]

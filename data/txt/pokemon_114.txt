@@ -1,0 +1,273 @@
+{{Ruban Pokémon
+| nomPrécédent=Leveinard
+| numéro=114
+| nom=Saquedeneu
+| nomSuivant=Kangourex
+}}
+{{Infobox Pokémon
+| nom=Saquedeneu
+| nomen=Tangela
+| nomja=モンジャラ
+| nomtm=Monjara
+| nomromaji=Monjyara
+| nomde=Tangela
+| légende=Artwork de Saquedeneu dans {{RFVF}}
+| ndex=114
+| jdex=179
+| njdex=182
+| hdex=278
+| sdex=181
+| fdex=069
+| espece=Vigne
+| taille=1.0
+| poids=35.0
+| fmratio=.5
+| oeufpas=5120
+| effortval=+1 Déf.
+| type1=Plante
+| expval=166
+| expmax=1000000
+| captureval=45
+| groupoeuf1=Plante
+| capspe1=Chlorophyle
+| capspe2=Feuil. Garde
+| capspe3=Régé-Force
+| couleur=Bleu
+| forme=7}}
+'''Saquedeneu''' (anglais : '''Tangela''' ; japonais : '''モンジャラ''' ''Monjara'') est un [[Pokémon]] de [[type]] {{type|plante}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]=== 
+Saquedeneu évolue en [[Bouldeneu]] s'il apprend l'attaque [[Pouv.Antique]].
+{{TableauEvolutionHaut|Plante|Saquedeneu}}
+{{TableauEvolutionSimple|En apprenant l'attaque [[Pouv.Antique]]|Bouldeneu}}
+{{TableauEvolutionBas}}
+
+===Etymologies===
+
+* Français : ''sac de noeuds'' tout attaché
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Son corps est recouvert de lianes similaires à des algues. Elles bougent quand il marche.
+;[[Pokémon Jaune]]
+:Son corps est masqué par une masse épaisse de lianes bleues qui poussent en permanence.
+;[[Pokémon Stadium]]
+:Son identité est obscurcie par d'innombrables lianes bleues semblables à des algues. Il s'emmêle pour un rien.
+;[[Pokémon Or]]
+:Les lianes qui camouflent son corps bougent tout le temps ce qui agace souvent ses adversaires.
+;[[Pokémon Argent]]
+:Il paralyse tout ce qui bouge avec ses lianes. Elles vous chatouillent si vous êtes capturé.
+;[[Pokémon Cristal]]
+:En combat, il gigote ses lianes sans arrêt et dans tous les sens pour énerver son adversaire.
+;[[Pokémon Rubis et Saphir]]
+:Les lianes de {{PCap|Saquedeneu}} se brisent facilement lorsqu'on les attrape. Cela ne lui fait pas mal et lui permet simplement de s'échapper rapidement. Les lianes cassées repoussent le lendemain.
+;[[Pokémon Émeraude]]
+:Ses lianes se brisent facilement lorsqu'on les attrape. Cela ne lui fait pas mal et lui permet de s'échapper rapidement. Les lianes cassées repousent le lendemain.
+;[[Pokémon Rouge Feu]]
+:Une grande masse de lianes bleues cache l'identité de ce {{PCap|Pok}}é{{PCap|mon}}. Sans pitié, il attrape tout ce qui passe à sa portée.
+;[[Pokémon Vert Feuille]]
+:Son corps est recouvert de lianes similaires à des algues. Elles bougent quand il marche.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Saquedeneu}} peut enrouler sa liane autour d'un Poteau pour créer un pont.
+;[[Pokémon Diamant et Perle]]
+:Il s'abrite derrière des lianes bleues. Nul n'a jamais vu le visage qu'elles dissimulent.
+;[[Pokémon Platine]]
+:Il se cache derrière des lianes bleues recouvertes d'un fin duvet. Il est chatouilleux.
+;[[Pokémon Or HeartGold]]
+:Les lianes qui camouflent son corps bougent tout le temps, ce qui agace souvent ses adversaires.
+;[[Pokémon Argent SoulSilver]]
+:Il paralyse tout ce qui bouge avec ses lianes. Elle vous chatouillent si vous êtes capturé.
+;[[Pokémon Noir et Blanc]]
+:Il se cache derrière des lianes bleues recouvertes d'un fin duvet.Il est chatouilleux.
+;[[Pokémon Noir et Blanc 2]]
+:Ses lianes bleues s'allongent au fil du temps. Elles recouvrent tout son corps, dont on ignore la véritable forme.
+
+==Localisation==
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| rowspan="3" style="vertical-align:middle;"| {{NB}}
+| rowspan="3" style="vertical-align:middle;" | Peu commun
+| style="vertical-align:middle;" | [[Route 13 (Unys)|Route 13]] {{infobulle|*|hautes herbes}}
+| style="vertical-align:middle;" | N/A
+|-
+| style="vertical-align:middle;" | [[Grotte Cyclopéenne]] {{infobulle|*|entrée}}
+| style="vertical-align:middle;" | 47-59
+|-
+| style="vertical-align:middle;" | [[Dream World]] : Le [[Bosquet]]
+| style="vertical-align:middle;" | 10
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Constriction|10|100|35}}
+{{Attaque|Départ{{Sup|R}}{{Sup|B}}<br>N.24{{Sup|J}}|Étreinte|15|75|20}}
+{{Attaque|N.29{{Sup|R}}{{Sup|B}}<br>N.27{{Sup|J}}|Vol-Vie|20|100|20}}
+{{Attaque|N.29{{Sup|J}}|Fouet Lianes|35|100|10}}
+{{Attaque|N.32|Poudre Toxik|-|75|35}}
+{{Attaque|N.36|Para-Spore|-|75|30}}
+{{Attaque|N.39|Poudre Dodo|-|75|15}}
+{{Attaque|N.45|Souplesse|80|75|20}}
+{{Attaque|N.48{{Sup|J}}|Croissance|-|-|40}}
+{{Attaque|N.49{{Sup|B}}{{Sup|R}}|Croissance|-|-|40}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Constriction|10|100|35}}
+{{Attaque|N.4|Poudre Dodo|-|75|15}}
+{{Attaque|N.10|Vol-Vie|20|100|20}}
+{{Attaque|N.13|Poudre Toxik|-|75|35}}
+{{Attaque|N.19|Fouet Lianes|35|100|10}}
+{{Attaque|N.25|Étreinte|15|75|20}}
+{{Attaque|N.31|Méga-Sangsue|40|100|10|}}
+{{Attaque|N.34|Para-Spore|-|75|30}}
+{{Attaque|N.40|Souplesse|80|75|20}}
+{{Attaque|N.46|Croissance|-|-|40}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Racines|-|100|20|intelligence|1|0}}
+{{Attaque-III|Départ|Constriction|10|100|35|robustesse|2|3}}
+{{Attaque-III|N.4|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.10|Vol-Vie|20|100|20|intelligence|2|3}}
+{{Attaque-III|N.13|Croissance|-|-|40|beauté|1|0}}
+{{Attaque-III|N.19|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.22|Fouet Lianes|35|100|10|sang-froid|4|0}}
+{{Attaque-III|N.28|Étreinte|15|75|20|robustesse|3|0}}
+{{Attaque-III|N.31|Méga-Sangsue|40|100|10|intelligence|1|4}}
+{{Attaque-III|N.37|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|N.40|Souplesse|80|75|20|robustesse|2|1}}
+{{Attaque-III|N.46|Chatouille|-|100|20|grâce|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Racines|-|100|20|intelligence|0}}
+{{Attaque-IV|Départ|Constriction|10|100|35|robustesse|0}}
+{{Attaque-IV|N.5|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.8|Vol-Vie|20|100|25|intelligence|1}}
+{{Attaque-IV|N.12|Croissance|-|-|40|beauté|0}}
+{{Attaque-IV|N.15|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.19|Fouet Lianes|35|100|15|sang-froid|3}}
+{{Attaque-IV|N.22|Étreinte|15|75|20|robustesse|0}}
+{{Attaque-IV|N.26|Méga-Sangsue|40|100|15|intelligence|1}}
+{{Attaque-IV|N.29|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|N.33|Pouv. Antique|60|100|5|robustesse|2}}
+{{Attaque-IV|N.36|Sabotage|20|100|20|intelligence|3}}
+{{Attaque-IV|N.40|Don Naturel|1|100|15|sang-froid|2}}
+{{Attaque-IV|N.43|Souplesse|80|75|20|robustesse|3}}
+{{Attaque-IV|N.47|Chatouille|-|100|20|grâce|2}}
+{{Attaque-IV|N.50|Essorage|1|100|5|intelligence|2}}
+{{Attaque-IV|N.54|Mégafouet|120|85|10|beauté|3}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Racines|-|100|20}}
+{{Attaque-V|Départ|Constriction|10|100|35}}
+{{Attaque-V|N.5|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.8|Vol-Vie|20|100|25}}
+{{Attaque-V|N.12|Croissance|-|-|40}}
+{{Attaque-V|N.15|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.19|Fouet Lianes|35|100|15}}
+{{Attaque-V|N.22|Étreinte|15|85|20}}
+{{Attaque-V|N.26|Méga-Sangsue|40|100|15}}
+{{Attaque-V|N.29|Para-Spore|-|75|30}}
+{{Attaque-V|N.33|Sabotage|20|100|20}}
+{{Attaque-V|N.36|Pouv. Antique|60|100|5}}
+{{Attaque-V|N.40|Don Naturel|1|100|15}}
+{{Attaque-V|N.43|Souplesse|80|75|20}}
+{{Attaque-V|N.47|Chatouille|-|100|20}}
+{{Attaque-V|N.50|Essorage|1|100|5}}
+{{Attaque-V|N.54|Mégafouet|120|85|10}}
+{{Attaques apprises-bas}}
+
+== Sensibilités ==
+
+{{Sensibilités
+| type=plante
+| sensib-eau=0.5
+| sensib-plante=0.5
+| sensib-sol=0.5
+| sensib-électrique=0.5
+| sensib-glace=2
+| sensib-feu=2
+| sensib-vol=2
+| sensib-insecte=2
+| sensib-poison=2
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=plante
+|PV=65
+|attaque=55
+|defense=115
+|atq-spc=100
+|def-spc=40
+|vitesse=60
+|special=100
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Saquedeneu
+| numero=114
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Saquedeneu RB.png
+| forme=7
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Érika]], la championne de [[Céladopole]], oppose un Saquedeneu à [[Sacha]]. Mise à part cette occasion, peu de Saquedeneu sont apparus.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 26]]
+:{{PCap|Pok}}é{{PCap|mon}} Vigne. Il est entouré de vignes, la plus grande partie de son corps étant dissimulé sous la vigne.
+
+{{Ruban Pokémon
+| nomPrécédent=Leveinard
+| numéro=114
+| nom=Saquedeneu
+| nomSuivant=Kangourex
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/114| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Tangela| ]]
+
+[[de:Tangela]]
+[[en:Tangela (Pokémon)]]
+[[es:Tangela]]
+[[it:Tangela]]
+[[ja:モンジャラ]]
+[[pl:Tangela]]
+[[pt:Tangela (pokémon)]]

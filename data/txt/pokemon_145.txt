@@ -1,0 +1,533 @@
+{{Ruban Pokémon
+| nomPrécédent=Artikodin
+| numéro=145
+| nom=Électhor
+| nomSuivant=Sulfura
+}}
+{{Infobox Pokémon
+| nom=Électhor
+| nomen=Zapdos
+| nomko=썬더 ''Sseondeo''
+| nomch=閃電鳥 ''Shǎndiànniǎo''
+| nomja=サンダー
+| nomtm=Thunder
+| nomromaji=Sandā
+| nomde=Zapdos
+| légende=Artwork d'Électhor pour {{RFVF}}
+| ndex=145
+| jdex=236
+| njdex=241
+| hdex=300
+| odex=R-299
+| espece=Électrique
+| taille=1.6
+| poids=52.6
+| oeufpas=20480
+| type1=Électrique
+| type2=Vol
+| expval=216
+| effortval=+3 Att. Spé
+| expmax=1250000
+| captureval=3
+| groupoeuf1=Sans œuf
+| capspe1=Pression
+| couleur=Jaune
+| fmratio=-1
+| forme=9}}
+'''Électhor''' (anglais : '''Zapdos''' ; japonais : '''サンダー''' ''Thunder''), l'oiseau [[légendaire]] de la foudre, est l'un des trois [[Pokémon]] composant le [[trio légendaire]] de [[Kanto]] et de la [[première génération]]. Il est de [[type]] {{type|électrique}} et {{type|vol}}.
+
+==À propos du Pokémon==
+===Physionomie===
+
+Electhor a un corps jaune, il a deux paires d'aile dont une jaune comme sa peau et une noire. Ses ailes sont en pics sur les côtés. 
+Dans les jeux de [[première génération]], Électhor n'avait que deux orteils, contre trois par la suite.
+
+====Origine====
+Electhor est basé sur la légende amérindienne de l'oiseau-tonnerre, l'esprit du tonnerre, des éclairs et de la pluie,  Les battements de ses ailes créeraient le tonnerre; il peut aussi avoir été basée sur la Impundulu , un oiseau de sorcellerie d'Afrique du Sud qui provoquerai le tonnerre et les éclairs avec ses ailes et ses serres.
+
+====Différences mâle/femelle====
+
+Ce Pokémon est [[légendaire]] et asexué, il n'y a donc pas d'Électhor mâle ou femelle.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique sa partie jaune devient très légèrement plus foncée, ses pattes et son bec deviennent aussi légèrement plus foncés.
+
+=== [[Évolution]] ===
+
+Électhor est un [[Pokémon légendaire]]. Il n'a donc pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===[[Capacité spéciale]]===
+
+Électhor a pour capacité spéciale [[Pression]], qui amène l'adversaire à consommer deux [[PP]] au lieu d'un à chaque fois qu'il utilise une attaque.
+
+===Étymologies===
+* Français : vient de électrique + Thor (dieu nordique de la foudre).
+* Anglais : vient de zap pour éclair et ''dos'' (deux en espagnol).
+* Japonais : vient de l'anglais ''thunder'' (tonnerre). Électhor et [[Voltali]] ont leur nom japonais quasi-identique (''Thunder'' et ''Thunders'').
+* Allemand : vient de zap pour éclair et de ''dos'' suffixe donné à chaque oiseau légendaire.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:L'oiseau légendaire de la foudre. Il surgit hors des nuages en lançant d'énormes éclairs.
+;[[Pokémon Jaune]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} légendaire annonce l'arrivée de nuages noirs, d'éclairs et d'averses.
+;[[Pokémon Stadium]]
+:Un Pokémon légendaire toujours accompagné d'un orage. Ses battements d'ailes créent des bruits de court-circuit.
+;[[Pokémon Or]]
+:Quand ce {{PCap|Pok}}é{{PCap|mon}} légendaire bat ses ailes d'énergie il provoque de gigantesques orages.
+;[[Pokémon Argent]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} oiseau légendaire n'apparaît que lorsqu'un nuage orageux est divisé en deux.
+;[[Pokémon Cristal]]
+:{{PCap|Pok}}é{{PCap|mon}} oiseau légendaire. Le battement de ses ailes crée des orages d'été.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Électhor}} est un {{PCap|Pok}}é{{PCap|mon}} oiseau légendaire capable de contrôler l'électricité. Il vit généralement dans les nuages orageux. Ce {{PCap|Pok}}é{{PCap|mon}} gagne en puissance lorsqu'il est frappé par la foudre.
+;[[Pokémon Émeraude]]
+:C'est un {{PCap|Pok}}é{{PCap|mon}} oiseau légendaire qui peut contrôler l'électricité. Il vit généralement dans les nuages orageux. La foudre le rend plus fort.
+;[[Pokémon Rouge Feu]]
+:Un des {{PCap|Pok}}é{{PCap|mon}} oiseaux légendaires. Quand il vole, il lance des cris électrisants.
+;[[Pokémon Vert Feuille]]
+:L'oiseau légendaire de la foudre. Il surgit hors des nuages en lançant d'énormes éclairs.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Un {{PCap|Pok}}é{{PCap|mon}} Oiseau légendaire dont on dit qu'il vit dans les nuages d'orage. Il contrôle la foudre.
+;[[Pokémon Or HeartGold]]
+:Quand ce {{PCap|Pok}}é{{PCap|mon}} légendaire bat ses ailes d'énergie, il provoque de gigantesques orages.
+;[[Pokémon Argent SoulSilver]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} Oiseau légendaire n'apparait que lorsqu'un nuage orageux est divisé en deux.
+;[[Pokémon Ranger : Sillages de Lumière]]
+:Envoie des chocs électriques en lançant des éclairs dans le ciel.
+;[[Pokémon Noir et Blanc]]
+:Un Pokémon Oiseau légendaire dont on dit qu'il vit dans les nuages d'orage. Il contrôle la foudre.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:400px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Rouge}};"|{{Couleur lien|#000000|Pokémon Rouge|Rouge}}
+| rowspan="3" style="vertical-align: middle;"| Unique 
+| rowspan="3" style="vertical-align: middle;"| [[Centrale]] 
+| rowspan="3" style="vertical-align: middle;"| N. 50
+|-
+| style="background:{{Couleur|Bleu}};"|{{Couleur lien|#000000|Pokémon Bleu|Bleu}}
+|-
+| style="background:{{Couleur|Jaune}};"|{{Couleur lien|#000000|Pokémon Jaune|Jaune}}
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:400px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Or}};"|{{Couleur lien|#000000|Pokémon Or et Argent|Or}} 
+| rowspan="3" style="vertical-align: middle;" | Inexistant 
+| rowspan="3" style="vertical-align: middle;" | À échanger depuis {{RBJ}} grâce au [[bloc temporel]].
+| rowspan="3" style="vertical-align: middle;" |-
+|-
+| style="background:{{Couleur|Argent}};"|{{Couleur lien|#000000|Pokémon Or et Argent|Argent}}
+|-
+| style="background:{{Couleur|Cristal}};"|{{Couleur lien|#000000|Pokémon Cristal|Cristal}}
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:400px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Rubis}};"|{{Couleur lien|#000000|Pokémon Rubis et Saphir|Rubis}} 
+| rowspan="2" style="vertical-align: middle;"| Inexistant 
+| rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="2" style="vertical-align: middle;"| -
+|-
+| style="background:{{Couleur|Saphir}};"|{{Couleur lien|#000000|Pokémon Rubis et Saphir|Saphir}} 
+|-
+| style="background:{{Couleur|Rouge Feu}};"|{{Couleur lien|#000000|Pokémon Rouge Feu|Rouge Feu}}  
+| rowspan="2" style="vertical-align: middle;"| Unique 
+| rowspan="2" style="vertical-align: middle;"| [[Centrale]] 
+| rowspan="2" style="vertical-align: middle;"| N. 50
+|-
+| style="background:{{Couleur|Vert Feuille}};"|{{Couleur lien|#000000|Pokémon Vert Feuille|Vert Feuille}} 
+|-
+| style="background:{{Couleur|Colosseum}};"|{{Couleur lien|#000000|Pokémon Colosseum|Colosseum}} ||Inexistant || À échanger depuis {{RFVF}}. || -
+|-
+| style="background:{{Couleur|XD}};"|{{Couleur lien|#000000|Pokémon XD|XD}} ||Unique || Appartient à Leader Ombre Malafid à la fin du jeu. || N.50
+|-
+| style="background:{{Couleur|DM}};"|{{Couleur lien|#000000|Pokémon Donjon Mystère|Donjon Mystère}} || Unique || [[Mont Foudre-Pic]] || 25 ou 45
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:400px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Diamant}};"|{{Couleur lien|#000000|Pokémon Diamant|Diamant}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant 
+| rowspan="2" style="vertical-align: middle;" | À transférer par le biais du [[Parc des Amis]]. 
+| rowspan="2" style="vertical-align: middle;" | -
+|-
+| style="background:{{Couleur|Perle}};"|{{Couleur lien|#000000|Pokémon Perle|Perle}}
+|-
+| style="vertical-align: middle; background:{{Couleur|Pt}};"|{{Couleur lien|#000000|Pt|Platine}} 
+| style="vertical-align: middle;" | Unique 
+| style="vertical-align: middle;" | Rencontre au hasard dans [[Sinnoh]] après obtention du [[Pokédex National]] et ouverture du [[Parc des Amis]] 
+| style="vertical-align: middle;" | N. 60
+|-
+| style="background:{{Couleur|HG}};"|{{Couleur lien|#000000|Pokémon Or HeartGold|Or HeartGold}}
+| rowspan="2" style="vertical-align: middle;" | Unique
+| rowspan="2" style="vertical-align: middle;" | [[Route 10]], près de la [[Centrale]] 
+| rowspan="2" style="vertical-align: middle;" | N. 50
+|-
+| style="background:{{Couleur|SS}};"|{{Couleur lien|#000000|Pokémon Argent SoulSilver|Argent SoulSilver}}
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:400px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Noir}};"|{{Couleur lien|#FFFFFF|Pokémon Noir et Blanc|Noir}}
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" | -
+|-
+| style="background:{{Couleur|Blanc}};"|{{Couleur lien|#000000|Pokémon Noir et Blanc|Blanc}}
+|-
+| style="background:{{Couleur|Rumble}};"|{{Couleur lien|#000000|Super Pokémon Rumble}}
+| style="vertical-align:middle;" | Rare
+| style="vertical-align: middle;" | 2<sup>e</sup> sous-sol du pilier : secteur industriel
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Éclair|40|100|30}}
+{{Attaque|Départ|Bec Vrille|80|100|20}}
+{{Attaque|N.51|Fatal-Foudre|120|70|10}}
+{{Attaque|N.55|Hâte|-|-|30}}
+{{Attaque|N.60|Mur Lumière|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Éclair|40|100|30}}
+{{Attaque|N.13|Cage-Éclair|-|100|20}}
+{{Attaque|N.25|Hâte|-|-|30}}
+{{Attaque|N.37|Détection|-|-|5}}
+{{Attaque|N.49|Bec Vrille|80|100|20}}
+{{Attaque|N.61|Mur Lumière|-|-|30}}
+{{Attaque|N.73|Fatal-Foudre|120|70|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Picpic|35|100|35|sang-froid|4|0}}
+{{Attaque-III|Départ|Éclair|40|100|30|sang-froid|4|0}}
+{{Attaque-III|N.13|Cage-Éclair|-|100|20|sang-froid|2|1}}
+{{Attaque-III|N.25|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.37|Détection|-|-|5|sang-froid|2|0}}
+{{Attaque-III|N.49|Bec Vrille|80|100|20|sang-froid|4|0}}
+{{Attaque-III|N.61|Chargeur|-|-|20|intelligence|2|0}}
+{{Attaque-III|N.73|Mur Lumière|-|-|30|beauté|1|0}}
+{{Attaque-III|N.85|Fatal-Foudre|120|70|10|sang-froid|2|2}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Picpic|35|100|35|sang-froid|3}}
+{{Attaque-IV|Départ|Éclair|40|100|30|sang-froid|3}}
+{{Attaque-IV|N.8|Cage-Éclair|-|100|20|sang-froid|2}}
+{{Attaque-IV|N.15|Détection|-|-|5|sang-froid|0}}
+{{Attaque-IV|N.22|Picore|60|100|20|grâce|0}}
+{{Attaque-IV|N.29|Pouv. Antique|60|100|5|robustesse|2}}
+{{Attaque-IV|N.36|Chargeur|-|-|20|intelligence|0}}
+{{Attaque-IV|N.43|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.50|Coup d'Jus|80|100|15|robustesse|2}}
+{{Attaque-IV|N.57|Atterrissage|-|-|10|sang-froid|0}}
+{{Attaque-IV|N.64|Mur Lumière|-|-|30|beauté|2}}
+{{Attaque-IV|N.71|Bec Vrille|80|100|20|sang-froid|3}}
+{{Attaque-IV|N.78|Fatal-Foudre|120|70|10|sang-froid|2}}
+{{Attaque-IV|N.85|Danse Pluie|-|-|5|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Picpic|35|100|35}}
+{{Attaque-V|Départ|Éclair|40|100|30}}
+{{Attaque-V|N.8|Cage-Éclair|-|100|20}}
+{{Attaque-V|N.15|Détection|-|-|5}}
+{{Attaque-V|N.22|Picore|60|100|20}}
+{{Attaque-V|N.29|Pouv. Antique|60|100|5}}
+{{Attaque-V|N.36|Chargeur|-|-|20}}
+{{Attaque-V|N.43|Hâte|-|-|30}}
+{{Attaque-V|N.50|Coup d'Jus|80|100|15}}
+{{Attaque-V|N.57|Atterrissage|-|-|10}}
+{{Attaque-V|N.64|Mur Lumière|-|-|30}}
+{{Attaque-V|N.71|Bec Vrille|80|100|20}}
+{{Attaque-V|N.78|Fatal-Foudre|120|70|10}}
+{{Attaque-V|N.85|Danse Pluie|-|-|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 04 || [[Cyclone]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Piqué]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Cage-Éclair]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|-
+|CS 05 || [[Flash]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat ???.png]]
+|-
+|CT 05 || [[Hurlement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxic]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Élécanon]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 08 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 10 || [[Puiss. Cachée|Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|- 
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Détection]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|-
+|CS 05 || [[Flash]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+Électhor ne peut pas se reproduire.
+
+===Par [[Donneur de capacités]]===
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! [[Attaque]] || [[Type]] || Moyen d'apprentissage
+|-
+|[[Tonnerre]] || [[Fichier:type miniat electrique.png]] || Donneur de capacité de [[Doublonville]] (Uniquement dans Cristal)
+|}
+
+==Sensibilités==
+{{Sensibilités
+|type=électrique
+|sensib-glace=2
+|sensib-acier=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-vol=0.5
+|sensib-combat=0.5
+|sensib-sol=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est de x2
+|rmq-sol-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=électrique
+|PV=90
+|attaque=90
+|defense=85
+|atq-spc=125
+|def-spc=90
+|vitesse=100
+|special=125
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Électhor
+| numero=145
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Électhor RB.png
+| forme=9
+| pdm=oui
+| pinballRB-gif=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+Électhor n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasion à l'heure actuelle :
+* '''2006'''
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Journey Across America|Électhor 10 ANIV]] (États-Unis)
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Party of the Decade - Bryant Park, New York|Électhor 10 ANIV (Bryant Park)]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+
+Un robot-Électhor a été vu dans l'[[épisode 17]], sur une île faisant office de parc d'attractions, mais sa première réelle apparition se situe dans le deuxième film, [[Pokémon 2]]. On le voit ensuite dans l'[[épisode 242]].
+
+Électhor fait aussi une brève apparition dans l'épisode [[DP094]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 242]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Électrique. {{PCap|Électhor}} maîtrise l'électricité et le vol. Il peut produire de la lumière par simple battement d'ailes.
+
+
+==Apparitions dans le [[Pocket Monsters Special|manga]]==
+Ayant capturé Electhor à la [[Centrale]] comme dans les jeux, le [[Major Bob]] l'utilise contre {{PMS|Sacha}}, rechargeant les capacités de ses Pokémon Électrique et électrisant Sacha à pleine puissance. Le Major est quand même vaincu quand Sacha coupe la combinaison isolante et les fils reliant Electhor et les Pokémon du Major avec le [[Tranch'Herbe]] d'[[Herbizarre]]. Il est ensuite fusionné avec [[Artikodin]] et [[Sulfura]] mais est vaincu grâce à une attaque fusionnée. Il s'envole ensuite après la bataille, quittant les deux autres.
+
+{{PMS|Olga}} l'a ensuite capturé avant l'[[Arc Or-Argent-Cristal (Pocket Monsters Special)|arc Or-Argent-Cristal]] et l'utilise avec Sulfura et Artikodin dans sa bataille contre [[Clément]] et [[Marion]] qui contrôle [[Lugia]] et [[Ho-Oh]]. Il n'est plus revu après la bataille.
+
+==Anecdotes==
+
+* Il est le seul de ce [[trio légendaire]] à ne pas avoir de double faiblesse.
+
+{{légendaire|gén=1}}
+
+{{Ruban Pokémon
+| nomPrécédent=Artikodin
+| numéro=145
+| nom=Électhor
+| nomSuivant=Sulfura
+}}
+
+{{DEFAULTSORT:Electhor}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon asexué]]
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/145| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Zapdos| ]]
+
+[[de:Zapdos]]
+[[en:Zapdos (Pokémon)]]
+[[es:Zapdos]]
+[[it:Zapdos]]
+[[ja:サンダー]]
+[[pl:Zapdos]]
+[[pt:Zapdos (pokémon)]]

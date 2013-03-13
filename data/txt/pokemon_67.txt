@@ -1,0 +1,388 @@
+{{Ruban Pokémon
+| nomPrécédent=Machoc
+| numéro=067
+| nom=Machopeur
+| nomSuivant=Mackogneur
+}}
+{{Infobox Pokémon
+| nom=Machopeur
+| nomen=Machoke
+| nomja=ゴーリキー
+| nomtm=Goriky
+| nomromaji=Gōrikī
+| nomde=Maschok
+| légende=Artworkde Machopeur pour {{RFVF}}
+| ndex=067
+| jdex=141
+| njdex=143
+| hdex=074
+| sdex=041
+| fdex=081
+| adex=162
+| type1=Combat
+| espece=Colosse
+| taille=1.5
+| poids=70.5
+| capspe1=Cran
+| capspe2=Annule Garde
+| capspe3=Impassible
+| groupoeuf1=Humanoïde
+| oeufpas=5120
+| effortval=+2 Att.
+| expval=146
+| expmax=1059860
+| fmratio=.25 
+| captureval=90
+| couleur=Gris
+| forme=12}}
+'''Machopeur''' (anglais : '''Machoke''' ; japonais : '''ゴーリキー''' ''Goriky'') est un Pokémon de type {{type|combat}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+Il ressemble à une forme hybride entre Golem et humain. Il a trois crêtes sur le crâne. Il est très serviable, conséquence de sa grande force.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Machopeur est l'évolution de [[Machoc]] à partir du [[niveau]] 28, et évolue en [[Mackogneur]] s'il est échangé entre dresseurs.
+{{TableauEvolutionHaut|Combat|Machoc}}
+{{TableauEvolutionSimple|[[Niveau]] 28|Machopeur}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]]|Mackogneur}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Machopeur peut disposer :
+* soit de la capacité spéciale [[Cran]], qui augmente son attaque s'il est victime d'une paralysie, d'une brûlure ou d'un empoisonnement,
+* soit de la capacité spéciale [[Annule Garde]], qui a pour effet la réussite systématique des attaques lancées par les deux Pokémon qui se combattent, même si l'un d'entre eux utilise [[Vol (attaque)|Vol]] ou [[Tunnel]], et lui permet même de toucher un Pokémon ayant utilisé [[Abri]] ou [[Détection]] à la condition d'utiliser une attaque ayant une précision inférieure à 100%.
+Cette seconde capacité spéciale diminue également le taux de rencontre des Pokémon sauvage lorsque le Pokémon la possédant est en tête de l'équipe.
+
+===Étymologies===
+* Français : ''Macho'' et ''chopeur'' (dans le sens d'attraper l'ennemi et ne plus le lâcher)
+* Anglais : ''Macho'' et ''chocke'', étrangler
+* Allemand : ''Macho'' et ''Schock''(choc)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Son corps est si puissant qu'il lui faut une ceinture de force pour équilibrer ses mouvements.
+;[[Pokémon Jaune]]
+:Sa ceinture sert à retenir son énergie. Sans elle, il serait invincible et incontrôlable.
+;[[Pokémon Stadium]]
+:Bien qu'incroyablement fort, il reste modeste. Il retient sa force à l'aide d'une ceinture de maintien.
+;[[Pokémon Or]]
+:Il se donne toujours à fond, mais ce {{PCap|Pok}}é{{PCap|mon}} ne se fatigue jamais. Il est très résistant à l'effort.
+;[[Pokémon Argent]]
+:Tous les muscles de son corps regorgent de puissance. Il dégage une aura puissante.
+;[[Pokémon Cristal]]
+:Il se donne toujours à fond. Ses muscles sont plus importants après chaque combat.
+;[[Pokémon Rubis]]
+:Les muscles toniques de {{PCap|Machopeur}} sont durs comme de l'acier. Ce {{PCap|Pok}}é{{PCap|mon}} est si fort qu'il peut facilement soulever un sumo avec un seul doigt.
+;[[Pokémon Saphir]]
+:{{PCap|Machopeur}} pratique le body-building tous les jours, même lorsqu'il aide les gens à réaliser de durs travaux. Pendant ses congés, ce {{PCap|Pok}}é{{PCap|mon}} va s'entrainer dans les champs et les montagnes.
+;[[Pokémon Émeraude]]
+:La ceinture de {{PCap|Machopeur}} lui sert à maintenir sa puissance phénoménale sous contrôle. Par peur du danger, personne n'a jamais osé lui enlever.
+;[[Pokémon Rouge Feu]]
+:Son corps incroyable ne se fatigue jamais. Il n'hésite pas à aider les gens lorsqu'il s'agit de soulever des objets très lourds.
+;[[Pokémon Vert Feuille]]
+:Son corps est si puissant qu'il lui faut une ceinture de force pour équilibrer ses mouvements.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Machopeur}} est fier de sa puissance. Il peut fracasser des Rochers sans problème.
+;[[Pokémon Diamant]]
+:La force herculéenne du {{PCap|Machopeur}} est très dangereuse. Il utilise une ceinture pour contenir son énergie.
+;[[Pokémon Perle]]
+:Il peut soulever un camion d'une main. Il se sert de sa force pour aider dans des tâches physiques.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il se bat comme un boxeur et génère des ondes de choc.
+;[[Pokémon Platine]]
+:Il soulève les plus lourdes charges avec plaisir et facilité. Il donne un coup de main tout en s'entraînant !
+;[[Pokémon Or HeartGold]]
+:Il se donne toujours à fond, mais ce {{PCap|Pok}}é{{PCap|mon}} ne se fatigue jamais. Il est très résistant à l'effort.
+;[[Pokémon Argent SoulSilver]]
+:Tous les muscles de son corps regorgent de puissance. Il dégage une aura redoutable.
+;[[Pokémon Noir et Blanc]]
+:Il soulève les plus lourdes charges avec plaisir et facilité. Il donne un coup de main tout en s'entraînant !
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+! style="background-color:{{Couleur|Combat}}; width:270px" | Version
+! style="background-color:{{Couleur|Combat}}; width:110px" | Rareté
+! style="background-color:{{Couleur|Combat}}; width:450px" | Obtention
+! style="background-color:{{Couleur|Combat}}; width:115px" | Niveau
+|-
+| {{RB}} || Rare || [[Route Victoire (Kanto)|Route Victoire]] || N.46-46
+|-
+| style="vertical-align:middle" | {{J}} || Peu fréquent<br/>Unique || [[Échange de Pokémon|Échange]] contre un [[Osselait]] à la [[Route 10 (Kanto)|Route 10]] {{Infobulle|*|Évolue immédiatement en Mackogneur}} || {{?}}<br/>Niveau du Osselait.
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+! style="background-color:{{Couleur|Combat}}; width:270px" | Version
+! style="background-color:{{Couleur|Combat}}; width:110px" | Rareté
+! style="background-color:{{Couleur|Combat}}; width:450px" | Obtention
+! style="background-color:{{Couleur|Combat}}; width:115px" | Niveau
+|-
+| {{OA}} || Rare || [[Grotte]], [[Mont Creuset]] ||
+|-
+| {{C}} || Rare || [[Grotte]], [[Mont Creuset]], [[Grotte Argentée]] ||
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+! style="background-color:{{Couleur|Combat}}; width:270px" | Version
+! style="background-color:{{Couleur|Combat}}; width:110px" | Rareté
+! style="background-color:{{Couleur|Combat}}; width:450px" | Obtention
+! style="background-color:{{Couleur|Combat}}; width:115px" | Niveau
+|-
+| {{RSE}} || Inexistant || Faire évoluer [[Machoc]] ||
+|-
+| {{RFVF}} || Commun || [[Grotte Azurée]], [[Route Victoire (Kanto)|Route Victoire]], [[Mont Braise]] ||
+|-
+| ''[[Pokémon Colosseum]]'' || Inexistant || À obtenir par échange ||
+|-
+| {{XD}} || Inexistant || À obtenir par échange ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Combat}}; width:270px" | Version
+! style="background-color:{{Couleur|Combat}}; width:110px" | Rareté
+! style="background-color:{{Couleur|Combat}}; width:450px" | Obtention
+! style="background-color:{{Couleur|Combat}}; width:115px" | Niveau
+|-
+| [[Diamant et Perle ]] || Commun ||
+|-
+| [[Platine]] || Commun || [[Mont Couronné]], [[Route 210]], [[Route 211]], [[Chenal 226]], et [[Route 225]]. || Variable de 28 à 31
+|}
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Combat}}; width:150px" | Version
+! style="background-color:{{Couleur|Combat}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Combat}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Combat}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Machoc]]
+| style="vertical-align:middle;" | Inconnu
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Poing-Karaté|50|100|25}}
+{{Attaque|Départ|Balayage|50|100|20}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|N.36|Puissance|-|-|30}}
+{{Attaque|N.44|Frappe Atlas|-|100|20}}
+{{Attaque|N.52|Sacrifice|80|80|25}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Balayage|50|100|20}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Puissance|-|-|30}}
+{{Attaque|Départ|Frappe Atlas|-|100|20}}
+{{Attaque|Départ|Clairvoyance|-|100|40}}
+{{Attaque|N.13|Poing-Karaté|50|100|25}}
+{{Attaque|N.34|Corps Perdu|70|-|10}}
+{{Attaque|N.43|Coup-Croix|100|80|5}}
+{{Attaque|N.52|Grimace|-|90|10}}
+{{Attaque|N.61|Sacrifice|80|80|25}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Balayage|-|100|20|robustesse|1|4}}
+{{Attaque-III|Départ|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ<br>N.7|Puissance|-|-|30|sang-froid|1|3}}
+{{Attaque-III|N.13|Poing-Karaté|50|100|25|robustesse|3|0}}
+{{Attaque-III|N.19|Frappe Atlas|-|100|20|robustesse|2|1}}
+{{Attaque-III|N.22|Clairvoyance|-|100|40|intelligence|3|0}}
+{{Attaque-III|N.25|Vendetta|60|100|10|robustesse|3|0}}
+{{Attaque-III|N.33|Corps Perdu|70|-|10|sang-froid|3|0}}
+{{Attaque-III|N.41|Sacrifice|80|80|25|sang-froid|6|0}}
+{{Attaque-III|N.46|Coup-Croix|100|80|5|sang-froid|3|0}}
+{{Attaque-III|N.51|Grimace|-|90|10|robustesse|2|1}}
+{{Attaque-III|N.59|Dynamopoing|100|50|5|sang-froid|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Balayage|-|100|20|robustesse|3}}
+{{Attaque-IV|Départ|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|Départ<br>N.7|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.10|Poing-Karaté|50|100|25|robustesse|3}}
+{{Attaque-IV|N.13|Clairvoyance|-|-|40|intelligence|1}}
+{{Attaque-IV|N.19|Frappe Atlas|-|100|20|robustesse|3}}
+{{Attaque-IV|N.22|Vendetta|60|100|10|robustesse|2}}
+{{Attaque-IV|N.25|Corps Perdu|70|-|10|sang-froid|2}}
+{{Attaque-IV|N.32|Sacrifice|80|80|25|sang-froid|3}}
+{{Attaque-IV|N.36|Réveil Forcé|60|100|10|intelligence|0}}
+{{Attaque-IV|N.40|Coup-Croix|100|80|5|sang-froid|2}}
+{{Attaque-IV|N.44|Grimace|-|90|10|robustesse|2}}
+{{Attaque-IV|N.51|Dynamopoing|100|50|5|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Balayage|-|100|20}}
+{{Attaque-V|Départ|Groz'Yeux|-|100|30}}
+{{Attaque-V|Départ<br>N.7|Puissance|-|-|30}}
+{{Attaque-V|Départ<br>N.10|Poing-Karaté|50|100|25}}
+{{Attaque-V|N.13|Balayette|60|100|20}}
+{{Attaque-V|N.19|Clairvoyance|-|-|40}}
+{{Attaque-V|N.22|Frappe Atlas|-|100|20}}
+{{Attaque-V|N.25|Vendetta|60|100|10}}
+{{Attaque-V|N.32|Corps Perdu|70|-|10}}
+{{Attaque-V|N.36|Sacrifice|80|80|25}}
+{{Attaque-V|N.40|Réveil Forcé|60|100|10}}
+{{Attaque-V|N.44|Coup-Croix|100|80|5}}
+{{Attaque-V|N.51|Grimace|-|100|10}}
+{{Attaque-V|N.55|Dynamopoing|100|50|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=Combat
+|sensib-ténèbres=0.5
+|sensib-insecte=0.5
+|sensib-roche=0.5
+|sensib-psy=2
+|sensib-vol=2
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=combat
+|PV=80
+|attaque=100
+|defense=70
+|atq-spc=50
+|def-spc=60
+|vitesse=45
+|special=50
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Machopeur
+| numero=067
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Machopeur RB.png{{!}}x200px
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère : Explorateurs du Ciel|Explorateurs du Ciel]]''
+| artwork_supp2-img=Machopeur-EdC.png{{!}}x200px
+| forme=12
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Machopeur n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasions :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Machopeur|Machopeur JEREMY]] (États-Unis) - Ce Pokémon évolua en [[Mackogneur|MACHAMP]] (Mackogneur) après réception. 
+* '''2010'''
+** [[Liste des Pokémon distribués en 2010#Machopeur|Machopeur Trade for Evolution]] (Japon)
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Chuck]], le champion d'[[Irisia]] en possède un. Tout comme [[Mélina]], la championne de [[Voilaroc]]. [[Sacha]] les affronte tous les deux. [[Kenny]] utilise également un {{PCap|[[Machopeur]]}} au concours de [[Scutellaria]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 534]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Colosse. Capable de soulever un camion avec une seule main, {{PCap|[[Machopeur]]}} est souvent utilisé pour réaliser de très gros travaux.
+
+{{Ruban Pokémon
+| nomPrécédent=Machoc
+| numéro=067
+| nom=Machopeur
+| nomSuivant=Mackogneur
+}}
+
+[[Catégorie:Pokémon évoluant lors d'un échange]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/67| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Machoke| ]]
+
+[[de:Maschock]]
+[[en:Machoke (Pokémon)]]
+[[es:Machoke]]
+[[it:Machoke]]
+[[ja:ゴーリキー]]
+[[pl:Machoke]]
+[[pt:Machoke (pokémon)]]

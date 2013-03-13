@@ -1,0 +1,609 @@
+{{Ruban Pokémon
+| nomPrécédent=Dodrio
+| numéro=086
+| nom=Otaria
+| nomSuivant=Lamantine
+}}
+{{Infobox Pokémon
+| nom=Otaria
+| nomen=Seel
+| nomja=パウワウ
+| nomtm=Pawou
+| nomromaji=Pauwau
+| nomde=Jurob
+| légende=Artwork d'Otaria pour {{RFVF}}
+| ndex=086
+| jdex=176
+| njdex=178
+| hdex=258
+| espece=Otarie
+| taille=1.1
+| poids=90.0
+| fmratio=.5 
+| oeufpas=5120
+| effortval=+1 Déf. Spé
+| type1=Eau
+| expval=100
+| expmax=1000000
+| captureval=190
+| groupoeuf1=Eau 1
+| groupoeuf2=Sol
+| capspe1=Isograisse
+| capspe2=Hydratation
+| capspe3=Corps Gel
+| couleur=Blanc
+| forme=3
+}}
+'''Otaria''' (anglais : '''Seel''' ; japonais : '''パウワウ''' ''Pawou''), le [[Pokémon]] [[wp:otarie|otarie]], qui bien que vivant sur la banquise n'est pas de type {{type|glace}} (type acquis uniquement par son évolution [[Lamantine]]), mais de type {{type|eau}} pur.
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Otaria a la peau qui a une teinte plus grisâtre.
+
+===[[Évolution]]===
+Otaria évolue en [[Lamantine]] à partir du [[niveau]] 34.
+
+{{TableauEvolutionHaut|Eau|Otaria}}
+{{TableauEvolutionSimple|[[Niveau]] 34|Lamantine}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Otaria peut disposer soit de la capacité spéciale [[Isograisse]], qui diminue de 50% la puissance des attaques Feu et Glace, soit de la capacité spéciale [[Hydratation]], qui soigne automatiquement les problèmes de statut (même infligés par soi-même, par le biais de [[Repos]] par exemple) s'il pleut.
+
+===Étymologies===
+* Français : de Otarie
+* Anglais : de ''seal'', phoque
+* Japonais :
+* Allemand : de ''junge''(jeunes) et de ''Robbe''(phoque)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:La corne sur son front est très résistante. Elle lui sert a percer des blocs de glace.
+;[[Pokémon Jaune]]
+:Il est à l'aise dans les endroits froids et gelés. Il peut nager dans l'eau à 0 degré.
+;[[Pokémon Stadium]]
+:Il possède une peau épaisse recouverte d'une fourrure bleue. Il plonge sous la glace dans des eaux à moins 40.
+;[[Pokémon Or]]
+:Bien qu'il puisse marcher sur la terre ferme, ce formidable nageur préfère les eaux froides.
+;[[Pokémon Argent]]
+:De jour, il passe le plus clair de son temps à dormir dans les eaux peu profondes.
+;[[Pokémon Cristal]]
+:Sa fourrure bleue le protège du froid. Il adore les mers froides remplies d'icebergs.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Otaria}} chasse ses proies dans l'eau gelée, sous la couche de glace. Lorsqu'il cherche à respirer, il perce un trou en frappant la glace avec la partie saillante sa tête.
+;[[Pokémon Émeraude]]
+:{{PCap|Otaria}} chasse ses proies dans l'eau gelée, sous la couche de glace. Lorsqu'il cherche à respirer, il perce un trou en frappant la glace avec la partie saillante de sa tête.
+;[[Pokémon Rouge Feu]]
+:Sa peau épaisse et dure est recouverte d'une fourrure bleu clair. Elle permet à ce {{PCap|Pok}}é{{PCap|mon}} de résister aux températures les plus glaciales.
+;[[Pokémon Vert Feuille]]
+:La corne sur son front est très résistante. Elle lui sert à détruire les blocs de glace.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Un habitant des icebergs. En mer, il utilise la corne sur sa tête pour briser la banquise.
+;[[Pokémon Or HeartGold]]
+:Bien qu'il puisse marcher sur la terre ferme, ce formidable nageur préfère les eaux froides.
+;[[Pokémon Argent SoulSilver]]
+:Il passe le plus clair de la journée à dormir dans des eaux peu profondes. Il ferme les narines pour plonger.
+;[[Pokémon Noir et Blanc]]
+:Un habitant des icebergs. En mer, il utilise la corne sur sa tête pour briser la banquise.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RBJ}}
+| Commun || [[Îles Écume]].
+|-
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{OA}}
+| Commun || [[Tourb'Îles]], [[Route 44]] (entrée)
+|-
+| style="background:{{couleur|Cristal}};"|{{couleur lien|#000000|Cristal}} || Commun || [[Tourb'Îles]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}}
+| Inexistant || À obtenir par échange.
+|-
+| style="vertical-align:middle;" | {{RFVF}}
+| Commun || [[Îles Écume]].
+|-
+| style="background:{{couleur|Colosseum}};"|{{couleur lien|#000000|Colosseum}} || Inexistant || À obtenir par échange.
+|-
+| style="background:{{couleur|XD}};"|{{couleur lien|#000000|XD}} || Unique || [[Colisée de Phénacit]]
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="background:{{couleur|Diamant}};"|{{couleur lien|#000000|Diamant}} || Peu commun || [[Route 226]] (avec [[Surf]]), [[Route 230]] (avec [[Surf]])
+|-
+| style="background:{{couleur|Perle}};"|{{couleur lien|#000000|Perle}} || Inexistant || À obtenir par échange.
+|-
+| style="background:{{couleur|Platine}};"|{{couleur lien|#000000|Platine}} || Inexistant || Reproduction d'un [[Lamantine]]
+|-
+| style="vertical-align:middle;" | {{HGSS}}
+| Commun || Route [[Route 47|47]], [[Tourb'Îles]], [[Îles Écume]]
+|-
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}}
+| rowspan="2" style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Grotte Cyclopéenne]]
+| style="vertical-align:middle;" |
+|-
+| style="vertical-align:middle;" | [[Dream World]] : La [[Mer Étincelante]]
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Coup d'Boule|70|100|15}}
+{{Attaque|N.30|Rugissement|-|100|40}}
+{{Attaque|N.35|Onde Boréale|65|100|20}}
+{{Attaque|N.40|Repos|-|-|10}}
+{{Attaque|N.45|Bélier|90|85|20}}
+{{Attaque|N.50|Laser Glace|95|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Coup d'Boule|70|100|15}}
+{{Attaque|N.6|Rugissement|-|100|40}}
+{{Attaque|N.16|Onde Boréale|65|100|20}}
+{{Attaque|N.21|Repos|-|-|10}}
+{{Attaque|N.32|Bélier|90|85|20}}
+{{Attaque|N.37|Laser Glace|95|100|10}}
+{{Attaque|N.48|Rune Protect|-|-|25}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Coup d'Boule|70|100|15|robustesse|2|3}}
+{{Attaque-III|N.9|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|N.17|Vent Glace|55|95|15|beauté|1|3}}
+{{Attaque-III|N.21|Onde Boréale|65|100|20|beauté|2|1}}
+{{Attaque-III|N.29|Repos|-|-|10|grâce|2|0}}
+{{Attaque-III|N.37|Bélier|90|85|20|robustesse|6|0}}
+{{Attaque-III|N.41|Laser Glace|95|100|10|beauté|2|1}}
+{{Attaque-III|N.49|Rune Protect|-|-|25|beauté|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Coup d'Boule|70|100|15|robustesse|3}}
+{{Attaque-IV|N.3|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|N.7|Tourniquet|-|-|15|grâce|2}}
+{{Attaque-IV|N.11|Vent Glace|55|95|15|beauté|2}}
+{{Attaque-IV|N.13|Encore|-|100|5|grâce|1}}
+{{Attaque-IV|N.17|Éclats Glace|40|100|30|beauté|2}}
+{{Attaque-IV|N.21|Repos|-|-|10|grâce|0}}
+{{Attaque-IV|N.23|Anneau Hydro|-|-|20|beauté|2}}
+{{Attaque-IV|N.27|Onde Boréale|65|100|20|beauté|2}}
+{{Attaque-IV|N.31|Aqua-Jet|40|100|20|beauté|2}}
+{{Attaque-IV|N.33|Saumure|65|100|10|intelligence|2}}
+{{Attaque-IV|N.37|Bélier|90|85|20|robustesse|3}}
+{{Attaque-IV|N.41|Plongée|80|100|10|beauté|1}}
+{{Attaque-IV|N.43|Hydroqueue|90|90|10|grâce|3}}
+{{Attaque-IV|N.47|Laser Glace|95|100|10|beauté|2}}
+{{Attaque-IV|N.51|Rune Protect|-|-|25|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Coup d'Boule|70|100|15}}
+{{Attaque-V|N.3|Rugissement|-|100|40}}
+{{Attaque-V|N.7|Tourniquet|-|-|15}}
+{{Attaque-V|N.11|Vent Glace|55|95|15}}
+{{Attaque-V|N.13|Encore|-|100|5}}
+{{Attaque-V|N.17|Éclats Glace|40|100|30}}
+{{Attaque-V|N.21|Repos|-|-|10}}
+{{Attaque-V|N.23|Anneau Hydro|-|-|20}}
+{{Attaque-V|N.27|Onde Boréale|65|100|20}}
+{{Attaque-V|N.31|Aqua-Jet|40|100|20}}
+{{Attaque-V|N.33|Saumure|65|100|10}}
+{{Attaque-V|N.37|Bélier|90|85|20}}
+{{Attaque-V|N.41|Plongée|80|100|10}}
+{{Attaque-V|N.43|Hydroqueue|90|90|10}}
+{{Attaque-V|N.47|Laser Glace|95|100|10}}
+{{Attaque-V|N.51|Rune Protect|-|-|25}}
+{{Attaque-V|N.53|Grêle|-|-|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Empal'Korne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 16 || [[Jackpot]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coup d'Boule]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puis. Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 06 || [[Siphon]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Rune Protect]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat ténèbres.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 08 || [[Plongée]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Rune Protect]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat ténèbres.png]]
+|-
+|CT 55 || [[Saumure]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 56 || [[Dégommage]] || [[Fichier:type miniat ténèbres.png]]
+|-
+|CT 58 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 78 || [[Séduction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 82 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 83 || [[Don naturel]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 87 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 05 || [[Siphon]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération V]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Rune Protect]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat ténèbres.png]]
+|-
+|CT 48 || [[Chant Canon]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 49 || [[Écho]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 56 || [[Dégommage]] || [[Fichier:type miniat ténèbres.png]]
+|-
+|CT 87 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 05 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 06 || [[Plongée]] || [[Fichier:type miniat eau.png]]
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+| nom=Otaria
+| type=Eau
+| sensib-acier=0.5
+| sensib-eau=0.5
+| sensib-feu=0.5
+| sensib-glace=0.5
+| sensib-électrique=2
+| sensib-plante=2
+}}
+
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=65
+|attaque=45
+|defense=55
+|atq-spc=45
+|def-spc=70
+|vitesse=45
+|special=70
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Otaria
+| numero=086
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Otaria RB.png
+| pinballRB-gif=oui
+| forme=3
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Plusieurs Otaria vivent dans l'arène d'[[Azuria]] dont s'occupent {{da|Ondine}} et ses sœurs, et qui apparaît pour la première fois dans l'[[Épisode 7]].
+
+La sœur du champion d'arène de l'[[Archipel Orange]] [[Rudy]] possède également un Otaria vu dans l'[[Épisode 103]].
+
+===Descriptions du [[Pokédex]]===
+
+{{Ruban Pokémon
+| nomPrécédent=Dodrio
+| numéro=086
+| nom=Otaria
+| nomSuivant=Lamantine
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/86| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Seel| ]]
+
+[[de:Jurob]]
+[[en:Seel (Pokémon)]]
+[[es:Seel]]
+[[it:Seel]]
+[[ja:パウワウ]]
+[[pl:Seel]]
+[[pt:Seel (pokémon)]]

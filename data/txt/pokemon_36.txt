@@ -1,0 +1,335 @@
+{{Ruban Pokémon
+| nomPrécédent=Mélofée
+| numéro=036
+| nom=Mélodelfe
+| nomSuivant=Goupix
+}}
+{{Infobox Pokémon 
+| nom=Mélodelfe
+| nomen=Clefable
+| nomja=ピクシー
+| nomtm=Pixy
+| nomromaji=Pikushī
+| nomde=Pixi
+| légende=Artwork de Mélodelfe pour {{RFVF}}
+| ndex=036
+| jdex=042
+| hdex=234
+| sdex=101
+| type1=Normal
+| espece=Fée
+| taille=1.3
+| poids=40.0
+| capspe1=Joli Sourire
+| capspe2=Garde Magik
+| capspe3=Inconscient
+| groupoeuf1=Fée
+| oeufpas=2560 
+| effortval=+3 PV 
+| expval=129
+| expmax=800000
+| fmratio=.75 
+| captureval=25
+| couleur=Rose
+| forme=6}}
+'''Mélodelfe''' (anglais : '''Clefable''' ; japonais : '''ピクシー''' ''Pixy'') est un [[Pokémon]] rare de [[type]] {{type|normal}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Mélodelfe a la peau plus pâle et le bout de ses oreilles est vert plutôt que marron.
+
+===[[Évolution]]===
+Mélodelfe est l'évolution de [[Mélofée]] au contact d'une [[Pierre Lune]]. Mélofée est lui-même depuis la [[seconde génération]] l'évolution de [[Mélo]] lorsque ce dernier est suffisamment [[bonheur|heureux]].
+{{TableauEvolutionHaut|Normal|Mélo}}
+{{TableauEvolutionSimple|[[Bonheur]]|Mélofée}}
+{{TableauEvolutionSimple|Avec une [[Pierre Lune]]|imageObjet=Miniat pierre lune dp.png|Mélodelfe}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Mélodelfe peut comme ses préévolutions disposer de l'une des capacités spéciales suivantes :
+*[[Joli Sourire]], qui exploite son charme pour éventuellement séduire l'ennemi lorsqu'il utilise une attaque de contact ;
+*[[Garde Magik]], qui l'empêche de subir des dégats indirects, tels que ceux provoqués par [[Grêle (attaque)|Grêle]], [[Toxik]], [[Vampigraine]] ou le contrecoup d'attaques comme [[Damoclès]] : seules des attaques directes peuvent blesser le Pokémon.
+
+===Étymologies===
+* Français : Mélodelfe vient de '''mélo'''die et '''elfe'''.
+* Anglais :Clef(le même en français) et Fable(le même en français) 
+* Japonais, allemand : Pixi(Fée en anglais)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Une sorte de petite fée très rare. Il se cache en apercevant un être humain.
+;[[Pokémon Jaune]]
+: Il défend son habitat avec courage. C'est une sorte de fée qui ne se montre que rarement.
+;[[Pokémon Stadium]]
+: Ses oreilles sont très sensibles et il n'aime pas les endroits bruyants ou surpeuplés. Il n'apparaît jamais en public.
+;[[Pokémon Or]]
+: Son ouïe très fine lui permet d'entendre des sons distants. Il se cache dans des endroits isolés.
+;[[Pokémon Argent]]
+: Ses oreilles très sensibles lui permettent d'entendre de très loin, il préfère donc les endroits calmes.
+;[[Pokémon Cristal]]
+: On dit qu'il vit dans de lointaines montagnes. Il déteste être vu.
+;[[Pokémon Rubis et Saphir]]
+: Les {{PCap|Mélodelfe}} se déplacent en sautant doucement, comme s'ils volaient avec leurs ailes. Leur démarche légère leur permet même de marcher sur l'eau. On raconte qu'ils se promènent sur les lacs, les soirs où la lune est claire.
+;[[Pokémon Émeraude]]
+: Ils se déplacent en sautant doucement, comme s'ils volaient. Cela leur permet même de marcher sur l'eau. Les soirs où la lune est claire, ils se promènent sur les lacs.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} à l'ouïe très développée. Il peut facilement entendre une épingle tomber à 1 km de distance.
+;[[Pokémon Vert Feuille]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est une sorte de petite fée très rare. Il court vite se cacher s'il aperçoit un être humain.
+;[[Pokémon Diamant]]
+: Il joue au bord des lacs déserts les soirs de pleine lune. Rares sont ceux qui l'ont aperçu.
+;[[Pokémon Perle]]
+: Il aime le calme des montagnes. Son ouïe exceptionnelle entendrait une aiguille tomber à un kilomètre.
+;[[Pokémon Platine]]
+:Il est très farouche et se laisse rarement approcher. De plus, il détecte les sons à plus d'1 Km.
+;[[Pokémon Or HeartGold]]
+:Son ouïe très fine lui permet d'entendre des sons distants. Il se cache dans des endroits isolés.
+;[[Pokémon Argent SoulSilver]]
+:Ses oreilles très sensibles lui permettent d'entendre de très loin, il préfère donc les endroits calmes.
+;[[Pokémon Noir et Blanc]]
+:Il est très farouche et se laisse rarement approcher. De plus, il détecte les sons à plus d'1 Km.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Mélofée]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Mélofée]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Mélofée]] à l'aide d'une [[Pierre Lune]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer [[Mélofée]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Faire évoluer [[Mélofée]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Cristal]] || Inexistant || Faire évoluer [[Mélofée]] à l'aide d'une [[Pierre Lune]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Mélofée]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Mélofée]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Mélofée]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Mélofée]] à l'aide d'une [[Pierre Lune]].
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:200px" | Version
+! style="background-color:{{Couleur|Normal}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle" | {{NB}}
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Grotte Cyclopéenne]] (Forêt) ([[Herbes mouvantes]])
+| style="vertical-align:middle;" | 55
+|-
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Berceuse|-|55|15}}
+{{Attaque|Départ|Torgnoles|15|85|10}}
+{{Attaque|Départ|Lilliput|-|-|20}}
+{{Attaque|Départ|Métronome|-|-|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Berceuse|-|55|15}}
+{{Attaque|Départ|Torgnoles|15|85|10}}
+{{Attaque|Départ|Lilliput|-|-|20}}
+{{Attaque|Départ|Métronome|-|-|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Berceuse|-|55|15|grâce|2|0}}
+{{Attaque-III|Départ|Torgnoles|15|85|10|robustesse|2|1}}
+{{Attaque-III|Départ|Lilliput|-|-|20|grâce|2|0}}
+{{Attaque-III|Départ|Métronome|-|-|10|grâce|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Berceuse|-|55|15|grâce|2}}
+{{Attaque-IV|Départ|Torgnoles|15|85|10|robustesse|2}}
+{{Attaque-IV|Départ|Lilliput|-|-|20|grâce|2}}
+{{Attaque-IV|Départ|Métronome|-|-|10|grâce|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Berceuse|-|55|15}}
+{{Attaque-V|Départ|Torgnoles|15|85|10}}
+{{Attaque-V|Départ|Lilliput|-|-|20}}
+{{Attaque-V|Départ|Métronome|-|-|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=normal
+|PV=95
+|attaque=70
+|defense=73
+|atq-spc=85
+|def-spc=90
+|vitesse=60
+|special=85
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Mélodelfe
+| numero=036
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Mélodelfe RB.png
+| forme=6
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+La première apparition de Mélodelfe se produira dans l'[[épisode 6]], où nos héros explorent le Mont Sélénité tandis que la [[Team Rocket]] essayera de s'emparer de la [[Pierre Lune]]. Lorsque celle-ci est à nouveau rassemblée, certains des [[Mélofée]]s présents évoluent en Mélodelfe. On peut également apercevoir un Mélodelfe accompagné d'un Mélofée à la recherche d'un Mélo dans l'épisode ''Mélo-Drame'' de la saison 8.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 6]]
+:Une [[évolution|forme évoluée]] de {{PCap|Mélofée}}. Ces créatures exceptionnelles figurent parmi les plus rares {{PCap|Pok}}é{{PCap|mon}} existants.
+
+{{Ruban Pokémon
+| nomPrécédent=Mélofée
+| numéro=036
+| nom=Mélodelfe
+| nomSuivant=Goupix
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/36| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Clefable| ]]
+
+[[de:Pixi]]
+[[en:Clefable (Pokémon)]]
+[[es:Clefable]]
+[[it:Clefable]]
+[[ja:ピクシー]]
+[[pl:Clefable]]
+[[pt:Clefable (pokémon)]]

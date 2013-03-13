@@ -1,0 +1,382 @@
+{{Ruban Pokémon
+| nomPrécédent=Magmar
+| numéro=127
+| nom=Scarabrute
+| nomSuivant=Tauros
+}}
+{{Infobox Pokémon
+| nom=Scarabrute
+| nomen=Pinsir
+| nomja=カイロス
+| nomromaji=Kairosu
+| nomtm=Kailios
+| nomde=Pinsir
+| légende=Artwork de Scarabrute pour {{RFVF}}
+| ndex=127
+| jdex=112
+| njdex=113
+| hdex=167
+| fdex=093
+| adex=123
+| espece=Scarabée
+| taille=1.5
+| poids=55.0
+| groupoeuf1=Insecte
+| oeufpas=6400
+| type1=Insecte
+| captureval=45
+| capspe1=Hyper Cutter
+| capspe2=Brise Moule
+| capspe3=Impudence
+| expmax=1250000
+| expval=200
+| fmratio=0.5
+| couleur=Marron
+| effortval=+2 Att.
+| forme=12}}
+'''Scarabrute''' (anglais : '''Pinsir''' ; japonais : '''カイロス''' ''Kailios'') est un [[Pokémon]] de [[type]] {{type|insecte}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====[[Chromatique]]====
+
+Lorsqu'il est chromatique, Scarabrute devient bleu foncé. De plus, ses cornes jaunissent légèrement.
+
+===[[Évolution]]===
+Scarabrute n'a pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===[[Capacité spéciale]]===
+
+Scarabrute peut avoir deux capacités spéciales :
+*[[Hyper Cutter]], qui empêche la réduction de sa statistique d'attaque ; Cela augmente également l'efficacité de [[Coupe]] pour déblayer des hautes herbes hors combat.
+*[[Brise Moule]], qui permet d'utiliser les attaques sans être contré par une quelconque capacité spéciale adverse (par exemple, il devient possible d'utiliser [[Séisme]] contre un Pokémon pourvu de [[Lévitation]].)
+
+===Étymologies===
+
+* Français : Scarabée et brute
+* Anglais, Allemand : Pinsir pourrait venir de ''pincer'', en rapport avec les pinces sur sa tête
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Quand il ne peut écraser sa proie avec sa pince, il la secoue et l'envoie dans les airs.
+;[[Pokémon Jaune]]
+:Il enserre sa proie de sa puissante pince. Il ne peut se déplacer dans les milieux froids.
+;[[Pokémon Stadium]]
+:Il agrippe et enserre sa victime avec les deux pinces sur sa tête. Les ennemis trop résistants sont balancés au loin.
+;[[Pokémon Or]]
+:Il creuse des abris de ses cornes pour y dormir. Le matin, la terre humide reste collée à son corps.
+;[[Pokémon Argent]]
+:Il attaque sauvagement avec ses bois. En hiver, il se cache au plus profond des forêts.
+;[[Pokémon Cristal]]
+:La nuit, quant il fait plus froid, il dort au sommet des arbres ou près des racines où il peut se cacher.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Scarabrute}} est doté de cornes imposantes. Des pointes jaillissent de la surface de ses cornes. Ces pointes s'enfoncent profondément dans le corps de l'ennemi, l'empéchant ainsi de s'échapper.
+;[[Pokémon Émeraude]]
+:Ses pinces sont assez fortes pour détruire de grosses bûches. Comme il n'aime pas le froid, il s'enfouit sous terre lors des nuits fraîches.
+;[[Pokémon Rouge Feu]]
+:Ses deux grandes cornes lui servent de pinces. Une fois qu'il tient une proie, il ne la lâche pas avant de l'avoir déchiquetée.
+;[[Pokémon Vert Feuille]]
+:S'il n'arrive pas à écraser sa proie avec ses pinces, il la secoue et l'envoie dans les airs.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Scarabrute}} saisit les objets avec ses deux cornes. Il coupe les Clôtures en Métal.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il serre les proies dans ses pinces pour les trancher en deux. S'il n'y arrive pas, il les jette au loin.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il charge l'adversaire avec les redoutables cornes sur sa tête.
+;[[Pokémon Or HeartGold|Pokémon Or HeartGold]]
+:Il creuse des abris avec ses pinces pour y dormir. Le matin, la terre humide reste collée à son corps.
+;[[Pokémon Argent SoulSilver]]
+:Il attaque sauvagement avec ses bois. En hiver, il se cache au plus profond des forêts.
+;[[Pokémon Noir et Blanc]]
+:Il serre les proies dans ses pinces pour les trancher en deux. S'il n'y arrive pas, il les jette au loin.
+
+==Localisations==
+
+===Première génération===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu  
+|-
+| [[Rouge]] || Inexistant || À obtenir par échange.
+|-
+| [[Bleu]] || Rare || [[Parc Safari]], prix du [[Casino]] de [[Céladopole]]
+|-
+| [[Jaune]] || Rare || [[Parc Safari]], prix du [[Casino]] de [[Céladopole]]
+|}
+
+
+===Deuxième génération===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu  
+|-
+| [[Or]] || Rare || [[Parc naturel]] durant le [[concours de capture d'insecte]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Rare || [[Parc naturel]] durant le [[concours de capture d'insecte]].
+|-
+| [[Cristal]] || Rare || [[Parc naturel]] durant le [[concours de capture d'insecte]].
+|}
+
+===Troisième génération===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rubis]] || Rare || [[Parc Safari]]. || - || 10%
+|- 
+| [[Saphir]] || Rare || [[Parc Safari]]. || - || 10%
+|- 
+| [[Pokémon Émeraude|Émeraude]] || Rare || [[Parc Safari]]. || - || 10%
+|-
+| [[Rouge Feu]] || Inexistant || À obtenir par échange.|| - || -
+|-
+| [[Vert Feuille]] || Rare || [[Parc Safari]], prix du [[Casino]] de [[Céladopole]] || N. 18 || Échanger 2500 jetons.
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange. || - || -
+|-
+| [[XD]] || Unique || [[Île Ténébra]]. || - || -
+|}
+
+===Quatrième génération===
+
+{| class="wikitable"
+|-
+! style="background-color:{{couleur|insecte}};width150px"|Version
+! style="background-color:{{couleur|insecte}};width150px"|Lieu
+! style="background-color:{{couleur|insecte}};width150px"|Rareté
+|- 
+| style="background:{{couleur|Diamant}};"|{{couleur lien|#000000|Diamant}} || Rare || Pokéradar [[Forêt Vestigion]] ou essaim.
+|-
+| style="background:{{couleur|Perle}};"|{{couleur lien|#000000|Perle}}  || Rare || [[Route 229]].
+|-
+|style="background:{{couleur|Argent Soulsilver}};"|{{couleur lien|#000000|Argent SoulSilver}} || Rare || [[Parc naturel]] ( [[concours de capture]]).
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:270px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:110px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Obtention
+! style="background-color:{{Couleur|Insecte}}; width:80px" | Niveau
+|-
+| style="background:{{Couleur|Blanc}};" | {{Couleur lien|#000000|Blanc}} 
+| rowspan="2" style="vertical-align:middle;" | Rare
+| rowspan="2" style="vertical-align:middle;" | [[Route 12 (Unys)|Route 12]]
+| rowspan="2" style="vertical-align:middle;" |  50
+|-
+| style="background:{{Couleur|Noir}};" | {{Couleur lien|#FFFFFF|Noir}}
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Force Poigne|55|100|30}}
+{{Attaque|Départ{{Sup|R}}{{Sup|B}}<br>N.21{{Sup|J}}|Étreinte|15|75|20}}
+{{Attaque|N.25|Frappe Atlas|-|100|20}}
+{{Attaque|N.30|Guillotine|-|-|5}}
+{{Attaque|N.36|Armure|-|-|30}}
+{{Attaque|N.49|Tranche|70|100|20}}
+{{Attaque|N.54|Danse-Lames|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Force Poigne|55|100|30}}
+{{Attaque|N.7|Armure|-|-|30}}
+{{Attaque|N.13|Étreinte|15|75|20}}
+{{Attaque|N.19|Frappe Atlas|-|100|20}}
+{{Attaque|N.31|Guillotine|-|-|5}}
+{{Attaque|N.37|Sacrifice|80|80|25}}
+{{Attaque|N.43|Danse-Lames|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Force Poigne|55|100|30|robustesse|4|0}}
+{{Attaque-III|Départ|Puissance|-|-|30|sang-froid|1|3}}
+{{Attaque-III|N.7|Étreinte|15|75|20|robustesse|3|0}}
+{{Attaque-III|N.13|Frappe Atlas|-|100|20|robustesse|2|1}}
+{{Attaque-III|N.19|Armure|-|-|30|robustesse|2|0}}
+{{Attaque-III|N.25|Vendetta|60|100|10|robustesse|3|0}}
+{{Attaque-III|N.31|Casse-Brique|75|100|15|sang-froid|1|4}}
+{{Attaque-III|N.37|Guillotine|-|-|5|sang-froid|2|0}}
+{{Attaque-III|N.43|Sacrifice|80|80|25|sang-froid|6|0}}
+{{Attaque-III|N.49|Danse-Lames|-|-|30|beauté|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Force Poigne|55|100|30|robustesse|3}}
+{{Attaque-IV|Départ|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.4|Étreinte|15|75|20|robustesse|0}}
+{{Attaque-IV|N.8|Frappe Atlas|-|100|20|robustesse|3}}
+{{Attaque-IV|N.13|Armure|-|-|30|robustesse|2}}
+{{Attaque-IV|N.18|Vendetta|60|100|10|robustesse|2}}
+{{Attaque-IV|N.21|Casse-Brique|75|100|15|sang-froid|3}}
+{{Attaque-IV|N.25|Corps Perdu|70|-|10|sang-froid|2}}
+{{Attaque-IV|N.30|Plaie-Croix|80|100|15|beauté|2}}
+{{Attaque-IV|N.35|Mania|90|100|20|robustesse|2}}
+{{Attaque-IV|N.38|Danse-Lames|-|-|30|beauté|0}}
+{{Attaque-IV|N.42|Sacrifice|80|80|25|sang-froid|3}}
+{{Attaque-IV|N.47|Guillotine|-|30|5|sang-froid|0}}
+{{Attaque-IV|N.52|Surpuissance|120|100|5|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Force Poigne|55|100|30}}
+{{Attaque-V|Départ|Puissance|-|-|30}}
+{{Attaque-V|N.4|Étreinte|15|85|20}}
+{{Attaque-V|N.8|Frappe Atlas|-|100|20}}
+{{Attaque-V|N.13|Armure|-|-|30}}
+{{Attaque-V|N.18|Vendetta|60|100|10}}
+{{Attaque-V|N.21|Casse-Brique|75|100|15}}
+{{Attaque-V|N.25|Corps Perdu|70|-|10}}
+{{Attaque-V|N.30|Plaie-Croix|80|100|15}}
+{{Attaque-V|N.35|Mania|120|100|10}}
+{{Attaque-V|N.38|Danse-Lames|-|-|30}}
+{{Attaque-V|N.42|Sacrifice|80|80|25}}
+{{Attaque-V|N.47|Guillotine|-|-|5}}
+{{Attaque-V|N.52|Surpuissance|120|100|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+===Par [[donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=insecte
+|sensib-combat=0.5
+|sensib-feu=2
+|sensib-plante=0.5
+|sensib-poison={{Infobulle|× 1|× 2 en génération 1}}
+|sensib-roche=2
+|sensib-sol=0.5
+|sensib-vol=2
+|rmq-poison=Les attaques de type [[Poison]] étaient très efficaces sur les Pokémon de type [[Insecte]] - donc sur '''{{PAGENAME}}''' - dans la [[première génération]].
+|rmq-poison-num=1
+}}
+
+==Statistiques==
+{{Statistiques
+|type=insecte
+|PV=65
+|attaque=125
+|defense=100
+|atq-spc=55
+|def-spc=70
+|vitesse=85
+|special=55
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Scarabrute
+| numero=127
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Scarabrute RB.png
+| forme=12
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Scarabrute a fait un certain nombre d'apparitions dans le dessin animé, dont la première durant l'[[épisode 4]], sous le contrôle du [[Samouraï]] avec lequel [[Sacha]] a mené la célèbre et épique bataille des [[Chrysacier]].
+
+[[Régis]] possède également un Scarabrute.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 4]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} agressif se sert de la pince qui se trouve sur son crâne pour se saisir de ses adversaires et les immobiliser ou pire encore.
+
+{{Ruban Pokémon
+| nomPrécédent=Magmar
+| numéro=127
+| nom=Scarabrute
+| nomSuivant=Tauros
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/127| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Pinsir| ]]
+
+[[de:Pinsir]]
+[[en:Pinsir (Pokémon)]]
+[[es:Pinsir]]
+[[it:Pinsir]]
+[[ja:カイロス]]
+[[pl:Pinsir]]
+[[pt:Pinsir (pokémon)]]

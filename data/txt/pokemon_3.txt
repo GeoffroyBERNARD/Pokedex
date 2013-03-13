@@ -1,0 +1,622 @@
+{{Ruban Pokémon
+| nomPrécédent=Herbizarre
+| numéro=003
+| nom=Florizarre
+| nomSuivant=Salamèche
+}}
+{{Infobox Pokémon 
+| nom=Florizarre
+| nomen=Venusaur
+| nomja=フシギバナ
+| nomtm=Fushigibana
+| nomde=Bisaflor
+| légende=Artwork de Florizarre pour {{RFVF}}
+| ndex=003
+| jdex=228
+| njdex=233
+| hdex=205
+| fdex=003
+| odex=R-016
+| opdex=N-006
+| espece=Graine
+| taille=2.0
+| poids=100.0
+| fmratio=.125 
+| couleur=Vert
+| oeufpas=5120 
+| effortval=+2 Att. Spé ; +1 Déf. Spé 
+| type1=Plante
+| type2=Poison
+| expval=208
+| expmax=1059860
+| captureval=45
+| groupoeuf1=Monstre
+| groupoeuf2=Plante
+| capspe1=Engrais
+| capspe2=Chlorophyle
+| capspe2-reve=oui
+| forme=8
+}}
+'''Florizarre''' (Anglais: '''Venusaur''' ; Japonais: '''フシギバナ''' ''Fushigibana'') est un Pokémon {{type|plante}} et {{type|poison}}. Il est l'évolution de [[Herbizarre]], et le dernier dans la famille d'évolution de [[Bulbizarre]]. Tout le monde le reconnaît, retrouvé sur les boxarts des jeux ''[[Pokémon Vert]]'' et {{VF}}.
+
+==À propos du Pokémon==
+
+=== Physionomie et attitudes ===
+
+Florizarre est un imposant [[:wp:quadrupède|quadrupède]] à la peau verte ayant l'aspect d'un batracien, il est beaucoup plus grand et plus lourd que [[Bulbizarre]] et [[Herbizarre]]. Il porte une grande fleur sur son dos et quatre grandes feuilles, l'intérieur de ses oreilles s'est coloré de rouge et sa peau au niveau de ses pattes est désormais recouverte de d'excroissance faisant penser aux verrues d'un crapaud. Sa bouche est ornée de 6 petites canines. Chacun de ses pas provoque un tremblement du sol.
+
+Florizarre possède plus de lianes que ses pré-évolutions qui sont limitées à 2. Avec elles il peut soulever des adversaires très lourds. Lors d'une attaque [[Lance-Soleil]], sa fleur sur son dos emmagasine l'énergie des rayons du soleil, mais il semblerait qu'il puisse relâcher sa puissance par l'orifice de sa plante ou par sa bouche selon la position angulaire de son adversaire.
+
+==== Différences mâle/femelle ====
+
+Une petite graine jaune dépasse du sommet de la plante chez les Florizarre femelles.
+
+====[[Chromatique]]====
+Lorsqu'il est chromatique, le corps de Florizarre est vert, et la fleur sur son dos est orange.
+
+===[[Évolution]]===
+
+Florizarre est l'évolution de [[Herbizarre]] au niveau 32 qui est lui-même l'évolution de [[Bulbizarre]] au niveau 16.
+{{TableauEvolutionHaut|Plante|Bulbizarre}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Herbizarre}}
+{{TableauEvolutionSimple|[[Niveau]] 32|Florizarre}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+* [[Engrais]] augmente la puissance des attaques plante de 50% lorsque les PV du Pokémon tombent à moins d’un tiers de leurs PV max.
+* [[Chlorophyle]] double la vitesse de Florizarre lorsque le climat est ensoleillé.
+
+===Étymologies===
+
+* Français : ''Florizarre'' vient de ''fleur'' et/ou '''flor'''e et b'''izarre'''. Cette étymologie est une sorte de référence à un jeu de mot du nom japonais, signifiant « n’est-il pas bizarre ? »
+* Anglais : ''Venusaur'' vient de ''Venus'' (Vénus) et ''saur'', le terme grec (σαύρα ''saúra'') pour désigner les lézards (même étymologie que « saurien »).
+* Japonais : フシギバナ ''Fushigibana'' vient de 不思議 ''fushigi'' (étrange) et 花 ''hana'' (fleur) ; « étrange fleur » se dirait 不思議な花 ''fushigi na hana''.
+* Allemand : ''Bisaflor'' vient de ''Bisam'' ([[:wp:Rat musqué|rat musqué]]) et ''Flora'' (flore).
+* Coréen : 이상해꽃 ''Isanghaekkot'' signifie ''fleur étrange''.
+* Chinois (Taïwan) : 妙蛙花 ''Miào Wā Huā'' signifie ''étrange grenouille à fleur''.
+* Chinois (Hong-Kong) : 奇異花 ''Qí Yì Huā'' signifie ''fleur inhabituelle''.
+
+===Descriptions du [[Pokédex]]===
+;{{RB}}
+: Sa plante mûrit en absorbant les rayons du soleil. Il migre souvent vers les endroits ensoleillés.
+;{{J}}
+: Les pétales de sa fleur dorsale absorbent les rayons du soleil pour en faire de l'énergie.
+;[[Pokémon Stadium]]
+: Il absorbe l'énergie solaire pour se nourrir. En captant les rayons, il se tient calme et immobile.
+;''[[Pokémon Or et Argent|Pokémon Or]]''
+: Ses pétales lui servent à capter la lumière du soleil. Il peut ainsi en canaliser l'énergie.
+;''[[Pokémon Or et Argent|Pokémon Argent]]''
+: Il est capable de transformer la lumière en énergie il est donc redoutable en été.
+;''[[Pokémon Cristal]]''
+: Sous le soleil, Il se réchauffe, régénère, et ses pétales dégagent un subtil parfum.
+;{{RS}}
+: Une belle fleur se trouve sur le dos de {{PCap|Florizarre}}. Elle prend une couleur vive lorsqu'elle est bien nourrie et bien ensoleillée. Le parfum de cette fleur peut apaiser les gens..
+;{{E}}
+: Une belle fleur se trouve sur son dos. Elle prend une couleur vive lorsqu'elle est bien nourrie et bien ensoleillée. Le parfum de cette fleur peut apaiser les gens.
+;{{RF}}
+:Une douce senteur émane de sa plante. Cette fragrance calme tous ceux qui sont engagés dans un combat.
+;{{VF}}
+:Sa plante donne des fleurs quand elle absorbe les rayons du soleil. Il migre souvent vers les endroits ensoleillés.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: {{PCap|Florizarre}} crache des graines qui donnent de grandes lianes bloquant le passage.
+;{{DPP}}
+: Le parfum de sa fleur se fait plus pénétrant les lendemains de pluie. Cela appâte les autres {{PCap|Pok}}é{{PCap|mon}}.
+;{{HG}}
+:Ses pétales lui servent à capter la lumière du soleil. Il peut ainsi en canaliser l'énergie.
+;{{SS}}
+:Il est capable de transformer la lumière en énergie. Il est donc redoutable en été.
+;{{NB}}
+:Le parfum de sa fleur se fait plus pénétrant les lendemains de pluie. Cela appâte les autres Pokémon.
+
+==Localisations==
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#D20000;"|{{couleur lien|#000000|Rouge}}|| rowspan="3" style="vertical-align: middle;"| Inexistant|| rowspan="3" style="vertical-align: middle;"| Faire évoluer [[Herbizarre]]. 
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#1C2FDA;"|{{couleur lien|#FFFFFF|Bleu}} 
+|-
+| style="background:#FFFF52;"|{{couleur lien|#000000|Jaune}}
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|- 
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#E6D600;"|{{couleur lien|#000000|Or}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{BRJ}} par le [[Bloc temporel]].
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#D0D0D0;"|{{couleur lien|#000000|Argent}}
+|-
+| style="background:#009595;"|{{couleur lien|#FFFFFF|Cristal}} 
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#9F002A;"|{{couleur lien|#FFFFFF|Rubis}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="3" style="vertical-align: middle;"| -
+|-
+| style="background:#002395;"|{{couleur lien|#FFFFFF|Saphir}} 
+|-
+| style="background:#008B33;"|{{couleur lien|#FFFFFF|Émeraude}} 
+|-
+| style="background:#EA4E00;"|{{couleur lien|#000000|Rouge Feu}}|| rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| Faire évoluer [[Herbizarre]]. 
+| rowspan="2" style="vertical-align: middle;"| -
+|-
+| style="background:#00BE46;"|{{couleur lien|#000000|Vert Feuille}} 
+|-
+| style="background:#B0001D;"|{{couleur lien|#FFFFFF|Colosseum}}  || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="2" style="vertical-align: middle;"| -
+|-
+| style="background:#700087;"|{{couleur lien|#FFFFFF|XD}} 
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#A7F6FF;"|{{couleur lien|#000000|Diamant}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;" | À échanger depuis {{OHAS}}.
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#FFBFF9;"|{{couleur lien|#000000|Perle}}
+|-
+| style="background:#606060;"|{{couleur lien|#FFFFFF|Platine}}
+|-
+| style="background:#E1C300;"|{{couleur lien|#000000|Or HeartGold}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;" | Faire évoluer [[Herbizarre]]. 
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#A3A3A3;"|{{couleur lien|#000000|Argent SoulSilver}}
+|-
+| style="background:#3DB700;"|{{couleur lien|#000000|Parc des Amis}} 
+| style="vertical-align: middle;"| Variable 
+| style="vertical-align: middle;"| Plaine
+| style="vertical-align: middle;"| -
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#000000;"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#000000|Blanc}}
+|-
+| style="background:#000000;"|{{couleur lien|#318CE7|Noir 2}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#E9383F|Blanc 2}}
+|-
+|}
+
+===[[Sixième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#6050DC;"|{{couleur lien|#FFFFFF|X}}
+| rowspan="2" style="vertical-align: middle;" | ?
+| rowspan="2" style="vertical-align: middle;" | À venir
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#DE2916;"| {{couleur lien|#FFFFFF|Y}}
+|-
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Vampigraine|-|90|10}}
+{{Attaque|Départ|Fouet Lianes|35|100|10}}
+{{Attaque|Départ|Poudre Toxik|-|75|35}}
+{{Attaque|Départ|Tranch'Herbe|55|95|25}}
+{{Attaque|N.43|Croissance|-|-|40}}
+{{Attaque|N.55|Poudre Dodo|-|75|15}}
+{{Attaque|N.65|Lance-Soleil|120|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ<br/>Niveau 7|Vampigraine|-|90|10}}
+{{Attaque|Départ|Fouet Lianes|35|100|10}}
+{{Attaque|Départ|Poudre Toxik|-|75|35}}
+{{Attaque|Départ|Poudre Dodo|-|75|15}}
+{{Attaque|Départ|Tranch'Herbe|55|95|25}}
+{{Attaque|Départ|Doux Parfum|-|100|20}}
+{{Attaque|N.41|Croissance|-|-|40}}
+{{Attaque|N.53|Synthèse|-|-|5}}
+{{Attaque|N.65|Lance-Soleil|120|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.4|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|Départ<br>N.7|Vampigraine|-|90|10|intelligence|2|2}}
+{{Attaque-III|Départ<br>N.10|Fouet Lianes|35|100|10|sang-froid|4|0}}
+{{Attaque-III|N.15|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.15|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.22|Tranch'Herbe|55|95|25|sang-froid|3|0}}
+{{Attaque-III|N.29|Doux Parfum|-|100|20|grâce|1|3}}
+{{Attaque-III|N.41|Croissance|-|-|40|beauté|1|0}}
+{{Attaque-III|N.53|Synthèse|-|-|5|intelligence|1|0}}
+{{Attaque-III|N.65|Lance-Soleil|120|100|10|intelligence|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.3|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|Départ<br>N.7|Vampigraine|-|90|10|intelligence|0}}
+{{Attaque-IV|Départ<br>N.9|Fouet Lianes|35|100|15|sang-froid|3}}
+{{Attaque-IV|N.13|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.13|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.15|Bélier|90|85|20|robustesse|3}}
+{{Attaque-IV|N.20|Tranch'Herbe|55|95|25|sang-froid|3}}
+{{Attaque-IV|N.23|Doux Parfum|-|100|20|grâce|2}}
+{{Attaque-IV|N.28|Croissance|-|-|40|beauté|0}}
+{{Attaque-IV|N.31|Damoclès|120|100|15|robustesse|0}}
+{{Attaque-IV|N.32|Danse-Fleur|90|100|20|beauté|0}}
+{{Attaque-IV|N.39|Soucigraine|-|100|10|beauté|2}}
+{{Attaque-IV|N.45|Synthèse|-|-|5|intelligence|0}}
+{{Attaque-IV|N.53|Canon Graine|80|100|15|intelligence|3}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ<br>N.3|Rugissement|-|100|40}}
+{{Attaque-V|Départ<br>N.7|Vampigraine|-|90|10}}
+{{Attaque-V|N.9|Fouet Lianes|35|100|15}}
+{{Attaque-V|N.13|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.13|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.15|Bélier|90|85|20}}
+{{Attaque-V|N.20|Tranch'Herbe|55|95|25}}
+{{Attaque-V|N.23|Doux Parfum|-|100|20}}
+{{Attaque-V|N.28|Croissance|-|-|40}}
+{{Attaque-V|N.31|Damoclès|120|100|15}}
+{{Attaque-V|N.32|Danse-Fleur|120|100|10}}
+{{Attaque-V|N.39|Soucigraine|-|100|10}}
+{{Attaque-V|N.45|Synthèse|-|-|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+==== [[Génération I]] ====
+
+{{Apprentissage CT Haut|type=plante}}
+{{Apprentissage CT|03|Danse-Lames}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|08|Plaquage}}
+{{Apprentissage CT|09|Bélier}}
+{{Apprentissage CT|10|Damoclès}}
+{{Apprentissage CT|15|Ultralaser}}
+{{Apprentissage CT|20|Frénésie}}
+{{Apprentissage CT|21|Méga-Sangsue}}
+{{Apprentissage CT|22|Lance-Soleil}}
+{{Apprentissage CT|31|Copie}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|33|Protection}}
+{{Apprentissage CT|34|Patience}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|50|Clonage}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT Bas}}
+
+==== [[Génération II]] ====
+
+{{Apprentissage CT Haut|type=plante}}
+{{Apprentissage CT|02|Coup d'Boule}}
+{{Apprentissage CT|03|Malédiction}}
+{{Apprentissage CT|05|Hurlement}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|12|Doux Parfum}}
+{{Apprentissage CT|13|Ronflement}}
+{{Apprentissage CT|15|Ultralaser}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|19|Giga-Sangsue}}
+{{Apprentissage CT|20|Ténacité}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|22|Lance-Soleil}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|31|Coud'Boue}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|34|Vantardise}}
+{{Apprentissage CT|35|Blabla Dodo}}
+{{Apprentissage CT|40|Boul'Armure}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|49|Taillade}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|05|Flash|cs=oui}}
+{{Apprentissage CT Bas}}
+
+==== [[Génération III]] ====
+
+{{Apprentissage CT Haut|type=plante}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|09|Balle Graine}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|15|Ultralaser}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|19|Giga-Sangsue}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|22|Lance-Soleil}}
+{{Apprentissage CT|26|Séisme}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|36|Bomb-Beurk}}
+{{Apprentissage CT|42|Façade}}
+{{Apprentissage CT|43|Force Cachée}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|04|Force|cs=oui}}
+{{Apprentissage CT|05|Flash|cs=oui}}
+{{Apprentissage CT|06|Éclate-Roc|cs=oui}} 
+{{Apprentissage CT Bas}}
+
+==== [[Génération IV]] ====
+
+{{Apprentissage CT Haut|type=plante}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|09|Balle Graine}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|15|Ultralaser}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|19|Giga-Sangsue}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|22|Lance-Soleil}}
+{{Apprentissage CT|26|Séisme}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|36|Bomb-Beurk}}
+{{Apprentissage CT|42|Façade}}
+{{Apprentissage CT|43|Force Cachée}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|53|Éco-Sphère}}
+{{Apprentissage CT|58|Ténacité}}
+{{Apprentissage CT|68|Giga Impact}}
+{{Apprentissage CT|70|Flash}}
+{{Apprentissage CT|75|Danse-Lames}}
+{{Apprentissage CT|78|Séduction}}
+{{Apprentissage CT|82|Blabla Dodo}}
+{{Apprentissage CT|83|Don Naturel}}
+{{Apprentissage CT|86|Nœud Herbe}}
+{{Apprentissage CT|87|Vantardise}}
+{{Apprentissage CT|90|Clonage}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|04|Force|cs=oui}}
+{{Apprentissage CT|06|Éclate-Roc|cs=oui}}
+{{Apprentissage CT|08|Escalade|cs=oui}}
+{{Apprentissage CT Bas}}
+
+==== [[Génération V]] ====
+
+{{Apprentissage CT Haut|type=plante}}
+{{Apprentissage CT|05|Hurlement}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|09|Choc Venin}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|15|Ultralaser}}
+{{Apprentissage CT|16|Mur Lumière}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|20|Rune Protect}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|22|Lance-Soleil}}
+{{Apprentissage CT|26|Séisme}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|36|Bomb-Beurk}}
+{{Apprentissage CT|42|Façade}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|48|Chant Canon}}
+{{Apprentissage CT|49|Écho}}
+{{Apprentissage CT|53|Éco-Sphère}}
+{{Apprentissage CT|68|Giga Impact}}
+{{Apprentissage CT|70|Flash}}
+{{Apprentissage CT|75|Danse-Lames}}
+{{Apprentissage CT|78|Piétisol}}
+{{Apprentissage CT|86|Nœud Herbe}}
+{{Apprentissage CT|87|Vantardise}}
+{{Apprentissage CT|90|Clonage}}
+{{Apprentissage CT|94|Éclate-Roc}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|04|Force|cs=oui}}
+{{Apprentissage CT Bas}}
+
+===Par [[reproduction]]===
+
+;Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]
+
+:- [[Coud'Krâne]]
+:- [[Coupe-Vent]]
+:- [[Danse-Fleur]]
+:- [[Mur Lumière]]
+:- [[Rune Protect]]
+
+;Dans les jeux de [[troisième génération]]
+
+:- [[Charme (attaque)|Charme]]
+:- [[Coud'Krâne]]
+:- [[Danse-Fleur]]
+:- [[Feuillemagik]]
+:- [[Malédiction]]
+:- [[Mur Lumière]]
+:- [[Rune Protect]]
+:- [[Siffl'Herbe]]
+
+;Dans les jeux de [[quatrième génération]] 
+
+:- [[Amnésie]]
+:- [[Charme (attaque)|Charme]]
+:- [[Coud'Krâne]]
+:- [[Danse-Fleur]]
+:- [[Feuillemagik]]
+:- [[Force-Nature]]
+:- [[Malédiction]]
+:- [[Mur Lumière]]
+:- [[Racines]]
+:- [[Rune Protect]]
+:- [[Siffl'Herbe]]
+:- [[Tempêteverte]]
+
+===Par [[Donneur de capacités]]===
+
+;Dans [[Pokémon Rouge Feu et Vert Feuille]]
+
+:- [[Clonage (attaque)|Clonage]]
+:- [[Copie]]
+:- [[Damoclès]]
+:- [[Danse-Lames]]
+:- [[Plaquage]]
+:- [[Végé-Attak]]
+
+;Dans [[Pokémon Émeraude]]
+
+:- [[Blabla Dodo]]
+:- [[Boul'Armure]]
+:- [[Clonage (attaque)|Clonage]]
+:- [[Coud'Boue]]
+:- [[Copie]]
+:- [[Damoclès]]
+:- [[Danse-Lames]]
+:- [[Plaquage]]
+:- [[Ronflement]]
+:- [[Taillade]]
+:- [[Ténacité]]
+:- [[Vantardise]]
+
+;Dans {{DP}}, {{Pt}} et {{HGSS}}
+:- [[Végé-Attak]]
+
+== Sensibilités ==
+
+{{Sensibilités
+|type=plante
+|sensib-combat=0.5
+|sensib-eau=0.5
+|sensib-électrique=0.5
+|sensib-feu=2
+|sensib-glace=2
+|sensib-plante=0.25
+|sensib-psy=2
+|sensib-vol=2
+|rmq-insecte=Dans la [[première génération]], les attaques de type Insecte étaient très efficaces contre les Pokémon de type Poison (alors qu'elles sont peu efficaces depuis), ce qui donnait pour '''{{PAGENAME}}''' une quadruple sensibilité (du fait des sensibilités de son type Plante par ailleurs)
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=plante
+|PV=80
+|attaque=82
+|defense=83
+|atq-spc=100
+|def-spc=100
+|vitesse=80
+|special=100
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Florizarre
+| numero=003
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Florizarre RB.png
+| artwork_supp2-nom=Jaquette de ''[[Pokémon Vert Feuille]]''
+| artwork_supp2-img=Florizarre - Pokémon Vert Feuille.png
+| forme=8
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff-fm=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:428.jpg|thumb|right|Florizarre est prêt à faire un bon Plaquage]]
+[[Fichier:Florizarre de Flora Fouets Lianes.jpg|thumb|left|Le [[Florizarre de Flora|Florizarre]] de [[Flora (dessin animé)|Flora]]]]
+La première apparition de Florizarre date de l'[[épisode 17]], mais pas en chair et en os : le [[Pokégroupe]] a fait face à un robot géant de Florizarre.
+
+Un Florizarre apparaît dans ''[[Le jardin mystérieux]]'', c'est le maître d'une cérémonie qui célèbre l'évolution des [[Bulbizarre]]. Dans l'épisode ''[[Le trophée du vainqueur]]'', c'est l'un des Pokémon du maître de la Ligue Orange [[Didier (Archipel Orange)|Didier]]. Il est également le Pokémon de [[Esteban#Dans le dessin animé|Spenser]] lors de la saison 9.
+
+Dans l'[[AG073]], un Florizarre est le chef de toute une colonie de Pokémon Plante. À la fin de l'épisode, il autorise [[Flora (dessin animé)|Flora]] à emmener son [[Bulbizarre de Flora|Bulbizarre]]. Lorsque Flora refait son apparition dans [[Sinnoh]], elle a d'ailleurs fait [[évolution|évoluer]] ce Bulbizarre jusqu'au stade de Florizarre.
+
+Un Florizarre (surnommé ''Brubru'' par son dresseur) apparaît aussi dans le 1er film où il est le [[Pokémon]] d'un dresseur, qui finit cloné, donnant naissance à un second Florizarre appartenant à [[Mewtwo]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 51]]
+:Dernier stade de l'[[évolution]] du {{PCap|[[Bulbizarre]]}}. Ce {{PCap|Pok}}é{{PCap|mon}} Graine puise son énergie dans les rayons du soleil.
+;[[Épisode 248]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Graine. {{PCap|Florizarre}} utilise ses grands pétales pour capturer la lumière du soleil et la transformer en énergie.
+
+{{Ruban Pokémon
+| nomPrécédent=Herbizarre
+| numéro=003
+| nom=Florizarre
+| nomSuivant=Salamèche
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/3| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Venusaur| ]]
+
+[[de:Bisaflor]]
+[[en:Venusaur (Pokémon)]]
+[[es:Venusaur]]
+[[it:Venusaur]]
+[[ja:フシギバナ]]
+[[pl:Venusaur]]
+[[pt:Venusaur (pokémon)]]

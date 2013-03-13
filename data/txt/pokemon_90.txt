@@ -1,0 +1,400 @@
+{{Ruban Pokémon
+| nomPrécédent=Grotadmorv
+| numéro=090
+| nom=Kokiyas
+| nomSuivant=Crustabri
+}}
+{{Infobox Pokémon
+| nom=Kokiyas
+| nomen=Shellder
+| nomja=シェルダー
+| nomtm=Shellder
+| nomde=Muschas
+| nomromaji=Sherudā
+| légende=Artwork de Kokiyas pour {{RFVF}}
+| ndex=090
+| jdex=169
+| njdex=171
+| hdex=260
+| espece=Bivalve
+| taille=0.3
+| poids=4.0
+| groupoeuf1=Eau 3
+| oeufpas=5120
+| type1=Eau
+| captureval=190
+| capspe1=Coque Armure
+| capspe2=Multi-Coups
+| capspe3=Envelocape
+| expmax=1250000
+| expval=97
+| fmratio=0.5
+| couleur=Violet
+| effortval=+1 Déf.
+| forme=1}}
+'''Kokiyas''' (anglais : '''Shellder''' ; japonais : '''シェルダー''' ''Shellder'') est un [[Pokémon]] de base apparu dans la [[première génération]] et de [[type]] {{type|eau}} pur, contrairement à son évolution [[Crustabri]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====[[Chromatique]]====
+
+Lorsqu'il est chromatique, la coquille de Kokiyas est orange vif, alors qu'elle est normalement violette.
+
+===[[Évolution]]===
+
+Kokiyas évolue en [[Crustabri]] lorsqu'il est mis en contact avec une [[Pierre Eau]].
+{{TableauEvolutionHaut|Eau|Kokiyas}}
+{{TableauEvolutionSimple|Avec une [[Pierre Eau]]|imageObjet=Miniat pierre eau dp.png|Crustabri}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Kokiyas peut disposer soit de la capacité spéciale [[Coque Armure]], qui l'empêche d'être victime de [[coups critiques]], soit de la capacité spéciale [[Multi-Coups]], qui amène les attaques à tours multiples comme [[Picanon]] à toujours frapper 5 fois.
+
+===Étymologies===
+
+* Français : vient de ''coquille''
+* Anglais : Shellder vient de ''shell'', coquille et shelter(logement)
+* Allemand : vient de ''Muschel''(coquillage) et de ''Wasser''(eau)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Protégé par une carapace très résistante, il est vulnérable quand celle-ci s'ouvre.
+;[[Pokémon Jaune]]
+:Sa coquille le protège de toute attaque. Si elle s'ouvre son corps fragile devient vulnérable.
+;[[Pokémon Stadium]]
+:Sa coquille est plus dure que le diamant. Il se cache dans le sable sur les plages et attrape les proies de sa douce langue.
+;[[Pokémon Or]]
+:Il nage à l'envers en ouvrant et en refermant sa coquille. Il peut atteindre une grande vitesse.
+;[[Pokémon Argent]]
+:Les graines de sable coincés dans sa coquille mélanges à ses fluides créent de superbes perles.
+;[[Pokémon Cristal]]
+:Il se referme sur un ennemi pour attaquer mais ceci le rend vulnérable et il ne le fait que rarement.
+;[[Pokémon Rubis et Saphir]]
+:La nuit, ce {{PCap|Pok}}é{{PCap|mon}} utilise sa grande langue pour creuser un trou dans le sable des fonds marin afin d'y dormir. Une fois endormi, {{PCap|Kokiyas}} referme sa coquille, mais laisse sa langue dépasser.
+;[[Pokémon Émeraude]]
+:La nuit, {{PCap|Kokiyas}} utilise sa grande langue pour creuser un trou dans les fonds marins et y dormir. Une fois endormi, il referme sa coquille mais laisse sa langue dépasser.
+;[[Pokémon Rouge Feu]]
+:Il est protégé par une coquille aussi dure que du diamant. Il est par contre extrêmement tendre à l'intérieur.
+;[[Pokémon Vert Feuille]]
+:Protégé par une carapace très résistante, il est vulnérable quand celle-ci s'ouvre.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il nage à reculons en ouvrant et en refermant ses deux coquilles. Il laisse traîner sa large langue.
+;[[Pokémon Or HeartGold]]
+:Il nage à l'envers en ouvrant et en refermant sa coquille. Il peut atteindre une grande vitesse.
+;[[Pokémon Argent SoulSilver]]
+:Les grains de sable coincés dans sa coquille créent de superbes perles une fois mélangés à ses fluides.
+;[[Pokémon Noir et Blanc]]
+:Il nage à reculons en ouvrant et en refermant ses deux coquilles. Il laisse traîner sa large langue.
+
+==Localisations==
+
+===Première génération===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:200px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| [[Rouge]] || Commun || [[Îles Écume]], [[Carmin-sur-Mer]], [[Route 6]], [[Route 11]], [[Route 19]], [[Route 20]], et [[Route 21]] avec la Méga Canne.
+|-
+| [[Bleu]] || Commun || [[Îles Écume]], pêcher sur les routes [[Route 6]], [[Route 11]], [[Route 19]], [[Route 20]], et [[Route 21]] avec la Méga Canne.
+|-
+| [[Jaune]] || Commun || [[Route 17]], [[Route 18]], quai d'embarquement de l'[[Océane]] à [[Carmin-sur-Mer]].
+|}
+
+===Deuxième génération===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{OAC}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | En pêchant.
+|}
+
+=== Troisième génération ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | À obtenir par échange.
+|- 
+| [[Rouge Feu]] || Commun || [[Bourg Palette]], Quai d'embarquement de l'[[Océane]] à [[Carmin-sur-Mer]], [[Cramois'Île]], [[Île 1]], Cave de l'[[Île 4]], [[Île 5]] : pêcher avec la [[Méga Canne]].
+|-
+| [[Vert Feuille]] || Inexistant || À obtenir par échange.
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Unique ||
+|}
+
+===Quatrième génération===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:200px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| [[Diamant]]
+| rare
+| [[Route 205]] (Sud), [[Les Éoliennes]], [[Forge Fuego]] : pêcher avec la [[Méga Canne]].
+|-
+| [[Perle]]
+|rare
+| [[Route 205]] (Sud), [[Les Éoliennes]], [[Forge Fuego]] : pêcher avec la [[Méga Canne]].
+|-
+| [[Argent SoulSilver]]
+| rare
+| Routes [[Route 20|20]], [[Route 21|21]], [[Route 26|26]], [[Route 27|27]], [[Route 41|41]], et [[Route 47|47]], [[Carmin sur Mer]], [[Cramois'île]], [[Bourg Palette]], et [[Bourg Geon]] : pêcher avec la [[Super Canne]] ou la [[Méga Canne]]
+|-
+| [[Or HeartGold]]
+| rare
+| Routes [[Route 20|20]], [[Route 21|21]], [[Route 26|26]], [[Route 27|27]], [[Route 41|41]], et [[Route 47|47]], [[Carmin sur Mer]], [[Cramois'île]], [[Bourg Palette]], et [[Bourg Geon]] : pêcher avec la [[Super Canne]] ou la [[Méga Canne]]
+|-
+|}
+
+===Cinquième génération===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="4" style="vertical-align:middle;" | {{NB}} 
+| rowspan="4" style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Route 13 (Unys)|Route 13]] {{infobulle|*|Pêche et Pêche Tourbillon}}
+|-
+| style="vertical-align:middle;" | [[Vaguelone]] {{infobulle|*|Pêche et Pêche Tourbillon}}
+|-
+| style="vertical-align:middle;" | [[Baie Vaguelone]] {{infobulle|*|Pêche et Pêche Tourbillon}}
+|-
+| style="vertical-align:middle;" | [[Dream World]] : La [[Mer Étincelante]].
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Repli|-|-|40}}
+{{Attaque|N.18|Ultrason|-|55|20}}
+{{Attaque|N.23|Claquoir|35|75|10}}
+{{Attaque|N.30|Onde Boréale|65|100|20}}
+{{Attaque|N.39|Groz'Yeux|-|100|30}}
+{{Attaque|N.50|Laser Glace|95|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Repli|-|-|40}}
+{{Attaque|N.9|Ultrason|-|55|20}}
+{{Attaque|N.17|Onde Boréale|65|100|20}}
+{{Attaque|N.25|Abri|-|-|10}}
+{{Attaque|N.33|Groz'Yeux|-|100|30}}
+{{Attaque|N.41|Claquoir|35|75|10}}
+{{Attaque|N.49|Laser Glace|95|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ|Repli|-|-|40|grâce|1|0}}
+{{Attaque-III|N.8{{Sup|RF}}{{Sup|VF}}|Stalagtite|10|100|30|beauté|2|1}}
+{{Attaque-III|N.9{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.15{{Sup|RF}}{{Sup|VF}}|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.17{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.22{{Sup|RF}}{{Sup|VF}}|Onde Boréale|65|100|20|beauté|2|1}}
+{{Attaque-III|N.25{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.29{{Sup|RF}}{{Sup|VF}}|Abri|-|-|10|grâce|1|0}}
+{{Attaque-III|N.33{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.36{{Sup|RF}}{{Sup|VF}}|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.41{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.43{{Sup|RF}}{{Sup|VF}}|Claquoir|35|75|10|robustesse|3|0}}
+{{Attaque-III|N.49{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.50{{Sup|RF}}{{Sup|VF}}|Laser Glace|95|100|10|beauté|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|N.4|Repli|-|-|40|grâce|2}}
+{{Attaque-IV|N.8|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|N.13|Stalagtite|10|100|30|beauté|2}}
+{{Attaque-IV|N.16|Abri|-|-|10|grâce|0}}
+{{Attaque-IV|N.20|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.25|Claquoir|35|75|10|robustesse|3}}
+{{Attaque-IV|N.28|Éclats Glace|40|100|30|beauté|2}}
+{{Attaque-IV|N.32|Onde Boréale|65|100|20|beauté|2}}
+{{Attaque-IV|N.37|Siphon|15|70|15|beauté|2}}
+{{Attaque-IV|N.40|Mur de Fer|-|-|15|robustesse|2}}
+{{Attaque-IV|N.44|Saumure|65|100|10|intelligence|2}}
+{{Attaque-IV|N.49|Laser Glace|95|100|10|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|N.4|Repli|-|-|40}}
+{{Attaque-V|N.8|Ultrason|-|55|20}}
+{{Attaque-V|N.13|Stalagtite|25|100|30}}
+{{Attaque-V|N.16|Abri|-|-|10}}
+{{Attaque-V|N.20|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.25|Claquoir|35|85|10}}
+{{Attaque-V|N.28|Éclats Glace|40|100|30}}
+{{Attaque-V|N.32|Coquilame|75|95|10}}
+{{Attaque-V|N.37|Onde Boréale|65|100|20}}
+{{Attaque-V|N.40|Siphon|35|85|15}}
+{{Attaque-V|N.44|Saumure|65|100|10}}
+{{Attaque-V|N.49|Mur de Fer|-|-|15}}
+{{Attaque-V|N.52|Laser Glace|95|100|10}}
+{{Attaque-V|N.56|Exuviation|-|-|15}}
+{{Attaque-V|N.61|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+===Par [[donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+| nom=Kokiyas
+| type=Eau
+| sensib-acier=0.5
+| sensib-eau=0.5
+| sensib-feu=0.5
+| sensib-glace=0.5
+| sensib-électrique=2
+| sensib-plante=2
+}}
+
+==Statistiques==
+{{Statistiques
+|type=eau
+|PV=30
+|attaque=65
+|defense=100
+|atq-spc=45
+|def-spc=25
+|vitesse=40
+|special=45
+}}
+
+==Imagerie==
+{{Imagerie Pokémon
+| pokemon=Kokiyas
+| numero=090
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Kokiyas RB.png
+| pinballRB-gif=oui
+| forme=1
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Kokiyas n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasions :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Kokiyas|Kokiyas JEREMY]] (États-Unis)
+* '''2006'''
+** [[Liste des Pokémon distribués en 2006#Kokiyas|Kokiyas Gotta Catch'Em All]] (Japon)
+
+==Apparition dans le dessin animé==
+[[Fichier:Kokiyas anime.png|thumb|left|Le Kokiyas de [[Mariline]] (dans le [[DP125]]).]]
+
+[[Jessie]] capture un Kokiyas le temps de l'[[épisode 66]] pour faire évoluer un [[Ramoloss]].
+
+===Descriptions du [[Pokédex]]===
+
+{{Ruban Pokémon
+| nomPrécédent=Grotadmorv
+| numéro=090
+| nom=Kokiyas
+| nomSuivant=Crustabri
+}}
+
+[[Catégorie:Pokémon]][[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Eau]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/90| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Shellder| ]]
+
+[[de:Muschas]]
+[[en:Shellder (Pokémon)]]
+[[es:Shellder]]
+[[it:Shellder]]
+[[ja:シェルダー]]
+[[pl:Shellder]]
+[[pt:Shellder (pokémon)]]

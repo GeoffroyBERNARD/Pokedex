@@ -1,0 +1,458 @@
+{{Ruban Pokémon
+| nomPrécédent=Piafabec
+| numéro=022
+| nom=Rapasdepic
+| nomSuivant=Abo
+}}
+{{Infobox Pokémon 
+| nom=Rapasdepic
+| nomen=Fearow
+| nomja=オニドリル
+| nomtm=Onidrill
+| nomromaji=Onidoriru
+| nomde=Ibitak
+| légende=Artwork par Ken Sugimori
+| ndex=022
+| jdex=014
+| hdex=224
+| fdex=040
+| adex=113
+| espece=Bec-Oiseau
+| taille=1.2
+| poids=38.0
+| fmratio=.500
+| oeufpas=3840 
+| effortval=+2 Vit.
+| type1=Normal
+| type2=Vol
+| expval=162
+| expmax=1000000
+| captureval=90
+| groupoeuf1=Vol
+| capspe1=Regard Vif
+| capspe2=Sniper
+| capspe2-reve=oui
+| couleur=Marron
+| forme=9
+}}
+'''Rapasdepic''' (anglais : '''Fearow''' ; japonais : '''オニドリル''' ''Onidrill'') est un [[Pokémon]] de [[type]] {{type|normal}} et {{type|vol}} de la [[première génération]].
+
+==À propos du Pokémon==
+
+===Physionomie===
+
+Rapasdepic est craint de tous les [[Pokémon]] oiseaux plus petits que lui, car il attaque sans motif apparent. Il aime particulièrement planer au-dessus des nuages, là où la plupart des oiseaux ne volent pas. Son bec pointu est excellent dans les attaques [[Bec vrille]], mais il aime tout particulièrement l'attaque [[Mimique]]. 
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, les teintes de l'ensemble du corps de Rapasdepic tendent davantage vers le jaune qu'à l'ordinaire.
+
+===[[Évolution]]===
+Rapasdepic est l'évolution de [[Piafabec]] à partir du [[niveau]] niveau 20.
+
+{{TableauEvolutionHaut|Vol|Piafabec}}
+{{TableauEvolutionSimple|[[Niveau]] 20|Rapasdepic}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+L'unique capacité spéciale possible de Rapasdepic est [[Regard Vif]], qui l'empêche de perdre en précision
+
+===Étymologies===
+* Français : Jeu de mots mêlangeant "'''Rap'''ace" et "'''As de pique'''"
+* Anglais : Fear (peur) + Sparrow (moineau)
+* Japonais : Oni (démon) + ondori (coq) + iru (tirer une flèche)
+* Allemand : Ibis[http://www.fr.ch/mhn/ecole/divers/kenya-image/ibis.jpg] + Attacke (attaque)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Ses ailes géantes lui permettent de planer si longtemps qu'il ne se pose que très rarement.
+;[[Pokémon Jaune]]
+:Un {{PCap|Pok}}é{{PCap|mon}} à qui on ne la fait pas. S'il sent du danger, il fuit instantanément et à toute vitesse.
+;[[Pokémon Stadium]]
+:Ses ailes géantes lui permettent de planer si longtemps qu'il ne se pose que très rarement. Il fuit à la vue du danger.
+;[[Pokémon Or]]
+:Il se propulse en l'air d'un coup d'aile pour fondre en un piqué foudroyant sur sa proie.
+;[[Pokémon Argent]]
+:Il se sert habillement de son bec pour dénicher de petits insectes enfuis dans le sol.
+;[[Pokémon Cristal]]
+:Il se sert de son long bec pour attaquer. Il a une portée impressionnante.
+;[[Pokémon Rubis et Saphir]]
+:On reconnaît {{PCap|Rapasdepic}} à son long cou et à son bec allongé. Ces attributs lui permettent d'attraper facilement ses proies dans la terre ou dans l'eau. Il bouge son bec long et fin avec une grande agilité.
+;[[Pokémon Émeraude]]
+:On le reconnaît à son long cou et à son bec allongé qui lui permettent d'attraper ses proies facilement dans la terre ou l'eau. Il bouge son bec long et fin avec agilité.
+;[[Pokémon Rouge Feu]]
+:Ses ailes gigantesque lui permettent de planer très haut dans le ciel. Il peut rester toute une journée en l'air sans avoir besoin de se poser.
+;[[Pokémon Vert Feuille]]
+:Ses ailes géantes lui permettent de voler sur de longues distances sans qu'il ait besoin de se reposer.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Rapasdepic}} vole à très grande vitesse. Il crée des rafales de vent pour attaquer.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il a assez d'énergie pour voler toute la journée avec ses grandes ailes, Il frappe de son bec acéré.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il vole à très grande vitesse et attaque en chargeant son ennemi.
+;[[Pokémon Or HeartGold]]
+:Il se propulse en l'air d'un coup d'aile pour fondre en un piqué foudroyant sur sa proie.
+;[[Pokémon Argent SoulSilver]]
+:Il se sert habilement de son bec pour dénicher de petits insectes enfouis dans le sol.
+;[[Pokémon Noir et Blanc]]
+:Il a assez d'énergie pour voler toute la journée avec ses grandes ailes, Il frappe de son bec acéré.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Vol}};width:150px"|Version
+! style="background-color:{{couleur|Vol}};width:150px"|Rareté
+! style="background-color:{{couleur|Vol}};width:450px"|Lieu
+|-
+| style="vertical-align: middle;"|{{RB}}
+| style="vertical-align: middle;"| Peu commun
+| style="vertical-align: middle;"| Routes [[Route 17 (Kanto)|17]], [[Route 18 (Kanto)|18]] et [[Route 23 (Kanto)|23]]
+|-
+| style="background:{{couleur|Jaune}};"|{{couleur lien|#000000|Jaune}}
+| Peu commun 
+| Routes [[Route 16 (Kanto)|16]], [[Route 17 (Kanto)|17]], [[Route 18 (Kanto)|18]] et [[Route 23 (Kanto)|23]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Vol}};width:150px"|Version
+! style="background-color:{{couleur|Vol}};width:150px"|Rareté
+! style="background-color:{{couleur|Vol}};width:450px"|Lieu
+|-
+| style="vertical-align: middle;"| {{OA}}
+| style="vertical-align: middle;"| Peu commun
+| style="vertical-align: middle;"| Routes [[Route 9 (Kanto)|9]], [[Route 10 (Kanto)|10]], [[Route 16 (Kanto)|16]], [[Route 17 (Kanto)|17]], [[Route 18 (Kanto)|18]] et [[Route 22 (Kanto)|22]]
+|-
+| style="background:{{couleur|Cristal}};"|{{couleur lien|#000000|Cristal}}
+| Peu commun
+| Routes [[Route 9 (Kanto)|9]], [[Route 10 (Kanto)|10]], [[Route 16 (Kanto)|16]], [[Route 17 (Kanto)|17]], [[Route 18 (Kanto)|18]], [[Route 22 (Kanto)|22]] et [[Route 42|42]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Vol}};width:250px"|Version
+! style="background-color:{{couleur|Vol}};width:150px"|Rareté
+! style="background-color:{{couleur|Vol}};width:450px"|Lieu
+|-
+| style="vertical-align: middle;" |{{RSE}}
+| style="vertical-align: middle;"| Inexistant
+| style="vertical-align: middle;"| À obtenir par échange
+|-
+| style="vertical-align: middle;"|{{RFVF}}
+| style="vertical-align: middle;"| Peu commun
+| style="vertical-align: middle;"| Routes [[Route 17 (Kanto)|17]], [[Route 18 (Kanto)|18]], [[Route 23 (Kanto)|23]], [[Plage Trésor]], [[Route Tison]], [[Mont Braise]], [[Cap Falaise]], [[Vallée Ruine]], [[Agualcanal]], [[Entrée du Canyon]] et [[Canyon Sesor]]
+|-
+| style="background:{{couleur|Colosseum}};"|{{couleur lien|#000000|Colosseum}} ||Inexistant || À obtenir par échange
+|-
+| style="background:{{couleur|XD}};"|{{couleur lien|#000000|XD}} ||Inexistant || À obtenir par échange
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"  style="text-align:center;"
+|-
+! style="background-color:{{couleur|Vol}};width:300px"|Version
+! style="background-color:{{couleur|Vol}};width:150px"|Rareté
+! style="background-color:{{couleur|Vol}};width:450px"|Lieu
+|-
+| style="vertical-align: middle;"|{{DP}}
+| style="vertical-align: middle;"| Commun
+| style="vertical-align: middle;"| Routes [[Route 225|225]], [[Chenal 226|226]], [[Route 227|227]] et [[Mont Abrupt]]
+|-
+| style="background:{{couleur|Platine}};"|{{couleur lien|#000000|Platine}} || Peu commun || Routes [[Route 225|225]], [[Chenal 226|226]], [[Route 227|227]] et [[Mont Abrupt]]
+|-
+| style="vertical-align: middle;"|{{HGSS}}
+| style="vertical-align: middle;"| Peu commun
+| style="vertical-align: middle;"| Routes [[Route 9 (Kanto)|9]], [[Route 10 (Kanto)|10]], [[Route 16 (Kanto)|16]], [[Route 17 (Kanto)|17]], [[Route 18 (Kanto)|18]], [[Route 22 (Kanto)|22]], [[Route 47|47]], [[Route 48|48]] et [[Parc Safari (Johto)|Parc Safari]]
+|-
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Vol}}; width:150px" |Version
+! style="background-color:{{couleur|Vol}}; width:150px" |Rareté
+! style="background-color:{{couleur|Vol}}; width:450px" |Lieu
+|-
+| style="vertical-align: middle;" |{{NB}}
+| style="vertical-align: middle;"| Commun
+| style="vertical-align: middle;"| [[Route 15 (Unys)|Route 15]]
+|-
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Furie|15|85|20}}
+{{Attaque|N.25|Mimique|-|-|20}}
+{{Attaque|N.34|Bec Vrille|90|100|20}}
+{{Attaque|N.43|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Furie|15|85|20}}
+{{Attaque|N.26|Poursuite|40|100|20}}
+{{Attaque|N.33|Mimique|-|-|20}}
+{{Attaque|N.40|Bec Vrille|90|100|20}}
+{{Attaque|N.47|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Picpic|35|100|35|sang-froid|4|0}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|Départ<br>N.7|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ<br>N.13|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.26|Poursuite|40|100|20|intelligence|2|1}}
+{{Attaque-III|N.32|Mimique|-|-|20|intelligence|1|0}}
+{{Attaque-III|N.40|Bec Vrille|80|100|20|sang-froid|4|0}}
+{{Attaque-III|N.47|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Picore|60|100|20|grâce|0}}
+{{Attaque-IV|Départ|Picpic|35|100|35|sang-froid|3}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|Départ<br>N.5|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|Départ<br>N.9|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.13|Poursuite|40|100|20|intelligence|1}}
+{{Attaque-IV|N.17|Aéropique|60|-|20|sang-froid|2}}
+{{Attaque-IV|N.23|Mimique|-|-|20|intelligence|2}}
+{{Attaque-IV|N.29|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.35|Assurance|50|100|10|beauté|2}}
+{{Attaque-IV|N.41|Atterrissage|-|-|10|sang-froid|0}}
+{{Attaque-IV|N.47|Bec Vrille|80|100|20|sang-froid|3}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Picore|60|100|20}}
+{{Attaque-V|Départ|Picpic|35|100|35}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|Départ<br>N.5|Groz'Yeux|-|100|30}}
+{{Attaque-V|Départ<br>N.9|Furie|15|85|20}}
+{{Attaque-V|N.13|Poursuite|40|100|20}}
+{{Attaque-V|N.17|Aéropique|60|-|20}}
+{{Attaque-V|N.23|Mimique|-|-|20}}
+{{Attaque-V|N.29|Hâte|-|-|30}}
+{{Attaque-V|N.35|Assurance|50|100|10}}
+{{Attaque-V|N.41|Atterrissage|-|-|10}}
+{{Attaque-V|N.47|Bec Vrille|80|100|20}}
+{{Attaque-V|N.53|Tunnelier|80|95|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 04 || [[Cyclone]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+| CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 43 || [[Piqué]] || [[Fichier:type miniat vol.png]]
+|-
+| CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+| CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Détection]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|}
+|}
+
+===Par [[reproduction]]===
+
+
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-électrique=2
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=0
+|sensib-spectre=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''Rapasdepic''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est normale.
+|rmq-sol-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=normal
+|PV=65
+|attaque=90
+|defense=65
+|atq-spc=61
+|def-spc=61
+|vitesse=100
+|special=61
+}}
+
+== Imagerie ==
+
+{{Imagerie Pokémon
+| pokemon=Rapasdepic
+| numero=022
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Rapasdepic RB.png
+| forme=9
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+*Il apparaîtra dans l'[[épisode 83]] où le [[Roucoups]] de [[Sacha]] évolue en [[Roucarnage]] pour sauver des [[Roucool]] et les [[Roucoups]].
+*Il apparaît dans l'[[épisode 179]], en train d'attaquer des [[Pichu]], qui essayent de l’assommer avec des décharges électriques. C'est finalement [[Pikachu]] qui le mettra en fuite.
+*Il apparaît aussi dans le 1er film où il porte une caméra qui espionne Sacha & Co.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 81]]
+:Un {{PCap|Pok}}é{{PCap|mon}} Bec oiseau. [[évolution|forme évoluée]] de {{PCap|[[Piafabec]]}}. Ses longues ailes sont puissantes et lui permettent de voler de longues heures. Son bec est d'une force redoutable.
+
+{{Ruban Pokémon
+| nomPrécédent=Piafabec
+| numéro=022
+| nom=Rapasdepic
+| nomSuivant=Abo
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/22| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Fearow| ]]
+
+[[de:Ibitak]]
+[[en:Fearow (Pokémon)]]
+[[es:Fearow]]
+[[it:Fearow]]
+[[ja:オニドリル]]
+[[pl:Fearow]]
+[[pt:Fearow (pokémon)]]

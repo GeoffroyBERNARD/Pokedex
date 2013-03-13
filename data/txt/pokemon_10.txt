@@ -1,0 +1,345 @@
+{{Ruban Pokémon
+| nomPrécédent=Tortank
+| numéro=010
+| nom=Chenipan
+| nomSuivant=Chrysacier
+}}
+{{Infobox Pokémon 
+| nom=Chenipan
+| nomen=Caterpie
+| nomja=キャタピ
+| nomromaji=Kyatapī
+| nomtm=Caterpie
+| nomde=Raupy
+| image=Chenipan.png
+| légende=Artwork de Chenipan pour {{RFVF}}
+| ndex=010
+| jdex=024
+| njdex=024
+| hdex=212
+| espece=Ver
+| taille=0.3
+| poids=2.9
+| fmratio=.500 
+| oeufpas=3840 
+| effortval=+1 PV
+| type1=Insecte
+| expval=53
+| expmax=1000000
+| captureval=255
+| groupoeuf1=Insecte
+| capspe1=Écran Poudre
+| capspe2=Fuite (capacité spéciale){{!}}Fuite
+| capspe2-reve=oui
+| couleur=Vert
+| forme=2
+}}
+'''Chenipan''' (anglais : '''Caterpie''' ; japonais : '''キャタピー''' ''Caterpie'') est un [[Pokémon]] de [[type]] {{type|insecte}} de la [[première génération]]. Il est le Pokémon qui [[évolution|évolue]] le plus rapidement, avec [[Aspicot]].
+
+==À propos du Pokémon==
+
+===Physionomie===
+
+Chenipan est un Pokémon ressemblant a une chenille avec une excroissance rouge que le Pokédex qualifie d'antenne qui apparament, pourait sécréter un gaz puant. Ils possède quatres pattes ornées de ventouses et il est vert et jaune. Il a de grands yeux jaune et possède des formes jaunes sur le corps qui lui servirait a effrayer certains prédateurs -comme certains papillon au couleurs vives-. Il possède une petite queue jaune au bout de son corps.
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Chenipan a un corps d'une couleur dorée au lieu de verte.
+
+===[[Évolution]]===
+Chenipan évolue à partir du [[niveau]] 7 en [[Chrysacier]], qui évolue à partir du niveau 10 en [[Papilusion]].
+
+{{TableauEvolutionHaut|Insecte|Chenipan}}
+{{TableauEvolutionSimple|[[Niveau]] 7|Chrysacier}}
+{{TableauEvolutionSimple|[[Niveau]] 10|Papilusion}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+[[Écran poudre]] : annule les effets cumulés d'une attaque ennemie.
+
+===Étymologies===
+* Français : '''''cheni'''lle'' et ''chena'''pan'''''.
+* Anglais : diminutif de ''caterpillar'' (chenille)
+* Allemand : diminutif de ''Raupe'' (chenille)
+* Coréen : '''Kaeteopi''' (Caterpie) Identique au nom anglais.
+* Chinois : '''Lǜmáochóng''' signifie «chenille verte", ou littéralement, «ver au poil vert".
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Ses petites pattes sont équipées de ventouses, lui permettant de grimper aux murs.
+;[[Pokémon Jaune]]
+:Quand on touche l'appendice sur son front, il sécrète un gaz puant pour se protéger.
+;[[Pokémon Stadium]]
+:Les larges dessins sur sa tête lui servent de protection: ils peuvent en effet effrayer certains ennemis.
+;[[Pokémon Or]]
+:Pour se protéger, il émet un gaz puant par ses antennes qui fait fuir ses ennemis audacieux.
+;[[Pokémon Argent]]
+:Ses pattes ont des ventouses lui permettant de grimper sur toute surface, notamment les arbres.
+;[[Pokémon Cristal]]
+:Pour se protéger, il s'enfonce dans le sol en se couvrant de feuilles de la même couleur que son corps.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Chenipan}} a un appétit d'ogre. Il peut engloutir des feuilles plus grosses que lui. Les antennes de ce {{PCap|Pok}}é{{PCap|mon}} dégagent une odeur particulièrement entêtante.
+;[[Pokémon Émeraude]]
+:{{PCap|Chenipan}} a un appétit d'ogre. Il peut engloutir des feuilles plus grosses que lui. Les antennes de ce {{PCap|Pok}}é{{PCap|mon}} dégagent une odeur particulièrement entêtante.
+;[[Pokémon Rouge Feu]]
+:Il est recouvert d'une poudre toute verte. Quand il fait sa mue, il s'enroule dans un fil de soie pour s'enfermer dans un cocon.
+;[[Pokémon Vert Feuille]]
+:Ses petites pattes sont équipées de ventouses, lui permettant de grimper aux murs.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Ses antennes rouges libèrent une puanteur qui repousse l'ennemi. Il grandit par mues régulières.
+;[[Pokémon Or HeartGold]]
+:Pour se protéger, il émet un gaz puant par ses antennes, qui fait fuir ses ennemis audacieux.
+;[[Pokémon Argent SoulSilver]]
+:Ses pattes ont des ventouses lui permettant de grimper sur toute surface, notamment les arbres.
+;[[Pokémon Noir et Blanc]]
+:Ses antennes rouges libèrent une puanteur qui repousse l'ennemi. Il grandit par mues régulières.
+
+==Localisations==
+
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:120px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="vertical-align: middle; background:#D20000"|{{couleur lien|#000000|Rouge}}|| style="vertical-align: middle;" | Très Rare || [[Forêt de Jade]], [[Route 25]]|| N. 3-8
+|-
+| style="vertical-align: middle; background:#1C2FDA"|{{couleur lien|#FFFFFF|Bleu}}|| style="vertical-align: middle;" | Commun || [[Route 2 (Kanto)|Route 2]], [[Forêt de Jade]], [[Route 24]], [[Route 25]]|| N. 3-8
+|-
+| style="vertical-align: middle; background:#FFFF52" | {{couleur lien|#000000|Jaune}}|| rowspan="1" style="vertical-align: middle;"| Peu Commun || rowspan="1" style="vertical-align: middle;"| [[Forêt de Jade]] 
+| style="vertical-align: middle;"|N.3-6
+|}
+
+===[[Deuxième génération]]===
+{| class="wikitable" style="text-align:center;"
+|- 
+! style="background-color:{{Couleur|Insecte}}; width:120px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="vertical-align: middle;background:#E6D600;"|{{couleur lien|#000000|Or}} || style="vertical-align: middle;"| Très Commun || style="vertical-align: middle; text-align: center;"|[[Route 2 (Kanto)|Route 2]], [[Route 30]], [[Route 31]], [[Bois aux chênes]], [[Parc Naturel]] + [[Concours de capture d'insecte]]
+| style="vertical-align: middle;"|N.3-18
+|-
+| style="background:#D0D0D0;"|{{couleur lien|#000000|Argent}} || style="vertical-align: middle;"|Très Rare || style="vertical-align: middle; text-align: center;"|[[Concours de capture d'insecte]] au [[Parc Naturel]]
+| style="vertical-align: middle;"|N.7-18
+|-
+| style="vertical-align:middle;background:#009595;"|{{couleur lien|#FFFFFF|Cristal}} || style="vertical-align: middle;"|Très Commun || style="vertical-align: middle; text-align: center;"|[[Route 2 (Kanto)|Route 2]], [[Route 25]], [[Route 26]], [[Route 30]], [[Route 31]], [[Bois aux chênes]], [[Parc Naturel]] + [[Concours de capture d'insecte]]
+| style="vertical-align: middle;"|N.3-18
+|}
+
+===[[Troisième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Insecte}}; width:120px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="background:#9F002A;"|{{couleur lien|#FFFFFF|Rubis}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="3" style="vertical-align: middle;"| -
+|-
+| style="background:#002395;"|{{couleur lien|#FFFFFF|Saphir}} 
+|-
+| style="background:#008B33;"|{{couleur lien|#FFFFFF|Émeraude}} 
+|-
+| style="background:#EA4E00;"|{{couleur lien|#000000|Rouge Feu}}|| rowspan="2" style="vertical-align: middle;"| Commun || rowspan="2" style="vertical-align: middle;"|[[Route 2 (Kanto)|Route 2]], [[Route 24]], [[Route 25]], [[Forêt de Jade]] et [[Forbuissons]]
+| rowspan="2" style="vertical-align: middle;"| N.3-8
+|-
+| style="background:#00BE46;"|{{couleur lien|#000000|Vert Feuille}} 
+|-
+| style="background:#B0001D;"|{{couleur lien|#FFFFFF|Colosseum}}  || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="2" style="vertical-align: middle;"| -
+|-
+| style="background:#700087;"|{{couleur lien|#FFFFFF|XD}} 
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Insecte}}; width:120px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="background:#A7F6FF;"|{{couleur lien|#000000|Diamant}} || rowspan="2" style="vertical-align: middle;"| Variable || rowspan="2" style="vertical-align: middle;" | [[Route 204]] en ayant inséré la cartouche ''[[Pokémon Rouge Feu]]''. 
+| rowspan="2" style="vertical-align: middle;"|-
+|-
+| style="background:#FFBFF9;"|{{couleur lien|#000000|Perle}}
+|-
+| style="vertical-align: middle; background:#606060;"|{{couleur lien|#FFFFFF|Platine}}|| style="vertical-align: middle;"| Variable || style="vertical-align: middle;" | [[Route 204]] et  [[Forêt Vestigion]] en ayant inséré la cartouche ''[[Pokémon Rouge Feu]]''. 
+| style="vertical-align: middle;"|-
+|-
+| style="vertical-align: middle; background:#E1C300;"|{{couleur lien|#000000|Or HeartGold}} || style="vertical-align: middle;"| Très Commun || style="vertical-align: middle;" |  [[Route 2 (Kanto)|Route 2]], [[Route 30]], [[Route 31]], [[Bois aux chênes]], [[Parc Naturel]] + [[Concours de capture d'insecte]] et [[Coup d'Boule]] sur les Arbres
+| style="vertical-align: middle;" | N.3-18
+|-
+| style="background:#A3A3A3;"|{{couleur lien|#000000|Argent SoulSilver}} || style="vertical-align: middle;"| Très Rare || style="vertical-align: middle;" |  [[Concours de capture d'insecte]] au [[Parc Naturel]]
+| style="vertical-align: middle;" | N.7-18
+|-
+| style="background:#3DB700;"|{{couleur lien|#000000|Parc des Amis}} 
+| style="vertical-align: middle;"| Variable 
+| style="vertical-align: middle;"| Forêt
+| style="vertical-align: middle;"| -
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:120px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#000000|Blanc}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | Obtenir un [[œuf]] de [[Chrysacier]] ou de [[Papilusion]] à la [[Pension]].
+| style="vertical-align: middle;" |-
+|-
+| style="background:#000000;"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À échanger depuis ''[[Pokémon Blanc]]'' et ''[[Pokémon Blanc 2]]''
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#000000;"|{{couleur lien|#318CE7|Noir 2}}
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#E9383F|Blanc 2}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | Obtenir un [[œuf]] de [[Papilusion]] à la [[Pension]].
+| style="vertical-align: middle;" |-
+|-
+|}
+===[[Sixième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:120px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="background:#6050DC;"|{{couleur lien|#FFFFFF|X}}
+| rowspan="2" style="vertical-align: middle;" | ?
+| rowspan="2" style="vertical-align: middle;" | À venir
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#DE2916;"| {{couleur lien|#FFFFFF|Y}}
+|-
+|}
+
+==Attaques apprises==
+
+Chenipan apprend les mêmes [[attaque]]s dans toutes les générations, mis à part dans [[Pokémon Platine]]. Il ne peut pas apprendre d'attaques par [[CT]] ou [[CS]], ni par [[reproduction]].
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Sécrétion|-|95|40}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Sécrétion|-|95|40}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ|Sécrétion|-|95|40|intelligence|2|3}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ|Sécrétion|-|95|40|intelligence|2}}
+{{Attaque-IV|N.15{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Piqûre|60|100|20|robustesse|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ|Sécrétion|-|95|40}}
+{{Attaque-V|N.15|Piqûre|60|100|20}}
+{{Attaques apprises-bas}}
+
+===Par [[Donneur de capacités]]===
+
+;Dans [[Pokémon Platine]]
+:- [[Ronflement]]
+
+==Sensibilités==
+
+{{Sensibilités
+|type=insecte
+|sensib-combat=0.5
+|sensib-feu=2
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=0.5
+|sensib-vol=2
+|rmq-poison=Les attaques de type [[Poison (type)|Poison]] étaient très efficaces sur les Pokémon de type [[Insecte]] -donc sur '''Chenipan'''- dans la [[première génération]].
+|rmq-poison-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=insecte
+|PV=45
+|attaque=30
+|defense=35
+|atq-spc=20
+|def-spc=20
+|vitesse=45
+|special=20
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Chenipan
+| numero=010
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Chenipan RB.png
+| forme=2
+| pdm=oui
+| diff_rs-rfvf=oui
+| pinballRB-gif=oui
+}}
+
+==Apparition dans le [[dessin animé]]==
+
+Chenipan apparaît dès la [[Liste des épisodes du dessin animé#Saison 1|saison 1]]. Il est le premier Pokémon capturé par [[Sacha]]. Il évoluera quelques épisodes plus tard en Chrysacier, puis en Papilusion et sera relâché par son dresseur.
+
+''Voir aussi [[Chenipan de Sacha]] pour l'article détaillé .''
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 417]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Ver. {{PCap|Chenipan}} peut escalader les parois verticales pour trouver sa nourriture grâce aux ventouses sur ses pattes.
+
+{{Ruban Pokémon
+| nomPrécédent=Tortank
+| numéro=010
+| nom=Chenipan
+| nomSuivant=Chrysacier
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/10| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Caterpie| ]]
+
+[[de:Raupy]]
+[[en:Caterpie (Pokémon)]]
+[[es:Caterpie]]
+[[it:Caterpie]]
+[[ja:キャタピー]]
+[[pl:Caterpie]]
+[[pt:Caterpie (pokémon)]]

@@ -1,0 +1,439 @@
+{{Ruban Pokémon
+| nomPrécédent=Grolem
+| numéro=077
+| nom=Ponyta
+| nomSuivant=Galopa
+}}
+{{Infobox Pokémon
+| nom=Ponyta
+| nomen=Ponyta
+| nomja=ポニータ
+| nomtm=Ponyta
+| nomromaji=Ponīta
+| nomde=Ponita
+| légende=Artwork de Ponyta pour {{RFVF}}
+| ndex=077
+| jdex=201
+| njdex=206
+| hdex=253
+| sdex=090
+| adex=176
+| type1=Feu
+| espece=Cheval Feu
+| taille=1.0
+| poids=30.0
+| capspe1=Fuite (capacité spéciale){{!}}Fuite
+| capspe2=Torche
+| capspe3=Corps Ardent
+| groupoeuf1=Sol
+| oeufpas=5120
+| effortval=+1 Vit.
+| expval=152
+| expmax=1000000
+| fmratio=.5 
+| captureval=190
+| couleur=Jaune
+| forme=8
+}}
+'''Ponyta''' (anglais : '''Ponyta''' ; japonais : '''ポニータ''' ''Ponyta'') est un [[Pokémon]] de base inspiré du [[wp:cheval|cheval]] et/ou du [[wp:poney|poney]], de [[type]] {{type|feu}} et apparu lors de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Ponyta a la crinière bleue au lieu d'orange.
+
+===[[Évolution]]===
+Ponyta peut évoluer en [[Galopa]] à partir du [[niveau]] 40.
+{{TableauEvolutionHaut|Feu|Ponyta}}
+{{TableauEvolutionSimple|[[Niveau]] 40|Galopa}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Ponyta dispose soit de la capacité spéciale [[Fuite (capacité spéciale)|Fuite]], qui permet la fuite face aux Pokémon sauvages, soit de la capacité spéciale [[Torche]], qui augmente la puissance de ses propres attaques de type [[Feu]] s'il est touché par une attaque de ce type.
+
+===Étymologies===
+* Français, Anglais, Allemand, Japonais : de pony(poney en anglais)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Ses sabots sont plus résistants que le diamant. Il peut aplatir n'importe quoi en le piétinant.
+;[[Pokémon Jaune]]
+:Capable de sauter très haut, ses sabots et ses pattes peuvent absorber l'impact de l'atterrissage.
+;[[Pokémon Stadium]]
+:Pouvant sauter par-dessus la Tour Eiffel en un seul saut, ce Pokémon possède des sabots plus durs que le diamant.
+;[[Pokémon Or]]
+:A la naissance il ne court pas très vite. Il devient de plus en plus rapide en courant après ses parents.
+;[[Pokémon Argent]]
+:Ses pattes arrières ont des sabots plus solides que le diamant. Il rue des qu'il sent une présence.
+;[[Pokémon Cristal]]
+:Il est devenu un excellent sauteur de haies en s'entraînant dans les hautes herbes.
+;[[Pokémon Rubis et Saphir]]
+:A sa naissance, {{PCap|Ponyta}} est très faible. Il peut à peine tenir debout. Ce {{PCap|Pok}}é{{PCap|mon}} se muscle en trébuchant et en tombant, lorsqu'il essaie de suivre ses parents.
+;[[Pokémon Émeraude]]
+:A sa naissance, {{PCap|Ponyta}} est très faible et peut à peine tenir debout. Il se muscle en trébuchant et en tombant, lorsqu'il essaye de suivre ses parents.
+;[[Pokémon Rouge Feu]]
+:{{PCap|Ponyta}} est très léger mais ses pattes sont incroyablement puissantes. Il peut franchir des montagnes d'un seul saut.
+;[[Pokémon Vert Feuille]]
+:Ses sabots sont plus résistants que le diamant. Il peut aplatir n'importe quoi en le piétinant.
+;[[Pokémon Diamant]]
+:La crinière et la queue ardentes lui donnant sa superbe poussent une heure après sa naissance.
+;[[Pokémon Perle]]
+:Il muscle ses pattes en suivant ses parents. Il arpente les plaines et les montagnes toute la journée.
+;[[Pokémon Ranger 2]]
+:Il charge l'adversaire et crache du feu.
+;[[Pokémon Platine]]
+:Chancelantes à sa naissance, ses pattes deviennent très vite sûres et solides à force de galoper.
+;[[Pokémon Or HeartGold]]
+:A la naissance, il ne court pas très vite. Il devient de plus en plus rapide en courant après ses parents.
+;[[Pokémon Argent SoulSilver]]
+:Ses pattes arrière ont des sabots plus solides que le diamant. Il rue des qu'il sent une présence.
+;[[Pokémon Noir et Blanc]]
+:Chancelantes à sa naissance, ses pattes deviennent très vite sûres et solides à force de galoper.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Rouge]] || rowspan="4" style="vertical-align: middle;" | Commun || [[Manoir Pokémon]] à [[Cramois'Île]] - Rez de chaussée || N. 28-34 || 30%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 28-32 || 30%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 32-36 || 30%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 32-34 || 15%
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Bleu]] || rowspan="4" style="vertical-align: middle;" | Commun || [[Manoir Pokémon]] à [[Cramois'Île]] - Rez de chaussée || N. 28-34 || 30%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 28-32 || 30%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 32-36 || 20%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 32-34 || 15%
+|-
+| [[Jaune]] || Commun || [[Route 17]] || N. 28-32 || 25%
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || Routes [[Route 22|22]], [[Route 26|26]], [[Route 27|27]], [[Route 28|28]] et [[Mont Argenté]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Routes [[Route 22|22]], [[Route 26|26]], [[Route 27|27]], [[Route 28|28]] et [[Mont Argenté]].
+|-
+| [[Cristal]] || Commun || Routes [[Route 22|22]], [[Route 26|26]], [[Route 27|27]], [[Route 28|28]] et [[Mont Argenté]] ([[Temps|Matin]] et [[Temps|Journée]] uniquement).
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Commun || [[Île 1]].
+|-
+| [[Vert Feuille]] || Commun || [[Île 1]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+|[[Diamant]] et [[Perle]] || Commun || Routes [[Route 206|206]], [[Route 210|210]], [[Route 211|211]], [[Route 214|214]] et [[Route 215|215]].
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant ou par oeuf avec Galopa
+| style="vertical-align:middle;" | [[Dream World]] : Le Bosquet / Attraper Galopa après avoir eu le Pokédex National
+| style="vertical-align:middle;" | 10
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|N.30|Mimi-Queue|-|100|30}}
+{{Attaque|N.32|Écrasement|65|100|20}}
+{{Attaque|N.35|Rugissement|-|100|40}}
+{{Attaque|N.39|Danseflamme|15|70|15}}
+{{Attaque|N.43|Bélier|90|85|20}}
+{{Attaque|N.48|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.4|Rugissement|-|100|40}}
+{{Attaque|N.8|Mimi-Queue|-|100|30}}
+{{Attaque|N.13|Flammèche|40|100|25}}
+{{Attaque|N.19|Écrasement|65|100|20}}
+{{Attaque|N.26|Danseflamme|15|70|15}}
+{{Attaque|N.34|Bélier|90|85|20}}
+{{Attaque|N.43|Hâte|-|-|30}}
+{{Attaque|N.53|Déflagration|120|85|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|N.5|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|N.9|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|N.14|Flammèche|40|100|25|beauté|4|0}}
+{{Attaque-III|N.19|Écrasement|65|100|20|robustesse|1|4}}
+{{Attaque-III|N.25|Danseflamme|15|70|15|beauté|3|0}}
+{{Attaque-III|N.31|Bélier|90|85|20|robustesse|6|0}}
+{{Attaque-III|N.38|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.45|Rebond|85|85|5|grâce|1|0}}
+{{Attaque-III|N.53|Déflagration|120|85|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|N.7{{Sup|D}}{{Sup|P}}<br>Départ{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|N.10{{Sup|D}}{{Sup|P}}<br>N.6{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|N.16{{Sup|D}}{{Sup|P}}<br>N.10{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Flammèche|40|100|25|beauté|3}}
+{{Attaque-IV|N.15{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Roue de Feu|60|100|25|beauté|2}}
+{{Attaque-IV|N.19|Écrasement|65|100|20|robustesse|3}}
+{{Attaque-IV|N.25{{Sup|D}}{{Sup|P}}<br>N.24{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Danseflamme|15|70|15|beauté|0}}
+{{Attaque-IV|N.28|Bélier|90|85|20|robustesse|3}}
+{{Attaque-IV|N.34{{Sup|D}}{{Sup|P}}<br>N.33{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.38{{Sup|D}}{{Sup|P}}<br>N.37{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Déflagration|120|85|5|beauté|2}}
+{{Attaque-IV|N.44{{Sup|D}}{{Sup|P}}<br>N.42{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Rebond|85|85|5|grâce|1}}
+{{Attaque-IV|N.48{{Sup|D}}{{Sup|P}}<br>N.46{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Boutefeu|120|100|15|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|N.4|Mimi-Queue|-|100|30}}
+{{Attaque-V|N.9|Flammèche|40|100|25}}
+{{Attaque-V|N.13|Roue de Feu|60|100|25}}
+{{Attaque-V|N.17|Écrasement|65|100|20}}
+{{Attaque-V|N.21|Nitrocharge|50|100|20}}
+{{Attaque-V|N.25|Danseflamme|35|85|15}}
+{{Attaque-V|N.29|Bélier|90|85|20}}
+{{Attaque-V|N.33|Feu d'Enfer|100|50|5}}
+{{Attaque-V|N.37|Hâte|-|-|30}}
+{{Attaque-V|N.41|Déflagration|120|85|5}}
+{{Attaque-V|N.45|Rebond|85|85|5}}
+{{Attaque-V|N.49|Boutefeu|120|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || {{type|poison}}
+|-
+|CT 10 || [[Puis.Cachée]] || {{type|normal}}
+|-
+|CT 11 || [[Zénith]] || {{type|feu}}
+|-
+|CT 17 || [[Abri]] || {{type|normal}}
+|-
+|CT 21 || [[Frustration]] || {{type|normal}}
+|-
+|CT 22 || [[Lance-Soleil]] || {{type|plante}}
+|-
+|CT 23 || [[Queue de Fer]] || {{type|acier}}
+|-
+|CT 27 || [[Retour]] || {{type|normal}}
+|-
+|CT 32 || [[Reflet]] || {{type|normal}}
+|-
+|CT 35 || [[Lance-Flamme]] || {{type|feu}}
+|-
+|CT 38 || [[Déflagration]] || {{type|feu}}
+|-
+|CT 42 || [[Façade]] || {{type|normal}}
+|-
+|CT 43 || [[Force Cachée]] || {{type|normal}}
+|-
+|CT 44 || [[Repos]] || {{type|psy}}
+|-
+|CT 45 || [[Attraction]] || {{type|normal}}
+|-
+|CT 50 || [[Surchauffe]] || {{type|feu}}
+|-
+|CT 58 || [[Ténacité]] || {{type|normal}}
+|-
+|CT 61 || [[Feu Follet]] || {{type|feu}}
+|-
+|CT 78 || [[Séduction]] || {{type|normal}}
+|-
+|CT 82 || [[Blabla Dodo]] || {{type|normal}}
+|-
+|CT 83 || [[Don Naturel]] || {{type|normal}}
+|-
+|CT 87 || [[Vantardise]] || {{type|normal}}
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || {{type|normal}}
+|-
+|CS 04 || [[Force]] || {{type|normal}}
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=feu
+|sensib-acier=0.5
+|sensib-eau=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=2
+|rmq-feu=Lorsque la [[capacité spéciale]] [[Torche]] de '''{{PAGENAME}}''' est active, les attaques de type {{tp|Feu}} ne produisent pas de dégâts sur lui.
+|rmq-feu-num=1
+|rmq-glace=Dans la [[première génération]], les attaques de type {{tp|Glace}} avaient une efficacité normale contre les Pokémon de type {{tp|Feu}}.
+|rmq-glace-num=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=feu
+|PV=50
+|attaque=85
+|defense=55
+|atq-spc=65
+|def-spc=65
+|vitesse=90
+|special=65
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Ponyta
+| numero=077
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Ponyta RB.png
+| forme=8
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+La première apparition de Ponyta se fait dans l'[[épisode 33]].<br/>
+On peut également noter que dans l'épisode spécial impliquant le Père Noël de la première saison, ce sont des Ponytas qui tirent son traineau, [[Cerfrousse]] n'étant pas encore apparu.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 33]]
+:{{PCap|Pok}}é{{PCap|mon}} Cheval Feu. Sa crinière est composée de flammes intenses.
+
+{{Ruban Pokémon
+| nomPrécédent=Grolem
+| numéro=077
+| nom=Ponyta
+| nomSuivant=Galopa
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/77| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Ponyta| ]]
+
+[[de:Ponita]]
+[[en:Ponyta (Pokémon)]]
+[[es:Ponyta]]
+[[it:Ponyta]]
+[[ja:ポニータ]]
+[[pl:Ponyta]]
+[[pt:Ponyta (pokémon)]]

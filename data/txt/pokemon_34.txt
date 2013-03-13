@@ -1,0 +1,364 @@
+{{Ruban Pokémon
+| nomPrécédent=Nidorino
+| numéro=034
+| nom=Nidoking
+| nomSuivant=Mélofée
+}}
+{{Infobox Pokémon 
+| nom=Nidoking
+| nomen=Nidoking
+| nomja=ニドキング
+| nomtm=Nidoking
+| nomromaji=Nidokingu
+| nomde=Nidoking
+| légende=Artwork de Nidoking pour {{RFVF}}
+| ndex=034
+| jdex=100
+| hdex=232
+| espece=Perceur
+| taille=1.4
+| poids=62.0
+| fmratio=0
+| oeufpas=5120 
+| effortval=+3 Att.
+| type1=Poison
+| type2=Sol
+| expval=195
+| expmax=1059860
+| captureval=45
+| groupoeuf1=Monstre
+| groupoeuf2=Sol
+| capspe1=Point Poison
+| capspe2=Rivalité
+| capspe3=Sans Limite
+| couleur=Violet
+| forme=6}}
+'''Nidoking''' (anglais : '''Nidoking''' ; japonais : '''ニドキング''' ''Nidoking'') est un [[Pokémon]] de [[type]] {{type|poison}} et {{type|sol}} de la [[première génération]] et constitue la seconde et dernière [[évolution]] de [[Nidoran♂]], par le biais de la [[Pierre Lune]].
+
+On peut noter comme particularité qu'il peut produire des œufs alors que ce n'est pas le cas de son équivalent femelle [[Nidoqueen]], ce qui peut laisser perplexe.
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+
+Nidoking est un Pokémon mâle de couleur violet, à l'exception de son ventre qui est totalement blanc. Contrairement à [[Nidoran♂]] et [[Nidorino]], il possède une grande queue et se tient sur ses deux pattes arrières. Sa mâchoire inférieure est munie de dents pointues dont deux apparentes. Ses oreilles, bleu vert à l'intérieur, sont cornues. Une colonne de grands pics traverse son dos jusqu'à son front.
+
+Ce bipède possède trois griffes aux pattes avant et une grande aux pattes arrières. Son corps est entièrement cuirassé.
+
+====Différences mâle/femelle====
+
+Cette espèce est composée uniquement d'individus mâles.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Nidoking a la peau bleue plutôt que violacée, et l'intérieur de ses oreilles est orangé.
+
+===[[Évolution]]===
+[[Nidoran♂]] évolue en [[Nidorino]] à partir du niveau 16, et se transforme ensuite en Nidoking lorsqu'il est mis en contact avec une [[Pierre Lune]].
+{{TableauEvolutionHaut|Poison|Nidoran♂}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Nidorino}}
+{{TableauEvolutionSimple|Avec une [[Pierre Lune]]|imageObjet=Miniat pierre lune dp.png|Nidoking}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Tout comme leurs précédentes préévolutions, les Nidoking disposent de l'une des 2 capacités spéciales suivantes :
+*'''[[Point Poison]]''', qui peut causer un empoisonnement à l'ennemi s'il utilise une attaque de contact ;
+*'''[[Rivalité]]''', qui augmente l'attaque du Pokémon de 50% si son adversaire est du même sexe, mais la diminuera s'il est du sexe opposé.
+
+===Étymologies===
+Français et Allemand: '''Nido'''ran = ''aiguilles'' en Japonais + '''king''' = roi en Anglais.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Sa queue est une arme redoutable, il s'en sert pour attraper sa proie et lui broyer les os.
+;[[Pokémon Jaune]]
+: Ses charges sont dévastatrices grâce à sa peau d'acier. Ses cornes percent même le diamant.
+;[[Pokémon Stadium]]
+: Sa peau dure comme la pierre lui sert d'armure. La longue corne sur sa tête est affûtée et extrêmement venimeuse.
+;[[Pokémon Or]]
+: Il bouscule ses ennemis de sa puissante queue et les charge ensuite pour les écraser au sol.
+;[[Pokémon Argent]]
+: Si elle enserre un ennemi, sa queue redoutable peut briser sa colonne vertébrale comme un biscuit sec.
+;[[Pokémon Cristal]]
+: Il utilise tous ses membres pour attaquer sans répit. Il préfère combattre en étant collé à l'ennemi.
+;[[Pokémon Rubis et Saphir]]
+: L'épaisse queue de {{PCap|Nidoking}} est d'une puissance incroyable. En un seul coup, il peut renverser une tour métallique. Lorsque ce {{PCap|Pok}}é{{PCap|mon}} se déchaîne, plus rien ne peut l'arrêter.
+;[[Pokémon Émeraude]]
+: Son épaisse queue est d'une puissance incroyable. En un seul coup, il peut renverser une tour métallique. Lorsqu'il se déchaîne, plus rien ne peut l'arrêter. 
+;[[Pokémon Rouge Feu]]
+:On le reconnait facilement grâce à sa peau dure comme la pierre ainsi qu'à sa grosse corne pleine de poison.
+;[[Pokémon Vert Feuille]]
+: Sa queue est une arme redoutable, il s'en sert pour attraper sa proie et lui broyer les os.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Un coup de sa puissante queue peut briser un poteau téléphonique comme une allumette.
+;[[Pokémon Or HeartGold|Pokémon Or HeartGold]]
+:Il bouscule ses ennemis de sa puissante queue et les charge ensuite pour les écraser au sol.
+;[[Pokémon Argent SoulSilver]]
+:Si elle enserre un ennemi, sa queue redoutable peut briser sa colonne vertébrale comme un biscuit sec.
+;[[Pokémon Noir et Blanc]]
+: Un coup de sa puissante queue peut briser un poteau téléphonique comme une allumette.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Nidorino]].
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Nidorino]].
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Nidorino]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer [[Nidorino]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Faire évoluer [[Nidorino]].
+|-
+| [[Cristal]] || Inexistant || Faire évoluer [[Nidorino]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Nidorino]].
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Nidorino]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Nidorino]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Nidorino]].
+|}
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:150px" | Version
+! style="background-color:{{Couleur|Poison}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Nidorino]]
+| style="vertical-align:middle;" | [[Pierre Lune]]
+|-
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|Départ|Dard-Venin|15|100|35}}
+{{Attaque|Départ{{Sup|J}}|Double Pied|30|100|30}}
+{{Attaque|N.23|Mania|90|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|Départ|Dard-Venin|15|100|35}}
+{{Attaque|Départ|Double Pied|30|100|30}}
+{{Attaque|N.23|Mania|90|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Picpic|35|100|35|sang-froid|4|0}}
+{{Attaque-III|Départ|Puissance|-|-|30|sang-froid|1|3}}
+{{Attaque-III|Départ|Double Pied|30|100|30|sang-froid|2|0}}
+{{Attaque-III|Départ|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|N.23{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.22{{Sup|RF}}{{Sup|VF}}|Mania|90|100|20|robustesse|4|4}}
+{{Attaque-III|N.43{{Sup|RF}}{{Sup|VF}}|Mégacorne|120|85|10|sang-froid|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Picpic|35|100|35|sang-froid|3}}
+{{Attaque-IV|Départ|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|Départ|Double Pied|30|100|30|sang-froid|2}}
+{{Attaque-IV|Départ|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|N.23|Mania|90|100|20|robustesse|2}}
+{{Attaque-IV|N.43|Telluriforce|90|100|10|intelligence|2}}
+{{Attaque-IV|N.58|Mégacorne|120|85|10|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Picpic|35|100|35}}
+{{Attaque-V|Départ|Puissance|-|-|30}}
+{{Attaque-V|Départ|Double Pied|30|100|30}}
+{{Attaque-V|Départ|Dard-Venin|15|100|35}}
+{{Attaque-V|N.23|Attrition|70|100|20}}
+{{Attaque-V|N.35|Mania|90|100|10}}
+{{Attaque-V|N.43|Telluriforce|90|100|10}}
+{{Attaque-V|N.58|Mégacorne|120|85|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-combat=0.5
+|sensib-eau=2
+|sensib-électrique=0
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-poison=0.25
+|sensib-psy=2
+|sensib-roche=0.5
+|sensib-sol=2
+|rmq-insecte=Les attaques de type {{tp|Insecte}} étaient très efficaces sur les Pokémon de type {{tp|Poison}}, donc sur '''{{PAGENAME}}''', dans la [[première génération]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=poison
+|PV=81
+|attaque=92
+|defense=77
+|atq-spc=85
+|def-spc=75
+|vitesse=85
+|special=75
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Nidoking
+| numero=034
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Nidoking RB.png
+| forme=6
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+[[Régis]] possède un Nidoking (ainsi qu'une Nidoqueen), que l'on voit pour la première fois dans l'[[épisode 63]] où il l'utilise pour tenter d'obtenir le [[badge]] Terre et a échoué face à [[Mewtwo]], et qui perd également face à un [[Grolem]] lors du 4<sup>e</sup> tour de la [[Ligue Indigo]] dans l'[[épisode 77]], causant l'élimination de Régis. Régis et son Nidoking réapparaissent également dans le [[Mewtwo contre Mew|film 1]].
+
+On voit également un Nidoking rose (à cause de son alimentation riche en fruits roses) dans l'[[épisode 88]].
+
+Pendant son match contre [[Brandon]], [[Paul]] utilise un Nidoking.
+
+L'introduction japonaise de [[La légende du tonnerre]] montre que [[Silver (jeux vidéo)#Dans le dessin animé|Silver]] possède également un Nidoking.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 346]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Perceur. {{PCap|Nidoking}} balance sa queue pour tenir ses adversaires à distance puis [[charge]] de toutes ses forces.
+;[[Épisode 594]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Perceur. D'un tour de queue, {{PCap|Nidoking}} peut venir à bout des surfaces les plus résistantes.
+
+{{Ruban Pokémon
+| nomPrécédent=Nidorino
+| numéro=034
+| nom=Nidoking
+| nomSuivant=Mélofée
+}}
+
+[[Catégorie:Pokémon uniquement mâle]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/34| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Nidoking| ]]
+
+[[de:Nidoking]]
+[[en:Nidoking (Pokémon)]]
+[[es:Nidoking]]
+[[it:Nidoking]]
+[[ja:ニドキング]]
+[[pl:Nidoking]]
+[[pt:Nidoking (pokémon)]]

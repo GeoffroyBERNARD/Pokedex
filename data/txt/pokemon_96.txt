@@ -1,0 +1,311 @@
+{{Ruban Pokémon
+| nomPrécédent=Onix
+| numéro=096
+| nom=Soporifik
+| nomSuivant=Hypnomade
+}}
+{{Infobox Pokémon
+| nom=Soporifik
+| nomen=Drowzee
+| nomja=スリープ
+| nomtm=Sleep
+| nomromaji=Surīpu
+| nomde=Traumato
+| légende=Artwork de Soporifik pour {{RFVF}}
+| ndex=096
+| jdex=087
+| hdex=266
+| fdex=090
+| adex=166
+| espece=Hypnose
+| taille=1.0
+| poids=32.4
+| fmratio=.5 
+| oeufpas=5120
+| effortval=+1 Déf. Spé
+| type1=Psy
+| expval=102
+| expmax=1000000
+| captureval=190
+| groupoeuf1=Humanoïde
+| capspe1=Insomnia
+| capspe2=Prédiction
+| capspe3=Attention
+| couleur=Jaune
+| forme=12
+}}
+'''Soporifik''' (anglais : '''Drowzee''' ; japonais : '''スリープ''' ''Sleep'') est un [[Pokémon]] de [[type]] {{type|psy}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+Il est inspiré du Tapir.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====Chromatique====
+
+Les Soporifik chromatiques ont une teinte rose au lieu du jaune et marron habituel.
+
+===[[Évolution]]===
+Soporifik évolue en [[Hypnomade]] à partir du [[niveau]] 26.
+{{TableauEvolutionHaut|Psy|Soporifik}}
+{{TableauEvolutionSimple|[[Niveau]] 26|Hypnomade}}
+{{TableauEvolutionBas}}
+
+===[[Etymologie]]===
+Vient de soporifique
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il endort ses ennemis et dévore leurs songes. En mangeant de mauvais rêves il devient malade.
+;[[Pokémon Jaune]]
+:Si vous dormez près de lui, il influencera vos rêves avec les songes qu'il a dévoré.
+;[[Pokémon Stadium]]
+:Il endort sa victime et dévore ses rêves. On raconte qu'il est un descendant de la créature légendaire asiatique : [[:wp:Baku|Baku]].
+;[[Pokémon Or]]
+:Si vous pensez avoir rêvé mais que vous ne vous en souvenez pas, c'est que {{PCap|Soporifik}} a tout mangé.
+;[[Pokémon Argent]]
+:Il se souvient de tous les rêves qu'il a avalé. Il préfère les rêves plus goutus des enfants.
+;[[Pokémon Cristal]]
+:Quand il remue son nez, il devine où sont les dormeurs et à quoi ils rêvent.
+;[[Pokémon Rubis et Saphir]]
+:Lorsque les enfants ont le nez qui les démange en dormant, c'est sans doute parce que ce {{PCap|Pok}}é{{PCap|mon}} se tient au-dessus de leur oreiller, afin d'essayer de manger leurs rêves par les narines.
+;[[Pokémon Émeraude]]
+:Si jamais votre nez vous démange en dormant, c'est sans doute que ce {{PCap|Pok}}é{{PCap|mon}} se tient au-dessus de vous pour manger vos rêves par les narines.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est le descendant d'un animal légendaire qui dévorerait les rêves de ses victimes. Il est capable d'hypnotiser ses ennemis.
+;[[Pokémon Vert Feuille]]
+:Il endort ses ennemis et dévore leurs songes. S'il mange trop de cauchemars, il fait une indigestion.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Un pouvoir psychique qui entrave la capture se dégage des mains de {{PCap|Soporifik}}.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Son grand nez lui permet de lire les rêves d'autrui. Il adore les songes amusants.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Des orbes étranges sortent de la paume de ses mains.
+;[[Pokémon Or HeartGold]]
+:Si vous pensez avoir rêvé mais que vous ne vous en souvenez pas, c’est que {{PCap|Soporifik}} a tout mangé.
+;[[Pokémon Argent SoulSilver]]
+:Il se souvient de tous les rêves qu'il a avalés. Il préfère les rêves plus goûtus des enfants.
+;[[Pokémon Noir et Blanc]]
+:Son grand nez lui permet de lire les rêves d'autrui. Il adore les songes amusants.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Rouge}};"|[[Pokémon Rouge|Rouge]]
+| rowspan="3" style="vertical-align: middle;" | Commun
+| rowspan="3" style="vertical-align: middle;" | [[Route 11 (Kanto)|Route 11]]
+|-
+| style="background:{{Couleur|Bleu}};"|[[Pokémon Bleu|Bleu]]
+|-
+| style="background:{{Couleur|Jaune}};"|[[Pokémon Jaune|Jaune]]
+|-
+|}
+
+===[[Deuxième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Argent}};"| [[Pokémon Or et Argent|Argent]]
+| rowspan="2" style="vertical-align: middle;" | Commun
+| rowspan="2" style="vertical-align: middle;" | [[Route 11 (Kanto)|Route 11]], [[Route 34|34]] et [[Route 35|35]]
+|-
+| style="background:{{Couleur|Or}};"|[[Pokémon Or et Argent|Or]]
+|}
+
+===[[Troisième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|RF}};"|{{RF}}
+| rowspan="2" style="vertical-align: middle;" | Commun
+| rowspan="2" style="vertical-align: middle;" | [[Route 11 (Kanto)|Route 11]], [[Île 3]]
+|-
+| style="background:{{Couleur|VF}};"|{{VF}}
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | [[Dream World]] : Le Vieux Manoir
+| style="vertical-align:middle;" | 10
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|N.12|Entrave|-|55|20}}
+{{Attaque|N.17|Choc Mental|50|100|25}}
+{{Attaque|N.24|Coup d'Boule|70|100|15}}
+{{Attaque|N.29|Gaz Toxik|-|55|40}}
+{{Attaque|N.32|Psyko|90|100|10}}
+{{Attaque|N.37|Yoga|-|-|40}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|N.10|Entrave|-|55|20}}
+{{Attaque|N.18|Choc Mental|50|100|25}}
+{{Attaque|N.25|Coup d'Boule|70|100|15}}
+{{Attaque|N.31|Gaz Toxik|-|55|40}}
+{{Attaque|N.36|Yoga|-|-|40}}
+{{Attaque|N.40|Psyko|90|100|10}}
+{{Attaque|N.43|Boost|-|-|10}}
+{{Attaque|N.45|Prescience|80|90|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Écras'Face|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ|Hypnose|-|60|20|intelligence|1|3}}
+{{Attaque-III|N.10{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.7{{Sup|RF}}{{Sup|VF}}|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.18{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.11{{Sup|RF}}{{Sup|VF}}|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.25{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.17{{Sup|RF}}{{Sup|VF}}|Coup d'Boule|70|100|15|robustesse|2|3}}
+{{Attaque-III|N.31{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.21{{Sup|RF}}{{Sup|VF}}|Gaz Toxik|-|55|40|intelligence|3|0}}
+{{Attaque-III|N.36{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.27{{Sup|RF}}{{Sup|VF}}|Yoga|-|-|40|beauté|1|0}}
+{{Attaque-III|N.40{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.31{{Sup|RF}}{{Sup|VF}}|Psyko|90|100|10|intelligence|1|3}}
+{{Attaque-III|N.43{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.37{{Sup|RF}}{{Sup|VF}}|Boost|-|-|10|intelligence|2|0}}
+{{Attaque-III|N.41{{Sup|RF}}{{Sup|VF}}|Vantardise|-|90|15|grâce|2|0}}
+{{Attaque-III|N.45{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.47{{Sup|RF}}{{Sup|VF}}|Prescience|80|90|15|intelligence|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Écras'Face|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Hypnose|-|70{{Sup|D}}{{Sup|P}}<br>60{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|20|intelligence|2}}
+{{Attaque-IV|N.7|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.9|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.15|Coup d'Boule|70|100|15|robustesse|3}}
+{{Attaque-IV|N.18|Gaz Toxik|-|55|40|intelligence|3}}
+{{Attaque-IV|N.21|Yoga|-|-|40|beauté|0}}
+{{Attaque-IV|N.26|Rafale Psy|65|100|20|beauté|2}}
+{{Attaque-IV|N.29|Boost|-|-|10|intelligence|0}}
+{{Attaque-IV|N.32|Coup d'Boule|70|100|15|robustesse|3}}
+{{Attaque-IV|N.37|Vantardise|-|90|15|grâce|2}}
+{{Attaque-IV|N.40|Psyko|90|100|10|intelligence|2}}
+{{Attaque-IV|N.43|Machination|-|-|20|grâce|0}}
+{{Attaque-IV|N.50|Psykoud'Boul|80|90|15|beauté|2}}
+{{Attaque-IV|N.53|Prescience|80|90|15|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Écras'Face|40|100|35}}
+{{Attaque-V|Départ|Hypnose|-|60|20}}
+{{Attaque-V|N.5|Entrave|-|100|20}}
+{{Attaque-V|N.9|Choc Mental|50|100|25}}
+{{Attaque-V|N.13|Coup d'Boule|70|100|15}}
+{{Attaque-V|N.17|Gaz Toxik|-|80|40}}
+{{Attaque-V|N.21|Yoga|-|-|40}}
+{{Attaque-V|N.25|Rafale Psy|65|100|20}}
+{{Attaque-V|N.29|Coup d'Boule|70|100|15}}
+{{Attaque-V|N.33|Boost|-|-|10}}
+{{Attaque-V|N.37|Synchropeine|70|100|15}}
+{{Attaque-V|N.41|Psykoud'Boul|80|90|15}}
+{{Attaque-V|N.45|Vantardise|-|90|15}}
+{{Attaque-V|N.49|Psyko|90|100|10}}
+{{Attaque-V|N.53|Machination|-|-|20}}
+{{Attaque-V|N.57|Choc Psy|80|100|10}}
+{{Attaque-V|N.61|Prescience|100|100|10}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+{{Sensibilités
+|type=psy
+|sensib-combat=0.5
+|sensib-insecte=2
+|sensib-psy=0.5
+|sensib-spectre=2
+|sensib-ténèbres=2
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=psy
+|PV=60
+|attaque=48
+|defense=45
+|atq-spc=43
+|def-spc=90
+|vitesse=42
+|special=90
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Soporifik
+| numero=096
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Soporifik RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère 2]]''
+| artwork_supp2-img=Soporifik-DM2.png
+| pinballRB-gif=oui
+| forme=12
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Soporifik n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en une seule occasion :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Soporifik|Soporifik œuf voeu (PCNY)]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+Un Soporifik apparaît d'abord dans l'[[épisode 27]].
+
+Dans l'[[épisode 86]], [[Butch]] et [[Cassidy]] se servent des pouvoirs psychiques d'un Soporifik pour contrôler des Pokémon.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 27]]
+:On le dit descendant d'un tapir dévorêve. Il est le premier {{PCap|Pok}}é{{PCap|mon}} à avoir utilisé une attaque combinée. Comme celle mélangeant l'[[Hypnose]] et la [[Dévorêve]].
+;[[Épisode 86]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Hypnotique. Il se nourrit des rêves de ses adversaires et est réputé pour ses [[attaque]]s [[Psyko]].
+
+{{Ruban Pokémon
+| nomPrécédent=Onix
+| numéro=096
+| nom=Soporifik
+| nomSuivant=Hypnomade
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/96| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Drowzee| ]]
+
+[[de:Traumato]]
+[[en:Drowzee (Pokémon)]]
+[[es:Drowzee]]
+[[it:Drowzee]]
+[[ja:スリープ]]
+[[pl:Drowzee]]
+[[pt:Drowzee (pokémon)]]

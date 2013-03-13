@@ -1,0 +1,417 @@
+{{Ruban Pokémon
+| nomPrécédent=Hypotrempe
+| numéro=117
+| nom=Hypocéan
+| nomSuivant=Poissirène
+}}
+{{Infobox Pokémon
+| nom=Hypocéan
+| nomen=Seadra
+| nomja=シードラ
+| nomtm=Seadra
+| nomromaji=Shīdora
+| nomde=Seemon
+| légende=Artwork d'Hypocéan pour {{RFVF}}
+| ndex=117
+| jdex=187
+| njdex=191
+| hdex=185
+| fdex=108
+| adex=230
+| odex=R-069
+| espece=Dragon
+| taille=1.2
+| poids=25.0
+| fmratio=.5 
+| oeufpas=5120
+| effortval=+1 Déf. ; +1 Att. Spé
+| type1=Eau
+| expval=155
+| expmax=1000000
+| captureval=75
+| groupoeuf1=Eau 1
+| groupoeuf2=Dragon
+| capspe1=Point Poison
+| capspe2=Sniper
+| capspe3=Moiteur
+| couleur=Bleu
+| forme=5}}
+'''Hypocéan''' (anglais : '''Seadra''' ; japonais : '''シードラ''' ''Seadra'') est un [[Pokémon]] de [[type]] {{type|eau}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====Chromatique====
+Lorsqu'il est chromatique, Hypocéan a un corps de couleur très sombre et ses écailles du ventre et du bout de la queue sont roses.
+
+===[[Évolution]]===
+Hypocéan est l'évolution d'[[Hypotrempe]] à partir du [[niveau]] 32. Il évolue en [[Hyporoi]] s'il est échangé alors qu'il porte l'objet [[Écaille Draco]].
+
+{{TableauEvolutionHaut|Eau|Hypotrempe}}
+{{TableauEvolutionSimple|Niveau 32|Hypocéan}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]] en tenant l'objet [[Écaille Draco]]|imageObjet=Miniat ecaille draco dp.png|Hyporoi}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale||Capacités spéciales]]===
+* [[Point Poison]] : S'il est touché par une attaque directe, le Pokémon a 30% de chances d'empoisonner son adversaire;
+* [[Sniper]] : Les coups critiques portés à l'adversaire infligent des dégâts triplés au lieu de doublés;
+* [[Moiteur]] : L'adversaire ne peut pas s'auto-détruire. Obtenue dans le Dream World.
+
+===Étymologies===
+
+* Français : vient de ''hippocampe'' et ''océan''.
+* Anglais : vient de ''sea'' (mer), et de ''dragon''
+* Japonais : transcription du nom anglais.
+* Allemand : de ''See''(mer) et de ''Pokémon''
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il peut nager à l'envers en agitant ses petites nageoire pectorales.
+;[[Pokémon Jaune]]
+:Le contact de sa nageoire provoque une irritation. Il ancre sa queue au corail pour dormir.
+;[[Pokémon Stadium]]
+:Un Pokémon très intelligent pouvant nager à reculons. Un coup de ses pics peut provoquer un K.O. immédiat.
+;[[Pokémon Or]]
+:Son analyse cellulaire révèle la présence de gènes n'appartenant pas aux {{PCap|Hypocéan}}.
+;[[Pokémon Argent]]
+:Ses nageoires et ses os sont des ingrédients très recherchés de la médecine naturelle.
+;[[Pokémon Cristal]]
+:Le mâle élève son petit. S'il est approché, il lance ses pics empoisonnés pour repousser l'ennemi.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Hypocéan}} s'accroche aux récifs de corail avant de s'endormir. Les pêcheurs de coraux se font parfois piquer par les aiguillons de ce {{PCap|Pok}}é{{PCap|mon}} lorsqu'ils ne font pas attention.
+;[[Pokémon Émeraude]]
+:Les pointes empoisonnées qui couvrent son corps entrent dans la composition de certains remèdes. Il est sans merci pour ceux qui s'approchent de son son nid.
+;[[Pokémon Rouge Feu]]
+:Son corps est recouvert de pointes tranchantes. Il faut la plus grande attention pour le saisir, sous peine de se faire piquer.
+;[[Pokémon Vert Feuille]]
+:Il peut nager à l'envers en agitant ses petites nageoires pectorales.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Hypocéan}} crache des boules d'eau. Capturez-le avant qu'il n'aille sous l'eau.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Son épine dorsale le protège. Ses os et ses nageoires sont très prisés en médecine traditionnelle.
+;[[Pokémon Ranger 2]]
+:Il attaque en soufflant des bulles avec sa bouche.
+;[[Pokémon Or HeartGold]]
+:Son analyse cellulaire révèle la présence de gènes n'appartenant pas aux {{PCap|[[Hypotrempe]]}}.
+;[[Pokémon Argent SoulSilver]]
+:Ses nageoires et ses os sont des ingrédients très recherchés de la médecine naturelle.
+;[[Pokémon Noir et Blanc]]
+:Son épine dorsale le protège. Ses os et ses nageoires sont très prisés en médecine traditionnelle.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Rare || îles Ecume
+|-
+| [[Bleu]] || Rare || îles Ecume
+|-
+| [[Jaune]] || Peu Commun || À venir
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || tourb'île (méga canne)
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || tourb'île (méga canne)
+|-
+| [[Cristal]] || Commun || À venir
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || Faire évoluer [[Hypotrempe]].
+|-
+| [[Saphir]] || Inexistant || Faire évoluer [[Hypotrempe]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || Faire évoluer [[Hypotrempe]].
+|-
+| [[Rouge Feu]] || Rare || À venir.
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Hypotrempe]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Diamant]] et [[Perle]] || Peu commun || [[Route 226]] - Pêcher avec la [[Méga Canne]] || N. 30 - 55 || 35%
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}} 
+| rowspan="2" style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Route 17 (Unys)|Route 17]]{{Infobulle|*|Pêche Tourbillon}}
+| style="vertical-align:middle;" | 35-60
+|-
+| style="vertical-align:middle;" | [[Route 18 (Unys)|Route 18]]{{Infobulle|*|Pêche Tourbillon}}
+| style="vertical-align:middle;" | 45-70
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Écume|20|100|30}}
+{{Attaque|Départ|Brouillard|-|100|20}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|N.41|Hâte|-|-|30}}
+{{Attaque|N.52|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écume|20|100|30}}
+{{Attaque|Départ|Brouillard|-|100|20}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|Départ|Ouragan|40|100|20}}
+{{Attaque|N.40|Hâte|-|-|30}}
+{{Attaque|N.51|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Écume|20|100|30|grâce|2|2}}
+{{Attaque-III|Départ<br>N.8|Brouillard|-|100|20|intelligence|3|0}}
+{{Attaque-III|Départ<br>N.15|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ<br>N.22|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|N.29|Ouragan|40|100|20|sang-froid|3|0}}
+{{Attaque-III|N.40|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.51|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaque-III|N.62|Danse Draco|-|-|20|sang-froid|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Écume|20|100|30|grâce|2}}
+{{Attaque-IV|Départ<br>N.4|Brouillard|-|100|20|intelligence|2}}
+{{Attaque-IV|Départ<br>N.8|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|Départ<br>N.11|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.14|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.18|Bulles d'O|65|100|20|beauté|2}}
+{{Attaque-IV|N.23|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.26|Ouragan|40|100|20|sang-froid|3}}
+{{Attaque-IV|N.30|Saumure|65|100|10|intelligence|2}}
+{{Attaque-IV|N.40|Hydrocanon|120|80|5|beauté|2}}
+{{Attaque-IV|N.48|Danse Draco|-|-|20|sang-froid|0}}
+{{Attaque-IV|N.57|Dracochoc|90|100|10|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Écume|20|100|30}}
+{{Attaque-V|Départ<br>N.4|Brouillard|-|100|20}}
+{{Attaque-V|Départ<br>N.8|Groz'Yeux|-|100|30}}
+{{Attaque-V|Départ<br>N.11|Pistolet à O|40|100|25}}
+{{Attaque-V|N.14|Puissance|-|-|30}}
+{{Attaque-V|N.18|Bulles d'O|65|100|20}}
+{{Attaque-V|N.23|Hâte|-|-|30}}
+{{Attaque-V|N.26|Ouragan|40|100|20}}
+{{Attaque-V|N.30|Saumure|65|100|10}}
+{{Attaque-V|N.40|Hydrocanon|120|80|5}}
+{{Attaque-V|N.48|Danse Draco|-|-|20}}
+{{Attaque-V|N.57|Dracochoc|90|100|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=eau
+|sensib-acier=0.5
+|sensib-eau=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-plante=2
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=eau
+|PV=55
+|attaque=55
+|defense=65
+|atq-spc=95
+|def-spc=45
+|vitesse=85
+|special=95
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Hypocéan
+| numero=117
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Hypocéan RB.png
+| forme=5
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Hypocéan n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en une seule occasion :
+* '''2003'''
+** [[Liste des Pokémon distribués en 2003#Hypocéan|Hypocéan Dragon Week (PCNY)]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+
+*Pendant la [[Ligue Indigo]], un des adversaires de [[Sacha]] utilise un [[Hypocéan]].
+
+*[[Cissy]], qui apparaît dans l'[[épisode 85]], en possède un.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 75]]
+:{{PCap|Pok}}é{{PCap|mon}} Dragon. [[évolution|Forme évoluée]] d'{{PCap|Hypotrempe}}. Il est très colérique et les piquants qui recouvrent son corps peuvent rendre son adversaire inconscient.
+;[[Épisode 85]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Dragon est un {{PCap|Pok}}é{{PCap|mon}} d'[[Eau]]. Il a mauvais caractère, mais ses [[attaque]]s sont aussi puissantes que fulgurantes.
+
+{{Ruban Pokémon
+| nomPrécédent=Hypotrempe
+| numéro=117
+| nom=Hypocéan
+| nomSuivant=Poissirène
+}}
+
+[[Catégorie:Pokémon évoluant en tenant un objet]]
+[[Catégorie:Pokémon évoluant lors d'un échange]]
+[[Catégorie:Pokémon évoluant en tenant un objet lors d'un échange]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/117| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Seadra| ]]
+
+[[de:Seemon]]
+[[en:Seadra (Pokémon)]]
+[[es:Seadra]]
+[[it:Seadra]]
+[[ja:シードラ]]
+[[pl:Seadra]]
+[[pt:Seadra (pokémon)]]

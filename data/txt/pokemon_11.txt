@@ -1,0 +1,423 @@
+{{Ruban Pokémon
+| nomPrécédent=Chenipan
+| numéro=011
+| nom=Chrysacier
+| nomSuivant=Papilusion
+}}
+{{Infobox Pokémon 
+| nom=Chrysacier
+| nomen=Metapod
+| nomja=トランセル
+| nomromaji=Toranseru
+| nomtm=Trancell
+| nomde=Safcon
+| légende=Artwork de Chrysacier pour {{RFVF}}
+| ndex=011
+| jdex=025
+| njdex=025
+| hdex=213
+| espece=Cocon
+| taille=0.7
+| poids=9.9
+| fmratio=.5
+| oeufpas=3840 
+| effortval=+2 Déf.
+| type1=Insecte
+| expval=72
+| expmax=1000000
+| captureval=120
+| groupoeuf1=Insecte
+| couleur=Vert
+| capspe1=Mue
+| capspe1-desc=À chaque tour, ce Pokémon à 1 chance sur 3 d'être soigné de ses [[statut|altérations de statut]].
+| forme=2}}
+'''Chrysacier''' (anglais : '''Metapod''' ; japonais : '''フシギソウ''' ''Trancell'') est un [[Pokémon]] de [[type]] {{type|insecte}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+Chrysacier est un Pokémon cocon qui est vert et possède des yeux noirs. Le Pokédex dit que "''Sa carapace est dure comme le métal.''".
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Chrysacier est d'un orange tirant sur le marron au lieu de vert.
+
+===[[Évolution]]===
+Chrysacier est la première évolution de Chenipan à partir du [[niveau]] 7, et il évolue en [[Papilusion]] à partir du niveau 10.
+
+{{TableauEvolutionHaut|Insecte|Chenipan}}
+{{TableauEvolutionSimple|[[Niveau]] 7|Chrysacier}}
+{{TableauEvolutionSimple|[[Niveau]] 10|Papilusion}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Mue : à chaque tour, ce Pokémon à 1 chance sur 3 d'être soigné de ses [[statut|altérations de statut]].
+
+===Étymologies===
+* Français : vient de '''''chrys'''alide'' et '''''acier'''''
+* Anglais : ''Meta'', un préfixe grec (μετά, après, au-delà de, avec) et ''pod'', qui évoque un cocon ou une protection (comme pour un petit pois, par exemple)
+* Japonais : Viens de "transformation", "coquille" et de "cellule".
+* Allemand : "saf" vient de l'anglais "safe" qui veut dire coffre  et "con" vient de kokon(cocon en allemand).
+* Coréen : '''Dandegi''' vient de "dur" et de "nymphe".
+* Chinois : Titgaapchùhng signifie "Insecte blindé".
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Il est vulnérable aux attaques tant que sa carapace fragile expose son corps tendre et mou.
+;[[Pokémon Jaune]]
+: Il renforce sa carapace pour se protéger. Mais un coup puissant peut le déloger de son armure.
+;[[Pokémon Stadium]]
+: En durcissant, seule la coquille externe devient comme la pierre. La partie interne reste toute molle.
+;[[Pokémon Or]]
+: Son corps, sous sa carapace, est mou et tendre. Il reste immobile en attendant d'évoluer.
+;[[Pokémon Argent]]
+: Avant d'évoluer, il durcit autant que possible sa carapace pour protéger son corps vulnérable.
+;[[Pokémon Cristal]]
+: A ce niveau de son évolution, il ne peut-que durcir et rester immobile pour éviter les attaques.
+;[[Pokémon Rubis et Saphir]]
+: La carapace protégeant ce {{PCap|Pok}}é{{PCap|mon}} est dur comme du métal. {{PCap|Chrysacier}} ne bouge pas beaucoup. Il reste immobile pour préparer les organes à l'intérieur de sa carapace en vue d'une évolution future.
+;[[Pokémon Émeraude]]
+: La carapace de {{PCap|Chrysacier}} est dure comme du métal. Il ne bouge pas beaucoup car il prépare les organes à l'intérieur de sa carapace en vue d'une évolution future.
+;[[Pokémon Rouge Feu]]
+:Bien qu'il soit entouré d'une carapace solide, le reste de son corps est si mou qu'il ne résisterait pas à une attaque violente.
+;[[Pokémon Vert Feuille]]
+:Il est vulnérable aux attaques tant que sa carapace est molle, car il expose son corps tendre et mou.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Son corps frêle est protégé par sa carapace d'acier. Il encaisse les coups durs en attendant d'évoluer.
+;[[Pokémon Or HeartGold]]
+:Son corps, sous sa carapace, est mou et tendre. Il reste immobile en attendant d'évoluer.
+;[[Pokémon Argent SoulSilver]]
+:Avant d'évoluer, il durcit autant que possible sa carapace pour protéger son corps vulnérable.
+;[[Pokémon Noir et Blanc]]
+:Son corps frêle est protégé par sa carapace d'acier. Il encaisse les coups durs en attendant d'évoluer.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Pourcentage de rencontre
+|-
+| rowspan="2" style="vertical-align: middle;" | ''[[Pokémon Rouge]]'' || rowspan="2" style="vertical-align: middle;" | Rare || [[Route 25]] || N. 7 || 4%
+|-
+| [[Forêt de Jade]] || N. 4 || 5%
+|-
+| rowspan="3" style="vertical-align: middle;" | ''[[Pokémon Bleu]]'' || rowspan="3" style="vertical-align: middle;" | Commun || [[Route 24]] || N. 8 || 15%
+|-
+| [[Route 25]] || N. 9 || 15%
+|-
+| [[Forêt de Jade]] || N. 4-6 || 35%
+|-
+| ''[[Pokémon Jaune]]'' || Rare || [[Forêt de Jade]] || N. 4-6 || 20%
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Pourcentage de rencontre
+|-
+| rowspan="5" style="vertical-align: middle;" | ''[[Pokémon Or]]'' || rowspan="5" style="vertical-align: middle;" | Commun || [[Route 2 (Kanto)|Route 2]] || N. 5 || 20%
+|-
+| [[Route 30]] || N. 4-5 || 15%
+|-
+| [[Route 31]] || N. 5-6 || 15%
+|-
+| [[Bois aux Chênes]] || N. 6 || 30%
+|-
+| [[Parc Naturel]] || N. 10 (9-18 durant le concours) || 30% (10% durant le concours)
+|-
+| ''[[Pokémon Argent]]'' || Peu commun || [[Parc Naturel]] pendant un [[Concours de capture d'insecte]]. || N. 9-18 || 10%
+|-
+| rowspan="4" style="vertical-align: middle;" | ''[[Pokémon Cristal]]'' || rowspan="4" style="vertical-align: middle;" | Commun || [[Route 24]] || N. 12 || 20%
+|-
+| [[Route 25]] || N. 12 || 10%
+|-
+| [[Bois aux Chênes]] || N. 7 || 20%
+|-
+| [[Parc Naturel]] pendant un [[Concours de capture d'insecte]]. || N. 9-18  || 10% 
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Pourcentage de rencontre
+|-
+| {{RS}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}.|| rowspan="2" style="vertical-align: middle;"| - || rowspan="2" style="vertical-align: middle;"| -
+|-
+| ''[[Pokémon Émeraude]]''
+|-
+| rowspan="4" style="vertical-align: middle;" | ''[[Pokémon Rouge Feu]]'' || rowspan="4" style="vertical-align: middle;" | Rare || [[Route 24]] || N. 8 || 1%
+|-
+|[[Route 25]] || N. 9 || 1%
+|-
+| [[Forêt de Jade]] || N. 4-6 || 5%
+|-
+| [[Forbuissons]] || N. 9 || 5%
+|-
+| rowspan="4" style="vertical-align: middle;" | ''[[Pokémon Vert Feuille]]'' || rowspan="4" style="vertical-align: middle;" | Peu commun || [[Route 24]] || N. 8 || 4%
+|-
+|[[Route 25]] || N. 9 || 4%
+|-
+| [[Forêt de Jade]] || N. 4-6 || 10%
+|-
+| [[Forbuissons]] || N. 9 || 20%
+|-
+| [[Colosseum]] || rowspan="2" style="vertical-align: middle;" | Inexistant || rowspan="2" style="vertical-align: middle;" | Échange à partir de {{RFVF}} || rowspan="2" style="vertical-align: middle;" | - || rowspan="2" style="vertical-align: middle;" | -
+|-
+| [[XD]]
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Pourcentage de rencontre
+|-
+| {{DP}} || rowspan="2" style="vertical-align: middle;"| Rare || rowspan="2" style="vertical-align: middle;"|  [[Forêt Vestigion]] en ayant inséré la cartouche ''[[Pokémon Rouge Feu]]'' (Il faut avoir battu la [[Ligue Pokémon]]). || N. 12 || 8%
+|-
+| ''[[Pokémon Platine]]'' || N. 13 || 4%
+|-
+| rowspan="5" style="vertical-align: middle;" | {{HGSS}} || rowspan="5" style="vertical-align: middle;" | Commun || [[Route 30]] || rowspan="5" style="vertical-align: middle;" | N/A || rowspan="5" style="vertical-align: middle;" | N/A
+|-
+| [[Route 31]]
+|-
+| [[Route 25]]
+|-
+| [[Bois aux Chênes]]
+|-
+| [[Parc Naturel]]
+|}
+
+=== [[Cinquième génération]] ===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Pourcentage de rencontre
+|-
+| style="vertical-align:middle;" | ''[[Pokémon Blanc]]'' 
+| style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Route 12 (Unys)|Route 12]]
+| style="vertical-align:middle;" | 48
+| style="vertical-align:middle;" | N/A
+|-
+| style="vertical-align:middle;" | ''[[Pokémon Noir]]''
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire un [[oeuf]] de [[Papilusion]] à la [[Pension]]
+| style="vertical-align:middle;" | -
+| style="vertical-align:middle;" | N/A
+|}
+
+===[[Sixième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:120px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="background:#6050DC;"|{{couleur lien|#FFFFFF|X}}
+| rowspan="2" style="vertical-align: middle;" | ?
+| rowspan="2" style="vertical-align: middle;" | À venir
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#DE2916;"| {{couleur lien|#FFFFFF|Y}}
+|-
+|}
+
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ{{Sup|R}}{{Sup|B}}<br>N.7{{Sup|J}}|Armure|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|N.7|Armure|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ<br>N.7|Armure|-|-|30|robustesse|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ<br>N.7|Armure|-|-|30|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ<br>N.7|Armure|-|-|30}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | Néant
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | Néant
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | Néant
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | Néant
+|}
+|}
+
+===Par [[reproduction]]===
+
+Néant
+
+===Par [[Donneur de capacités]]===
+
+;Dans [[Pokémon Platine]]
+
+:- [[Mur de Fer]]
+
+===Via une pré-évolution===
+
+{| class="wikitable"
+! colspan="4" | [[Génération|Toutes les générations]]
+|-
+![[Attaque]] || Type || Pré-évolution requise || Mode d'apprentissage
+|-
+|[[Charge]] || [[Fichier:type miniat normal.png]] || 010 {{miniature|010}} [[Chenipan]] || Attaque de départ
+|-
+|[[Sécrétion]] || [[Fichier:type miniat normal.png]] || 010 {{miniature|010}} [[Chenipan]] || Attaque de départ
+|}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=insecte
+|sensib-combat=0.5
+|sensib-feu=2
+|sensib-plante=0.5
+|sensib-poison={{Infobulle|× 1|× 2 en génération 1}}
+|sensib-roche=2
+|sensib-sol=0.5
+|sensib-vol=2
+|rmq-poison=Les attaques de type [[Poison (type)|Poison]] étaient très efficaces sur les Pokémon de type [[Insecte]] -donc sur '''Chrysacier'''- dans la [[première génération]].
+|rmq-poison-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=insecte
+|PV=50
+|attaque=20
+|defense=55
+|atq-spc=30
+|def-spc=25
+|vitesse=25
+|special=30
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Chrysacier
+| numero=011
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Chrysacier RB.png
+| forme=2
+| pdm=oui
+| diff_rs-rfvf=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Sacha]] capturera dans l'[[Épisode 3]] un [[Chenipan]] qui évoluera en [[Chrysacier]] à la fin de l'épisode après avoir triomphé de la [[Team Rocket]]. Celui-ci évoluera ensuite en [[Papilusion]] dans l'[[Épisode 4|épisode suivant]], non sans avoir auparavant disputé un long match contre le Chrysacier d'un Samouraï, un duel à l'attaque [[Armure]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 3]]
+: Première métamorphose du {{PCap|Chenipan}}. Son corps s'est recouvert d'une carapace plus solide. Ce spécimen évolue plus rapidement que tous les autres {{PCap|Pok}}é{{PCap|mon}} de son espèce.
+;[[Épisode 417]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Cocon. {{PCap|[[Chrysacier]]}} est l'[[évolution]] de {{PCap|Chenipan}}. Protégé par une carapace, il se prépare pour sa prochaine [[évolution]].
+
+{{Ruban Pokémon
+| nomPrécédent=Chenipan
+| numéro=011
+| nom=Chrysacier
+| nomSuivant=Papilusion
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/11| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Metapod| ]]
+
+[[de:Safcon]]
+[[en:Metapod (Pokémon)]]
+[[es:Metapod]]
+[[it:Metapod]]
+[[ja:トランセル]]
+[[pl:Metapod]]
+[[pt:Metapod (pokémon)]]

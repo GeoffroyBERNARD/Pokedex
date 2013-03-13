@@ -1,0 +1,649 @@
+{{Ruban Pokémon
+| nomPrécédent=Tentacruel
+| numéro=074
+| nom=Racaillou
+| nomSuivant=Gravalanch
+}}
+{{Infobox Pokémon
+| nom=Racaillou
+| nomen=Geodude
+| nomja=イシツブテ
+| nomtm=Ishitsubute 
+| nomde=Kleinstein
+| légende=Artwork de Racaillou pour {{RFVF}}
+| ndex=074
+| jdex=034
+| hdex=057
+| sdex=031
+| fdex=064
+| adex=041
+| odex=R-047
+| opdex=N-067
+| espece=Roche
+| taille=0.4
+| poids=20.0
+| fmratio=.5
+| oeufpas=3840
+| effortval=+1 Déf.
+| type1=Roche
+| type2=Sol
+| expval=73
+| expmax=1059860
+| captureval=255
+| groupoeuf1=Minéral
+| groupoeuf2=
+| capspe1=Tête de Roc
+| capspe2=Fermeté
+| couleur=Marron
+| forme=4}}
+'''Racaillou''' (anglais : '''Geodude''' ; japonais : ''Ishitsubute'') est un [[Pokémon]] de [[type]] {{type|roche}} et {{type|sol}} qu'il est très fréquent de rencontrer dans les grottes des différentes versions des jeux Pokémon.
+
+==À propos du Pokémon==
+===Physionomie===
+Racaillou est un Pokémon formé de roche. Il possède deux bras et n'a pas de pattes.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Racaillou évolue à partir du [[niveau]] 25 en [[Gravalanch]], qui lui-même évolue en [[Grolem]] si on l'échange.
+{{TableauEvolutionHaut|Roche|Racaillou}}
+{{TableauEvolutionSimple|[[Niveau]] 25|Gravalanch}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]]|Grolem}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+[[Tête de Roc]] protège le Pokémon des dégâts de contrecoups.
+[[Fermeté]] bloque les attaques [[OHKO]].
+
+===Étymologies===
+* Français : Racaille et Caillou. 
+* Anglais : ''Geodude'' vient de ''Geo'', Géo, faisant penser à la roche dont il est composé et ''Dude'', gars, mec, pote.
+* Japonais : ''Ishitsubute'' signifie 
+* Allemand : de ''klein'' (petit) et ''stein'' (pierre) en allemand, soit ''petite pierre''
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Il vit dans les plaines ou les montagnes. On le confond souvent avec un petit caillou.
+;[[Pokémon Jaune]]
+: On en trouve près des sentiers de montagne. Si vous marchez dessus, ils s'énervent et attaquent.
+;[[Pokémon Stadium]]
+:En voyageant vers le sommet d'une montagne, il utilise ses deux bras pour se hisser au-dessus de certains rochers.
+;[[Pokémon Or]]
+: On ne les remarque généralement pas, mais nous sommes en fait entourés par des colonies de {{PCap|Racaillou}}.
+;[[Pokémon Argent]]
+: Il se sert de ses bras pour escalader. En colère il virevolte avec ses poings.  
+;[[Pokémon Cristal]]
+: Fiers de leur corps résistant, ils se jettent les uns contre les autres pour être les plus forts.
+;[[Pokémon Rubis]]
+: Lorsqu'un {{PCap|Racaillou}} prend de l'âge, ses bords s'ébrèchent et s'usent, ce qui lui donne une apparence plus ronde. Cependant, le cœur de ce {{PCap|Pok}}é{{PCap|mon}} reste dur, rocailleux et rugueux.
+;[[Pokémon Saphir]] 
+: Pour dormir profondément, {{PCap|Racaillou}} s'enterre à moitié dans le sol. Il ne se réveille pas, même si des randonneurs lui marche dessus. Au petit matin, ce {{PCap|Pok}}é{{PCap|mon}} roule en contrebas au quête de nourriture.
+;[[Pokémon Émeraude]]
+: Il grimpe les chemins de montagne à la seule force de ses bras. Il se fait souvent piétiner par les promeneurs qui le prennent pour un vulgaire rocher. 
+;[[Pokémon Rouge Feu]]
+: Sa forme ronde le rend facile à ramasser. Certaines personnes les utilisent dans les combats de boules de neige. 
+;[[Pokémon Vert Feuille]]
+: Il vit dans les plaines ou les montagnes. On le confond souvent avec un petit caillou.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Racaillou}} aime se poser par terre. Il peut briser des Pierres.
+;[[Pokémon Diamant]]
+: Nombre d'entre eux vivent sur des chemins montagneux où ils restent enfouis à épier les alpinistes.
+;[[Pokémon Perle]]
+: Son corps se fond dans la roche. Ces {{PCap|Pok}}é{{PCap|mon}} se bousculent au cours d'épreuves de force.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en jetant des pierres.
+;[[Pokémon Platine]]
+:Au repos, rien ne le distingue d'un vulgaire caillou. Malheur à ceux qui lui marchent dessus par mégarde !
+;[[Pokémon Or HeartGold]]
+:On ne les remarque généralement pas, mais nous sommes en fait entourés par des colonies de {{PCap|Racaillou}}.
+;[[Pokémon Argent SoulSilver]]
+: Il se sert de ses bras pour escalader. En colère, il virevolte avec ses poings.
+;[[Pokémon Noir et Blanc]]
+:Au repos, rien ne le distingue d'un vulgaire caillou. Malheur à ceux qui lui marchent dessus par mégarde !
+;[[Pokémon Ranger : Sillages de Lumière]]
+:Fait tomber des roches sur l'adversaire.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Rouge]] || fréquent ||  Mont Sélénite, Route Victoire, Grottes || bas
+|-
+| [[Bleu]] || fréquent || Mont Sélénite, Route Victoire, Grottes || bas 
+|-
+| [[Jaune]] || fréquent || Mont Sélénite, Route Victoire, Grottes || bas
+|-
+| [[Pokémon Stadium|Stadium]] ||  ||  || 
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Pokémon Or et Argent|Argent]] || fréquent || Mont Sélénite, Antre Noir, Caves Jumelles, Route Victoire, Mont Creuset, Route 45, 46, Grottes || bas
+|-
+| [[Cristal]] || fréquent || Mont Sélénite, Antre Noir, Caves Jumelles, Route Victoire, Mont Creuset, Route 45, 46, Grottes || bas
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Roche}}; width:250px;" | Version
+! style="background-color:{{Couleur|Roche}}; width:100px;" | Rareté
+! style="background-color:{{Couleur|Roche}}; width:450px;" | Lieu
+! style="background-color:{{Couleur|Roche}}; width:50px;" | Niveau
+|-
+| rowspan="5" style="vertical-align:middle;" | {{RSE}} 
+| rowspan="5" style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Grotte Granite]]
+| style="vertical-align:middle;" | 6-12
+|-
+| style="vertical-align:middle;" | [[Parc Safari]]
+| style="vertical-align:middle;" | N/A
+|-
+| style="vertical-align:middle;" | [[Route 111]]
+| style="vertical-align:middle;" | N/A
+|-
+| style="vertical-align:middle;" | [[Route 114]]
+| style="vertical-align:middle;" | N/A
+|-
+| style="vertical-align:middle;" | [[Route Victoire]]
+| style="vertical-align:middle;" | N/A
+|-
+| style="vertical-align:middle;" | {{E}} 
+| style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Repaire Magma]]
+| style="vertical-align:middle;" | N/A
+|-
+| [[Rouge Feu]] || fréquent || Mont Sélénite, Route Victoire, Grotte Inconnue, Ile 1, Ile 7, Grottes || bas
+|-
+| [[Vert Feuille]] || fréquent || Mont Sélénite, Route Victoire, Grotte Inconnue, Ile 1, Ile 7, Grottes || bas
+|-
+| [[Colosseum]] ||  ||  || 
+|-
+| [[XD]] ||  ||  || 
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Diamant]] || fréquent || Chemin Rocheux, Entrée Charbourg, Grotte Revêche, Grotte Ruineman, Ile de Fer, Mine Charbourg, Mont Couronné, Rive Lac Courage, Routes 206, 207, 210, 211, 214, 215, Tunnel Ruineman || bas
+|-
+| [[Perle]] || fréquent || Chemin Rocheux, Entrée Charbourg, Grotte Revêche, Grotte Ruineman, Ile de Fer, Mine Charbourg, Mont Couronné, Rive Lac Courage, Routes 206, 207, 210, 211, 214, 215, Tunnel Ruineman || bas
+|}
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Roche}}; width:250px;" | Version
+! style="background-color:{{Couleur|Roche}}; width:100px;" | Rareté
+! style="background-color:{{Couleur|Roche}}; width:450px;" | Lieu
+! style="background-color:{{Couleur|Roche}}; width:50px;" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire un [[œuf]] de [[Gravalanch]] à la [[Pension]]
+| style="vertical-align:middle;" | Inconnu
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.11|Boul'Armure|-|-|40}}
+{{Attaque|N.16|Jet-Pierres|50|65|15}}
+{{Attaque|N.21|Destruction|130|100|5}}
+{{Attaque|N.26|Armure|-|-|30}}
+{{Attaque|N.31|Séisme|100|100|10}}
+{{Attaque|N.36|Explosion|170|100|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.6|Boul'Armure|-|-|40}}
+{{Attaque|N.11|Jet-Pierres|50|90|15}}
+{{Attaque|N.16|Ampleur|-|100|30}}
+{{Attaque|N.21|Destruction|200|100|5}}
+{{Attaque|N.26|Armure|-|-|30}}
+{{Attaque|N.31|Roulade|30|90|20}}
+{{Attaque|N.36|Séisme|100|100|10}}
+{{Attaque|N.41|Explosion|250|100|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ|Boul'Armure|-|-|40|grâce|2|0}}
+{{Attaque-III|N.6|Lance-Boue|-|100|15|grâce|4|0}}
+{{Attaque-III|N.11|Jet-Pierres|50|90|15|robustesse|2|0}}
+{{Attaque-III|N.16|Ampleur|-|100|30|robustesse|1|0}}
+{{Attaque-III|N.21|Destruction|200|100|5|beauté|8|0}}
+{{Attaque-III|N.26|Roulade|30|90|20|robustesse|3|0}}
+{{Attaque-III|N.31|Boule Roc|25|80|10|robustesse|2|0}}
+{{Attaque-III|N.36|Séisme|100|100|10|robustesse|1|3}}
+{{Attaque-III|N.41|Explosion|250|100|5|beauté|8|0}}
+{{Attaque-III|N.46|Damoclès|120|100|15|robustesse|6|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ|Boul'Armure|-|-|40|grâce|2}}
+{{Attaque-IV|N.4|Lance-Boue|-|100|15|grâce|2}}
+{{Attaque-IV|N.8|Poliroche|-|-|20|robustesse|2}}
+{{Attaque-IV|N.11|Jet-Pierres|50|90|15|robustesse|3}}
+{{Attaque-IV|N.15|Ampleur|-|100|30|robustesse|2}}
+{{Attaque-IV|N.18|Destruction|200|100|5|beauté|0}}
+{{Attaque-IV|N.22|Roulade|30|90|20|robustesse|2}}
+{{Attaque-IV|N.25|Boule Roc|25|80|10|robustesse|2}}
+{{Attaque-IV|N.29|Séisme|100|100|10|robustesse|2}}
+{{Attaque-IV|N.32|Explosion|250|100|5|beauté|0}}
+{{Attaque-IV|N.36|Damoclès|120|100|15|robustesse|0}}
+{{Attaque-IV|N.39|Lame de Roc|100|80|5|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ|Boul'Armure|-|-|40}}
+{{Attaque-V|N.4|Lance-Boue|-|100|15}}
+{{Attaque-V|N.8|Poliroche|-|-|20}}
+{{Attaque-V|N.11|Jet-Pierres|50|90|15}}
+{{Attaque-V|N.15|Ampleur|-|100|30}}
+{{Attaque-V|N.18|Roulade|30|90|20}}
+{{Attaque-V|N.22|Boule Roc|25|90|10}}
+{{Attaque-V|N.25|Anti-Air|50|100|15}}
+{{Attaque-V|N.29|Destruction|200|100|5}}
+{{Attaque-V|N.32|Piétisol|60|100|20}}
+{{Attaque-V|N.36|Piège de Roc|-|-|20}}
+{{Attaque-V|N.39|Séisme|100|100|10}}
+{{Attaque-V|N.43|Explosion|250|100|5}}
+{{Attaque-V|N.46|Damoclès|120|100|15}}
+{{Attaque-V|N.50|Lame de Roc|100|80|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CT 01 || [[Ultimapoing]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+| CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 18 || [[Riposte]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 26 || [[Séisme]] || [[Fichier:type miniat sol.png]]
+|-
+| CT 27 || [[Abîme]] || [[Fichier:type miniat sol.png]]
+|-
+| CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+| CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 35 || [[Métronome (attaque)|Métronome]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+| CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 47 || [[Explosion]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 48 || [[Éboulement]] || [[Fichier:type miniat roche.png]]
+|-
+| CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+| CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CT 01 || Dynamopoing || [[Fichier:type miniat combat.png]]
+|-
+| CT 02 || Coup d'Boule || [[Fichier:type miniat normal.png]]
+|-
+| CT 03 || Malédiction || [[Fichier:type miniat inconnu.png]]
+|-
+| CT 04 || Roulade || [[Fichier:type miniat roche.png]]
+|-
+| CT 05 || Hurlement || [[Fichier:type miniat normal.png]]
+|-
+| CT 06 || Toxik || [[Fichier:type miniat poison.png]]
+|-
+| CT 08 || Eclate-Roc || [[Fichier:type miniat combat.png]]
+|-
+| CT 10 || Puissance Cachée || [[Fichier:type miniat normal.png]]
+|-
+| CT 11 || Zénith || [[Fichier:type miniat feu.png]]
+|-
+| CT 13 || Ronflement || [[Fichier:type miniat normal.png]]
+|-
+| CT 17 || Abri || [[Fichier:type miniat normal.png]]
+|-
+| CT 20 || Ténacité || [[Fichier:type miniat normal.png]]
+|-
+| CT 21 || Frustration || [[Fichier:type miniat normal.png]]
+|-
+| CT 26 || Séisme || [[Fichier:type miniat sol.png]]
+|-
+| CT 27 || Retour || [[Fichier:type miniat normal.png]]
+|-
+| CT 28 || Tunnel || [[Fichier:type miniat sol.png]]
+|-
+| CT 31 || Coud'Boue || [[Fichier:type miniat sol.png]]
+|-
+| CT 32 || Reflet || [[Fichier:type miniat normal.png]]
+|-
+| CT 34 || Vantardise || [[Fichier:type miniat normal.png]]
+|-
+| CT 35 || Blabla Dodo || [[Fichier:type miniat normal.png]]
+|-
+| CT 37 || Tempêtesable || [[Fichier:type miniat roche.png]]
+|-
+| CT 38 || Déflagration || [[Fichier:type miniat feu.png]]
+|-
+| CT 40 || Boul'Armure || [[Fichier:type miniat normal.png]]
+|-
+| CT 44 || Repos || [[Fichier:type miniat psy.png]]
+|-
+| CT 45 || Attraction || [[Fichier:type miniat normal.png]]
+|-
+| CT 48 || Poing de Feu || [[Fichier:type miniat feu.png]]
+|-
+| CT 49 || Taillade || [[Fichier:type miniat insecte.png]]
+|-
+| CS 04 || Force || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Mitra-Poing]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puis. Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Lance-Flamme]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 39 || [[Tomberoche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Mitra-Poing]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puis. Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Lance-Flamme]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 39 || [[Tomberoche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 56 || [[Dégommage]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 58 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 64 || [[Explosion]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 69 || [[Poliroche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 71 || [[Lame de Roc]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 74 || [[Gyroballe]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 76 || [[Piège de Roc]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 78 || [[Séduction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 80 || [[Éboulement]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 82 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 83 || [[Don Naturel]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 87 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CS 08 || [[Escalade]] || [[Fichier:type miniat normal.png]]
+|}
+
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+{| class="wikitable" style="text-align:center;"
+! [[Attaque]] || [[Type]] || [[Puissance]] || [[Précision]] || Parents possibles l'apprenant naturellement || Parents possibles l'apprenant par [[reproduction]]
+|-
+|  ||  ||  ||  ||  ||
+|}
+
+====Dans les jeux de [[troisième génération]]====
+
+
+{| class="wikitable" style="text-align:center;"
+! [[Attaque]] || [[Type]] || [[Puissance]] || [[Précision]] || Parents possibles l'apprenant naturellement || Parents possibles l'apprenant par [[reproduction]]
+|-
+|  ||  ||  ||  ||  ||
+|}
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+:- 
+
+===Par [[Donneur de capacités]]===
+
+;Dans [[Pokémon Rouge Feu et Vert Feuille]]
+
+:- [[Clonage (attaque)|Clonage]]
+:- [[Copie]]
+:- [[Damoclès]]
+:- [[Éboulement]]
+:- [[Explosion]]
+:- [[Frappe Atlas]]
+:- [[Métronome (attaque)|Métronome]]
+:- [[Plaquage]]
+:- [[Riposte]]
+:- [[Ultimapoing]]
+
+;Dans [[Pokémon Émeraude]]
+
+:- [[Blabla dodo]]
+:- [[Boul'Armure]]
+:- [[Coud'Boue]]
+:- [[Dynamopoing]]
+:- [[Poing de Feu]]
+:- [[Ronflement]]
+:- [[Ronflement]]
+:- [[Roulade]]
+:- [[Ténacité]]
+:- [[Vantardise]]
+
+==Sensibilités==
+{{Sensibilités
+|type=roche
+|sensib-acier=2
+|sensib-combat=2
+|sensib-eau=4
+|sensib-électrique=0
+|sensib-feu=0.5
+|sensib-glace=2
+|sensib-normal=0.5
+|sensib-plante=4
+|sensib-poison=0.25
+|sensib-roche=0.5
+|sensib-sol=2
+|sensib-vol=0.5
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=roche
+|PV=40
+|attaque=80
+|defense=100
+|atq-spc=30
+|def-spc=30
+|vitesse=20
+|special=30
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Racaillou
+| numero=074
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Racaillou RB.png
+| forme=4
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Racaillou a une figurine à son effigie dans le jeu de figurines à collectionner, dans l'extension [[Groundbreakers (JFC)|Groundbreakers]], jamais sortie en France. Sa figurine est la numéro 8. Pour plus d'informations, voir ''[[Racaillou (Groundbreakers 8)]]''.
+
+[[Fichier:JFC-Groundbreakers-8.png|thumb|center|La figurine de Racaillou]]
+
+==Apparitions dans le [[dessin animé]]==
+[[Pierre (dessin animé)|Pierre]] possède un [[Racaillou de Pierre|Racaillou]]. À son départ pour [[Hoenn]], il le confie à son frère [[Forrest]].
+Plusieurs champions ont un Racaillou dans leur équipe. [[Danny]] de l'[[Île Double Chantilly]], [[Roxanne]] de [[Mérouville]], et [[Pierrick]] de [[Charbourg]]. Mis à part [[Bardane]], tous les champions de type Roche ont un [[Racaillou]]
+
+On voit un Racaillou se bagarrant avec un [[Férosinge]] dans le [[DP005]] pour de la nourriture.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 290]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Roche. {{PCap|Racaillou}} est doté d'une résistance corporelle incroyable, le rendant pratiquement insensible aux attaques physiques.
+;[[Épisode 481]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Roche. On peut croiser {{PCap|Racaillou}} sur les routes de montagne. A moitié ensevelis dans le sol, il aime passer son temps à observer les randonneurs. 
+
+{{Ruban Pokémon
+| nomPrécédent=Tentacruel
+| numéro=074
+| nom=Racaillou
+| nomSuivant=Gravalanch
+}}
+
+[[Catégorie:Pokémon de base]]
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/74| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Geodude| ]]
+
+[[de:Kleinstein]]
+[[en:Geodude (Pokémon)]]
+[[es:Geodude]]
+[[it:Geodude]]
+[[ja:イシツブテ]]
+[[pl:Geodude]]
+[[pt:Geodude (pokémon)]]

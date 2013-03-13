@@ -1,0 +1,685 @@
+{{Ruban Pokémon
+| nomPrécédent=Scarabrute
+| numéro=128
+| nom=Tauros
+| nomSuivant=Magicarpe
+}}
+{{Infobox Pokémon
+| nom=Tauros
+| nomen=Tauros
+| nomja=ケンタロス
+| nomtm=Kentauros
+| nomromaji=Kentarosu
+| nomde=Tauros
+| légende=Artwork de Tauros pour {{RFVF}}
+| ndex=128
+| jdex=148
+| njdex=150
+| hdex=285
+| fdex=049
+| adex=179
+| espece=Buffle
+| taille=1.4
+| poids=88.4
+| groupoeuf1=Sol
+| oeufpas=5120
+| type1=Normal
+| captureval=45
+| capspe1=Intimidation (capacité spéciale){{!}}Intimidation
+| capspe2=Colérique
+| capspe3=Sans Limite
+| expmax=1250000
+| expval=211
+| fmratio=0
+| couleur=Marron
+| effortval=+1 Att. ; +1 Vit.
+| forme=8}}
+'''Tauros''' (anglais : '''Tauros''' ; japonais : '''ケンタロス''' ''Kentauros'') est un [[Pokémon]] apparu dans la [[première génération]] et de [[type]] {{type|normal}}.
+
+==À propos du Pokémon==
+
+===Physionomie et attitudes===
+
+Comme la majorité des Pokémon de la première génération, Tauros est un Pokémon dont le physique est simple.
+
+En effet, il a beaucoup de ressemblance avec un taureau réel. On peut tout de même noter qu'il possède trois queues et trois marques argentées sur son front, de la même couleur que ses cornes. Étrangement les touffes de poils au bout des queues de Tauros n'ont pas la même couleur selon les versions du jeu vidéo. Elles sont de couleur blanche dans les versions ''[[Pokémon Jaune]]'' et dans {{RFVF}}, marrons dans {{OAC}} et {{RSE}}, noires dans {{RB}} et ''[[Pokémon Vert]]'', grises dans {{DPP}} et dans [[Or HeartGold]] et [[Argent SoulSilver]], et cætera. Pour plus de détails voir [[Tauros#Imagerie|l'imagerie]].
+
+Ce Pokémon est réputé pour être très violent et excité. Si il décide de charger quelqu'un ou quelque chose, il ne s'arrêtera pas avant qu'il ne l'ait détruit. Il vit en troupeau où ils se combattent en se heurtant avec leur corne, le gagnant devient le chef de la tribu. Cependant on peut prévoir une charge de Tauros, en effet il a la manie d'agiter, voir de se fouetter avec ses trois queues avant de se lancer (une sorte de rituel pour augmenter son agressivité). Si il ne trouve pas d'adversaire, il est capable de se ruer sur des arbres et de les déraciner juste pour se calmer. Il semblerait tout de même qu'il possède le point faible de ne charger qu'en ligne droite.
+
+Malgré tout ça, l'Homme l'utilise dans des travaux manuels (tirer des charrues,…). Il est aussi amusant de constater que dans le dessin animé il est arrivé souvent que les personnages parlent d'hamburgers, il se pourrait donc que cet aliment soit fait de viande de Tauros ou d'[[Écrémeuh]].
+
+Les Tauros (qui ne sont pas utilisés par l'Homme) vivent apparemment dans les prairies, plaines ou pré herbeux (comme ceux dans l'ouest de [[Johto]], du [[Parc Safari]] ou du [[Parc des Amis]], lieux où on peut capturer ce Pokémon dans les jeux vidéo).
+
+====Différences mâle/femelle ====
+
+Cette espèce est composée uniquement d'individus mâles. Cependant, on peut penser que [[Écrémeuh]] est la femelle de Tauros, un [[œuf]] de Tauros ou d'Écrémeuh donnant soit un Tauros, soit un Écrémeuh.
+
+====[[Chromatique]]====
+
+Lorsqu'il est chromatique, la fourrure d'un Tauros est plus claire, voir jaune, et sa crinière est verte.
+
+Cependant dans {{OAC}}, le bas de ses pattes, lui aussi, est vert ainsi que les poils au bout de ses queues comme dans {{RSE}}. <br/>
+Dans ''[[Pokémon Colosseum]]'' et ''[[Pokémon XD : le Souffle des Ténèbres]]'', sa crinière n'est pas verte, elle est seulement plus claire.
+
+===[[Évolution]]===
+Tauros n'a pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===[[Capacité spéciale]]===
+
+Tauros peut avoir deux capacités spéciales :
+*[[Intimidation (capacité spéciale)|Intimidation]], qui baisse d'un cran l'attaque du Pokémon adverse lorsque Tauros rentre sur le terrain ;
+*[[Colérique]], qui monte l'attaque de Tauros au maximum lorsqu'il reçoit un coup critique.
+
+Ces capacités spéciales ne sont pas les meilleurs mais sont plutôt utiles et la deuxième lui permet d'être un très bon [[Sub-berry]] mais demande malheureusement beaucoup de chance...
+
+===Étymologies===
+
+* Français : « Tauros » vient de « taureau », cela pourrait être aussi l'abréviation de ''Kentauros''. Peut venir du latin ''taurus'' qui veut dire « taureau » et qui est le nom parfois donné à la [http://fr.wikipedia.org/wiki/Constellation_du_taureau constellation du taureau].
+* Anglais : « Tauros » est l'abréviation de ''Kentauros'', pourrait peut-être venir du français « taureau ». Peut venir aussi du latin ''taurus'' qui veut dire « taureau » et qui est le nom parfois donné à la [http://fr.wikipedia.org/wiki/Constellation_du_taureau constellation du taureau].
+* Allemand : « Tauros » est l'abréviation de ''Kentauros'', pourrait peut-être venir du français « taureau ». Peut venir aussi du latin ''taurus'' qui veut dire « taureau » et qui est le nom parfois donné à la [http://fr.wikipedia.org/wiki/Constellation_du_taureau constellation du taureau].
+* Japonais : « Kentauros » vient du grec Κένταυρος qui veut dire « centaure ». Ce mot grec peut signifier aussi la [http://fr.wikipedia.org/wiki/Constellation_du_Centaure constellation du centaure] ce qui ferait un parallèle intéressant avec les étymologies des autres langues.
+* Coréen : 켄타로스 (''Kentaroseu'') vient sûrement de ''Kentauros''.
+* Chinois (Taïwan) :肯泰羅 (''Ken Tailuo'') vient sûrement de ''Kentauros''.
+* Chinois (Hong Kong) : 大隻牛 signifie « Gros bovin ».
+
+===Description du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Une fois sa cible en vue, il la charge furieusement en fouettant l'air de sa queue.
+;[[Pokémon Jaune]]
+:C'est un Pokémon très endurant. Il n'achève sa charge qu'une fois sa cible pulvérisée.
+;[[Pokémon Stadium]]
+:Il charge en battant les flancs de son corps de ses longues queues. Bien que puissant, il ne peut que charger en ligne droite.
+;[[Pokémon Or]] et [[Pokémon Stadium 2]]
+:Ils se heurtent entre eux avec leurs cornes pour choisir celui qui sera le protecteur de la tribu.
+;[[Pokémon Argent]]
+:Après s'être fouetté avec ses trois queues pour augmenter son agressivité, il charge.
+;[[Pokémon Cristal]]
+:Ces créatures très violentes s'affrontent entre elles pour désigner le chef du troupeau.
+;[[Pokémon Rubis et Saphir]]
+:Ce Pokémon n'est pas satisfait s'il ne détruit pas tout sur son passage. Lorsque {{PCap|Tauros}} ne trouve pas d'adversaire, il se rue sur de gros arbres et les déracine pour passer ses nerfs.
+;[[Pokémon Émeraude]]
+:Il n'est pas satisfait s'il ne détruit pas tout sur son passage. Lorsqu'il ne trouve pas d'adversaire, il déracine de gros arbres pour passer ses nerfs.
+;[[Pokémon Rouge Feu]]
+:Juste avant d'utiliser {{PCap|[[Charge]]}}, ce {{PCap|Pok}}é{{PCap|mon}} agite frénétiquement ses trois grandes queues.
+;[[Pokémon Vert Feuille]]
+:Une fois sa cible en vue, il la charge furieusement en fouettant l'air de sa triple queue.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Quand {{PCap|Tauros}} voit un Ranger, il s'ébroue et le charge avec ses cornes.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Après avoir choisi sa cible, il fonce dessus tête baissée. Il est réputé pour sa nature violente.
+;[[Pokémon Ranger 2]]
+:Il s'ébroue et charge l'ennemi.
+;[[Pokémon Or HeartGold]]
+:Ils se battent avec leurs cornes. Celles du chef de la tribu sont couvertes de cicatrices.
+;[[Pokémon Argent SoulSilver]]
+:Après s'être fouetté avec ses trois queues pour augmenter son agressivité, il charge.
+;[[Pokémon Noir et Blanc]]
+:Après avoir choisi sa cible, il fonce dessus tête baissée. Il est réputé pour sa nature violente.
+
+==Localisations==
+
+===Première génération===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| ''[[Pokémon Rouge et Bleu|Bleu]]'' || 1~4% || [[Parc Safari (Kanto)]]. || 26~28
+|-
+| ''[[Pokémon Rouge et Bleu|Rouge]]'' || 1~4% || [[Parc Safari (Kanto)]]. || 26~28
+|-
+| ''[[Pokémon Jaune|Jaune]]'' || 10% || [[Parc Safari (Kanto)]]. || 21
+|}
+
+
+===Deuxième génération===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu  || Niveau
+|-
+| ''[[Pokémon Or et Argent|Or]]'' || 4~5% || [[Route 38]] et [[Route 39|39]]. || 13~15
+|-
+| ''[[Pokémon Or et Argent|Argent'']] || 4~5% || [[Route 38]] et [[Route 39|39]]. || 13~15
+|-
+| ''[[Pokémon Cristal|Cristal]]'' || 5% || [[Route 38]] et [[Route 39|39]] (matin et jour). || 13~15
+|}
+
+===Troisième génération===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu  || Niveau
+|-
+| ''[[Pokémon Rubis et Saphir|Rubis]]'' || Inexistant || Échange à partir des versions ''[[Pokémon Rouge Feu et Vert Feuille|Rouge Feu]]'' et ''[[Pokémon Rouge Feu et Vert Feuille|Vert Feuile]]''. || Inexistant
+|- 
+| ''[[Pokémon Rubis et Saphir|Saphir]]'' || Inexistant || Échange à partir des versions ''[[Pokémon Rouge Feu et Vert Feuille|Rouge Feu]]'' et ''[[Pokémon Rouge Feu et Vert Feuille|Vert Feuile]]''. || Inexistant
+|- 
+| ''[[Pokémon Émeraude|Émeraude]]'' || Inexistant || Échange à partir des versions ''[[Pokémon Rouge Feu et Vert Feuille|Rouge Feu]]'' et ''[[Pokémon Rouge Feu et Vert Feuille|Vert Feuile]]''. || Inexistant
+|-
+| ''[[Pokémon Rouge Feu et Vert Feuille|Rouge Feu]]'' || 1~4% || [[Parc Safari (Kanto)]]. || 26~28
+|-
+| ''[[Pokémon Rouge Feu et Vert Feuille|Vert Feuille]]'' || 1~4% || [[Parc Safari (Kanto)]]. || 26~28
+|-
+| ''[[Pokémon Colosseum|Colosseum]]'' || Inexistant|| Échange à partir des versions ''[[Pokémon Rouge Feu et Vert Feuille|Rouge Feu]]'' et ''[[Pokémon Rouge Feu et Vert Feuille|Vert Feuile]]''. || Inexistant
+|-
+| ''[[Pokémon XD : le Souffle des Ténèbres|XD]]'' || Unique || [[Malafid]] sur l'[[île Ténébra]] (le Tauros est obscur). || 46
+|}
+
+===Quatrième génération===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|- 
+| ''[[Pokémon Diamant et Perle|Diamant]]'' || 20% || [[Route 209]] et [[Route 210|210]] avec le [[Pokéradar]]. || 17~19
+|-
+| ''[[Pokémon Diamant et Perle|Perle]]'' || 2% || [[Route 209]] et [[Route 210|210]] avec le [[Pokéradar]]. || 16~20
+|-
+| ''[[Pokémon Platine|Platine]]'' || 6% || [[Route 210]] avec le [[Pokéradar]]. || 29~30
+|-
+| style="background-color: #CCFFCC;" | [[Parc des Amis]] || colspan="3" align="center" style="background-color: #CCFFCC;" | Plaine
+|}
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Écrasement|65|100|20}}
+{{Attaque|N.28|Mimi-Queue|-|100|30}}
+{{Attaque|N.35|Groz'Yeux|-|100|30}}
+{{Attaque|N.44|Frénésie|20|100|20}}
+{{Attaque|N.51|Bélier|90|85|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|N.8|Frénésie|20|100|20}}
+{{Attaque|N.13|Koud'Korne|65|100|25}}
+{{Attaque|N.19|Grimace|-|90|10}}
+{{Attaque|N.26|Poursuite|40|100|20}}
+{{Attaque|N.34|Repos|-|-|10}}
+{{Attaque|N.43|Mania|90|100|20}}
+{{Attaque|N.53|Bélier|90|85|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|N.4|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|N.8|Frénésie|20|100|20|sang-froid|3|0}}
+{{Attaque-III|N.13|Koud'Korne|65|100|25|sang-froid|4|0}}
+{{Attaque-III|N.19|Grimace|-|90|10|robustesse|2|1}}
+{{Attaque-III|N.26|Poursuite|40|100|20|intelligence|2|1}}
+{{Attaque-III|N.34|Repos|-|-|10|grâce|2|0}}
+{{Attaque-III|N.43|Mania|90|100|20|robustesse|4|4}}
+{{Attaque-III|N.53|Bélier|90|85|20|robustesse|6|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|N.3|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|N.5|Frénésie|20|100|20|sang-froid|0}}
+{{Attaque-IV|N.8|Koud'Korne|65|100|25|sang-froid|3}}
+{{Attaque-IV|N.11|Grimace|-|90|10|robustesse|2}}
+{{Attaque-IV|N.15|Poursuite|40|100|20|intelligence|1}}
+{{Attaque-IV|N.19|Repos|-|-|10|grâce|0}}
+{{Attaque-IV|N.24|Représailles|50|100|10|sang-froid|1}}
+{{Attaque-IV|N.29|Psykoud'Boul|80|90|15|beauté|2}}
+{{Attaque-IV|N.35|Bélier|90|85|20|robustesse|3}}
+{{Attaque-IV|N.41|Vantardise|-|90|15|grâce|2}}
+{{Attaque-IV|N.48|Mania|90|100|20|robustesse|2}}
+{{Attaque-IV|N.55|Giga Impact|150|90|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|N.3|Mimi-Queue|-|100|30}}
+{{Attaque-V|N.5|Frénésie|20|100|20}}
+{{Attaque-V|N.8|Koud'Korne|65|100|25}}
+{{Attaque-V|N.11|Grimace|-|100|10}}
+{{Attaque-V|N.15|Poursuite|40|100|20}}
+{{Attaque-V|N.19|Repos|-|-|10}}
+{{Attaque-V|N.24|Représailles|50|100|10}}
+{{Attaque-V|N.29|Rengorgement|-|-|30}}
+{{Attaque-V|N.35|Psykoud'Boul|80|90|15}}
+{{Attaque-V|N.41|Bélier|90|85|20}}
+{{Attaque-V|N.48|Vantardise|-|90|15}}
+{{Attaque-V|N.55|Mania|120|100|10}}
+{{Attaque-V|N.63|Giga Impact|150|90|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! colspan="3" | Les [[CS]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CS 04 || [[Flash]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+! colspan="3" | Les [[CT]]
+|-
+| CT 06 || [[Toxik]] || style="vertical-align: middle;"|[[Fichier:type miniat poison.png]] 
+|-
+| CT 07 || [[Empal'Korne]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] 
+|-
+| CT 08 || [[Plaquage]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] 
+|-
+| CT 09 || [[Bélier]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] 
+|-
+| CT 10 || [[Damoclès]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 13 || [[Laser Glace]] || style="vertical-align: middle;"|[[Fichier:type miniat glace.png]]
+|-
+| CT 14 || [[Blizzard]] || style="vertical-align: middle;"|[[Fichier:type miniat glace.png]]
+|-
+| CT 15 || [[Ultralaser]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 20 || [[Frénésie]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 24 || [[Tonnerre]] || style="vertical-align: middle;"|[[Fichier:type miniat electrique.png]]
+|-
+| CT 25 || [[Fatal-Foudre]] || style="vertical-align: middle;"|[[Fichier:type miniat electrique.png]]
+|-
+| CT 26 || [[Séisme]] || style="vertical-align: middle;"|[[Fichier:type miniat sol.png]]
+|-
+| CT 27 || [[Abîme]] || style="vertical-align: middle;"|[[Fichier:type miniat sol.png]]
+|-
+| CT 31 || [[Copie]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 32 || [[Reflet]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 34 || [[Patience]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 38 || [[Déflagration]] || style="vertical-align: middle;"|[[Fichier:type miniat feu.png]]
+|-
+| CT 40 || [[Coud'Krâne]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 44 || [[Repos]] || style="vertical-align: middle;"|[[Fichier:type miniat psy.png]]
+|-
+| CT 50 || [[Clonage (attaque)|Clonage]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! colspan="3" | Les [[CS]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CS 03 || [[Surf]] || style="vertical-align: middle;"|[[Fichier:type miniat eau.png]]
+|-
+| CS 04 || [[Force]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] 
+|-
+! colspan="3" | Les [[CT]]
+|-
+| CT 02 || [[Coup d'Boule]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] 
+|-
+| CT 03 || [[Malédiction]] || style="vertical-align: middle;"|[[Fichier:type miniat inconnu.png]] 
+|-
+| CT 06 || [[Toxik]] || style="vertical-align: middle;"|[[Fichier:type miniat poison.png]] 
+|-
+| CT 07 || [[Élécanon]] || style="vertical-align: middle;"|[[Fichier:type miniat electrique.png]]
+|-
+| CT 08 || [[Éclate-Roc]] || style="vertical-align: middle;"|[[Fichier:type miniat combat.png]]
+|-
+| CT 10 || [[Force Cachée]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 11 || [[Zénith]] || style="vertical-align: middle;"|[[Fichier:type miniat feu.png]]
+|-
+| CT 13 || [[Ronflement]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 14 || [[Blizzard]] || style="vertical-align: middle;"|[[Fichier:type miniat glace.png]]
+|-
+| CT 15 || [[Ultralaser]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 16 || [[Vent Glace]] || style="vertical-align: middle;"|[[Fichier:type miniat glace.png]]
+|-
+| CT 17 || [[Protection]] || style="vertical-align: middle;"|[[Fichier:type miniat psy.png]]
+|-
+| CT 20 || [[Ténacité]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 21 || [[Frustration]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 23 || [[Queue de Fer]] || style="vertical-align: middle;"|[[Fichier:type miniat acier.png]]
+|-
+| CT 25 || [[Fatal-Foudre]] || style="vertical-align: middle;"|[[Fichier:type miniat electrique.png]]
+|-
+| CT 26 || [[Séisme]] || style="vertical-align: middle;"|[[Fichier:type miniat sol.png]]
+|-
+| CT 27 || [[Retour]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 32 || [[Reflet]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 34 || [[Vantardise]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 35 || [[Blabla Dodo]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|-
+| CT 38 || [[Déflagration]] || style="vertical-align: middle;"|[[Fichier:type miniat feu.png]]
+|-
+| CT 44 || [[Repos]] || style="vertical-align: middle;"|[[Fichier:type miniat psy.png]]
+|-
+| CT 45 || [[Attraction]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="4" | [[Génération III]]
+|-
+! colspan="4" | Les [[CS]]
+|-
+! Numéro || [[Attaque]] || [[Type]] || [[Concours Pokémon|Concours]]
+|-
+| CS 03 || [[Surf]] || style="vertical-align: middle;"|[[Fichier:type miniat eau.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}}
+|-
+| CS 04 || [[Force]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}}
+|-
+| CS 06 || [[Éclate-Roc]] || style="vertical-align: middle;"|[[Fichier:type miniat combat.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}} 
+|-
+! colspan="4" | Les [[CT]]
+|-
+| CT 03 || [[Vibraqua]] || style="vertical-align: middle;"|[[Fichier:type miniat eau.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}} 
+|-
+| CT 06 || [[Toxik]] || style="vertical-align: middle;"|[[Fichier:type miniat poison.png]] || style="vertical-align: middle;" align="center"|{{type|intelligence}}  
+|-
+| style="vertical-align: middle;"|CT 10 || [[Puissance Cachée]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|intelligence}}
+|-
+| CT 11 || [[Zénith]] || style="vertical-align: middle;"|[[Fichier:type miniat feu.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}}
+|-
+| CT 13 || [[Laser Glace]] || style="vertical-align: middle;"|[[Fichier:type miniat glace.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}}
+|-
+| CT 14 || [[Blizzard]] || style="vertical-align: middle;"|[[Fichier:type miniat glace.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}}
+|-
+| CT 15 || [[Ultralaser]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}}
+|-
+| CT 17 || [[Abri]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}}
+|-
+| CT 18 || [[Danse Pluie]] || style="vertical-align: middle;"|[[Fichier:type miniat eau.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}}
+|-
+| CT 21 || [[Frustration]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}}
+|-
+| CT 22 || [[Lance-Soleil]] || style="vertical-align: middle;"|[[Fichier:type miniat plante.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}}
+|-
+| CT 23 || [[Queue de Fer]] || style="vertical-align: middle;"|[[Fichier:type miniat acier.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}}
+|-
+| CT 24 || [[Tonnerre]] || style="vertical-align: middle;"|[[Fichier:type miniat electrique.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}}
+|-
+| CT 25 || [[Fatal-Foudre]] || style="vertical-align: middle;"|[[Fichier:type miniat electrique.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}}
+|-
+| CT 26 || [[Séisme]] || style="vertical-align: middle;"|[[Fichier:type miniat sol.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}}
+|-
+| CT 27 || [[Retour]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}}
+|-
+| CT 32 || [[Reflet]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}}
+|-
+| style="vertical-align: middle;"|CT 34 || [[Onde de Choc (attaque)|Onde de Choc]] || style="vertical-align: middle;"|[[Fichier:type miniat electrique.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} 
+|-
+| style="vertical-align: middle;"|CT 35 || [[Lance-Flamme]] || style="vertical-align: middle;"|[[Fichier:type miniat feu.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}}
+|-
+| CT 37 || [[Tempêtesable]] || style="vertical-align: middle;"|[[Fichier:type miniat roche.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}}
+|-
+| CT 38 || [[Déflagration]] || style="vertical-align: middle;"|[[Fichier:type miniat feu.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}}
+|-
+| CT 39 || [[Tomberoche]] || style="vertical-align: middle;"|[[Fichier:type miniat roche.png]] || style="vertical-align: middle;" align="center"|{{type|intelligence}}
+|-
+| CT 42 || [[Façade]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}}
+|-
+| CT 43 || [[Force Cachée]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|intelligence}}
+|-
+| CT 44 || [[Repos]] || style="vertical-align: middle;"|[[Fichier:type miniat psy.png]] || style="vertical-align: middle;" align="center"|{{type|grace}}
+|-
+| CT 45 || [[Attraction]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}}
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="5" | [[Génération IV]]
+|-
+! colspan="5" | Les [[CS]]
+|-
+! Numéro || [[Attaque]] || [[Type]] || [[Concours Pokémon|Concours]] || [[Catégories d'attaque|Catégorie]]
+|-
+| CS 03 || [[Surf]] || style="vertical-align: middle;"|[[Fichier:type miniat eau.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]]
+|-
+| CS 04 || [[Force]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;"  align="center"|{{type|robustesse}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CS 06 || [[Éclate-Roc]] || style="vertical-align: middle;"|[[Fichier:type miniat combat.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]] 
+|-
+| CS 08 || [[Escalade]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]] 
+|-
+! colspan="5" | Les [[CT]]
+|-
+| CT 03 || [[Vibraqua]] || style="vertical-align: middle;"|[[Fichier:type miniat eau.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]] 
+|-
+| CT 06 || [[Toxik]] || style="vertical-align: middle;"|[[Fichier:type miniat poison.png]] ||style="vertical-align: middle;"  align="center"|{{type|intelligence}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]  
+|-
+| style="vertical-align: middle;"|CT 10 || [[Puissance Cachée]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|intelligence}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]]
+|-
+| CT 11 || [[Zénith]] || style="vertical-align: middle;"|[[Fichier:type miniat feu.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| CT 13 || [[Laser Glace]] || style="vertical-align: middle;"|[[Fichier:type miniat glace.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]]
+|-
+| CT 14 || [[Blizzard]] || style="vertical-align: middle;"|[[Fichier:type miniat glace.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]]
+|-
+| CT 15 || [[Ultralaser]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]]
+|-
+| CT 17 || [[Abri]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| CT 18 || [[Danse Pluie]] || style="vertical-align: middle;"|[[Fichier:type miniat eau.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| CT 21 || [[Frustration]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 22 || [[Lance-Soleil]] || style="vertical-align: middle;"|[[Fichier:type miniat plante.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]]
+|-
+| CT 23 || [[Queue de Fer]] || style="vertical-align: middle;"|[[Fichier:type miniat acier.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 24 || [[Tonnerre]] || style="vertical-align: middle;"|[[Fichier:type miniat electrique.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]]
+|-
+| CT 25 || [[Fatal-Foudre]] || style="vertical-align: middle;"|[[Fichier:type miniat electrique.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]]
+|-
+| CT 26 || [[Séisme]] || style="vertical-align: middle;"|[[Fichier:type miniat sol.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 27 || [[Retour]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 32 || [[Reflet]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| style="vertical-align: middle;"|CT 34 || [[Onde de Choc (attaque)|Onde de Choc]] || style="vertical-align: middle;"|[[Fichier:type miniat electrique.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]] 
+|-
+| style="vertical-align: middle;"|CT 35 || [[Lance-Flamme]] || style="vertical-align: middle;"|[[Fichier:type miniat feu.png]] ||style="vertical-align: middle;" align="center"|{{type|beaute}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]]
+|-
+| CT 37 || [[Tempêtesable]] || style="vertical-align: middle;"|[[Fichier:type miniat roche.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| CT 38 || [[Déflagration]] || style="vertical-align: middle;"|[[Fichier:type miniat feu.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat special.gif]]
+|-
+| CT 39 || [[Tomberoche]] || style="vertical-align: middle;"|[[Fichier:type miniat roche.png]] || style="vertical-align: middle;" align="center"|{{type|intelligence}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 42 || [[Façade]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 43 || [[Force Cachée]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|intelligence}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 44 || [[Repos]] || style="vertical-align: middle;"|[[Fichier:type miniat psy.png]] || style="vertical-align: middle;" align="center"|{{type|grace}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| CT 45 || [[Attraction]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| CT 58 || [[Ténacité]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| CT 66 || [[Représailles]] || style="vertical-align: middle;"|[[Fichier:type miniat tenebres.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 68 || [[Giga Impact]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 71 || [[Lame de Roc]] || style="vertical-align: middle;"|[[Fichier:type miniat roche.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 78 || [[Séduction]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|beaute}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| CT 80 || [[Éboulement]] || style="vertical-align: middle;"|[[Fichier:type miniat roche.png]] || style="vertical-align: middle;" align="center"|{{type|robustesse}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 82 || [[Blabla Dodo]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| CT 83 || [[Don Naturel]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|sang-froid}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat physique.gif]]
+|-
+| CT 87 || [[Vantardise]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|grace}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|-
+| CT 90 || [[Clonage (attaque)|Clonage]] || style="vertical-align: middle;"|[[Fichier:type miniat normal.png]] || style="vertical-align: middle;" align="center"|{{type|intelligence}} || style="vertical-align: middle;" align="center"|[[Fichier:categorie miniat autre.gif]]
+|}
+|}
+
+===Par [[reproduction]]===
+
+Tauros n'apprend pas d'attaques par reproduction.
+
+Cependant n'oubliez pas qu'il peut tout de même apprendre par cette méthode les attaques qu'il devrait normalement avoir par CT ou CS, ce qui peut vous faire économiser de précieuses CT.
+
+===Par [[donneur de capacités]]===
+
+;Dans {{C}}
+*[[Lance-Flamme]]
+*[[Laser Glace]]
+*[[Tonnerre]]
+
+;Dans {{RFVF}}
+* [[Clonage (attaque)|Clonage]]
+* [[Copie]]
+* [[Damoclès]]
+* [[Plaquage]]
+
+;Dans {{E}}
+* [[Blabla Dodo]]
+* [[Ronflement]]
+* [[Ténacité]]
+* [[Vantardise]]
+* [[Vent Glace]]
+
+===Par d'autres moyens===
+
+Dans ''[[Pokémon XD : le Souffle des Ténèbres]]'', avant d'être purifié Tauros connaît les attaques :
+* [[Charge Noire]] ;
+* [[Blocage Noir]] ;
+* [[Percée Noire]] ;
+* [[Rage Noire]].
+
+Il apprend aussi [[Régénération]] après avoir été purifié.
+
+==Sensibilités==
+
+{{Sensibilités
+| type=normal
+| sensib-combat=2
+| sensib-spectre=0
+}}
+
+==Statistiques==
+
+{{Statistiques
+|type=normal
+|PV=75
+|attaque=100
+|defense=95
+|atq-spc=40
+|def-spc=70
+|vitesse=110
+|special=70
+}}
+
+==Imagerie==
+{{Imagerie Pokémon
+| pokemon=Tauros
+| numero=128
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Tauros RB.png
+| forme=8
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Tauros n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasions :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Tauros|Tauros JEREMY]] (États-Unis)
+* '''2006'''
+** [[Liste des Pokémon distribués en 2006#Tauros|Tauros Gotta Catch'Em All]] (Japon)
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+
+Tauros a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 36. Pour plus d'informations, voir ''[[Tauros (Premier Défi 36)]]''.
+
+[[Fichier:JFC-Premier Défi-36.png|thumb|center|La figurine de Tauros]]
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:Tauros de Sacha.png|left|thumb|Le Tauros de Sacha lors du combat contre [[Capucine]].]]
+
+{{Article principal|Tauros de Sacha}}
+
+Tauros est brièvement apparu pour la première fois dans l'épisode ''[[Épisode 33|Le Poké-marathon]]''.
+
+Cependant on retient surtout son apparition dans l'épisode ''[[Épisode 35|La légende de Minidraco]]'' où [[Sacha]] capture 30 Tauros au [[Parc Safari (Kanto)|Parc Safari]] de [[Kanto]]. Mais cet épisode est seulement apparu au Japon. Il a été censuré car le propriétaire du Parc Safari a menacé Sacha avec un fusil et l'a rechargé.
+
+Il utilise un de ses Tauros pour la première fois dans l'épisode ''[[Épisode 111|Bienvenue à Pomelo]]'', où Sacha triomphe de la [[Ligue Orange]].
+
+On a vu aussi deux Tauros tirer une diligence dans l'épisode ''[[Les bons, les brutes et les Pokémon]]'' et de nombreux dans ''[[Échanges et mélanges]]''.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 33]]
+:{{PCap|Pok}}é{{PCap|mon}} Buffle. Quand il se fouette les flancs avec ses trois queues, son [[attaque]] [[Charge]] détruit tout sur son passage.
+
+;[[Épisode 35]]
+
+{{Ruban Pokémon
+| nomPrécédent=Scarabrute
+| numéro=128
+| nom=Tauros
+| nomSuivant=Magicarpe
+}}
+
+[[Catégorie:Pokémon uniquement mâle]]
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/128| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Tauros| ]]
+
+[[de:Tauros]]
+[[en:Tauros (Pokémon)]]
+[[es:Tauros]]
+[[it:Tauros]]
+[[ja:ケンタロス]]
+[[pl:Tauros]]
+[[pt:Tauros (pokémon)]]

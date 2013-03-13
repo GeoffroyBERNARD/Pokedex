@@ -1,0 +1,543 @@
+{{Ruban Pokémon
+| nomPrécédent=Évoli
+| numéro=134
+| nom=Aquali
+| nomSuivant=Voltali
+}}
+{{Infobox Pokémon
+| nom=Aquali
+| nomen=Vaporeon
+| nomja=シャワーズ
+| nomtm=Showers
+| nomromaji=Shawāzu
+| nomde=Aquana
+| légende=Artwork d'Aquali pour {{RFVF}}
+| ndex=134
+| jdex=181
+| njdex=185
+| hdex=289
+| sdex=164
+| fdex=183
+| adex=098
+| odex=R-076
+| opdex=N-055
+| espece=Bulleur
+| taille=1.0
+| poids=29.0
+| oeufpas=8960
+| type1=Eau
+| groupoeuf1=Sol
+| effortval=+2 PV
+| expval=196
+| expmax=1000000
+| fmratio=.125
+| captureval=45
+| couleur=Bleu
+| capspe1=Absorb Eau
+| capspe2=Hydratation
+| capspe2-reve=oui
+| forme=8}}
+'''Aquali''' (anglais : '''Vaporeon''' ; japonais : '''シャワーズ''' ''Showers'') est un [[Pokémon]] de [[type]] {{type|eau}} de la [[première génération]] et l'une des [[évolution]]s possibles d'[[Évoli]].
+
+== À propos du Pokémon ==
+===Physionomie===
+Ce pokémon vit sur les belles plages, sa structure cellulaire étant la même que l'eau, il peut se liquéfier et même devenir totalement invisible sous effet d'humidité. Il possède la faculté de contrôler l'eau à volonté. Rares sont les personnes l'ayant vu à l'état sauvage croyant plutôt à un mirage des océans.
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Aquali est l'évolution d'[[Évoli]] lorsqu'il est mis en contact avec une [[Pierre Eau]].
+{{TableauEvolutionHaut|Normal|Évoli|8}}
+{{TableauEvolutionConditionBranche/1|Avec une [[Pierre Eau]]|imageObjet=Miniat pierre eau dp.png}}
+{{TableauEvolutionConditionBranche|Avec une [[Pierre Foudre]]|imageObjet=Miniat pierre foudre dp.png}}
+{{TableauEvolutionConditionBranche|Avec une [[Pierre Feu]]|imageObjet=Miniat pierre feu dp.png}}
+{{TableauEvolutionConditionBranche|[[Bonheur]], Jour}}
+{{TableauEvolutionConditionBranche|[[Bonheur]], Nuit}}
+{{TableauEvolutionConditionBranche|Près d'une [[Pierre Mousse]] + gagne un niveau}}
+{{TableauEvolutionConditionBranche|Près d'une [[Pierre Glacée]] + gagne un niveau}}
+{{TableauEvolutionConditionBranche|Inconnu}}
+{{TableauEvolutionBranche/1|Aquali}}
+{{TableauEvolutionBranche|Voltali}}
+{{TableauEvolutionBranche|Pyroli}}
+{{TableauEvolutionBranche|Mentali}}
+{{TableauEvolutionBranche|Noctali}}
+{{TableauEvolutionBranche|Phyllali}}
+{{TableauEvolutionBranche|Givrali}}
+{{TableauEvolutionBranche|Nymphali}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+*anglais : Vaporeon ; Vapor (vapeur) + Suffixe -eon
+*allemand : Aquana ; Aqua (eau en latin) + Suffixe -na
+*japonais : Showers ; "Averses" en anglais.
+*francais : Aquali ; Aqua (eau en latin) + li (force en Japonais)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il vit au bord de l'eau. Sa queue lui donne l'apparence d'une sirène.
+;[[Pokémon Jaune]]
+:Sa structure cellulaire est semblable à celle de l'eau. Il est invisible en milieu aquatique.
+;[[Pokémon Stadium]]
+:Il se repose au bord des lacs. Son code génétique est identique à celui de l'eau. Il peut donc se fondre en milieu aquatique.
+;[[Pokémon Or]]
+:Si ses nageoires vibrent, il y a des chances pour qu'il se mette à pleuvoir dans les prochaines heures.
+;[[Pokémon Argent]]
+:Il préfère les belles plages.Il peut se dissoudre dans l'eau grâce à ses cellules proches de l'eau.
+;[[Pokémon Cristal]]
+:En remuant sa nageoire caudale, il entre en parfaite symbiose avec l'eau.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Aquali}} a subi une mutation spontanée. Des nageoires et des branchies sont apparues sur son corps, ce qui lui permet de vivre dans les fonds marins. Ce {{PCap|Pok}}é{{PCap|mon}} peut contrôler l'eau à volonté.
+;[[Pokémon Émeraude]]
+:{{PCap|Aquali}} a subi une mutation spontanée. Des nageoires et des branchies sont apparues pour lui permettre de vivre dans les fonds marins. Il contrôle l'eau à volonté.
+;[[Pokémon Rouge Feu]]
+:Sa structure cellulaire est similaire à la composition moléculaire de l'eau. Une fois dans l'eau, Il devient indétectable à l'œil nu.
+;[[Pokémon Vert Feuille]]
+:Il vit au bord de l'eau. Sa queue lui donne l'apparence d'une sirène.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Aquali}} est une clé du mystère du Temple de [[Fiore]]. Il attaque avec un rayon arc-en-ciel.
+;[[Pokémon Diamant et Perle]]
+:Il a évolué pour s'adapter au milieu aquatique. Il peut se fondre et disparaître dans l'élément liquide.
+;[[Pokémon Ranger 2]]
+:Il attaque en envoyant des bulles et des boules d'eau avec sa bouche.
+;[[Pokémon Platine]]
+:Sa composition moléculaire est proche de celle de l'eau, ce qui lui permet de se liquéfier.
+;[[Pokémon Or HeartGold]]
+:Si ses nageoires vibrent, il y a des chances pour qu'il se mette à pleuvoir dans les prochaines heures.
+;[[Pokémon Argent SoulSilver]]
+:Il préfère les belles plages. Il peut se dissoudre à volonté grâce à ses cellules proches de l'eau.
+;[[Pokémon Noir et Blanc]]
+:Sa composition moléculaire est proche de celle de l'eau, ce qui lui permet de se liquéfier.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]]
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]]
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]]
+|-
+| [[Pokémon Argent|Argent]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]]
+|-
+| [[Cristal]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| [[Rubis]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Saphir]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]].
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]].
+|-
+| [[Colosseum]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[XD]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]].
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]].
+|-
+| [[Pokémon Platine|Platine]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Eau]].
+|}
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Jet de Sable|-|100|15}}
+{{Attaque|N.27|Vive-Attaque|40|100|30}}
+{{Attaque|N.31|Pistolet à O|40|100|25}}
+{{Attaque|N.37|Mimi-Queue|-|100|30}}
+{{Attaque|N.40{{Sup|R}}{{Sup|B}}<br>N.30{{Sup|J}}|Morsure|60|100|25}}
+{{Attaque|N.36{{Sup|J}}|Onde Boréale|65|100|20}}
+{{Attaque|N.42{{Sup|R}}{{Sup|B}}<br>N.47{{Sup|J}}|Acidarmure|-|-|40}}
+
+{{Attaque|N.44{{Sup|R}}{{Sup|B}}<br>N.42{{Sup|J}}|Buée Noire|-|-|30}}
+{{Attaque|N.48{{Sup|R}}{{Sup|B}}|Brume|-|-|30}}
+{{Attaque|N.54{{Sup|R}}{{Sup|B}}<br>N.52{{Sup|J}}|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|N.8|Jet de Sable|-|100|15}}
+{{Attaque|N.16|Pistolet à O|40|100|25}}
+{{Attaque|N.23|Vive-Attaque|40|100|30}}
+{{Attaque|N.30|Morsure|60|100|25}}
+{{Attaque|N.36|Onde Boréale|65|100|20}}
+{{Attaque|N.42|Buée Noire|-|-|30}}
+{{Attaque|N.47|Acidarmure|-|-|40}}
+{{Attaque|N.52|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ|Coup d'Main|-|100|20|intelligence|2|0}}
+{{Attaque-III|N.8|Jet de Sable|-|100|15|grâce|2|1}}
+{{Attaque-III|N.16|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|N.23|Vive-Attaque|40|100|30|sang-froid|3|0}}
+{{Attaque-III|N.30|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.36|Onde Boréale|65|100|20|beauté|2|1}}
+{{Attaque-III|N.42|Buée Noire|-|-|30|beauté|3|0}}
+{{Attaque-III|N.47|Acidarmure|-|-|40|robustesse|1|0}}
+{{Attaque-III|N.52|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|Départ|Coup d'Main|-|-|20|intelligence|1}}
+{{Attaque-IV|N.8|Jet de Sable|-|100|15|grâce|2}}
+{{Attaque-IV|N.15|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.22|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|N.29|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.36|Onde Boréale|65|100|20|beauté|2}}
+{{Attaque-IV|N.43|Anneau Hydro|-|-|20|beauté|2}}
+{{Attaque-IV|N.50|Dernierecour|130|100|5|grâce|0}}
+{{Attaque-IV|N.57|Buée Noire|-|-|30|beauté|2}}
+{{Attaque-IV|N.64|Acidarmure|-|-|40|robustesse|0}}
+{{Attaque-IV|N.71|Hydrocanon|120|80|5|beauté|2}}
+{{Attaque-IV|N.78{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Ocroupi|95|85|10|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ|Coup d'Main|-|-|20}}
+{{Attaque-V|N.8|Jet de Sable|-|100|15}}
+{{Attaque-V|N.15|Pistolet à O|40|100|25}}
+{{Attaque-V|N.22|Vive-Attaque|40|100|30}}
+{{Attaque-V|N.29|Morsure|60|100|25}}
+{{Attaque-V|N.36|Onde Boréale|65|100|20}}
+{{Attaque-V|N.43|Anneau Hydro|-|-|20}}
+{{Attaque-V|N.50|Dernierecour|140|100|5}}
+{{Attaque-V|N.57|Buée Noire|-|-|30}}
+{{Attaque-V|N.64|Acidarmure|-|-|40}}
+{{Attaque-V|N.71|Hydrocanon|120|80|5}}
+{{Attaque-V|N.78|Ocroupi|95|85|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || {{type|poison}}
+|-
+|CT 08 || [[Plaquage]] || {{type|normal}}
+|-
+|CT 09 || [[Bélier]] || {{type|normal}}
+|-
+|CT 10 || [[Damoclès]] || {{type|normal}}
+|-
+|CT 11 || [[Bulles d'O]] || {{type|eau}}
+|-
+|CT 12 || [[Pistolet à O]] || {{type|eau}}
+|-
+|CT 13 || [[Laser Glace]] || {{type|glace}}
+|-
+|CT 14 || [[Blizzard]] || {{type|glace}}
+|-
+|CT 15 || [[Ultralaser]] || {{type|normal}}
+|-
+|CT 20 || [[Frénésie]] || {{type|normal}}
+|-
+|CT 31 || [[Copie]] || {{type|normal}}
+|-
+|CT 32 || [[Reflet]] || {{type|normal}}
+|-
+|CT 33 || [[Protection]] || {{type|psy}}
+|-
+|CT 34 || [[Patience]] || {{type|normal}}
+|-
+|CT 39 || [[Météores]] || {{type|normal}}
+|-
+|CT 40 || [[Coud'Krâne]] || {{type|normal}}
+|-
+|CT 44 || [[Repos]] || {{type|psy}}
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || {{type|normal}}
+|-
+|CS 03 || [[Surf]] || {{type|eau}}
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À compléter
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+| CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+| CS 08 || [[Plongée]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 05 || [[Hurlement]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+| CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+| CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+| CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+| CT 30 || [[Ball'Ombre]] || [[Fichier:type miniat spectre.png]]
+|-
+| CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+| CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+| CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+| CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 05 || [[Hurlement]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+| CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+| CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+| CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+| CT 30 || [[Ball'Ombre]] || [[Fichier:type miniat spectre.png]]
+|-
+| CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 43 || [[Force Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 55 || [[Saumure]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 58 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 68 || [[Giga Impact]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 78 || [[Séduction]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 82 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 83 || [[Don Naturel]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 87 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 90 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|}
+|}
+
+===Par Donneur de Capacités===
+
+==Sensibilités==
+{{Sensibilités
+|type=eau
+|sensib-acier=0.5
+|sensib-eau=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-plante=2
+|rmq-eau=Lorsque la [[capacité spéciale]] [[Absorb Eau]] de '''{{PAGENAME}}''' est active, les attaques de type [[Eau]] ne produisent pas de dégâts sur lui.
+|rmq-eau-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=130
+|attaque=65
+|defense=60
+|atq-spc=110
+|def-spc=95
+|vitesse=65
+|special=110
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Aquali
+| numero=134
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Aquali RB.png
+| forme=8
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+| almia=oui
+}}
+
+== Apparitions dans le [[dessin animé]] ==
+
+Aquali a fait plusieurs apparitions mineures. Lui, Pyroli et Voltali sont présents dans l'[[Épisode 40]], ''La montagne de l'évolution''. Il apparaît aussi dans l'[[Épisode 86]], ''Pikachu se ré-volt !'' en tant que Pokémon contrôlé par Soporifik. C'est d'ailleurs une scène de cet épisode qui est reprise dans le générique de la saison 2, où Aquali lance Pistolet à O avec d'autres Pokémon de ce type.
+
+Aquali peut être vu à plusieurs reprises dans [[Pokémon : Le Film]], en tant que Pokémon de Fergus.
+
+Plus récemment, un [[Aquali d'Ursula|Aquali]] a pu être vu auprès d'[[Ursula]], suite à l'évolution de son [[Évoli]] lors d'un [[concours Pokémon]]. 
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 426]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Bulleur. {{PCap|[[Aquali]]}} aime nager dans les eaux fraîches et limpides et peut se fondre complétement dans l'[[eau]].
+;[[Épisode 640]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Bulleur est l'évolution d'{{PCap|Évoli}}. La composition de ses cellules est identique aux molécules de l'eau et elles peuvent ainsi se fondre dans l'eau.
+
+{{Ruban Pokémon
+| nomPrécédent=Évoli
+| numéro=134
+| nom=Aquali
+| nomSuivant=Voltali
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/134| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Vaporeon| ]]
+
+[[de:Aquana]]
+[[en:Vaporeon (Pokémon)]]
+[[es:Vaporeon]]
+[[it:Vaporeon]]
+[[ja:シャワーズ]]
+[[pl:Vaporeon]]
+[[pt:Vaporeon (pokémon)]]

@@ -1,0 +1,272 @@
+{{Ruban Pokémon
+| nomPrécédent=Kicklee
+| numéro=107
+| nom=Tygnon
+| nomSuivant=Excelangue
+}}
+{{Infobox Pokémon
+| nom=Tygnon
+| nomen=Hitmonchan
+| nomja=エビワラー
+| nomtm=Ebiwalar
+| nomromaji=Ebiwarā
+| nomde=Nockchan
+| légende=Artwork de Tygnon pour {{RFVF}}
+| ndex=107
+| jdex=145
+| njdex=147
+| hdex=275
+| odex=R-102
+| opdex=N-072
+| type1=Combat
+| espece=Puncheur
+| taille=1.4
+| poids=50.2
+| capspe1=Regard Vif
+| capspe2=Poing de Fer
+| capspe3=Attention
+| groupoeuf1=Humanoïde
+| oeufpas=6400
+| effortval=+2 Déf. Spé
+| expval=140
+| expmax=1000000
+| fmratio=0
+| captureval=45
+| couleur=Marron
+| forme=12
+}}
+'''Tygnon''' (anglais : '''Hitmonchan''' ; japonais : '''サワムラー''' ''Ebiwalar'') est un [[Pokémon]] de [[type]] {{type|combat}} de la [[première génération]].
+
+==À propos de Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Cette espèce est composée uniquement d'individus mâles.
+
+===Évolution===
+Dans la [[première génération]], Tygnon était un Pokémon de base, mais il a été ultérieurement découvert qu'il est l'évolution de [[Débugant]] au niveau 20 si et seulement si ce dernier possède une statistique d'attaque inférieure à sa statistique de défense (faute de quoi l'évolution se fait en un Pokémon différent).
+{{TableauEvolutionHaut|Combat|Débugant|3}}
+{{TableauEvolutionConditionBranche/1|Niveau 20, Attaque > Défense}}
+{{TableauEvolutionConditionBranche|Niveau 20, Attaque < Défense}}
+{{TableauEvolutionConditionBranche|Niveau 20, Attaque et Défense identiques}}
+{{TableauEvolutionBranche/1|Kicklee}}
+{{TableauEvolutionBranche|Tygnon}}
+{{TableauEvolutionBranche|Kapoera}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+* Français : vient de ''Tyson'' et ''gnon''
+* Allemand : vient de ''knock''(coups en anglais) et de ''Jackie Chan''
+* Anglais : vient de ''hit''(coups) et de ''Jackie Chan''
+Ironique, puisque le Pokémon n'a rien à voir avec Jackie Chan. Il est beaucoup plus proche du boxeur Mike Tyson comme l'indique son nom français.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il distribue des séries de coups de poings rapide comme l'éclair, invisibles à l'œil nu.
+;[[Pokémon Jaune]]
+:Ses coups de poings rotatifs sont si puissants qu'il peut forer le béton comme un marteau-piqueur.
+;[[Pokémon Stadium]]
+:Il envoie ses poings plus vite que le train express Paris - Sarcelles. Il travaille son jeu de jambes toutes les trois minutes.
+;[[Pokémon Or]]
+:Ses poings fendent l'air ! Mais il a besoin d'une petite pause toutes les trois minutes.
+;[[Pokémon Argent]]
+:Ses poings fendent l'air. Ils sont si rapides qu'un simple frôlement peut causer une brûlure.
+;[[Pokémon Cristal]]
+:Pour augmenter la puissance de ses coups de poing, il tourne ses bras juste avant de toucher sa cible.
+;[[Pokémon Rubis et Saphir]]
+:On raconte que {{PCap|Tygnon}} dispose de l'état d'esprit d'un boxeur qui s'entraîne pour le championnat du monde. Ce {{PCap|Pok}}é{{PCap|mon}} est doté d'une ténacité à toute épreuve et n'abandonne jamais face à l'adversaire.
+;[[Pokémon Émeraude]]
+:On raconte qu'il a l'état d'esprit d'un boxeur s'entraînant pour le championnat du monde. Il a une ténacité à toute épreuve et n'abandonne jamais.
+;[[Pokémon Rouge Feu]]
+:{{PCap|Tygnon}} possède l'esprit combatif des plus grands champion de boxes. Ses coups de poing partent plus vite qu'un boulet de canon.
+;[[Pokémon Vert Feuille]]
+:Il distribue des séries de coups de poing rapides comme l'éclair et invisible à l'œil nu.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Même le béton cède sous ses poings dévastateurs. Au combat, il s'essouffle au bout de 3 minutes.
+;[[Pokémon Or HeartGold]]
+:Ses poings fendent l'air ! Mais il a besoin d'une petite pause toutes les 3 minutes.
+;[[Pokémon Argent SoulSilver]]
+:Ses poings fendent l'air. Ils sont si rapides qu'un simple frôlement peut causer une brûlure.
+;[[Pokémon Noir et Blanc]]
+:Même le béton cède sous ses poings dévastateurs. Au combat, il s'essouffle au bout de 3 minutes.
+
+==Localisation==
+
+=== [[Première génération]] ===
+
+S'obtient en battant le maître du [[Dojo de Safrania]].
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Combat}}; width:150px" | Version
+! style="background-color:{{Couleur|Combat}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Combat}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Combat}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Blanc}};" | {{Couleur lien|#000000|Blanc}} 
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| rowspan="2" style="vertical-align:middle;" | Faire évoluer [[Débugant]]
+| rowspan="2" style="vertical-align:middle;" | 20
+|-
+| style="background:{{Couleur|Noir}};" | {{Couleur lien|#FFFFFF|Noir}}
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Poing Comète|18|85|15}}
+{{Attaque|Départ|Hâte|-|-|30}}
+{{Attaque|N.33|Poing de Feu|75|100|15}}
+{{Attaque|N.38|Poinglace|75|100|15}}
+{{Attaque|N.43|Poing-Éclair|75|100|15}}
+{{Attaque|N.48|Ultimapoing|80|85|20}}
+{{Attaque|N.53|Riposte|-|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Poing Comète|18|85|15}}
+{{Attaque|N.7|Hâte|-|-|30}}
+{{Attaque|N.13|Poursuite|40|100|20}}
+{{Attaque|N.26|Poing de Feu|75|100|15}}
+{{Attaque|N.26|Poinglace|75|100|15}}
+{{Attaque|N.26|Poing-Éclair|75|100|15}}
+{{Attaque|N.32|Mach Punch|40|100|30}}
+{{Attaque|N.38|Ultimapoing|80|85|20}}
+{{Attaque|N.44|Détection|-|-|5}}
+{{Attaque|N.50|Riposte|-|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Vendetta|60|100|10|robustesse|3|0}}
+{{Attaque-III|Départ|Poing Comète|18|85|15|robustesse|2|0}}
+{{Attaque-III|N.7|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.13|Poursuite|40|100|20|intelligence|2|1}}
+{{Attaque-III|N.20|Mach Punch|40|100|30|sang-froid|3|0}}
+{{Attaque-III|N.26|Poing-Éclair|75|100|15|sang-froid|4|0}}
+{{Attaque-III|N.26|Poinglace|75|100|15|beauté|4|0}}
+{{Attaque-III|N.26|Poing de Feu|75|100|15|beauté|4|0}}
+{{Attaque-III|N.32|Stratopercut|85|90|15|sang-froid|2|1}}
+{{Attaque-III|N.38|Ultimapoing|80|85|20|robustesse|4|0}}
+{{Attaque-III|N.44|Détection|-|-|5|sang-froid|2|0}}
+{{Attaque-III|N.50|Riposte|-|100|20|robustesse|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Vendetta|60|100|10|robustesse|2}}
+{{Attaque-IV|Départ|Poing Comète|18|85|15|robustesse|2}}
+{{Attaque-IV|N.6|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.11|Poursuite|40|100|20|intelligence|1}}
+{{Attaque-IV|N.16|Mach Punch|40|100|30|sang-froid|2}}
+{{Attaque-IV|N.16|Pisto-Poing|40|100|30|intelligence|2}}
+{{Attaque-IV|N.21|Ruse|50|100|10|beauté|0}}
+{{Attaque-IV|N.26|Onde Vide|40|100|30|intelligence|2}}
+{{Attaque-IV|N.31|Poing-Éclair|75|100|15|sang-froid|2}}
+{{Attaque-IV|N.31|Poinglace|75|100|15|beauté|2}}
+{{Attaque-IV|N.31|Poing de Feu|75|100|15|beauté|2}}
+{{Attaque-IV|N.36|Stratopercut|85|90|15|sang-froid|2}}
+{{Attaque-IV|N.41|Ultimapoing|80|85|20|robustesse|2}}
+{{Attaque-IV|N.46|Détection|-|-|5|sang-froid|0}}
+{{Attaque-IV|N.51|Riposte|-|100|20|robustesse|2}}
+{{Attaque-IV|N.56|Close-Combat|120|100|5|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Vendetta|60|100|10}}
+{{Attaque-V|Départ|Poing Comète|18|85|15}}
+{{Attaque-V|N.6|Hâte|-|-|30}}
+{{Attaque-V|N.11|Poursuite|40|100|20}}
+{{Attaque-V|N.16|Mach Punch|40|100|30}}
+{{Attaque-V|N.16|Pisto-Poing|40|100|30}}
+{{Attaque-V|N.21|Ruse|30|100|10}}
+{{Attaque-V|N.26|Onde Vide|40|100|30}}
+{{Attaque-V|N.31|Prévention|-|-|15}}
+{{Attaque-V|N.36|Poing-Éclair|75|100|15}}
+{{Attaque-V|N.36|Poinglace|75|100|15}}
+{{Attaque-V|N.36|Poing de Feu|75|100|15}}
+{{Attaque-V|N.41|Stratopercut|85|90|15}}
+{{Attaque-V|N.46|Ultimapoing|80|85|20}}
+{{Attaque-V|N.51|Détection|-|-|5}}
+{{Attaque-V|N.56|Mitra-Poing|150|100|20}}
+{{Attaque-V|N.61|Riposte|-|100|20}}
+{{Attaque-V|N.66|Close-Combat|120|100|5}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+{{Sensibilités
+|type=Combat
+|sensib-tenebres=0.5
+|sensib-insecte=0.5
+|sensib-roche=0.5
+|sensib-psy=2
+|sensib-vol=2
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=combat
+|PV=50
+|attaque=105
+|defense=79
+|atq-spc=35
+|def-spc=110
+|vitesse=76
+|special=35
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Tygnon
+| numero=107
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Tygnon RB.png
+| forme=12
+| pinballRB-gif=oui
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Un Tygnon apparaît dans l'[[épisode 29]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 29]]
+:{{PCap|Pok}}é{{PCap|mon}} de [[Combat (type)|Combat]] très habile. Il porte ses coups avec une extrême rapidité.
+;[[Épisode 419]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Coupd'poing. {{PCap|Tygnon}} est spécialisé dans les [[attaque]]s coups de poing. Ses mouvements sont extrêmement rapides.  
+
+{{Ruban Pokémon
+| nomPrécédent=Kicklee
+| numéro=107
+| nom=Tygnon
+| nomSuivant=Excelangue
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon uniquement mâle]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/107| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Hitmonchan| ]]
+
+[[de:Nockchan]]
+[[en:Hitmonchan (Pokémon)]]
+[[es:Hitmonchan]]
+[[it:Hitmonchan]]
+[[ja:エビワラー]]
+[[pl:Hitmonchan]]
+[[pt:Hitmonchan (pokémon)]]

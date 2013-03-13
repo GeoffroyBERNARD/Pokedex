@@ -1,0 +1,730 @@
+{{Ruban Pokémon
+| nomPrécédent=Draco
+| numéro=149
+| nom=Dracolosse
+| nomSuivant=Mewtwo
+}}
+{{Infobox Pokémon
+| nom=Dracolosse
+| nomen=Dragonite
+| nomja=カイリュー
+| nomtm=Kairyu
+| nomromaji=Kairyū
+| nomde=Dragoran
+| légende=Artwork par Ken Sugimori
+| ndex=149
+| jdex=243
+| njdex=248
+| hdex=305
+| fdex=038
+| espece=Dragon
+| taille=2.2
+| poids=210.0
+| fmratio=.500
+| oeufpas=10240
+| effortval=+3 Att.
+| type1=Dragon
+| type2=Vol
+| expval=218
+| expmax=1250000
+| captureval=45
+| groupoeuf1=Dragon
+| groupoeuf2=Eau 1
+| capspe1=Attention
+| capspe2=Multiécaille
+| capspe2-reve=oui
+| couleur=Marron
+| forme=6}}
+'''Dracolosse''' (anglais : '''Dragonite''' ; japonais : '''カイリュー''' ''Kairyu'') est un [[Pokémon]] de [[type]] {{type|dragon}} et {{type|vol}} de la [[première génération]] et est l'[[évolution]] de [[Draco]].
+
+==À propos du Pokémon==
+===Physionomie===
+Dracolosse ressemble une [[:wp:Vouivre|vouivre]] à la peau orange. Il est assez costaud et peut voler grâce à ses ailes, une corne et des antennes sont dressées sur sa tête.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Dracolosse est l'[[évolution]] de [[Draco]] à partir du [[niveau]] 55. Ce dernier est lui-même l'évolution de [[Minidraco]] à partir du niveau 30.
+{{TableauEvolutionHaut|Dragon|Minidraco}}
+{{TableauEvolutionSimple|[[Niveau]] 30|Draco}}
+{{TableauEvolutionSimple|[[Niveau]] 55|Dracolosse}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Dracolosse possède la capacité spéciale [[Attention]] qui l'empêche d'avoir peur.
+
+===Étymologies===
+* Français : vient de ''draco'' et ''colosse''
+* Anglais : vient de ''dragon'' et ''knight/night''. Draconite est une statue de dragon mythologique.
+* Japonais : 海 ''kai'' (ocean) et 竜 ''ryū'' (dragon).
+* Allemand : vient de ''Dragon'' et ''randalieren'' (faire du bruit).
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Un {{PCap|Pok}}é{{PCap|mon}} marin extrêmement rare. On dit qu'il est aussi intelligent que l'homme.
+;[[Pokémon Jaune]]
+: On raconte que ce {{PCap|Pok}}é{{PCap|mon}} vit quelque part dans la mer et qu'il peut voler. Rien n'est moins sûr.
+;[[Pokémon Stadium]]
+:Incroyablement intelligent, ce "Dieu des Mers" a la réputation de pouvoir voler autour du globe en moins de 16 heures.
+;[[Pokémon Or]]
+: Il paraît que ce {{PCap|Pok}}é{{PCap|mon}} survole en permanence les océans pour sauver les innocents qui se noient.
+;[[Pokémon Argent]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} marin a une carrure impressionnante qui lui permet de voler ou bon lui semble.
+;[[Pokémon Cristal]]
+: On dit qu'il existe une île dans l'océan où ces {{PCap|Pok}}é{{PCap|mon}} se réunissent pour vivre paisiblement.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Dracolosse}} est capable de faire le tour de la planète en seize heures à peine. C'est un {{PCap|Pok}}é{{PCap|mon}} au grand cœur qui ramène à bon port les navires perdus dans les tempêtes.
+;[[Pokémon Émeraude]]
+: {{PCap|Dracolosse}} est capable de faire le tour de la planète en seize heure à peine. Ce {{PCap|Pok}}é{{PCap|mon}} au grand cœur ramène à bon port les navires perdus dans les tempêtes.
+;[[Pokémon Rouge Feu]]
+: Malgré son poids et son physique imposant, {{PCap|Dracolosse}} est capable de voler. Il peut faire le tour du monde en 16 heures.
+;[[Pokémon Vert feuille]]
+: Un {{PCap|Pok}}é{{PCap|mon}} marin extrêmement rare. On dit qu'il est aussi intelligent que l'homme.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Dracolosse}} transporte les Rangers d'une ville à l'autre s'il pense qu'ils le méritent.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: On raconte qu'il vit quelque part en mer. Il guide les équipages naufragés jusqu'à la terre ferme.
+;[[Pokémon Or HeartGold]]
+:Il paraît que ce Pokémon survole en permanence les océans pour sauver les innocents qui se noient.
+;[[Pokémon Argent SoulSilver]]
+:Ce Pokémon marin a une carrure impressionnant qui lui permet de voler où bon lui semble.
+;[[Pokémon Noir et Blanc]]
+:On raconte qu'il vit quelque part en mer. Il guide les équipages naufragés jusqu'à la terre ferme.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center" 
+|-
+! style="background-color:{{Couleur|Dragon}}" | Version 
+! style="background-color:{{Couleur|Dragon}}" | Rareté
+! style="background-color:{{Couleur|Dragon}}" | Obtention
+|-
+| style="background:{{Couleur|Rouge}};" | {{Couleur lien|#000000|Rouge}} 
+| rowspan="3" style="vertical-align:middle;" | Inexistant
+| rowspan="3" style="vertical-align:middle;" | Faire évoluer [[Draco]]
+|-
+| style="background:{{Couleur|Bleu}};" | {{Couleur lien|#000000|Bleu}}
+|-
+| style="background:{{Couleur|Jaune}};" | {{Couleur lien|#000000|Jaune}}
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center"
+|-
+! style="background-color:{{Couleur|Dragon}}" | Version 
+! style="background-color:{{Couleur|Dragon}}" | Rareté
+! style="background-color:{{Couleur|Dragon}}" | Obtention
+|-
+| style="background:{{Couleur|Or}};" | {{Couleur lien|#000000|Or}} 
+| rowspan="3" style="vertical-align:middle;" | Inexistant
+| rowspan="3" style="vertical-align:middle;" | Faire évoluer [[Draco]]
+|-
+| style="background:{{Couleur|Argent}};" | {{Couleur lien|#000000|Argent}}
+|-
+| style="background:{{Couleur|Cristal}};" | {{Couleur lien|#000000|Cristal}}
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center" style="text-align:center"
+|-
+! style="background-color:{{Couleur|Dragon}}" | Version 
+! style="background-color:{{Couleur|Dragon}}" | Rareté
+! style="background-color:{{Couleur|Dragon}}" | Obtention
+|-
+| style="background:{{Couleur|Rubis}};" | {{Couleur lien|#000000|Rubis}} 
+| rowspan="3" style="vertical-align:middle;" | Inexistant
+| rowspan="3" style="vertical-align:middle;" | Faire évoluer [[Draco]]
+|-
+| style="background:{{Couleur|Saphir}};" | {{Couleur lien|#000000|Saphir}}
+|-
+| style="background:{{Couleur|Émeraude}};" | {{Couleur lien|#000000|Émeraude}}
+|-
+| style="background:{{Couleur|Rouge Feu}};" | {{Couleur lien|#000000|Rouge Feu}} 
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| rowspan="2" style="vertical-align:middle;" | Faire évoluer [[Draco]]
+|-
+| style="background:{{Couleur|Vert Feuille}};" | {{Couleur lien|#000000|Vert Feuille}}
+|-
+| style="background:{{Couleur|Colosseum}};" | {{Couleur lien|#000000|Colosseum}} || Inexistant || À échanger depuis {{RFVF}}.
+|-
+| style="background:{{Couleur|XD}};" | {{Couleur lien|#000000|XD}} || Unique || Purifier tous les [[Pokémon obscur]]s et se rendre à [[Port Amarrée]]
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Dragon}}; width:200x" | Version 
+! style="background-color:{{Couleur|Dragon}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Dragon}}; width:250px" | Obtention
+|-
+| style="background:{{Couleur|Diamant}};" | {{Couleur lien|#000000|Diamant}} 
+| rowspan="3" style="vertical-align:middle;" | Inexistant
+| rowspan="3" style="vertical-align:middle;" | Faire évoluer [[Draco]]
+|-
+| style="background:{{Couleur|Perle}};" | {{Couleur lien|#000000|Perle}}
+|-
+| style="background:{{Couleur|Platine}};" | {{Couleur lien|#000000|Platine}} 
+|-
+| style="background:{{Couleur|hg}};" | {{Couleur lien|#000000|Or HeartGold}} 
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| rowspan="2" style="vertical-align:middle;" | Faire évoluer [[Draco]]
+|-
+| style="background:{{Couleur|ss}};" | {{Couleur lien|#000000|Argent SoulSilver}}
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Dragon}}; width:150px" | Version
+! style="background-color:{{Couleur|Dragon}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Dragon}}; width:450px" | Obtention
+! style="background-color:{{Couleur|Dragon}}; width:50px" |Niveau
+|-
+| style="background:{{Couleur|Blanc}};" | {{Couleur lien|#000000|Blanc}} 
+| rowspan="2" style="vertical-align:middle;" | Rare
+| rowspan="2" style="vertical-align:middle;" | Pêche à la [[Tour Dragospire]]
+| rowspan="2" style="vertical-align:middle;" | 35-60
+|-
+| style="background:{{Couleur|Noir}};" | {{Couleur lien|#FFFFFF|Noir}}
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Cage-Éclair|-|100|20}}
+{{Attaque|Départ|Hâte|-|-|30}}
+{{Attaque|Départ|Souplesse|80|75|20}}
+{{Attaque|Départ|Draco-Rage|-|100|10}}
+{{Attaque|N.60|Ultralaser|150|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Cage-Éclair|-|100|20}}
+{{Attaque|Départ|Ouragan|40|100|20}}
+{{Attaque|Départ|Hâte|-|-|30}}
+{{Attaque|Départ|Souplesse|80|75|20}}
+{{Attaque|Départ|Draco-Rage|-|100|10}}
+{{Attaque|Départ|Rune Protect|-|-|25}}
+{{Attaque|N.55|Cru-Aile|60|100|35}}
+{{Attaque|N.61|Colère|90|100|10}}
+{{Attaque|N.75|Ultralaser|150|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Ligotage|15|85|20|robustesse|3|0}}
+{{Attaque-III|Départ|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ<br>N.8|Cage-Éclair|-|100|20|sang-froid|2|1}}
+{{Attaque-III|Départ<br>N.15|Ouragan|40|100|20|sang-froid|3|0}}
+{{Attaque-III|N.22|Draco-Rage|-|100|10|sang-froid|1|0}}
+{{Attaque-III|N.29|Souplesse|80|75|20|robustesse|2|1}}
+{{Attaque-III|N.38|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.47|Rune Protect|-|-|25|beauté|1|0}}
+{{Attaque-III|N.55|Cru-Aile|60|100|35|sang-froid|2|0}}
+{{Attaque-III|N.61|Colère|90|100|10|sang-froid|4|4}}
+{{Attaque-III|N.75|Ultralaser|150|90|5|sang-froid|4|4}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Poing de Feu|75|100|15|beauté|2}}
+{{Attaque-IV|Départ|Poing-Éclair|75|100|15|sang-froid|2}}
+{{Attaque-IV|Départ|Ligotage|15|85|20|robustesse|0}}
+{{Attaque-IV|Départ|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|Départ<br>N.5|Cage-Éclair|-|100|20|sang-froid|2}}
+{{Attaque-IV|Départ<br>N.11|Ouragan|40|100|20|sang-froid|3}}
+{{Attaque-IV|N.15|Draco-Rage|-|100|10|sang-froid|3}}
+{{Attaque-IV|N.21|Souplesse|80|75|20|robustesse|3}}
+{{Attaque-IV|N.25|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.33|Hydroqueue|90|90|10|grâce|3}}
+{{Attaque-IV|N.39|Dracocharge|100|75|10|sang-froid|2}}
+{{Attaque-IV|N.47|Rune Protect|-|-|25|beauté|2}}
+{{Attaque-IV|N.53|Danse Draco|-|-|20|sang-froid|0}}
+{{Attaque-IV|N.55|Cru-Aile|60|100|35|sang-froid|3}}
+{{Attaque-IV|N.64|Colère|120|100|10|sang-froid|2}}
+{{Attaque-IV|N.73|Ultralaser|150|90|5|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Poing de Feu|75|100|15}}
+{{Attaque-V|Départ|Poing-Éclair|75|100|15}}
+{{Attaque-V|Départ|Ligotage|15|90|20}}
+{{Attaque-V|Départ|Groz'Yeux|-|100|30}}
+{{Attaque-V|Départ<br>N.5|Cage-Éclair|-|100|20}}
+{{Attaque-V|Départ<br>N.11|Ouragan|40|100|20}}
+{{Attaque-V|N.15|Draco-Rage|-|100|10}}
+{{Attaque-V|N.21|Souplesse|80|75|20}}
+{{Attaque-V|N.25|Hâte|-|-|30}}
+{{Attaque-V|N.33|Draco-Queue|60|90|10}}
+{{Attaque-V|N.39|Hydroqueue|90|90|10}}
+{{Attaque-V|N.47|Dracocharge|100|75|10}}
+{{Attaque-V|N.53|Rune Protect|-|-|25}}
+{{Attaque-V|N.55|Cru-Aile|60|100|35}}
+{{Attaque-V|N.61|Danse Draco|-|-|20}}
+{{Attaque-V|N.67|Colère|120|100|10}}
+{{Attaque-V|N.75|Ultralaser|150|90|5}}
+{{Attaque-V|N.81|Vent Violent|120|70|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| class="wikitable collapsible collapsed" align="center" style="text-align:center;"
+! style="background-color: {{Couleur|Dragon}};" colspan="6" | {{Couleur lien|#FFFFFF|Génération I}}
+|-
+! colspan="2" | [[Attaque]]
+! [[Type]]
+! [[Puissance (statistique)|Puissance]]
+! [[Précision]]
+! [[PP]]
+|-
+| [[CT01]] || [[Ultimapoing]] || {{type|normal}} || 80 || 85% || 10
+|-
+| [[CT05]] || [[Ultimawashi]] || {{type|normal}} || 120 || 75% || 15
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}} || — || 85% || 10
+|-
+| [[CT08]] || [[Plaquage]] || {{type|normal}} || 85 || 100% || 15
+|-
+| [[CT09]] || [[Bélier]] || {{type|normal}} || 95 || 85% || 20
+|-
+| [[CT10]] || [[Damoclès]] || {{type|normal}} || 100 || 100% || 15
+|-
+| [[CT11]] || [[Bulles d'O]] || {{type|eau}} || 65 || 100% || 20
+|-
+| [[CT12]] || [[Pistolet à O]] || {{type|eau}} || 40 || 100% || 25
+|-
+| [[CT13]] || [[Laser Glace]] || {{type|glace}} || 95 || 100% || 10
+|-
+| [[CT14]] || [[Blizzard]] || {{type|glace}} || 120 || 89.5% || 5
+|-
+| [[CT20]] || [[Frénésie]] || {{type|normal}} || 20 || 100% || 20
+|-
+| [[CT23]] || [[Draco-Rage]] || {{type|dragon}} || — || 100% || 10
+|-
+| [[CT24]] || [[Tonnerre]] || {{type|électrique}} || 95 || 100% || 15 
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}} || 120 || 70% || 10
+|-
+| [[CT31]] || [[Copie]] || {{type|normal}} || — || — || 10
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}} || — || — || 15
+|-
+| [[CT33]] || [[Protection]] || {{type|psy}} || — || — || 20
+|-
+| [[CT34]] || [[Patience]] || {{type|normal}} || — || —  || 10
+|-
+| [[CT38]] || [[Déflagration]] || {{type|feu}} || 120 || 85% || 5
+|-
+| [[CT39]] || [[Météores]] || {{type|normal}} || 60 || — || 20 
+|-
+| [[CT40]] || [[Coud'Krâne]] || {{type|normal}} || 100 || 100% || 15
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}} || — || — || 10
+|-
+| [[CT45]] || [[Cage-Éclair]] || {{type|électrique}} || — || 100% || 20
+|-
+| [[CT50]] || [[Clonage (attaque)|Clonage]] || {{type|normal}} || — || — || 10
+|-
+| [[CS03]] || [[Surf]] || {{type|eau}} || 95 || 100% || 15
+|-
+| [[CS04]] || [[Force]] || {{type|normal}} || 80 || 100% || 15
+|}
+
+
+
+{| class="wikitable collapsible collapsed" align="center" style="text-align:center;"
+! style="background-color: {{Couleur|Dragon}};" colspan="6" | {{Couleur lien|#FFFFFF|Génération II}}
+|-
+! colspan="2" | [[Attaque]]
+! [[Type]]
+! [[Puissance (statistique)|Puissance]]
+! [[Précision]]
+! [[PP]]
+|-
+| [[CT02]] || [[Coup d'Boule]] || {{type|normal}} || 70 || 100% || 15
+|-
+| [[CT03]] || [[Malédiction]] || {{type|???}} || — || — || 10
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}} || — || 85% || 10
+|-
+| [[CT07]] || [[Élécanon]] || {{type|électrique}} || 100 || 50% || 5
+|-
+| [[CT10]] || [[Puissance Cachée]] || {{type|normal}} || — || 100% || 15
+|-
+| [[CT13]] || [[Ronflement]] || {{type|normal}} || 40 || 100% || 15
+|-
+| [[CT14]] || [[Blizzard]] || {{type|glace}} || 120 || 70% || 5
+|-
+| [[CT16]] || [[Vent Glace]] || {{type|glace}} || 55 || 95% || 15
+|-
+| [[CT17]] || [[Abri]] || {{type|normal}} || — || — || 10
+|-
+| [[CT18]] || [[Danse Pluie]] || {{type|eau}} || — || — || 5
+|-
+| [[CT20]] || [[Ténacité]] || {{type|normal}} || — || — || 10
+|-
+| [[CT21]] || [[Frustration]] || {{type|normal}} || — || 100% || 20
+|-
+| [[CT23]] || [[Queue de Fer]] || {{type|acier}} || 100 || 75% || 15
+|-
+| [[CT24]] || [[Dracosouffle]] || {{type|dragon}} || 60 || 100% || 20
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}} || 120 || 70% || 10
+|-
+| [[CT27]] || [[Retour]] || {{type|normal}} || — || 100% || 20
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}} || — || — || 15
+|-
+| [[CT34]] || [[Vantardise]] || {{type|normal}} || — || 90% || 15
+|-
+| [[CT35]] || [[Blabla Dodo]] || {{type|normal}} || — || — || 10
+|-
+| [[CT38]] || [[Déflagration]] || {{type|feu}} || 120 || 85% || 5
+|-
+| [[CT39]] || [[Météores]] || {{type|normal}} || 60 || — || 20 
+|-
+| [[CT43]] || [[Détection]] || {{type|combat}} || — || — || 5
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}} || — || — || 10
+|-
+| [[CS03]] || [[Surf]] || {{type|eau}} || 95 || 100% || 15
+|-
+| [[CS07]] || [[Cascade]] || {{type|eau}} || 80 || 100% || 15
+|}
+
+
+{| class="wikitable collapsible collapsed" align="center" style="text-align:center;"
+! style="background-color: {{Couleur|Dragon}};" colspan="9" | {{Couleur lien|#FFFFFF|Génération III}}
+|-
+! colspan="2" | [[Attaque]]
+! [[Type]]
+! [[Puissance (statistique)|Puissance]]
+! [[Précision]]
+! [[PP]]
+! [[Concours Pokémon|Concours]]
+! [[Charme (concours)|Charme]]
+! [[Blocage]]
+|-
+| [[CT03]] || [[Vibraqua]] || {{type|eau}} || 60 || 100% || 20 || {{type|beauté}} || {{Cœurs|2|rose}} || —
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}} || — || 85% || 10 || {{type|intelligence}} || {{Cœurs|3|rose}} || — 
+|-
+| [[CT07]] || [[Grêle (attaque)|Grêle]] || {{type|glace}} || — || — || 10 || {{type|beauté}} || {{Cœurs|1|rose}} || {{Cœurs|3}} 
+|-
+| [[CT10]] || [[Puissance Cachée]] || {{type|normal}} || — || 100% || 15 || {{type|intelligence}} || {{Cœurs|3|rose}} || — 
+|-
+| [[CT11]] || [[Zénith]] || {{type|feu}} || — || — || 5 || {{type|beauté}} || {{Cœurs|2|rose}} || {{Cœurs|1}} 
+|-
+| [[CT13]] || [[Laser Glace]] || {{type|glace}} || 95 || 100% || 10 || {{type|beauté}} || {{Cœurs|1|rose}} || — 
+|-
+| [[CT14]] || [[Blizzard]] || {{type|glace}} || 120 || 70% || 5 || {{type|beauté}} || {{Cœurs|4|rose}} ||
+|-
+| [[CT15]] || [[Ultralaser]] || {{type|normal}} || 150 || 90% || 5 || {{type|sang-froid}} || {{Cœurs|4|rose}} || {{Cœurs|4}} 
+|-
+| [[CT17]] || [[Abri]] || {{type|normal}} || — || — || 10 || {{type|grâce}} || {{Cœurs|1|rose}} || —
+|-
+| [[CT18]] || [[Danse Pluie]] || {{type|eau}} || — || — || 5 || {{type|robustesse}} || {{Cœurs|1|rose}} || —
+|-
+| [[CT20]] || [[Rune Protect]] || {{type|normal}} || — || — || 25 || {{type|beauté}} || {{Cœurs|1|rose}} || —
+|-
+| [[CT21]] || [[Frustration]] || {{type|normal}} || — || 100% || 20 || {{type|grâce}} || {{Cœurs|1|rose}} || —
+|-
+| [[CT23]] || [[Queue de Fer]] || {{type|acier}} || 100 || 75% || 15 || {{type|sang-froid}} || {{Cœurs|1|rose}} || {{Cœurs|4}} 
+|-
+| [[CT24]] || [[Tonnerre]] || {{type|électrique}} || 95 || 100% || 15 || {{type|sang-froid}} || {{Cœurs|4|rose}} || —
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}} || 120 || 70% || 10 || {{type|sang-froid}} || {{Cœurs|2|rose}} ||  {{Cœurs|2}} 
+|-
+| [[CT27]] || [[Retour]] || {{type|normal}} || — || 100% || 20 || {{type|grâce}} || {{Cœurs|1|rose}} || —
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}} || — || — || 15 || {{type|sang-froid}} || {{Cœurs|2|rose}} || —
+|-
+| [[CT34]] || [[Onde de Choc (attaque)|Onde de Choc]] || {{type|électrique}} || 60 || — || 20 || {{type|sang-froid}} || {{Cœurs|2|rose}} || —
+|-
+| [[CT35]] || [[Lance-Flamme]] || {{type|feu}} || 95 || 100% || 15 || {{type|beauté}} || {{Cœurs|4|rose}} || —
+|-
+| [[CT38]] || [[Déflagration]] || {{type|feu}} || 120 || 85% || 5 || {{type|beauté}} || {{Cœurs|4|rose}} || —
+|-
+| [[CT42]] || [[Façade]] || {{type|normal}} || 70 || 100% || 15 || {{type|grâce}} || {{Cœurs|2|rose}} || —
+|-
+| [[CT43]] || [[Force Cachée]] || {{type|normal}} || 70 || 100% || 20 || {{type|intelligence}} || {{Cœurs|1|rose}} || —
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}} || — || — || 10 || {{type|grâce}} || {{Cœurs|2|rose}} || —
+|-
+| [[CT45]] || [[Attraction]] || {{type|normal}} || — || — || 15 || {{type|grâce}} || {{Cœurs|2|rose}} || —
+|-
+| [[CS03]] || [[Surf]] || {{type|eau}} || 95 || 100% || 15 || {{type|beauté}} || {{Cœurs|3|rose}} || —
+|-
+| [[CS07]] || [[Cascade]] || {{type|eau}} || 80 || 100% || 15 || {{type|robustesse}} || {{Cœurs|2|rose}} || —
+|}
+
+
+{| class="wikitable collapsible" align="center" style="text-align:center;"
+! style="background-color: {{Couleur|Dragon}};" colspan="9" | {{Couleur lien|#FFFFFF|Génération IV}}
+|-
+! colspan="2" | [[Attaque]]
+! [[Type]]
+! [[Catégories d'attaque|Catégorie]]
+! [[Puissance (statistique)|Puissance]]
+! [[Précision]]
+! [[PP]]
+! [[Concours Pokémon|Concours]]
+! [[Charme (concours)|Charme]]
+|-
+| [[CT03]] || [[Vibraqua]] || {{type|eau}} || {{type|spécial}} || 60 || 100% || 20 || {{type|beauté}} || {{Cœurs|2|rose}}
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}} || {{type|statut}} || — || 85% || 10 || {{type|intelligence}} || {{Cœurs|2|rose}} 
+|-
+| [[CT07]] || [[Grêle (attaque)|Grêle]] || {{type|glace}} || {{type|statut}} || — || — || 10 || {{type|beauté}} || {{Cœurs|1|rose}} 
+|-
+| [[CT10]] || [[Puissance Cachée]] || {{type|normal}} || {{type|spécial}} || — || 100% || 15 || {{type|intelligence}} || {{Cœurs|1|rose}} 
+|-
+| [[CT11]] || [[Zénith]] || {{type|feu}} || {{type|statut}} || — || — || 5 || {{type|beauté}} || {{Cœurs|2|rose}}
+|-
+| [[CT13]] || [[Laser Glace]] || {{type|glace}} || {{type|spécial}} || 95 || 100% || 10 || {{type|grâce}} || {{Cœurs|2|rose}} 
+|-
+| [[CT14]] || [[Blizzard]] || {{type|glace}} || {{type|spécial}} || 120 || 70% || 5 || {{type|sang-froid}} || {{Cœurs|2|rose}}
+|-
+| [[CT15]] || [[Ultralaser]] || {{type|normal}} || {{type|spécial}} || 150 || 90% || 5 || {{type|intelligence}} || {{Cœurs|2|rose}}
+|-
+| [[CT17]] || [[Abri]] || {{type|normal}} || {{type|statut}} || — || — || 10 || {{type|sang-froid}} || —
+|-
+| [[CT18]] || [[Danse Pluie]] || {{type|eau}} || {{type|statut}} || — || — || 5 || {{type|robustesse}} || {{Cœurs|2|rose}}
+|-
+| [[CT20]] || [[Rune Protect]] || {{type|normal}} || {{type|statut}} || — || — || 25 || {{type|beauté}} || {{Cœurs|2|rose}}
+|-
+| [[CT21]] || [[Frustration]] || {{type|normal}} || {{type|physique}} || — || 100% || 20 || {{type|grâce}} || {{Cœurs|2|rose}}
+|-
+| [[CT23]] || [[Queue de Fer]] || {{type|acier}} || {{type|physique}} || 100 || 75% || 15 || {{type|sang-froid}} ||  {{Cœurs|2|rose}}
+|-
+| [[CT24]] || [[Tonnerre]] || {{type|électrique}} || {{type|spécial}} || 95 || 100% || 15 || {{type|sang-froid}} ||  {{Cœurs|2|rose}}
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}} || {{type|spécial}} || 120 || 70% || 10 || {{type|sang-froid}} ||  {{Cœurs|2|rose}}
+|-
+| [[CT27]] || [[Retour]] || {{type|normal}} || {{type|physique}} || — || 100% || 20 || {{type|grâce}} || {{Cœurs|2|rose}}
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}} || {{type|statut}} || — || — || 15 || {{type|sang-froid}} || {{Cœurs|2|rose}}
+|-
+| [[CT34]] || [[Onde de Choc (attaque)|Onde de Choc]] || {{type|électrique}} || {{type|spécial}} || 60 || — || 20 || {{type|sang-froid}} || {{Cœurs|2|rose}}
+|-
+| [[CT35]] || [[Lance-Flamme]] || {{type|feu}} || {{type|spécial}} || 95 || 100% || 15 || {{type|beauté}} || {{Cœurs|2|rose}}
+|-
+| [[CT38]] || [[Déflagration]] || {{type|feu}} || {{type|spécial}} || 120 || 85% || 5 || {{type|beauté}} || {{Cœurs|2|rose}}
+|-
+| [[CT42]] || [[Façade]] || {{type|normal}} || {{type|physique}} || 70 || 100% || 15 || {{type|grâce}} || {{Cœurs|2|rose}}
+|-
+| [[CT43]] || [[Force Cachée]] || {{type|normal}} || {{type|physique}} || 70 || 100% || 20 || {{type|intelligence}} || {{Cœurs|2|rose}}
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}} || {{type|statut}} || — || — || 10 || {{type|grâce}} || —
+|-
+| [[CT45]] || [[Attraction]] || {{type|normal}} || {{type|statut}} || — || — || 15 || {{type|grâce}} || {{Cœurs|2|rose}}
+|-
+| [[CT58]] || [[Ténacité]] || {{type|normal}} || {{type|statut}} || — || — || 10 || {{type|robustesse}} || {{Cœurs|2|rose}}
+|-
+| [[CT59]] || [[Dracochoc]] || {{type|dragon}} || {{type|spécial}} || 90 || 100% || 10 || {{type|intelligence}} || {{Cœurs|2|rose}}
+|-
+| [[CT73]] || [[Cage-Éclair]] || {{type|électrique}} || {{type|statut}} || — || 100% || 10 || {{type|sang-froid}} || {{Cœurs|2|rose}}
+|-
+| [[CT78]] || [[Séduction]] || {{type|normal}} || {{type|statut}} || — || 100% || 20 || {{type|beauté}} || {{Cœurs|2|rose}}
+|-
+| [[CT82]] || [[Blabla Dodo]] || {{type|normal}} || {{type|statut}} || — || — || 10|| {{type|grâce}} || {{Cœurs|3|rose}}
+|-
+| [[CT83]] || [[Don Naturel]] || {{type|normal}} || {{type|physique}} || — || 100% || 15 || {{type|sang-froid}} || {{Cœurs|2|rose}}
+|-
+| [[CT87]] || [[Vantardise]] || {{type|normal}} || {{type|statut}} || — || 90% || 15 || {{type|grâce}} || {{Cœurs|2|rose}}
+|-
+| [[CT90]] || [[Clonage (attaque)|Clonage]] || {{type|normal}} || {{type|statut}} || — || — || 10 || {{type|intelligence}} || {{Cœurs|1|rose}}
+|-
+| [[CS03]] || [[Surf]] || {{type|eau}} || {{type|spécial}} || 95 || 100% || 15 || {{type|beauté}} || {{Cœurs|2|rose}}
+|-
+| [[CS05]] || [[Siphon]] || {{type|eau}} || {{type|spécial}} || 15 || 70% || 15 || {{type|beauté}} || —
+|-
+| [[CS07]] || [[Cascade]] || {{type|eau}} || {{type|physique}} || 80 || 100% || 15 || {{type|robustesse}} || {{Cœurs|3|rose}}
+|}
+
+
+{| class="wikitable collapsible" align="center" style="text-align:center;"
+! style="background-color: {{Couleur|Dragon}};" colspan="7" | {{Couleur lien|#FFFFFF|Génération V}}
+|-
+! colspan="2" | [[Attaque]]
+! [[Type]]
+! [[Catégories d'attaque|Catégorie]]
+! [[Puissance (statistique)|Puissance]]
+! [[Précision]]
+! [[PP]]
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}} || {{type|statut}} || — || 90% || 10
+|-
+| [[CT07]] || [[Grêle (attaque)|Grêle]] || {{type|glace}} || {{type|statut}} || — || — || 10  
+|-
+| [[CT10]] || [[Puissance Cachée]] || {{type|normal}} || {{type|spécial}} || — || 100% || 15
+|-
+| [[CT11]] || [[Zénith]] || {{type|feu}} || {{type|statut}} || — || — || 5
+|-
+| [[CT13]] || [[Laser Glace]] || {{type|glace}} || {{type|spécial}} || 95 || 100% || 10
+|-
+| [[CT14]] || [[Blizzard]] || {{type|glace}} || {{type|spécial}} || 120 || 70% || 5
+|-
+| [[CT15]] || [[Ultralaser]] || {{type|normal}} || {{type|spécial}} || 150 || 90% || 5
+|-
+| [[CT16]] || [[Mur Lumière]] || {{type|psy}} || {{type|statut}} || — || — || 30
+|-
+| [[CT17]] || [[Abri]] || {{type|normal}} || {{type|statut}} || — || — || 10
+|-
+| [[CT18]] || [[Danse Pluie]] || {{type|eau}} || {{type|statut}} || — || — || 5
+|-
+| [[CT20]] || [[Rune Protect]] || {{type|normal}} || {{type|statut}} || — || — || 25
+|-
+| [[CT21]] || [[Frustration]] || {{type|normal}} || {{type|physique}} || — || 100% || 20
+|-
+| [[CT24]] || [[Tonnerre]] || {{type|électrique}} || {{type|spécial}} || 95 || 100% || 15 
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}} || {{type|spécial}} || 120 || 70% || 10
+|-
+| [[CT27]] || [[Retour]] || {{type|normal}} || {{type|physique}} || — || 100% || 20
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}} || {{type|statut}} || — || — || 15
+|-
+| [[CT35]] || [[Lance-Flamme]] || {{type|feu}} || {{type|spécial}} || 95 || 100% || 15
+|-
+| [[CT38]] || [[Déflagration]] || {{type|feu}} || {{type|spécial}} || 120 || 85% || 5
+|-
+| [[CT42]] || [[Façade]] || {{type|normal}} || {{type|physique}} || 70 || 100% || 15
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}} || {{type|statut}} || — || — || 10
+|-
+| [[CT45]] || [[Attraction]] || {{type|normal}} || {{type|statut}} || — || — || 15
+|-
+| [[CT48]] || [[Chant Canon]] || {{type|normal}} || {{type|spécial}} || 60 || 100% || 15
+|-
+| [[CT59]] || [[Calcination]] || {{type|feu}} || {{type|spécial}} || 30 || 100% || 15
+|-
+| [[CT73]] || [[Cage-Éclair]] || {{type|électrique}} || {{type|statut}} || — || 100% || 10
+|-
+| [[CT82]] || [[Draco-Queue]] || {{type|dragon}} || {{type|physique}} || 60 || 90% || 10
+|-
+| [[CT87]] || [[Vantardise]] || {{type|normal}} || {{type|statut}} || — || 90% || 15
+|-
+| [[CT90]] || [[Clonage (attaque)|Clonage]] || {{type|normal}} || {{type|statut}} || — || — || 10
+|-
+| [[CS03]] || [[Surf]] || {{type|eau}} || {{type|spécial}} || 95 || 100% || 15
+|-
+| [[CS07]] || [[Cascade]] || {{type|eau}} || {{type|physique}} || 80 || 100% || 15
+|}
+
+===Par [[reproduction]]===
+
+
+
+===Par [[Donneur de capacités]]===
+==Sensibilités==
+
+{{Sensibilités
+|type=dragon
+|sensib-roche=2
+|sensib-feu=0.5
+|sensib-dragon=2
+|sensib-insecte=0.5
+|sensib-plante=0.25
+|sensib-glace=4
+|sensib-eau=0.5
+|sensib-combat=0.5
+|sensib-sol=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques Sol à son encontre est normale
+|rmq-sol-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=dragon
+|PV=91
+|attaque=134
+|defense=95
+|atq-spc=100
+|def-spc=100
+|vitesse=80
+|special=100
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Dracolosse
+| numero=149
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Dracolosse RB.png
+| forme=6
+| pdm=oui
+| diff_rs-rfvf=oui
+| almia=oui
+}}
+
+== Distributions évènementielles ==
+Dracolosse a été [[Pokémon évènementiel|distribué de manière évènementielle]] en diverses occasion :
+* '''2006'''
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Journey Across America|Dracolosse 10 ANIV]] (États-Unis)
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Party of the Decade - Bryant Park, New York|Dracolosse 10 ANIV (Bryant Park)]] (États-Unis)
+* '''2008'''
+** [[Liste des Pokémon distribués en 2008#Dracolosse|Dracolosse Saikyō]] (Japon)
+** [[Liste des Pokémon distribués en 2008#Dracolosse TRU|Dracolosse TRU]] (États-Unis)
+* '''2012'''
+** [[Liste des Pokémon distribués en 2012#Dracolosse|Dracolosse Single Battle Saikyō Class]] (Japon)
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:Dracolosse de Koner.png|200px|thumb|left|Le Dracolosse de [[Koner]], lors du [[DP141]].]]
+
+On peut voir un Dracolosse dans le premier film, c'est lui qui apporte les invitations pour un tournoi sur une île mystérieuse . 
+On peut déduire que c'est un Dracolosse qui apparaît dans l'[[épisode 13]], le Pokémon par lequel [[Léo]] est si passionné.
+Un Dracolosse apparaît à la finale de la ligue Orange, le dernier Pokémon de [[Didier (Archipel Orange)|Didier]], le champion.
+
+Dans ''[[Pokémon et le Maître des mirages]]'' , le [[professeur Chen]] en a un.
+
+[[Peter]] en utilise un lors de l'[[épisode 236]] (''« La rage au ventre »'') puis dans l'[[AG098]].
+
+Dans l'[[épisode 252]], un Dracolosse censé appartenir au champion de l'[[arène d'Ébènelle]] apparaît.
+
+[[Koner]] possède également un Dracolosse qui apparaît dans le [[DP141]].
+
+{{da|Iris}} en capture [[Dracolosse d'Iris|un]] dans le [[BW2005]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 111]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Dragon. Pokémon très rare et extrêmement intelligent. Capable de voler plus vite que n'importe quel autre Pokémon.
+;[[Épisode 748]]
+:Le Pokémon Dragon. On prétend que Dracolosse vit dans la mer. Il a de petites ailes et un grand corps et pourtant en vol, il dépasse la vitesse du son.
+
+{{Ruban Pokémon
+| nomPrécédent=Draco
+| numéro=149
+| nom=Dracolosse
+| nomSuivant=Mewtwo
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/149| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Dragonite| ]]
+
+[[de:Dragoran]]
+[[en:Dragonite (Pokémon)]]
+[[es:Dragonite]]
+[[it:Dragonite]]
+[[ja:カイリュー]]
+[[pl:Dragonite]]
+[[pt:Dragonite (pokémon)]]

@@ -1,0 +1,370 @@
+{{Ruban Pokémon
+| nomPrécédent=Pikachu
+| numéro=026
+| nom=Raichu
+| nomSuivant=Sabelette
+}}
+{{Infobox Pokémon 
+| nom=Raichu
+| nomen=Raichu
+| nomja=ライチュウ
+| nomromaji=Raichū
+| nomtm=Raichu
+| nomde=Raichu
+| légende=Artwork par Ken Sugimori
+| ndex=026
+| jdex=023
+| hdex=157
+| sdex=105
+| fdex=024
+| adex=003
+| odex=R-006
+| opdex=N-155
+| espece=Souris
+| taille=0.8
+| poids=30.0
+| fmratio=.500
+| oeufpas=2560 
+| effortval=+3 Vit.
+| type1=Électrique
+| expval=122
+| expmax=1000000
+| captureval=75
+| groupoeuf1=Sol
+| groupoeuf2=Fée
+| capspe1=Statik
+| capspe1-desc=Si l'ennemi vous attaque, il peut être paralysé.
+| couleur=Jaune
+| forme=6}}
+'''Raichu''' (anglais : '''Raichu''' ; japonais : '''ライチュウ''' ''Raichu'') est un [[Pokémon]] de [[type]] {{type|électrique}} de la [[première génération]]. C'est l'[[évolution]] d'un [[Pikachu]], lorsque ce dernier est exposé à une [[Pierre Foudre]].
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+Raichu est un Pokémon ressemblant à une souris. Son corps est orange avec un ventre blanc. Il possède une longue queue noire avec au bout, un éclair jaune. Ses joues sont jaunes, ses pattes sont marrons ; il n'a pas de doigt sur celles de l'avant mais en a trois sur celle de l'arrière qui ont le dessous blanc et munit d'un cercle jaune. Ses oreilles sont grandes, jaunes à l'intérieur et marron à l'extérieur.
+
+==== Différences mâle/femelle ====
+
+La pointe de la queue des Raichu femelles est moins pointue.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Raichu a une couleur orange bien plus prononcée, tandis que le bout de sa queue, ses joues et l'intérieur de ses oreilles sont d'un jaune tirant vers le doré.
+
+===[[Évolution]]===
+Raichu est l'évolution de [[Pikachu]], lui-même l'évolution de [[Pichu]]. Pichu devient Pikachu si le Pokémon est [[Bonheur|heureux]].<br/>
+Puis Pikachu évolue en Raichu grâce à une [[Pierre Foudre]].
+
+
+{{TableauEvolutionHaut|Électrique|Pichu}}
+{{TableauEvolutionSimple|[[Bonheur]]|Pikachu}}
+{{TableauEvolutionSimple|Avec une [[Pierre Foudre]]|imageObjet=Miniat pierre foudre dp.png|Raichu}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+[[Statik]] : Probabilité de 30% de [[paralysie|paralyser]] l'adversaire lorsque celui-ci touche le Pokémon.
+
+===Étymologies===
+* Français, anglais, allemand : transcription du nom japonais.
+* Japonais : '''Rai''' (tonnerre) et Chu, qui vient de ちゅうちゅう '''chū'''chū (bruit d'une souris).'''
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Il doit garder sa queue en contact avec le sol pour éviter toute électrocution.
+;[[Pokémon Jaune]]
+: Il devient tout excité quand il emmagasine de l'électricité. Il brille alors dans le noir.
+;[[Pokémon Stadium]]
+: Ses attaques électriques peuvent atteindre jusqu'à 10.000 volts. Sa queue contient l'électricité, ainsi protégeant son corps.
+;[[Pokémon Or]]
+: Quand son taux d'énergie monte, ses muscles se contractent et il devient plus agressif.
+;[[Pokémon Argent]]
+: Ses oreilles se dressent lorsque les poches à électricité sur ses joues sont remplies.
+;[[Pokémon Cristal]]
+: Si ses joues sont à court d'énergie il lève la queue et capte l'électricité contenue dans l'atmosphère.
+;[[Pokémon Rubis]]
+: Si ses joues contiennent trop d'électricité, {{PCap|Raichu}} plante sa queue dans le sol pour se décharger. On trouve des parcelles de terre brûlée à proximité du nid de ce {{PCap|Pok}}é{{PCap|mon}}.
+;[[Pokémon Saphir]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} libére un faible champ électrique tout autour de son corps, ce qui le rend légèrement lumineux dans le noir. {{PCap|Raichu}} plante sa queue dans le sol pour évacuer de l'électricité.
+;[[Pokémon Émeraude]]
+: Il devient agressif s'il stocke trop d'électricité. Pour éviter ça, il relâche de temps en temps son surplus d'énergie et parvient ainsi à se calmer.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} peut accumuler jusqu'à 100 000 volts. Il peut ainsi assommer un éléphant juste en le touchant.
+;[[Pokémon Vert Feuille]]
+:Il doit garder sa queue en contact avec le sol pour éviter toute électrocution.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Raichu}} produit de grosses décharges électriques pour recharger le [[Capstick]].
+;[[Pokémon Diamant]]
+: Il devient agressif lorsque son corps contient trop d'électricité. Il la décharge par sa queue.
+;[[Pokémon Perle]]
+: Il peut terrasser des ennemis bien plus imposants en libérant une décharge de 100 000 volts.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il fait jaillir des éclairs de son corps pour attaquer.
+;[[Pokémon Platine]]
+:Il se protège des décharges grâce à sa queue qui dissipe l'électricité dans le sol.
+;[[Pokémon Or HeartGold]]
+:Quand son taux d'énergie monte, ses muscles se contractent et il devient plus agressif.
+;[[Pokémon Argent SoulSilver]]
+:Ses oreilles se dressent lorsque les poches à électricité sur ses joues sont remplies.
+;[[Pokémon Noir et Blanc]]
+:Il se protège des décharges grâce à sa queue qui dissipe l'électricité dans le sol.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Rare || [[Grotte inconnue]]
+|-
+| [[Bleu]] || Rare || [[Centrale]], [[Grotte inconnue]]
+|-
+| [[Jaune]] || Inexistant || À échanger
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] ||Inexistant || Echange avec [[Rouge]], [[Bleu]] ou [[Jaune]] grâce au [[bloc temporel]]
+|-
+| [[Pokémon Or et Argent|Argent]] ||Inexistant || Echange avec [[Rouge]], [[Bleu]] ou [[Jaune]] grâce au [[bloc temporel]]
+|-
+| [[Cristal]] ||Inexistant || Echange avec [[Rouge]], [[Bleu]] ou [[Jaune]] grâce au [[bloc temporel]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || Faire évoluer [[Pikachu]]
+|-
+| [[Saphir]] || Inexistant || Faire évoluer [[Pikachu]]
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || Faire évoluer [[Pikachu]]
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Pikachu]]
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Pikachu]]
+|-
+| [[Colosseum]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[XD]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] ||Inexistant ||Faire évoluer Pikachu
+|-
+| [[Perle]] ||Inexistant || Faire évoluer Pikachu
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;"| {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer Pikachu avec une Pierre Foudre ou Transfert via le Poké Fret
+| style="vertical-align:middle;" | Variable
+|-
+| style="vertical-align:middle;"| {{NB2}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer Pikachu avec une Pierre Foudre ou Transfert via le Poké Fret
+| style="vertical-align:middle;" | Variable
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Éclair|40|100|30}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Cage-Éclair|-|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Éclair|40|100|30}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Vive-Attaque|40|100|30}}
+{{Attaque|Départ|Tonnerre|95|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Éclair|40|100|30|sang-froid|4|0}}
+{{Attaque-III|Départ|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ|Vive-Attaque|40|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ|Tonnerre|95|100|15|sang-froid|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Éclair|40|100|30|sang-froid|3}}
+{{Attaque-IV|Départ|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|Départ|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|Départ|Tonnerre|95|100|15|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Éclair|40|100|30}}
+{{Attaque-V|Départ|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ|Vive-Attaque|40|100|30}}
+{{Attaque-V|Départ|Tonnerre|95|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Ultimapoing]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 05 || [[Ultimawashi]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 16 || [[Jackpot]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Cage-Éclair]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 05 || [[Flash]] || [[Fichier:type miniat normal.png]]
+|}
+
+===Par [[reproduction]]===
+
+
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=électrique
+|sensib-acier=0.5
+|sensib-électrique=0.5
+|sensib-sol=2
+|sensib-vol=0.5
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=électrique
+|PV=60
+|attaque=90
+|defense=55
+|atq-spc=90
+|def-spc=80
+|vitesse=100
+|special=90
+}}
+
+== Imagerie ==
+
+{{Imagerie Pokémon
+| pokemon=Raichu
+| numero=026
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Raichu RB.png
+| forme=6
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Raichu a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 19. Pour plus d'informations, voir ''[[Raichu (Premier Défi 19)]]''.
+
+[[Fichier:JFC-Premier Défi-19.png|thumb|center|La figurine de Raichu]]
+
+==Apparitions dans le [[dessin animé]]==
+*Raichu apparaît dans l'[[épisode 14]], où [[Pikachu de Sacha|Pikachu]] affronte le Raichu du [[Major Bob]]. Ce Raichu a de puissantes attaques électriques, mais a des lacunes en ce qui concerne les attaques basées sur la [[vitesse]], le Major Bob l'ayant fait évoluer dès qu'il l'a capturé, à un faible niveau.<br/>
+*Un autre Raichu apparaît dans l'[[épisode 69]] où Sacha rencontre [[Catherine (Kanto)|Catherine]] qui souhaite également devenir [[Maître Pokémon]].<br/>
+*D'autres apparaissent dans les saisons 3 et 10.
+*Un autre apparaît aussi dans ''[[Les Vacances de Pikachu]]''.
+*[[Tanguy]] en possède un également.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 14]]
+:Un {{PCap|Pok}}é{{PCap|mon}} Souris de type électrique. {{PCap|[[Raïchu]]}} est la [[évolution|forme évoluée]] de {{PCap|Pikachu}}. Il peut envoyer des décharges de plus de 100.000 Volts; ce qui suffit à rendre un {{PCap|[[Dracolosse]]}} inconscient.
+
+;[[Épisode 554]]
+:Les attaques de {{PCap|[[Raïchu]]}} sont les attaques: [[Mitra-Poing]], [[Tunnel]], [[Tonnerre]] et [[Reflet]].
+
+{{Ruban Pokémon
+| nomPrécédent=Pikachu
+| numéro=026
+| nom=Raichu
+| nomSuivant=Sabelette
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/26| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Raichu| ]]
+
+[[de:Raichu]]
+[[en:Raichu (Pokémon)]]
+[[es:Raichu]]
+[[it:Raichu]]
+[[ja:ライチュウ]]
+[[pl:Raichu]]
+[[pt:Raichu (pokémon)]]

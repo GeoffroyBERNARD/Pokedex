@@ -1,0 +1,518 @@
+{{Ruban Pokémon
+| nomPrécédent=Kangourex
+| numéro=116
+| nom=Hypotrempe
+| nomSuivant=Hypocéan
+}}
+{{Infobox Pokémon
+| nom=Hypotrempe
+| nomen=Horsea
+| nomja=タッツー
+| nomtm=Tattu
+| nomromaji=Tattsū
+| nomde=Seeper
+| légende=Artwork d'Hypotrempe pour {{RFVF}}
+| ndex=116
+| jdex=186
+| njdex=190
+| hdex=184
+| fdex=107
+| adex=229
+| odex=R-068
+| espece=Dragon
+| taille=0.4
+| poids=8.0
+| fmratio=.5
+| couleur=Bleu
+| oeufpas=5120
+| effortval=+1 Att. Spé
+| type1=Eau
+| expval=83
+| expmax=1059860
+| captureval=225
+| groupoeuf1=Eau 1
+| groupoeuf2=Dragon
+| capspe1=Glissade
+| capspe2=Sniper
+| capspe3=Moiteur
+| forme=5
+}}
+'''Hypotrempe''' (anglais : '''Horsea''' ; japonais : '''タッツー''' ''Tattu'') est un [[Pokémon]] de [[type]] {{type|eau}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Hypotrempe a le corps d'une couleur nettement plus turquoise, tandis que son ventre et ses nageoires sont de coloration rouge.
+
+=== [[Évolution]] ===
+Hypotrempe évolue à partir du [[niveau]] 32 en [[Hypocéan]], puis en [[Hyporoi]] s'il est échangé alors qu'il porte l'objet [[Écaille Draco]].
+
+{{TableauEvolutionHaut|Eau|Hypotrempe}}
+{{TableauEvolutionSimple|Niveau 32|Hypocéan}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]] en tenant l'objet [[Écaille Draco]]|imageObjet=Miniat ecaille draco dp.png|Hyporoi}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Chaque Hypotrempe dispose de l'une de ces deux capacités spéciales : 
+*[[Glissade]], qui double sa statistique de [[Vitesse]] s'il [[Pluie|pleut]].
+*[[Sniper]], qui s'il réalise un [[coup critique]] triple les dégâts infligés au lieu de les doubler.
+
+===Étymologies===
+
+* Français : vient de ''hippocampe'' et de ''tremper''
+* Anglais : Sea (la mer) + Horse (cheval). Aussi un jeu de mots avec Seahorse (Hippocampe) et Horsey, un jeu de cheval auquel les enfants jouent.
+* Allemand : vient de ''Seepferdchen''(hippocampe)
+
+=== Descriptions du Pokédex ===
+;[[Pokémon Rouge et Bleu]]
+:Réputé pour tirer avec précision sur des insectes volants à la surface de l'eau.
+;[[Pokémon Jaune]]
+:Menacé, il crache un jet d'encre ou d'eau de sa bouche pour se défendre.
+;[[Pokémon Stadium]]
+:Il utilise sa queue pour garder l'équilibre tout en crachant de l'encre sur de petites créatures comme des insectes.
+;[[Pokémon Or]]
+:S'il est menacé par un gros adversaire, il s'enfuit en nageant rapidement grâce à ses nageoires.
+;[[Pokémon Argent]]
+:Ses larges nageoires lui permettent de se déplacer à reculons tout en regardant en avant.
+;[[Pokémon Cristal]]
+:S'ils se retrouvent en milieu amical, ils enroulent leur petite queue.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Hypotrempe}} mange des petits insectes et de la mousse trouvée sur les cailloux. Lorsque les courants océaniques sont trop forts, ce {{PCap|Pok}}é{{PCap|mon}} peut s'ancrer en accrochant sa queue aux rochers ou aux coraux.
+;[[Pokémon Émeraude]]
+:Il arrive à se déplacer en bougeant les nageoires qui se trouvent sur son dos. Il crache de l'encre au moindre signe de danger.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} maintient son équilibre en balançant sa queue qui se termine boucle. Il peut cracher de l'encre avec sa bouche.
+;[[Pokémon Vert Feuille]]
+:Il abat les insectes volants en leur tirant un jet d'encre depuis la surface de l'eau. Ses tirs sont toujours précis.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Ne vous fiez pas à son air mignon, {{PCap|Hypotrempe}} attaque avec des jets d'eau.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il niche à l'ombre du corail. Quand il se sent menacé, il disparaît dans un nuage d'encre opaque.
+;[[Pokémon Ranger 2]]
+:Il attaque en soufflant des bulles avec sa bouche.
+;[[Pokémon Or HeartGold]]
+:S'il est menacé par un gros adversaire, il s'enfuit en nageant rapidement grâce à ses nageoires.
+;[[Pokémon Argent SoulSilver]]
+:Ses larges nageoires lui permettent de se déplacer à reculons tout en regardant en avant.
+;[[Pokémon Noir et Blanc]]
+:Il niche à l'ombre du corail. Quand il se sent menacé, il disparaît dans un nuage d'encre opaque.
+
+== Localisations ==
+
+=== [[Première génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| [[Rouge]] || Rare || En marchant dans les [[Îles Écume]] ; En [[Pêche|pêchant]] sur les routes [[Route 19|19]], [[Route 20|20]], [[Chenal 21|21]], aux deux derniers sous-sols des [[Îles Écume]] et dans [[Cramois'Île]].
+|-
+| [[Bleu]] || Rare || En [[Pêche|pêchant]] sur les routes [[Route 19|19]], [[Route 20|20]], [[Chenal 21|21]], aux deux derniers sous-sols des [[Îles Écume]] et dans [[Cramois'Île]].
+|-
+| [[Jaune]] || Rare || En [[Pêche|pêchant]] sur les routes [[Route 10|10]], [[Route 11|11]], [[Route 12|12]], [[Route 13|13]] et à [[Carmin-sur-Mer]].
+|}
+
+=== [[Deuxième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="vertical-align:middle;" | {{OAC}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | En [[Surf|surfant]] et [[Pêche|pêchant]] dans les [[Tourb'Îles]].
+|-
+|}
+
+=== [[Troisième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="vertical-align:middle;" | {{RS}} 
+| style="vertical-align:middle;" | Peu commun
+| style="vertical-align:middle;" | En [[Pêche|pêchant]] avec la [[Méga Canne]] sur les chenals [[Chenal 132|132]], [[Chenal 133|133]] et [[Chenal 134|134]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Peu commun || En [[Pêche|pêchant]] avec la [[Méga Canne]] sur les chenals [[Chenal 132|132]], [[Chenal 133|133]] et [[Chenal 134|134]] ; Par échange interne au jeu dans [[Pacifiville]] contre un [[Draby]].
+|-
+| [[Rouge Feu]] || Commun || En [[Pêche|pêchant]] avec la [[Super Canne]] ou la [[Méga Canne]] sur les routes [[Route 4|4]], [[Route 10|10]], [[Route 11|11]], [[Route 12|12]], [[Route 13|13]], [[Route 19|19]], [[Route 20|20]], [[Chenal 21|21]], [[Route 24|24]], aux deux derniers sous-sols des [[Îles Écume]], dans le port de [[Carmin-sur-Mer]] et dans certains autres lieux.
+|-
+| [[Vert Feuille]] || Commun || En [[Pêche|pêchant]] avec la [[Super Canne]] sur les routes [[Route 4|4]], [[Route 10|10]], [[Route 11|11]], [[Route 12|12]], [[Route 13|13]], [[Route 19|19]], [[Route 20|20]], [[Chenal 21|21]], [[Route 24|24]], aux deux derniers sous-sols des [[Îles Écume]] et dans le port de [[Carmin-sur-Mer]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+=== [[Quatrième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Eau}}; width:50px" | % Rencontre
+|-
+| style="vertical-align:middle;" | {{DPP}} 
+| style="vertical-align:middle;" | Peu commun
+| style="vertical-align:middle;" | En [[Pêche|pêchant]] avec la [[Super Canne]] [[Route 226]]
+| style="vertical-align:middle;" | 10 - 25
+| style="vertical-align:middle;" | 35%
+|-
+| [[Pokémon Argent SoulSilver| Argent SoulSilver]] || Peu commun || [[Îles Écume]] et [[Tourb'Îles]] ||  || 
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="3" style="vertical-align:middle;" | {{NB}} 
+| rowspan="3" style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Route 17 (Unys)|Route 17]]{{Infobulle|*|Pêche}}
+| rowspan="2" style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Route 18 (Unys)|Route 18]]{{Infobulle|*|Pêche}}
+|-
+| style="vertical-align:middle;" | [[Dream World]] : La [[Mer Étincelante]]
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Écume|20|100|30}}
+{{Attaque|N.19|Brouillard|-|100|20}}
+{{Attaque|N.24|Groz'Yeux|-|100|30}}
+{{Attaque|N.30|Pistolet à O|40|100|25}}
+{{Attaque|N.37|Hâte|-|-|30}}
+{{Attaque|N.45|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écume|20|100|30}}
+{{Attaque|N.8|Brouillard|-|100|20}}
+{{Attaque|N.15|Groz'Yeux|-|100|30}}
+{{Attaque|N.22|Pistolet à O|40|100|25}}
+{{Attaque|N.29|Ouragan|40|100|20}}
+{{Attaque|N.36|Hâte|-|-|30}}
+{{Attaque|N.43|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Écume|20|100|30|grâce|2|2}}
+{{Attaque-III|N.8|Brouillard|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.15|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.22|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|N.29|Ouragan|40|100|20|sang-froid|3|0}}
+{{Attaque-III|N.26|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.43|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaque-III|N.50|Danse Draco|-|-|20|sang-froid|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Écume|20|100|30|grâce|2}}
+{{Attaque-IV|N.4|Brouillard|-|100|20|intelligence|2}}
+{{Attaque-IV|N.8|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.11|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.14|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.18|Bulles d'O|65|100|20|beauté|2}}
+{{Attaque-IV|N.23|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.26|Ouragan|40|100|20|sang-froid|3}}
+{{Attaque-IV|N.30|Saumure|65|100|10|intelligence|2}}
+{{Attaque-IV|N.35|Hydrocanon|120|80|5|beauté|2}}
+{{Attaque-IV|N.38|Danse Draco|-|-|20|sang-froid|0}}
+{{Attaque-IV|N.42|Dracochoc|90|100|10|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Écume|20|100|30}}
+{{Attaque-V|N.4|Brouillard|-|100|20}}
+{{Attaque-V|N.8|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.11|Pistolet à O|40|100|25}}
+{{Attaque-V|N.14|Puissance|-|-|30}}
+{{Attaque-V|N.18|Bulles d'O|65|100|20}}
+{{Attaque-V|N.23|Hâte|-|-|30}}
+{{Attaque-V|N.26|Ouragan|40|100|20}}
+{{Attaque-V|N.30|Saumure|65|100|10}}
+{{Attaque-V|N.35|Hydrocanon|120|80|5}}
+{{Attaque-V|N.38|Danse Draco|-|-|20}}
+{{Attaque-V|N.42|Dracochoc|90|100|10}}
+{{Attaques apprises-bas}}
+
+=== Par [[CT]]/[[CS]] ===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="20%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" colspan="3" | {{Couleur lien|#FFFFFF|Génération I}}
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || {{type|poison}}
+|-
+|CT 09 || [[Bélier]] || {{type|normal}}
+|-
+|CT 10 || [[Damoclès]] || {{type|normal}}
+|-
+|CT 11 || [[Bulles d'O]] || {{type|eau}}
+|-
+|CT 12 || [[Pistolet à O]] || {{type|eau}}
+|-
+|CT 13 || [[Laser Glace]] || {{type|glace}}
+|-
+|CT 14 || [[Blizzard]] || {{type|glace}}
+|-
+|CT 20 || [[Frénésie]] || {{type|normal}}
+|-
+|CT 31 || [[Copie]] || {{type|normal}}
+|-
+|CT 32 || [[Reflet]] || {{type|normal}}
+|-
+|CT 34 || [[Patience]] || {{type|normal}}
+|-
+|CT 39 || [[Météores]] || {{type|normal}}
+|-
+|CT 40 || [[Coud'Krâne]] || {{type|normal}}
+|-
+|CT 44 || [[Repos]] || {{type|psy}}
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || {{type|normal}}
+|-
+|CS 03 || [[Surf]] || {{type|eau}}
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" colspan="3" | {{Couleur lien|#FFFFFF|Génération II}}
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+!
+|-
+|CT 02 || [[Coup d'Boule]] || {{type|normal}}
+|-
+|CT 03 || [[Malediction]] || {{type|inconnu}}
+|-
+|CT 06 || [[Toxik]] || {{type|poison}}
+|-
+|CT 10 || [[Puis. Cachée]] || {{type|normal}}
+|-
+|CT 13 || [[Ronflement]] || {{type|normal}}
+|-
+|CT 14 || [[Blizzard]] || {{type|glace}}
+|-
+|CT 16 || [[Vent Glace]] || {{type|glace}}
+|-
+|CT 17 || [[Abri]] || {{type|normal}}
+|-
+|CT 18 || [[Danse Pluie]] || {{type|eau}}
+|-
+|CT 20 || [[Ténacité]] || {{type|normal}}
+|-
+|CT 21 || [[Frustration]] || {{type|normal}}
+|-
+|CT 24 || [[Dracosouffle]] || {{type|dragon}}
+|-
+|CT 27 || [[Retour]] || {{type|normal}}
+|-
+|CT 32 || [[Reflet]] || {{type|normal}}
+|-
+|CT 34 || [[Vantardise]] || {{type|normal}}
+|-
+|CT 35 || [[Blabla Dodo]] || {{type|normal}}
+|-
+|CT 39 || [[Météores]] || {{type|normal}}
+|-
+|CT 44 || [[Repos]] || {{type|psy}}
+|-
+|CT 45 || [[Attraction]] || {{type|normal}}
+|-
+|CS 03 || [[Surf]] || {{type|eau}}
+|-
+|CS 06 || [[Siphon]] || {{type|eau}}
+|-
+|CS 07 || [[Cascade]] || {{type|eau}}
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération V" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération V]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|[[CT06]] || [[Toxik]] || {{type|poison}}
+|-
+|[[CT07]] || [[Grêle]] || {{type|glace}}
+|-
+|[[CT10]] || [[Puis. Cachée]] || {{type|normal}}
+|-
+|[[CT13]] || [[Laser Glace]] || {{type|glace}}
+|-
+|[[CT14]] || [[Blizzard]] || {{type|glace}}
+|-
+|[[CT17]] || [[Abri]] || {{type|normal}}
+|-
+|[[CT18]] || [[Danse Pluie]] || {{type|eau}}
+|-
+|[[CT21]] || [[Frustration]] || {{type|normal}}
+|-
+|[[CT27]] || [[Retour]] || {{type|normal}}
+|-
+|[[CT32]] || [[Reflet]] || {{type|normal}}
+|-
+|[[CT42]] || [[Facade]] || {{type|normal}}
+|-
+|[[CT44]] || [[Repos]] || {{type|psy}}
+|-
+|[[CT45]] || [[Attraction]] || {{type|normal}}
+|-
+|[[CT48]] || [[Chant Canon]] || {{type|normal}}
+|-
+|[[CT55]] || [[Ébullition]] || {{type|eau}}
+|-
+|[[CT87]] || [[Vantardise]] || {{type|normal}}
+|-
+|[[CT90]] || [[Clonage]] || {{type|normal}}
+|-
+|[[CT91]] || [[Luminocanon]] || {{type|acier}}
+|-
+|[[CS03]] || [[Surf]] || {{type|eau}}
+|-
+|[[CS05]] || [[Cascade]] || {{type|eau}}
+|-
+|[[CS06]] || [[Plongée]] || {{type|eau}}
+|-
+|}
+|}
+
+=== Par [[reproduction]] ===
+
+=== Par [[Donneur de capacités]] ===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=eau
+|sensib-acier=0.5
+|sensib-eau=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-plante=2
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=eau
+|PV=30
+|attaque=40
+|defense=70
+|atq-spc=70
+|def-spc=25
+|vitesse=60
+|special=70
+}}
+
+== Imagerie ==
+
+{{Imagerie Pokémon
+| pokemon=Hypotrempe
+| numero=116
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Hypotrempe RB.png
+| forme=5
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+{{da|Ondine}} en possède [[Hypotrempe d'Ondine|un]] qu'elle a capturé durant l'épisode ''[[Tentacool et Tentacruel]]''.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 19]]
+:{{PCap|Pok}}é{{PCap|mon}} Dragon. C'est une espèce unique de {{PCap|Pok}}é{{PCap|mon}}. Chaque matin, des milliers d'oeufs d'{{PCap|Hypotrempe}} sont pondus par les femelles et élevés par les mâles. 
+
+{{Ruban Pokémon
+| nomPrécédent=Kangourex
+| numéro=116
+| nom=Hypotrempe
+| nomSuivant=Hypocéan
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/116| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Horsea| ]]
+
+[[de:Seeper]]
+[[en:Horsea (Pokémon)]]
+[[es:Horsea]]
+[[it:Horsea]]
+[[ja:タッツー]]
+[[pl:Horsea]]
+[[pt:Horsea (pokémon)]]

@@ -1,0 +1,378 @@
+{{Ruban Pokémon
+| nomPrécédent=Taupiqueur
+| numéro=051
+| nom=Triopikeur
+| nomSuivant=Miaouss
+}}
+{{Infobox Pokémon 
+| nom=Triopikeur
+| nomen=Dugtrio
+| nomja=ダグトリオ
+| nomtm=Dugtrio
+| nomromaji=Dagutorio
+| nomde=Digdri
+| légende=Artwork de Triopikeur pour {{RFVF}}
+| ndex=051
+| jdex=133
+| njdex=135
+| hdex=240
+| fdex=062
+| type1=Sol
+| espece=Taupe
+| taille=0.7
+| poids=33.3
+| capspe1=Voile Sable
+| capspe2=Piège
+| capspe3=Force Sable
+| groupoeuf1=Sol
+| oeufpas=5120 
+| effortval=+2 Vit.
+| expval=153
+| expmax=1000000
+| fmratio=.5 
+| captureval=50
+| couleur=Marron
+| forme=11}}
+'''Triopikeur''' (anglais : '''Dugtrio''' ; japonais : '''ダグトリオ''' ''Dugtrio''), l'[[évolution]] de [[Taupiqueur]], est lui aussi de [[type]] unique {{type|sol}}. Ce [[Pokémon]] est présent dès la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+Triopikeur est un assemblage de trois Taupiqueur dans un seul trou.
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Triopikeur est l'évolution à partir du [[niveau]] 26 de [[Taupiqueur]].
+{{TableauEvolutionHaut|Sol|Taupiqueur}}
+{{TableauEvolutionSimple|[[Niveau]] 26|Triopikeur}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Triopikeur dispose soit de la capacité spéciale [[Voile Sable]] qui augmente de 20% son esquive en cas de tempête de sable, soit de la capacité spéciale [[Piège]], qui empêche ses adversaires non-volants de fuir, et augmente la fréquence d'apparition des Pokémon sauvages s'il est en tête de l'équipe.
+
+===Étymologies===
+
+* Français: vient de ''trio'' et ''marteau-piqueur''
+* Anglais, Japonais: vient de ''to dig'' (creuser) et ''trio''
+* Allemand: vient de ''dig''(creuse en anglais) et ''drei''(trois)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Un groupe de {{PCap|[[Taupiqueur]]}}. Il crée des séismes en creusant à plus de 100 Km de profondeur.
+;[[Pokémon Jaune]]
+:Quand un de ces triplets creuse à plus de 90Km/h, il provoque des tremblements de terre.
+;[[Pokémon Stadium]]
+: Un triplé de {{PCap|[[Taupiqueur]]}} voyageant toujours ensemble. Ils creusent à plus de 100km de profondeur et créent des séismes.
+;[[Pokémon Or]]
+:Ses trois têtes pilonnent le sol pour le rendre friable pour ainsi le creuser plus facilement.
+;[[Pokémon Argent]]
+:Terriblement puissant, il peut creuser un tunnel sur tout type de sol et jusqu'à 100 Km de profondeur.
+;[[Pokémon Cristal]]
+:Ces triplés de {{PCap|[[Taupiqueur]]}} creusent à plus de 100 Km sous terre, vers l'inconnu.
+;[[Pokémon Rubis et Saphir]]
+:Les {{PCap|Triopikeur}} sont en fait des triplés qui ont émergé du même corps. C'est pourquoi chaque triplé pense exactement comme les deux autres. Ils creusent inlassablement, dans une coopération parfaite.
+;[[Pokémon Émeraude]]
+:Ce sont des triplés qui ont émergé du même corps. Chacun pense exactement comme les deux autres. Ils creusent inlassablement, dans une coopération parfaite.
+;[[Pokémon Rouge Feu]]
+:Au combat, il s'enfuit sous terre pour pouvoir frapper ses adversaires depuis n'importe quelle direction.
+;[[Pokémon Vert Feuille]]
+:Un groupe de {{PCap|[[Taupiqueur]]}}. Il crée des séismes en creusant à plus de 100 km de profondeur.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Triopikeur}} sort parfois ses têtes, mais très rapidement.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Ses trois têtes creusent le sol à tour de rôle. Il peut atteindre des profondeurs de 100 kilomètres.
+;[[Pokémon Or HeartGold]]
+:Ses trois têtes pilonnent le sol pour le rendre friable et ainsi le creuser plus facilement.
+;[[Pokémon Argent SoulSilver]]
+:Terriblement puissants, ils peuvent creuser un tunnel sur tout type de sol et jusqu'à 100 km de profondeur.
+;[[Pokémon Noir et Blanc]]
+:Ses trois têtes creusent le sol à tour de rôle. Il peut atteindre des profondeurs de 100 kilomètres.
+
+==Localisations==
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rouge]] || Rare || [[Cave Taupiqueur]] || N. 29-31 || 5%
+|-
+| [[Bleu]] || Rare || [[Cave Taupiqueur]] || N. 29-31 || 5%
+|-
+|[[Jaune]] || Rare || [[Cave Taupiqueur]] || N. 29 || 5%
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Or]] || Rare || [[Cave Taupiqueur]] || N. 19-29 || 10%
+|-
+| [[Pokémon Or et Argent|Argent]] || Rare || [[Cave Taupiqueur]] || N. 19-29 || 10%
+|-
+| rowspan="3" style="vertical-align: middle;" |[[Cristal]] || rowspan="3" style="vertical-align: middle;" |Rare || rowspan="3" style="vertical-align: middle;" |[[Cave Taupiqueur]] || N. 24 ([[Temps|Matin]]) || 10%
+|-
+| N. 16 ([[Temps|Jour]]) || 10%
+|-
+| N. 32 ([[Temps|Nuit]]) || 10%
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange. || - || -
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange. || - || -
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange. || - || -
+|-
+| [[Rouge Feu]] || Rare || [[Cave Taupiqueur]] || N. 29-31 || 5%
+|-
+| [[Vert Feuille]] || Rare || [[Cave Taupiqueur]] || N. 29-31 || 5%
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.|| - || -
+|-
+| [[XD]] || Inexistant || À obtenir par échange.|| - || -
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Diamant]] || Peu commun || [[Route 228]] || N. 52-54 || 30%
+|-
+| [[Perle]] || Peu commun || [[Route 228]] || N. 52-54 || 30%
+|}
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Sol}}; width:150px" | Version
+! style="background-color:{{Couleur|Sol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Sol}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Tunnel|100|100|10}}
+{{Attaque|Départ|Jet de Sable|-|100|15}}
+{{Attaque|N.35|Tranche|70|100|20}}
+{{Attaque|N.47|Séisme|100|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ{{Sup|C}}|Triplattaque|80|100|10}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Ampleur|-|100|30}}
+{{Attaque|Départ|Tunnel|60|100|10}}
+{{Attaque|N.25|Jet de Sable|-|100|15}}
+{{Attaque|N.37|Tranche|70|100|20}}
+{{Attaque|N.49|Séisme|100|100|10}}
+{{Attaque|N.61|Abîme|-|-|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Triplattaque|80|100|10|beauté|2|2}}
+{{Attaque-III|Départ|Jet de Sable|-|100|15|grâce|2|1}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.5|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|N.9|Ampleur|-|100|30|robustesse|1|0}}
+{{Attaque-III|N.17|Tunnel|60|100|10|intelligence|1|0}}
+{{Attaque-III|N.21{{Sup|RF}}{{Sup|VF}}|Combo-Griffe|18|80|15|robustesse|2|1}}
+{{Attaque-III|N.25|Coud'Boue|20|100|10|grâce|2|1}}
+{{Attaque-III|N.26|Tourbi-Sable|15|70|15|intelligence|3|0}}
+{{Attaque-III|N.38|Tranche|70|100|20|sang-froid|3|0}}
+{{Attaque-III|N.51|Séisme|100|100|10|robustesse|1|3}}
+{{Attaque-III|N.64|Abîme|-|-|5|robustesse|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Tranche-Nuit|70|100|15|beauté|3}}
+{{Attaque-IV|Départ|Triplattaque|80|100|10|beauté|3}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Jet de Sable|-|100|15|grâce|2}}
+{{Attaque-IV|Départ<br>N.4|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|N.7|Étonnement|30|100|15|intelligence|3}}
+{{Attaque-IV|N.12|Ampleur|-|100|30|robustesse|2}}
+{{Attaque-IV|N.15|Coud'Boue|20|100|10|grâce|3}}
+{{Attaque-IV|N.18|Tunnel|80|100|10|intelligence|1}}
+{{Attaque-IV|N.23|Coup Bas|80|100|5|intelligence|2}}
+{{Attaque-IV|N.26|Tourbi-Sable|15|70|15|intelligence|0}}
+{{Attaque-IV|N.28|Telluriforce|90|100|10|intelligence|2}}
+{{Attaque-IV|N.33|Boue-Bombe|65|85|10|intelligence|2}}
+{{Attaque-IV|N.40|Tranche|70|100|20|sang-froid|3}}
+{{Attaque-IV|N.45|Séisme|100|100|10|robustesse|2}}
+{{Attaque-IV|N.50|Abîme|-|-|5|robustesse|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Tranche-Nuit|70|100|15}}
+{{Attaque-V|Départ|Triplattaque|80|100|10}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|Départ|Jet de Sable|-|100|15}}
+{{Attaque-V|Départ<br>N.4|Rugissement|-|100|40}}
+{{Attaque-V|N.7|Étonnement|30|100|15}}
+{{Attaque-V|N.12|Coud'Boue|20|100|10}}
+{{Attaque-V|N.15|Ampleur|-|100|30}}
+{{Attaque-V|N.18|Piétisol|60|100|20}}
+{{Attaque-V|N.23|Coup Bas|80|100|5}}
+{{Attaque-V|N.26|Tourbi-Sable|35|85|15}}
+{{Attaque-V|N.28|Boue-Bombe|65|85|10}}
+{{Attaque-V|N.33|Telluriforce|90|100|10}}
+{{Attaque-V|N.40|Tunnel|80|100|10}}
+{{Attaque-V|N.45|Tranche|70|100|20}}
+{{Attaque-V|N.50|Séisme|100|100|10}}
+{{Attaque-V|N.57|Abîme|-|-|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=sol
+|sensib-eau=2
+|sensib-électrique=0
+|sensib-glace=2
+|sensib-plante=2
+|sensib-poison=0.5
+|sensib-roche=0.5
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=sol
+|PV=35
+|attaque=80
+|defense=50
+|atq-spc=50
+|def-spc=70
+|vitesse=120
+|special=70
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Triopikeur
+| numero=051
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Triopikeur RB.png
+| artwork_supp3-nom=''[[Pokémon Donjon Mystère 2|PDM2]]''
+| artwork_supp3-img=Triopikeur-DM2.png{{!}}x200px
+| artwork_supp4-nom=''[[Pokémon Donjon Mystère : Explorateurs du Ciel|Explorateurs du Ciel]]''
+| artwork_supp4-img=Triopikeur-EdC.png{{!}}x200px
+| forme=11
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Des Triopikeur apparaissent dans les épisodes [[épisode 31|31]], où un projet de barrage destructeur pour l'environnement est contrecarré par les Pokémon sauvages, [[épisode 114|114]], où un dresseur utilise des [[Taupiqueur]] et un Triopikeur pour rediriger les [[Électrode]] qui mettent la panique en ville vers une prairie paisible, et [[épisode 402|402]], où l'une des adversaires de [[Sacha]], pendant la [[Ligue Hoenn]], utilise entre autres un Triopikeur.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 31]]
+:[[évolution|Forme évoluée]] du {{PCap|Taupiqueur}}. Aucune autre information disponible.
+;[[Épisode 114]]
+:[[évolution|Forme évoluée]] de {{PCap|Taupiqueur}}. Constitué de trois {{PCap|Taupiqueur}}, il est capable de creuser des [[Tunnel]]s très profonds.
+
+{{Ruban Pokémon
+| nomPrécédent=Taupiqueur
+| numéro=051
+| nom=Triopikeur
+| nomSuivant=Miaouss
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/51| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Dugtrio| ]]
+
+[[de:Digdri]]
+[[en:Dugtrio (Pokémon)]]
+[[es:Dugtrio]]
+[[it:Dugtrio]]
+[[ja:ダグトリオ]]
+[[pl:Dugtrio]]
+[[pt:Dugtrio (pokémon)]]

@@ -1,0 +1,264 @@
+{{Ruban Pokémon
+| nomPrécédent=Lokhlass
+| numéro=132
+| nom=Métamorph
+| nomSuivant=Évoli
+}}
+{{Infobox Pokémon
+| nom=Métamorph
+| nomen=Ditto
+| nomja=メタモン
+| nomtm=Metamon
+| nomde=Ditto
+| légende=Artwork de Métamorph pour {{RFVF}}
+| ndex=132
+| jdex=092
+| hdex=287
+| odex=R-291
+| espece=Morphing 
+| taille=0.3
+| poids=4.0
+| fmratio=-1
+| oeufpas=5120
+| effortval=+1 PV
+| type1=Normal
+| expval=61
+| expmax=1000000
+| captureval=35
+| groupoeuf1=Métamorph
+| capspe1=Échauffement
+| capspe2=Imposteur
+| capspe2-reve=oui
+| couleur=Violet
+| forme=1
+}}
+'''Métamorph''' (anglais : '''Ditto''' ; japonais : '''メタモン''' ''Metamon'') est un [[Pokémon]] de [[type]] {{type|normal}} asexué de la [[première génération]]. Il ne peut que copier l'apparence et les attaques du Pokémon adverse à cause de sa seule attaque : [[Morphing]].
+
+Depuis la [[deuxième génération]], les dresseurs se servent surtout de lui comme Pokémon [[reproduction|reproducteur]] à la [[pension]]. En effet, quasiment tous les Pokémon sexués peuvent se reproduire avec Métamorph, ce qui en fait un Pokémon pratiquement indispensable pour la collection d'un dresseur.
+
+Avec la [[cinquième génération]], Métamorph obtient une capacité spéciale Dream World qui lui est propre : [[Imposteur]]. En lui faisant tenir un [[Mouchoir Choix]], le Pokémon est alors vu en stratégie comme un "Revenge Killer".
+
+==À propos du Pokémon==
+===Physionomie===
+Métamorph ressemble à de la gelée rose. Il peut copier l'ADN de son adversaire. Pour les Métamorph les moins expérimentés, la transformation a un seul défaut : elle garde les petits yeux noirs propres à Métamorph.
+
+====Différences mâle/femelle====
+
+Ce Pokémon est asexué, il n'y a donc pas de Métamorph mâle ou femelle.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Métamorph a la gelée qui compose son corps qui est de couleur bleue au lieu de rose.
+
+=== [[Évolution]] ===
+Métamorph n'a pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===Étymologie===
+*Français : ''Métamorph'' vient du nom [[wp:métamorphe|Métamorphe]].
+*Japonais : ''Metamon'' vient de la contraction de l'anglais '''Meta'''''morphosis'',qui veut dire métamorphose,et de '''Mon'''''ster'',monstre (tout comme Pokémon,Pocket Monster)
+*Anglais : ''Ditto'' veut littéralement dire ''idem''.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il est capable de copier le code génétique d'un ennemi pour se transformer en son double.
+;[[Pokémon Jaune]]
+:Quand il repère un ennemi, il adapte sa forme pour en faire une copie parfaite.
+;[[Pokémon Stadium]]
+:Il est capable de transformer ses cellules pour copier parfaitement son ennemi. Sa forme initiale ressemble à un blob.
+;[[Pokémon Or]]
+:Il peut se transformer en tout. Quand il dort, il se change en pierre pour éviter d'être attaqué.
+;[[Pokémon Argent]]
+:Sa capacité de transformation est parfaite. Si vous le faîtes rire, il ne pourra rester déguisé.
+;[[Pokémon Cristal]]
+:S'il rencontre un autre {{PCap|Métamorph}}, il se dépêchera de se transformer en premier.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Métamorph}} peut modifier sa structure moléculaire pour prendre d'autres formes. En revanche, lorsqu'il essaye de se transformer de mémoire, il lui arrive de se tromper sur certains détails.
+;[[Pokémon Émeraude]]
+:Il peut modifier sa structure moléculaire pour prendre d'autres formes. Mais quand il essaye de se transformer de mémoire, il lui arrive de se tromper sur certains détails.
+;[[Pokémon Rouge Feu]]
+:{{PCap|Métamorph}} peut modifier sa structure cellulaire à sa guise pour se transformer en n'importe quelle forme vivante.
+;[[Pokémon Vert Feuille]]
+:Il est capable de copier le code génétique d'un ennemi pour se transformer en son double.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il a la capacité de modifier sa structure cellulaire pour prendre l'apparence de ce qu'il voit.
+;[[Pokémon Or HeartGold]]
+:Il peut se transformer en tout. Quand il dort, il se change en pierre pour éviter d'être attaqué.
+;[[Pokémon Argent SoulSilver]]
+:Sa capacité de transformation est parfaite. Si vous le faites rire, il ne pourra rester déguisé.
+;[[Pokémon Noir et Blanc]]
+:Il a la capacité de modifier sa structure cellulaire pour prendre l'apparence de ce qu'il voit.
+
+== Localisations ==
+
+=== [[Première génération]] ===
+{| class="wikitable"
+! Version
+! Lieu
+! Rareté
+|-
+| [[Rouge]] et [[Bleu]]
+| [[Route]]s [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Route 23|23]] et [[Grotte Azurée|Grotte Inconnue]]
+| Commun
+|-
+| [[Jaune]]
+| [[Manoir Pokémon]] et [[Grotte Azurée|Grotte Inconnue]]
+| Rare
+|}
+
+=== [[Troisième génération]] ===
+{| class="wikitable"
+! Version
+! Lieu
+! Rareté
+|-
+| [[Rubis]] et [[Saphir]]
+| Échange
+| Inexistant
+|-
+| [[Émeraude]]
+| [[Voie du Désert]]
+| 50%
+|-
+| [[Rouge Feu]] et [[Vert Feuille]]
+| [[Route]]s [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Manoir Pokémon (Kanto)|Manoir Pokémon]], [[Grotte Azurée]]
+| Rare
+|-
+| [[Colosseum]]
+| Échange
+| Inexistant
+|-
+| [[XD]]
+| Échange
+| Inexistant
+|}
+
+=== [[Quatrième génération]] ===
+{| class="wikitable"
+! Version
+! Lieu
+! Rareté
+|-
+| [[Diamant]]/[[Perle]]
+| [[Pokéradar]] sur la [[route 218]] ou [[échange de Pokémon|échange]]
+| Rare
+|-
+| [[Pokémon Platine|Platine]]
+| [[Pokéradar]] sur la [[route 218]] ou demander au propriétaire du [[Manoir Pokémon]], après avoir reçu le [[Pokédex national]].
+| Rare
+|-
+| [[Or HeartGold]]/[[Argent SoulSilver]]
+| rowspan="2" | [[Route 34]], [[Route 35]], [[Route 47]], [[Caverne Azurée]] (Kanto)
+| rowspan="2" | Commun
+|}
+
+=== [[Cinquième génération]] ===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:200px" | Version
+! style="background-color:{{Couleur|Normal}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle" | {{NB}}
+| style="vertical-align:middle" | Commun
+| style="vertical-align:middle" | [[Grotte Cyclopéenne]]{{infobulle|*|Forêt du Cratère}}
+| style="vertical-align:middle" | 53-65
+|-
+| style="vertical-align:middle" | {{NB2}}
+| style="vertical-align:middle" | Rare
+| style="vertical-align:middle" | [[Grotte Cyclopéenne]]{{infobulle|*|Forêt du Cratère}}
+| style="vertical-align:middle" | 50
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Morphing|-|-|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Morphing|-|-|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Morphing|-|-|10|intelligence|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Morphing|-|-|10|intelligence|1}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Morphing|-|-|10}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=normal
+|PV=48
+|attaque=48
+|defense=48
+|atq-spc=48
+|def-spc=48
+|vitesse=48
+|special=48
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Métamorph
+| numero=132
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Métamorph RB.png
+| forme=1
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+Dans le [[dessin animé]], il apparaît aux côtés d'un membre de la [[Team Magma]], de [[Duplica]] et de [[Mondo]]. Dans l'[[épisode 113]], on remarque que Didier en possède un également ; c'est le premier de ses six Pokémon pour combattre Sacha dans la Ligue Orange.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 37]]
+:Un {{PCap|Pok}}é{{PCap|mon}} Morphing. Il a le pouvoir de changer son corps en n'importe quelle forme grâce à ses cellules métamorpheuses. Sa seule [[attaque]] est la transformation.
+;[[Épisode 639]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Morphing. {{PCap|Métamorph}} est capable de reproduire la structure cellulaire de tout ce qu'il voit.
+
+{{Ruban Pokémon
+| nomPrécédent=Lokhlass
+| numéro=132
+| nom=Métamorph
+| nomSuivant=Évoli
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/132| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Ditto| ]]
+
+[[de:Ditto]]
+[[en:Ditto (Pokémon)]]
+[[es:Ditto]]
+[[it:Ditto]]
+[[ja:メタモン]]
+[[pl:Ditto]]
+[[pt:Ditto (pokémon)]]

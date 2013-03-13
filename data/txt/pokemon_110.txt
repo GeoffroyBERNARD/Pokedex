@@ -1,0 +1,254 @@
+{{Ruban Pokémon
+| nomPrécédent=Smogo
+| numéro=110
+| nom=Smogogo
+| nomSuivant=Rhinocorne
+}}
+{{Infobox Pokémon
+| nom=Smogogo
+| nomen=Weezing
+| nomja=マタドガス
+| nomtm=Matadogas
+| nomromaji=Matadogasu
+| nomde=Smogmog
+| légende=Artwork de Smogogo pour {{RFVF}}
+| ndex=110
+| jdex=115
+| njdex=116
+| hdex=109
+| adex=188
+| odex=R-046
+| opdex=N-114
+| espece=Gaz mortel
+| taille=1.2
+| poids=9.5
+| fmratio=.5
+| oeufpas=5120
+| effortval=+2 Déf.
+| type1=Poison
+| expval=173
+| expmax=1000000
+| captureval=60
+| groupoeuf1=Indéterminé
+| capspe1=Lévitation
+| capspe1-desc=Évite les attaques sol.
+| couleur=Violet
+| forme=11}}
+'''Smogogo''' (anglais : '''Weezing''' ; japonais : '''マタドガス''' ''Matadogas'') est un [[Pokémon]] de [[type]] {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Smogogo est l'évolution de [[Smogo]] à partir du [[niveau]] 35.
+{{TableauEvolutionHaut|Poison|Smogo}}
+{{TableauEvolutionSimple|[[Niveau]] 35|Smogogo}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+* Français : vient de ''smog'' (brouillard épais à base de pollution) et du doublement du suffixe -go, soulignant que Smogo x 2 = Smogogo
+* Anglais : ''wheezing'' (sifflant)
+* Allemand : même principe qu'en français,mais avec le nom allemand de Smogo
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Deux {{PCap|[[Smogo]]}} peuvent se combiner en un seul {{PCap|Smogogo}} en mélangeant leur gaz.
+;[[Pokémon Jaune]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} se nourrit de gaz, de poisons, et de germes que l'on peut trouver dans des tas d'ordures.
+;[[Pokémon Stadium]]
+:Une rare formation d'un double {{PCap|[[Smogo]]}}, se produisant sous l'abondance de gaz toxiques. Leurs deux gaz sont de nature différente.
+;[[Pokémon Or]]
+:Si l'un des deux {{PCap|[[Smogo]]}} se gonfle l'autre se dégonfle. Ils mélangent leurs gaz en permanence.
+;[[Pokémon Argent]]
+:En diluant au plus haut point ses gaz internes, on peut obtenir des parfums de premier choix.
+;[[Pokémon Cristal]]
+:Il aspire les gaz toxiques des déchets pour ainsi gonfler et sentir encore plus mauvais.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Smogogo}} rétrécit ou gonfle ses deux corps pour mélanger les gaz toxiques qui s'y trouvent. Lorsque les gaz sont bien mélangés, la toxine devient très puissante. Le {{PCap|Pok}}é{{PCap|mon}} se putréfie aussi un peu plus.
+;[[Pokémon Émeraude]]
+:Une technique spéciale diluant ses gaz toxiques permet d'obtenir un parfum formidable. Mais pour {{PCap|Smogogo}}, rien ne vaut l'odeur d'une bonne décharge.
+;[[Pokémon Rouge Feu]]
+:Il peut arriver que deux {{PCap|[[Smogo]]}} mutent et s'associent pour former un {{PCap|Smogogo}}, mais c'est très rare.
+;[[Pokémon Vert Feuille]]
+:Deux {{PCap|[[Smogo]]}} peuvent se combiner en un {{PCap|Smogogo}} en mélangeant leurs gaz.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il grandit en absorbant les gaz des détritus. Des triplés existent, bien qu'ils soient fort rares.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il dégage un nuage de poison et répand des flaques toxiques.
+;[[Pokémon Or HeartGold]]
+:Si l'un des deux {{PCap|Smogo}} se gonfle, l'autre se dégonfle. Ils mélangent leurs gaz en permanence.
+;[[Pokémon Argent SoulSilver]]
+:En diluant au plus haut point ses gaz internes, on peut obtenir des parfums de premier choix.
+;[[Pokémon Noir et Blanc]]
+:Il grandit en absorbant les gaz des détritus. Des triplés existent, bien qu'ils soient fort rares.
+
+==Localisations==
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Poison}}; width:150px" | Version
+! style="background-color:{{Couleur|Poison}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | Faire évoluer [[Smogo]]
+|-
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Purédpois|20|70|20}}
+{{Attaque|Départ|Détritus|65|100|20}}
+{{Attaque|N.39|Brouillard|-|100|20}}
+{{Attaque|N.43|Destruction|130|100|5}}
+{{Attaque|N.49|Buée Noire|-|-|30}}
+{{Attaque|N.53|Explosion|170|100|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Gaz Toxik|-|55|40}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Purédpois|20|70|20}}
+{{Attaque|Départ|Destruction|200|100|5}}
+{{Attaque|Départ|Détritus|65|100|20}}
+{{Attaque|Départ|Brouillard|-|100|20}}
+{{Attaque|Départ|Buée Noire|-|-|30}}
+{{Attaque|N.44|Explosion|250|100|5}}
+{{Attaque|N.51|PRLVT Destin|-|-|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Gaz Toxik|-|55|40|intelligence|3|0}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.9|Purédpois|20|70|20|robustesse|1|3}}
+{{Attaque-III|Départ<br>N.17|Destruction|200|100|5|beauté|8|0}}
+{{Attaque-III|N.21|Détritus|65|100|20|robustesse|1|4}}
+{{Attaque-III|N.25|Brouillard|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.33|Buée Noire|-|-|30|beauté|3|0}}
+{{Attaque-III|N.44|Explosion|250|100|5|beauté|8|0}}
+{{Attaque-III|N.51|PRLVT Destin|-|-|5|intelligence|8|0}}
+{{Attaque-III|N.58|Souvenir|-|100|10|robustesse|8|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Gaz Toxik|-|55|40|intelligence|3}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.6|Purédpois|20|70|20|robustesse|3}}
+{{Attaque-IV|Départ<br>N.10|Brouillard|-|100|20|intelligence|2}}
+{{Attaque-IV|N.15|Assurance|50|100|10|beauté|2}}
+{{Attaque-IV|N.19|Destruction|200|100|5|beauté|0}}
+{{Attaque-IV|N.24|Détritus|65|100|20|robustesse|2}}
+{{Attaque-IV|N.28|Buée Noire|-|-|30|beauté|2}}
+{{Attaque-IV|N.33|Coup Double|35|90|10|intelligence|2}}
+{{Attaque-IV|N.40|Explosion|250|100|5|beauté|0}}
+{{Attaque-IV|N.48|Bomb-Beurk|90|100|10|robustesse|2}}
+{{Attaque-IV|N.55|PRLVT Destin|-|-|5|intelligence|0}}
+{{Attaque-IV|N.63|Souvenir|-|100|10|robustesse|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Gaz Toxik|-|80|40}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ<br>N.6|Purédpois|20|70|20}}
+{{Attaque-V|Départ<br>N.10|Brouillard|-|100|20}}
+{{Attaque-V|N.15|Assurance|50|100|10}}
+{{Attaque-V|N.19|Bain de Smog|50|-|15}}
+{{Attaque-V|N.24|Destruction|200|100|5}}
+{{Attaque-V|N.28|Détritus|65|100|20}}
+{{Attaque-V|N.33|Buée Noire|-|-|30}}
+{{Attaque-V|N.39|Coup Double|35|90|10}}
+{{Attaque-V|N.46|Explosion|250|100|5}}
+{{Attaque-V|N.52|Bomb-Beurk|90|100|10}}
+{{Attaque-V|N.59|PRLVT Destin|-|-|5}}
+{{Attaque-V|N.65|Souvenir|-|100|10}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-combat=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-sol=0
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison]] - donc sur '''{{PAGENAME}}''' - dans la [[première génération]].
+|rmq-insecte-num=1
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est de x2.
+|rmq-sol-num=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=poison
+|PV=65
+|attaque=90
+|defense=120
+|atq-spc=85
+|def-spc=70
+|vitesse=60
+|special=85
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Smogogo
+| numero=110
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Smogogo RB.png
+| forme=11
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Smogogo a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 24. Pour plus d'informations, voir ''[[Smogogo (Premier Défi 24)]]''.
+
+[[Fichier:JFC-Premier Défi-24.png|thumb|center|La figurine de Smogogo]]
+
+==Apparitions dans le [[dessin animé]]==
+
+Ce Pokémon fait son apparition lorsque le [[Smogo de James|Smogo]] de [[James]] [[évolution|évolue]] dans l'[[épisode 31]]. Il quitte son dresseur lors de l'[[épisode 280]].
+
+En dehors de ce cas, Smogogo n'a quasiment jamais été revu dans le dessin animé.
+
+===Descriptions du [[Pokédex]]===
+
+{{Ruban Pokémon
+| nomPrécédent=Smogo
+| numéro=110
+| nom=Smogogo
+| nomSuivant=Rhinocorne
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/110| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Weezing| ]]
+
+[[de:Smogmog]]
+[[en:Weezing (Pokémon)]]
+[[es:Weezing]]
+[[it:Weezing]]
+[[ja:マタドガス]]
+[[pl:Weezing]]
+[[pt:Weezing (pokémon)]]

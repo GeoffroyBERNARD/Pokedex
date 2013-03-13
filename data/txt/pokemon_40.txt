@@ -1,0 +1,342 @@
+{{Ruban Pokémon
+| nomPrécédent=Rondoudou
+| numéro=040
+| nom=Grodoudou
+| nomSuivant=Nosferapti
+}}
+{{Infobox Pokémon 
+| nom=Grodoudou
+| nomen=Wigglytuff
+| nomja=プクリン
+| nomtm=Pukurin
+| nomde=Knuddeluff
+| légende=Artwork de Grodoudou pour {{RFVF}}
+| ndex=040
+| jdex=045
+| hdex=139
+| adex=204
+| type1=Normal
+| espece=Bouboule
+| taille=1.0
+| poids=12.0
+| capspe1=Joli Sourire
+| capspe2=Fouille
+| capspe2-reve=oui
+| groupoeuf1=Fée
+| oeufpas=2560 
+| effortval=+3 PV
+| expval=109
+| expmax=800000
+| fmratio=.75 
+| captureval=50
+| couleur=Rose
+| forme=12}}
+'''Grodoudou''' (anglais : '''Wigglytuff''' ; japonais : '''プクリン''' ''Pukurin'') est un [[Pokémon]] de [[type]] {{type|normal}} de la [[première génération]].
+
+==À propos du Pokémon==
+
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Grodoudou a le corps violet clair et a les yeux verts à la place de bleu.
+
+===[[Évolution]]===
+Grodoudou est l'évolution de [[Rondoudou]] au contact d'une [[Pierre Lune]]. Rondoudou est lui-même depuis la [[seconde génération]] l'évolution de [[Toudoudou]] lorsque ce dernier est suffisamment heureux.
+{{TableauEvolutionHaut|Normal|Toudoudou}}
+{{TableauEvolutionSimple|[[Bonheur]]|Rondoudou}}
+{{TableauEvolutionSimple|Avec une [[Pierre Lune]]|imageObjet=Miniat pierre lune dp.png|Grodoudou}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Grodoudou dispose comme ses préévolutions de la capacité spéciale [[Joli Sourire]], qui exploite son charme pour éventuellement séduire l'ennemi lorsqu'il utilise une attaque de contact.
+
+===Étymologies===
+* Français : vient de '''gro'''s, '''dou'''x et dou'''dou'''.
+* Anglais : vient de ''to wiggle'' (agiter sa graisse) et "Tuff" sons comme le mot Tough(résistant, fort, dur)
+* Japonais :
+* Allemand : vient de ''knuddelig''(à caliner) et ''fluffig''(rond/gros)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: En cas de danger, il gonfle d'air son corps doux et potelé dans des proportions gigantesques.
+;[[Pokémon Jaune]]
+: Son corps est malléable. En aspirant de l'air il se gonfle dans des proportions gigantesques.
+;[[Pokémon Stadium]]
+: Sa peau douce et souple lui permet de se gonfler comme un ballon. S'il est en colère, il avalera une large quantité d'air.
+;[[Pokémon Or]]
+: Leur fourrure est si douce que s'ils se font des câlins ils ne voudront plus se séparer.
+;[[Pokémon Argent]]
+: Il a une très belle fourrure. Ne jamais le mettre en colère ou il gonflera et fera un {{PCap|[[Plaquage]]}}.
+;[[Pokémon Cristal]]
+: Sa fourrure est si douce et riche que si on la caresse, on ne veut ni ne peut s'arrêter.
+;[[Pokémon Rubis]]
+: {{PCap|Grodoudou}} a des yeux immenses et écarquillés. La surface de ses yeux est couverte d'une fine couche de larmes. Si de la poussière est projetée dans les yeux de ce {{PCap|Pok}}é{{PCap|mon}}, elle est rapidement nettoyée.
+;[[Pokémon Saphir]]
+: Le corps de {{PCap|Grodoudou}} est très élastique. S'il inspire profondément, ce {{PCap|Pok}}é{{PCap|mon}} peut se gonfler à volonté. Une fois gonflé, {{PCap|Grodoudou}} peut rebondir comme un ballon.
+;[[Pokémon Émeraude]]
+: Sa fourrure est si douce que dormir à ses côtés est tout simplement divin. Son corps semble pouvoir gonfler sans fin quand il inspire. 
+;[[Pokémon Rouge Feu]]
+:Sa fourrure est fine, dense et souple à la fois. Très agréable au toucher, elle donne envie de le dorloter.
+;[[Pokémon Vert Feuille]]
+:En cas de danger, Il gonfle d'air son corps doux et potelé dans des proportions gigantesques.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Sa fourrure est d'une douceur incomparable au toucher. Il peut gonfler en aspirant de l'air.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il chante pour attaquer avec des notes de musique et crée des ondes de choc.
+;[[Pokémon Or HeartGold]]
+:Leur fourrure est si douce que s'ils se font des câlins ils ne voudront plus se séparer.
+;[[Pokémon Argent SoulSilver]]
+:Il a une très belle fourrure. Ne jamais le mettre en colère ou il gonflera et fera un plaquage.
+;[[Pokémon Noir et Blanc]]
+:Sa fourrure est d'une douceur incomparable au toucher. Il peut gonfler en aspirant de l'air.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Rare || [[Grotte Inconnue]].
+|-
+| [[Bleu]] || Rare || [[Grotte Inconnue]].
+|-
+| [[Jaune]] || À acheter || [[Casino]] de [[Céladopole]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Cristal]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Saphir]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Or HeartGold]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|-
+| [[Argent SoulSilver]] || Inexistant || Faire évoluer [[Rondoudou]] à l'aide d'une [[Pierre Lune]].
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Route 14 (Unys)|Route 14]] ([[Herbes mouvantes]])
+| style="vertical-align:middle;" | 50
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Berceuse|-|55|15}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Boul'Armure|-|-|40}}
+{{Attaque|Départ|Torgnoles|15|85|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Berceuse|-|55|15}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Boul'Armure|-|-|40}}
+{{Attaque|Départ|Torgnoles|15|85|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Berceuse|-|55|15|grâce|2|0}}
+{{Attaque-III|Départ|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|Départ|Boul'Armure|-|-|40|grâce|2|0}}
+{{Attaque-III|Départ|Torgnoles|15|85|10|robustesse|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Berceuse|-|55|15|grâce|2}}
+{{Attaque-IV|Départ|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|Départ|Boul'Armure|-|-|40|grâce|2}}
+{{Attaque-IV|Départ|Torgnoles|15|85|10|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Berceuse|-|55|15}}
+{{Attaque-V|Départ|Entrave|-|100|20}}
+{{Attaque-V|Départ|Boul'Armure|-|-|40}}
+{{Attaque-V|Départ|Torgnoles|15|85|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=normal
+|PV=140
+|attaque=70
+|defense=45
+|atq-spc=75
+|def-spc=50
+|vitesse=45
+|special=50
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Grodoudou
+| numero=040
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Grodoudou RB.png
+| artwork_supp3-nom=''[[Pokémon Donjon Mystère 2|PDM2]]''
+| artwork_supp3-img=Grodoudou-DM2.png{{!}}x200px
+| artwork_supp4-nom=''[[Pokémon Donjon Mystère : Explorateurs du Ciel|Explorateurs du Ciel]]''
+| artwork_supp4-img=Grodoudou-EdC.png{{!}}x200px
+| forme=12
+| pinballRS=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+Grodoudou est la vedette du film tournée dans l'[[épisode 69]], "Lumière ! Moteur ! Action !"
+Un Grodoudou apparaît dans l'équipe d'[[Harley]] lors du [[AG179|Grand Festival de Kanto]].
+===Descriptions du [[Pokédex]]===
+
+{{Ruban Pokémon
+| nomPrécédent=Rondoudou
+| numéro=040
+| nom=Grodoudou
+| nomSuivant=Nosferapti
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/40| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Wigglytuff| ]]
+
+[[de:Knuddeluff]]
+[[en:Wigglytuff (Pokémon)]]
+[[es:Wigglytuff]]
+[[it:Wigglytuff]]
+[[ja:プクリン]]
+[[pl:Wigglytuff]]
+[[pt:Wigglytuff (pokémon)]]

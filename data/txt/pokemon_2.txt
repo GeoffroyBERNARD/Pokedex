@@ -1,0 +1,595 @@
+{{Ruban Pokémon
+| nomPrécédent=Bulbizarre
+| numéro=002
+| nom=Herbizarre
+| nomSuivant=Florizarre
+}}
+{{Infobox Pokémon
+| nom=Herbizarre
+| nomen=Ivysaur
+| nomja=フシギソウ
+| nomtm=Fushigisou
+| nomromaji=Fushigisō
+| nomde=Bisaknosp
+| image=Herbizarre.png
+| légende=Artwork de Herbizarre pour {{RFVF}}
+| ndex=002
+| jdex=227
+| njdex=232
+| hdex=204
+| fdex=002
+| odex=R-015
+| opdex=N-005
+| espece=Graine
+| taille=1.0
+| poids=13.0
+| fmratio=.125
+| couleur=Vert
+| oeufpas=5120
+| effortval=+1 Att. Spé ; +1 Déf. Spé
+| type1=Plante
+| type2=Poison
+| expval=141
+| expmax=1059860
+| captureval=45
+| groupoeuf1=Monstre
+| groupoeuf2=Plante
+| capspe1=Engrais
+| capspe2=Chlorophyle
+| capspe2-reve=oui
+| forme=8}}
+'''Herbizarre''' (anglais : '''Ivysaur''' ; japonais : '''フシギソウ''' ''Fushigisou'') est un Pokémon {{type|plante}} et {{type|poison}}. Il est l'évolution de [[Bulbizarre]].
+
+==À propos du Pokémon==
+
+=== Physionomie et attitudes ===
+
+Herbizarre est plus grand que [[Bulbizarre]], il a plus de taches foncées, mais la couleur de son corps est plus claire. Le bulbe sur son dos s'est ouverte donnant naissance à une fleur dont la [[:wp:corolle|corolle]] est fermée, et un [[:wp:calice|calice]] à quatre [[:wp:sépales|sépales]] indépendantes. Il possède des canines saillantes et ressemble plus à un reptile qu'à un batracien. Cependant, la fleur sur son dos n'est pas totalement ouverte et continue de se développer, forçant petit à petit Herbizarre à rester [[:wp:quadrupède|quadrupède]]. Lorsque la fleur s'ouvrira totalement, Herbizarre sera devenu un [[Florizarre]].
+
+Il lui arrive d'expulser de la poudre. Il garde ses lianes aussi. Ses yeux sont devenus rouge fushia et il a toujours des griffes au bout de ses pattes.
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====[[Chromatique]]====
+Lorsqu'il est chromatique, Herbizarre a un corps, des taches et des feuilles qui sont verts et son bulbe est jaune.
+
+===[[Évolution]]===
+
+Herbizarre est l'évolution de [[Bulbizarre]] depuis le niveau 16 et évolue au niveau 32 en [[Florizarre]].
+{{TableauEvolutionHaut|Plante|Bulbizarre}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Herbizarre}}
+{{TableauEvolutionSimple|[[Niveau]] 32|Florizarre}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+* [[Engrais]] augmente la puissance des attaques plante de 50% lorsque les PV du Pokémon tombent à moins d’un tiers de leurs PV max.
+* [[Chlorophyle]] double la vitesse de Herbizarre lorsque le climat est ensoleillé.
+
+===Étymologies===
+* Français : ''Herbizarre'' vient de '''''herb'''e'' et ''b'''izarre'''''. Référence au jeu de mot du nom japonais, signifiant « n’est-il pas bizarre ? », et consonance « zarre » similaire à « lézard ».
+* Anglais : ''Ivysaur'' vient de ''ivy'', lierre, et ''saur'', le terme grec (σαύρα ''saúra'') pour désigner les lézards ou Dinosaure (même étymologie que « saurien »).
+* Japonais : <span lang="ja">フシギソウ</span> ''Fushigisou'' peut être compris comme « il semble étrange » ou comme « étrange herbe ».
+* Allemand : ''Bisaknosp'' vient de ''Bisam'', « rat musqué », et de ''Knospe'', « bourgeon ».
+* Coréen : 이상해풀 ''Isanghaepul'' qui signifie « herbe étrange ».
+* Chinois (Taïwan) : 妙蛙草 ''Mìao Wa Câo'' qui signifie « étrange grenouille d'herbe ».
+* Chinois (Hong-Kong) : 奇異草 ''Qí Yì Câo'' qui signifie « herbe inhabituelle ».
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Alors que son bulbe grossit, il semble perdre son habilité à se tenir sur ses pattes.
+;[[Pokémon Jaune]]
+: En emmagasinant de l'énergie, son bulbe grossit. Il en émane un arôme quand il va éclore.
+;[[Pokémon Stadium]]
+: Le bouton sur son dos pompe apparemment l'énergie de son corps. On raconte que ce bouton devient une superbe fleur.
+;[[Pokémon Or]]
+: La lumière du soleil le rend plus fort et vigoureux. Le bulbe sur son dos grossit en conséquence.
+;[[Pokémon Argent]]
+: Si le bourgeon sur son dos commence a sentir bon la fleur risque d'éclore bientôt.
+;[[Pokémon Cristal]]
+: Le bulbe sur son dos grandit en absorbant les nutriments. Il dégage un doux parfum après éclosion.
+;[[Pokémon Rubis et Saphir]]
+: Un bourgeon a poussé sur le dos de ce Pokémon. Pour en supporter le poids, {{PCap|Herbizarre}} a dû se muscler les pattes. Lorsqu'il commence à se prélasser au soleil, ça signifie que son bourgeon va éclore, donnant naissance à une fleur.
+;[[Pokémon Émeraude]]
+:{{PCap|Herbizarre}} a les pattes musclées afin de supporter le poids du bourgeon qu'il a sur le dos. S'il se prélasse au soleil, son bourgeon va donner naissance à une fleur.
+;[[Pokémon Rouge Feu]]
+: Il y a une bulbe sur son dos. On dit que s'il absorbe assez de nutriments, ce bulbe se transforme en une jolie fleur.
+;[[Pokémon Vert Feuille]]
+: Son bulbe dorsal devient si gros qu'il ne peut plus se tenir sur ses pattes arrières.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: {{PCap|Herbizarre}} peut enrouler ses lianes autour d'un Poteau pour traverser les fossés.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Lorsque le bourgeon sur son dos éclot, il répand un doux parfum pour célébrer sa floraison.
+;[[Super Smash Bros Brawl]]
+:Un Pokémon Graine, évolution de [[Bulbizarre]]. Le poids du bulbe de fleur présent sur son dos lui a fait développer des jambes et hanches musclées. Si le bourgeon grossit trop, ce Pokémon ne peut plus se dresser sur ses pattes arrières. À un certain niveau, il évolue en [[Florizarre]], et le bulbe absorbe des nutriments pour s'ouvrir en fleurs à grandes pétales.
+;[[Pokémon Or HeartGold]]
+:La lumière du soleil le rend plus fort et vigoureux. Le bulbe sur son dos grossit en conséquence.
+;[[Pokémon Argent SoulSilver]]
+: Si le bourgeon sur son dos commence à sentir bon, la fleur risque d'éclore bientôt.
+;[[Pokémon Noir et Blanc]]
+:Lorsque le bourgeon sur son dos éclot, il répand un doux parfum pour célébrer sa floraison.
+
+==Localisations==
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#D20000;"|{{couleur lien|#000000|Rouge}}|| rowspan="3" style="vertical-align: middle;"| Inexistant|| rowspan="3" style="vertical-align: middle;"| Faire évoluer [[Bulbizarre]]. 
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#1C2FDA;"|{{couleur lien|#FFFFFF|Bleu}} 
+|-
+| style="background:#FFFF52;"|{{couleur lien|#000000|Jaune}}
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|- 
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#E6D600;"|{{couleur lien|#000000|Or}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{BRJ}} par le [[Bloc temporel]].
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#D0D0D0;"|{{couleur lien|#000000|Argent}}
+|-
+| style="background:#009595;"|{{couleur lien|#FFFFFF|Cristal}} 
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#9F002A;"|{{couleur lien|#FFFFFF|Rubis}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="3" style="vertical-align: middle;"| -
+|-
+| style="background:#002395;"|{{couleur lien|#FFFFFF|Saphir}} 
+|-
+| style="background:#008B33;"|{{couleur lien|#FFFFFF|Émeraude}} 
+|-
+| style="background:#EA4E00;"|{{couleur lien|#000000|Rouge Feu}}|| rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| Faire évoluer [[Bulbizarre]]. 
+| rowspan="2" style="vertical-align: middle;"| -
+|-
+| style="background:#00BE46;"|{{couleur lien|#000000|Vert Feuille}} 
+|-
+| style="background:#B0001D;"|{{couleur lien|#FFFFFF|Colosseum}}  || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="2" style="vertical-align: middle;"| -
+|-
+| style="background:#700087;"|{{couleur lien|#FFFFFF|XD}} 
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#A7F6FF;"|{{couleur lien|#000000|Diamant}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;" | À échanger depuis {{OHAS}}.
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#FFBFF9;"|{{couleur lien|#000000|Perle}}
+|-
+| style="background:#606060;"|{{couleur lien|#FFFFFF|Platine}}
+|-
+| style="background:#E1C300;"|{{couleur lien|#000000|Or HeartGold}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;" | Faire évoluer [[Bulbizarre]]. 
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#A3A3A3;"|{{couleur lien|#000000|Argent SoulSilver}}
+|-
+| style="background:#3DB700;"|{{couleur lien|#000000|Parc des Amis}} 
+| style="vertical-align: middle;"| Variable 
+| style="vertical-align: middle;"| Plaine
+| style="vertical-align: middle;"| -
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#000000;"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#000000|Blanc}}
+|-
+| style="background:#000000;"|{{couleur lien|#318CE7|Noir 2}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#E9383F|Blanc 2}}
+|-
+|}
+
+===[[Sixième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:120px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:#6050DC;"|{{couleur lien|#FFFFFF|X}}
+| rowspan="2" style="vertical-align: middle;" | ?
+| rowspan="2" style="vertical-align: middle;" | À venir
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#DE2916;"| {{couleur lien|#FFFFFF|Y}}
+|-
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Vampigraine|-|90|10}}
+{{Attaque|N.13|Fouet Lianes|35|100|10}}
+{{Attaque|N.22|Poudre Toxik|-|75|35}}
+{{Attaque|N.30|Tranch'Herbe|55|95|25}}
+{{Attaque|N.38|Croissance|-|-|40}}
+{{Attaque|N.46|Poudre Dodo|-|75|15}}
+{{Attaque|N.54|Lance-Soleil|120|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.7|Vampigraine|-|90|10}}
+{{Attaque|N.10|Fouet Lianes|35|100|10}}
+{{Attaque|N.15|Poudre Toxik|-|75|35}}
+{{Attaque|N.15|Poudre Dodo|-|75|15}}
+{{Attaque|N.22|Tranch'Herbe|55|95|25}}
+{{Attaque|N.29|Doux Parfum|-|100|20}}
+{{Attaque|N.38|Croissance|-|-|40}}
+{{Attaque|N.47|Synthèse|-|-|5}}
+{{Attaque|N.56|Lance-Soleil|120|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.4|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|Départ<br>N.7|Vampigraine|-|90|10|intelligence|2|2}}
+{{Attaque-III|N.10|Fouet Lianes|35|100|10|sang-froid|4|0}}
+{{Attaque-III|N.15|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.15|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.22|Tranch'Herbe|55|95|25|sang-froid|3|0}}
+{{Attaque-III|N.29|Doux Parfum|-|100|20|grâce|1|3}}
+{{Attaque-III|N.38|Croissance|-|-|40|beauté|1|0}}
+{{Attaque-III|N.47|Synthèse|-|-|5|intelligence|1|0}}
+{{Attaque-III|N.56|Lance-Soleil|120|100|10|intelligence|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.3|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|Départ<br>N.7|Vampigraine|-|90|10|intelligence|0}}
+{{Attaque-IV|N.9|Fouet Lianes|35|100|15|sang-froid|3}}
+{{Attaque-IV|N.13|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.13|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.15|Bélier|90|85|20|robustesse|3}}
+{{Attaque-IV|N.20|Tranch'Herbe|55|95|25|sang-froid|3}}
+{{Attaque-IV|N.23|Doux Parfum|-|100|20|grâce|2}}
+{{Attaque-IV|N.28|Croissance|-|-|40|beauté|0}}
+{{Attaque-IV|N.31|Damoclès|120|100|15|robustesse|0}}
+{{Attaque-IV|N.36|Soucigraine|-|100|10|beauté|2}}
+{{Attaque-IV|N.39|Synthèse|-|-|5|intelligence|0}}
+{{Attaque-IV|N.44|Canon Graine|80|100|15|intelligence|3}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ<br>N.3|Rugissement|-|100|40}}
+{{Attaque-V|Départ<br>N.7|Vampigraine|-|90|10}}
+{{Attaque-V|N.9|Fouet Lianes|35|100|15}}
+{{Attaque-V|N.13|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.13|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.15|Bélier|90|85|20}}
+{{Attaque-V|N.20|Tranch'Herbe|55|95|25}}
+{{Attaque-V|N.23|Doux Parfum|-|100|20}}
+{{Attaque-V|N.28|Croissance|-|-|40}}
+{{Attaque-V|N.31|Damoclès|120|100|15}}
+{{Attaque-V|N.36|Soucigraine|-|100|10}}
+{{Attaque-V|N.39|Synthèse|-|-|5}}
+{{Attaque-V|N.44|Canon Graine|80|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+==== [[Génération I]] ====
+
+{{Apprentissage CT Haut|type=plante}}
+{{Apprentissage CT|03|Danse-Lames}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|08|Plaquage}}
+{{Apprentissage CT|09|Bélier}}
+{{Apprentissage CT|10|Damoclès}}
+{{Apprentissage CT|20|Frénésie}}
+{{Apprentissage CT|21|Méga-Sangsue}}
+{{Apprentissage CT|22|Lance-Soleil}}
+{{Apprentissage CT|31|Copie}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|33|Protection}}
+{{Apprentissage CT|34|Patience}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|50|Clonage}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT Bas}}
+
+==== [[Génération II]] ====
+
+{{Apprentissage CT Haut|type=plante}}
+{{Apprentissage CT|02|Coup d'Boule}}
+{{Apprentissage CT|03|Malédiction}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|12|Doux Parfum}}
+{{Apprentissage CT|13|Ronflement}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|19|Giga-Sangsue}}
+{{Apprentissage CT|20|Ténacité}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|22|Lance-Soleil}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|31|Coud'Boue}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|34|Vantardise}}
+{{Apprentissage CT|35|Blabla Dodo}}
+{{Apprentissage CT|40|Boul'Armure}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|49|Taillade}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|05|Flash|cs=oui}}
+{{Apprentissage CT Bas}}
+
+==== [[Génération III]] ====
+
+{{Apprentissage CT Haut|type=plante}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|09|Balle Graine}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|19|Giga-Sangsue}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|22|Lance-Soleil}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|36|Bomb-Beurk}}
+{{Apprentissage CT|42|Façade}}
+{{Apprentissage CT|43|Force Cachée}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|04|Force|cs=oui}}
+{{Apprentissage CT|05|Flash|cs=oui}}
+{{Apprentissage CT|06|Éclate-Roc|cs=oui}}
+{{Apprentissage CT Bas}}
+
+==== [[Génération IV]] ====
+
+{{Apprentissage CT Haut|type=plante}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|09|Balle Graine}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|19|Giga-Sangsue}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|22|Lance-Soleil}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|36|Bomb-Beurk}}
+{{Apprentissage CT|42|Façade}}
+{{Apprentissage CT|43|Force Cachée}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|53|Éco-Sphère}}
+{{Apprentissage CT|58|Ténacité}}
+{{Apprentissage CT|70|Flash}}
+{{Apprentissage CT|75|Danse-Lames}}
+{{Apprentissage CT|78|Séduction}}
+{{Apprentissage CT|82|Blabla Dodo}}
+{{Apprentissage CT|83|Don Naturel}}
+{{Apprentissage CT|86|Nœud Herbe}}
+{{Apprentissage CT|87|Vantardise}}
+{{Apprentissage CT|90|Clonage}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|04|Force|cs=oui}}
+{{Apprentissage CT|06|Éclate-Roc|cs=oui}}
+{{Apprentissage CT Bas}}
+
+==== [[Génération V]] ====
+
+
+{{Apprentissage CT Haut|type=plante}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|09|Choc Venin}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|16|Mur Lumière}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|20|Rune Protect}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|22|Lance-Soleil}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|36|Bomb-Beurk}}
+{{Apprentissage CT|42|Façade}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|48|Chant Canon}}
+{{Apprentissage CT|49|Écho}}
+{{Apprentissage CT|53|Éco-Sphère}}
+{{Apprentissage CT|70|Flash}}
+{{Apprentissage CT|75|Danse-Lames}}
+{{Apprentissage CT|78|Séduction}}
+{{Apprentissage CT|86|Nœud Herbe}}
+{{Apprentissage CT|87|Vantardise}}
+{{Apprentissage CT|90|Clonage}}
+{{Apprentissage CT|94|Éclate-Roc}} 
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|04|Force|cs=oui}}
+{{Apprentissage CT Bas}}
+
+===Par [[reproduction]]===
+
+;Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]
+
+:- [[Coud'Krâne]]
+:- [[Coupe-vent]]
+:- [[Danse-Fleur]]
+:- [[Mur Lumière]]
+:- [[Rune Protectrice]]
+
+;Dans les jeux de [[troisième génération]]
+
+:- [[Charme (attaque)|Charme]]
+:- [[Coud'Krâne]]
+:- [[Danse-Fleur]]
+:- [[Feuillemagik]]
+:- [[Malédiction]]
+:- [[Mur Lumière]]
+:- [[Rune Protectrice]]
+:- [[Siffl'Herbe]]
+
+;Dans [[Pokémon Diamant et Perle]]
+
+:- [[Amnésie]]
+:- [[Charme (attaque)|Charme]]
+:- [[Coud'Krâne]]
+:- [[Danse-Fleur]]
+:- [[Feuillemagik]]
+:- [[Force-Nature]]
+:- [[Malédiction]]
+:- [[Mur Lumière]]
+:- [[Racines]]
+:- [[Rune Protectrice]]
+:- [[Siffl'Herbe]]
+:- [[Tempêteverte]]
+
+===Par [[Donneur de capacités]]===
+
+;Dans [[Pokémon Rouge Feu et Vert Feuille]]
+
+:- [[Clonage (attaque)|Clonage]]
+:- [[Copie]]
+:- [[Damoclès]]
+:- [[Danse-Lames]]
+:- [[Plaquage]]
+
+;Dans [[Pokémon Émeraude]]
+
+:- [[Blabla Dodo]]
+:- [[Boul'Armure]]
+:- [[Clonage (attaque)|Clonage]]
+:- [[Coud'Boue]]
+:- [[Copie]]
+:- [[Damoclès]]
+:- [[Danse-Lames]]
+:- [[Plaquage]]
+:- [[Ronflement]]
+:- [[Taillade]]
+:- [[Ténacité]]
+:- [[Vantardise]]
+
+== Sensibilités ==
+
+{{Sensibilités
+| type=plante
+| sensib-combat=0.5
+| sensib-eau=0.5
+| sensib-électrique=0.5
+| sensib-feu=2
+| sensib-glace=2
+| sensib-plante=0.25
+| sensib-psy=2
+| sensib-vol=2
+| rmq-insecte=Dans la [[première génération]], les attaques de type [[Insecte]] étaient très efficaces contre les Pokémon de type [[Poison (type)|Poison]] (alors qu'elles sont peu efficaces depuis), ce qui donnait pour '''{{PAGENAME}}''' une quadruple sensibilité (du fait de la sensibilité de son type [[Plante]] par ailleurs)
+| rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=plante
+|PV=60
+|attaque=62
+|defense=63
+|atq-spc=80
+|def-spc=80
+|vitesse=65
+|special=80
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Herbizarre
+| numero=002
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Herbizarre RB.png
+| forme=8
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+[[Fichier:Herbizarre anime.png|thumb|Herbizarre dans le dessin animé|right|Herbizarre dans le dessin animé]]
+Herbizarre a fait différentes apparitions dans le [[dessin animé]], tout d'abord dans l'[[épisode 51]] où tous les [[Bulbizarre]] réunis ont évolué en Herbizarre, mis à part celui de [[Sacha]].On verra ensuite un Herbizarre appartenant à la dresseuse qui élimine [[Richie]] de la [[Ligue Indigo]] avec ([[épisode 78]]). La [[Team Rocket (Trio)|Team Rocket]] en utilise un dans l'[[épisode 56]]. Un autre apparaît dans l'[[AG092]] notamment. Dans [[Cœur de rockeur]], un Herbizarre apparaît dans un flash back.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 51]]
+:{{PCap|Pok}}é{{PCap|mon}} Graine. [[Évolution|Forme évoluée]] de {{PCap|[[Bulbizarre]]}}. Le bulbe qu'il porte sur son dos absorbe sa nourriture et s'ouvre en une très grande fleur. 
+
+{{Ruban Pokémon
+| nomPrécédent=Bulbizarre
+| numéro=002
+| nom=Herbizarre
+| nomSuivant=Florizarre
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/2| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Ivysaur| ]]
+
+[[de:Bisaknosp]]
+[[en:Ivysaur (Pokémon)]]
+[[es:Ivysaur]]
+[[it:Ivysaur]]
+[[ja:フシギソウ]]
+[[pl:Ivysaur]]
+[[pt:Ivysaur (pokémon)]]

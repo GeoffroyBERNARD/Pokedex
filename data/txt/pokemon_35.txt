@@ -1,0 +1,393 @@
+{{Ruban Pokémon
+| nomPrécédent=Nidoking
+| numéro=035
+| nom=Mélofée
+| nomSuivant=Mélodelfe
+}}
+{{Infobox Pokémon 
+| nom=Mélofée
+| nomen=Clefairy
+| nomja=ピッピ
+| nomtm=Pippi
+| nomde=Piepi
+| légende=Artwork de Mélofée pour {{RFVF}}
+| ndex=035
+| jdex=041
+| hdex=233
+| sdex=100
+| type1=Normal
+| espece=Fée
+| taille=0.6
+| poids=7.5
+| capspe1=Joli Sourire
+| capspe2=Garde Magik
+| capspe3=Garde Amie
+| groupoeuf1=Fée
+| oeufpas=2560 
+| effortval=+2 PV
+| expval=68
+| expmax=800000
+| fmratio=.75 
+| captureval=150
+| couleur=Rose
+| forme=6}}
+'''Mélofée''' (anglais : '''Clefairy''' ; japonais : '''ピッピ''' ''Pippi'') est un [[Pokémon]] de [[type]] {{type|normal}} de la [[première génération]]. Il est initialement connu pour sa rareté (mais devient bien commun dans Noir & Blanc).
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Mélofée a la peau plus pâle et le bout des oreilles vert plutôt que marron.
+
+===[[Évolution]]===
+Mélofée est l'évolution de [[Mélo]] (apparu dans la [[seconde génération]]) lorsque ce dernier est suffisamment heureux. Il évolue en [[Mélodelfe]] au contact d'une [[Pierre Lune]].
+{{TableauEvolutionHaut|Normal|Mélo}}
+{{TableauEvolutionSimple|[[Bonheur]]|Mélofée}}
+{{TableauEvolutionSimple|Avec une [[Pierre Lune]]|imageObjet=Miniat pierre lune dp.png|Mélodelfe}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Mélofée peut disposer de l'une des capacités spéciales suivantes :
+*[[Joli Sourire]], qui exploite son charme pour éventuellement séduire l'ennemi lorsqu'il utilise une attaque de contact ;
+*[[Garde Magik]], qui l'empêche de subir des dégats indirects, tels que ceux provoqués par [[Grêle (attaque)|Grêle]], [[Toxik]], [[Vampigraine]] ou le contrecoup d'attaques comme [[Damoclès]] : seules des attaques directes peuvent blesser le Pokémon.
+
+===Étymologies===
+* Français : de '''mélo'''pée ou '''mélo'''die et '''fée'''.
+* Anglais : Clef(le même) et fairy(fée)
+* Japonais :
+* Allemand : de ''Pixie''(fée ou lutin en anglais)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Très recherché pour son aura mystique, il est très rare et ne vit que dans des endroits précis.
+;[[Pokémon Jaune]]
+: Adoré pour son aspect mignon et joyeux, il est considéré comme rare. On en voit très peu.
+;[[Pokémon Stadium]]
+: D'une nature adorable, il est prisé en tant qu'animal de compagnie. Toutefois, il est rare et se cache dans peu d'endroits.
+;[[Pokémon Or]]
+: La lumière de la lune qu'il emmagasine dans ses ailes dorsales lui permet de flotter dans les airs.
+;[[Pokémon Argent]]
+: Son comportement adorable le rend très populaire. Malheureusement, il est très très rare.
+;[[Pokémon Cristal]]
+: Bien que rarement aperçu, on le croise plus souvent les nuits de pleine lune. 
+;[[Pokémon Rubis et Saphir]]
+: Les nuits de pleine lune, des groupes de ce {{PCap|Pok}}é{{PCap|mon}} sortent jouer. Lorsque l'aube commence à poindre, les {{PCap|Mélofée}} fatigués rentrent dans leur retraite montagneuse et vont dormir, blottis les uns contre les autres.
+;[[Pokémon Émeraude]]
+: Les nuits de pleine lune, ces {{PCap|Pok}}é{{PCap|mon}} sortent jouer. A l'aube, ils rentrent dans leur retraite montagneuse et dorment blottis les uns contre les autres.
+;[[Pokémon Rouge Feu]]
+:Son apparence adorable donne envie de le prendre dans ses bras. Il est rare et difficile à trouver.
+;[[Pokémon Vert Feuille]]
+: Très recherché pour son aura mystique, il est très rare et ne vit que dans des endroits précis.
+;[[Pokémon Diamant]]
+: Tout le monde craque pour cet adorable {{PCap|Pok}}é{{PCap|mon}}. Il vit en groupe dans le calme des montagnes.
+;[[Pokémon Perle]]
+: Il absorbe le clair de lune en volant grâce aux ailes sur son dos. Ce {{PCap|Pok}}é{{PCap|mon}} est difficile à trouver.
+;[[Pokémon Platine]]
+:On dit que ceux qui voient danser un groupe de {{PCap|Mélofée}} sous la pleine lune connaîtront un grand [[bonheur]].
+;[[Pokémon Or HeartGold]]
+:La lumière de la lune qu'il emmagasine dans ses ailes dorsales lui permet de flotter dans les airs.
+;[[Pokémon Argent SoulSilver]]
+:Son comportement adorable le rend très populaire. Malheureusement, il est très, très rare.
+;[[Pokémon Noir et Blanc]]
+:On dit que ceux qui voient danser une groupe de Mélofée sous la pleine lune connaîtront un grand bonheur.
+
+== Localisations ==
+
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Rare || [[Mont Sélénite]], [[Casino]] de [[Céladopole]].
+|-
+| [[Bleu]] || Rare || [[Mont Sélénite]], [[Casino]] de [[Céladopole]].
+|-
+| [[Jaune]] || Rare || [[Mont Sélénite]].
+|}
+
+===[[Deuxième génération]]===
+
+Tous les lundis soirs, de 20h à 23h, à l'aire de repos du [[Mont Sélénite]], un groupe de Mélofée danse devant une grande [[Pierre Lune]].
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Rare || [[Mont Sélénite]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Rare || [[Mont Sélénite]].
+|-
+| [[Cristal]] || Rare || Routes [[Route 3|3]] et [[Route 4|4]], [[Mont Sélénite]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Rare || [[Mont Sélénite]], [[Casino]] de [[Céladopole]].
+|-
+| [[Vert Feuille]] || Rare || [[Mont Sélénite]], [[Casino]] de [[Céladopole]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Commun || [[Mont Couronné]].
+|-
+| [[Perle]] || Commun || [[Mont Couronné]].
+|-
+| [[Platine]] || Rare || [[Mont Couronné]].
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:200px" | Version
+! style="background-color:{{Couleur|Normal}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle" | {{NB}}
+| style="vertical-align:middle" | Commun
+| style="vertical-align:middle" | [[Grotte Cyclopéenne]] {{infobulle|*|Forêt du Cratère}}
+| style="vertical-align:middle;" | 52-64
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.13|Berceuse|-|55|15}}
+{{Attaque|N.18|Torgnoles|15|85|10}}
+{{Attaque|N.24|Lilliput|-|-|20}}
+{{Attaque|N.31|Métronome|-|-|10}}
+{{Attaque|N.39|Boul'Armure|-|-|40}}
+{{Attaque|N.48|Mur Lumière|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.4|Encore|-|100|5}}
+{{Attaque|N.8|Berceuse|-|55|15}}
+{{Attaque|N.13|Torgnoles|15|85|10}}
+{{Attaque|N.19|Lilliput|-|-|20}}
+{{Attaque|N.26|Boul'Armure|-|-|40}}
+{{Attaque|N.34|Métronome|-|-|10}}
+{{Attaque|N.43|Rayon Lune|-|-|5}}
+{{Attaque|N.53|Mur Lumière|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Écras'Face|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|N.5|Encore|-|100|5|grâce|2|0}}
+{{Attaque-III|N.9|Berceuse|-|55|15|grâce|2|0}}
+{{Attaque-III|N.13|Torgnoles|15|85|10|robustesse|2|1}}
+{{Attaque-III|N.17|Par Ici|-|-|20|grâce|3|0}}
+{{Attaque-III|N.21|Lilliput|-|-|20|grâce|2|0}}
+{{Attaque-III|N.25|Boul'Armure|-|-|40|grâce|2|0}}
+{{Attaque-III|N.29|Métronome|-|-|10|grâce|3|0}}
+{{Attaque-III|N.33|Force Cosmik|-|-|20|sang-froid|1|0}}
+{{Attaque-III|N.37|Rayon Lune|-|-|5|beauté|1|0}}
+{{Attaque-III|N.41|Mur Lumière|-|-|30|beauté|1|0}}
+{{Attaque-III|N.45|Poing Météor|100|85|10|sang-froid|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Écras'Face|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|N.4|Encore|-|100|5|grâce|1}}
+{{Attaque-IV|N.7|Berceuse|-|55|15|grâce|2}}
+{{Attaque-IV|N.10|Torgnoles|15|85|10|robustesse|2}}
+{{Attaque-IV|N.13|Boul'Armure|-|-|40|grâce|2}}
+{{Attaque-IV|N.16|Par Ici|-|-|20|grâce|2}}
+{{Attaque-IV|N.19|Lilliput|-|-|20|grâce|2}}
+{{Attaque-IV|N.22|Réveil Forcé|60|100|10|intelligence|0}}
+{{Attaque-IV|N.25|Force Cosmik|-|-|20|sang-froid|2}}
+{{Attaque-IV|N.28|Air Veinard|-|-|30|grâce|2}}
+{{Attaque-IV|N.31|Métronome|-|-|10|grâce|2}}
+{{Attaque-IV|N.34|Gravité|-|-|5|beauté|2}}
+{{Attaque-IV|N.37|Rayon Lune|-|-|5|beauté|0}}
+{{Attaque-IV|N.40|Mur Lumière|-|-|30|beauté|2}}
+{{Attaque-IV|N.43|Poing Météor|100|85|10|sang-froid|2}}
+{{Attaque-IV|N.46|Vœu Soin|-|-|20|grâce|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Écras'Face|40|100|35}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|N.4|Encore|-|100|5}}
+{{Attaque-V|N.7|Berceuse|-|55|15}}
+{{Attaque-V|N.10|Torgnoles|15|85|10}}
+{{Attaque-V|N.13|Boul'Armure|-|-|40}}
+{{Attaque-V|N.16|Par Ici|-|-|20}}
+{{Attaque-V|N.19|Lilliput|-|-|20}}
+{{Attaque-V|N.22|Réveil Forcé|60|100|10}}
+{{Attaque-V|N.25|Passe-Cadeau|-|-|15}}
+{{Attaque-V|N.28|Force Cosmik|-|-|20}}
+{{Attaque-V|N.31|Air Veinard|-|-|30}}
+{{Attaque-V|N.34|Métronome|-|-|10}}
+{{Attaque-V|N.37|Gravité|-|-|5}}
+{{Attaque-V|N.40|Rayon Lune|-|-|5}}
+{{Attaque-V|N.43|Force Ajoutée|20|100|10}}
+{{Attaque-V|N.46|Mur Lumière|-|-|30}}
+{{Attaque-V|N.49|Vœu Soin|-|-|20}}
+{{Attaque-V|N.52|Après Vous|-|-|15}}
+{{Attaque-V|N.55|Poing Météor|100|85|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=normal
+|PV=70
+|attaque=45
+|defense=48
+|atq-spc=60
+|def-spc=65
+|vitesse=35
+|special=60
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Mélofée
+| numero=035
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Mélofée RB.png
+| forme=6
+| pinballRB-gif=oui
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+La première apparition de Mélofée se produire dans l'[[épisode 6]], où nos héros explorent le Mont Sélénite tandis que la [[Team Rocket (trio)|Team Rocket]] essaye de s'emparer de la [[Pierre Lune]].<br/>
+
+On voit ensuite des Mélofée dans plusieurs épisodes, notamment l'[[épisode 62]] où ils s'emparent de tout et n'importe quoi pour réparer leur vaisseau spatial (les Mélofée seraient donc des extraterrestres) endommagé.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 6]]
+:Le {{PCap|[[Mélofée]]}} est un petit {{PCap|Pok}}é{{PCap|mon}} espiègle et pacifique. On suppose qu'il vit à l'intérieur du [[Mont Sélénite]] mais peu d'humains peuvent se vanter de l'avoir aperçu.
+
+{{Ruban Pokémon
+| nomPrécédent=Nidoking
+| numéro=035
+| nom=Mélofée
+| nomSuivant=Mélodelfe
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Lune]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/35| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Clefairy| ]]
+
+[[de:Piepi]]
+[[en:Clefairy (Pokémon)]]
+[[es:Clefairy]]
+[[it:Clefairy]]
+[[ja:ピッピ]]
+[[pl:Clefairy]]
+[[pt:Clefairy (pokémon)]]

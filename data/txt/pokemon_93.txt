@@ -1,0 +1,472 @@
+{{Ruban Pokémon
+| nomPrécédent=Fantominus
+| numéro=093
+| nom=Spectrum
+| nomSuivant=Ectoplasma
+}}
+{{Infobox Pokémon
+| nom=Spectrum
+| nomen=Haunter
+| nomja=ゴースト
+| nomtm=Ghost
+| nomromaji=Gōsuto
+| nomde=Alpollo
+| légende=Artwork de Spectrum pour {{RFVF}}
+| ndex=093
+| jdex=059
+| hdex=263
+| sdex=070
+| fdex=095
+| adex=018
+| odex=R-165
+| opdex=N-184
+| espece=Gaz
+| taille=1.6
+| poids=0.1
+| fmratio=.5 
+| oeufpas=5120
+| effortval=+2 Att. Spé
+| type1=Spectre
+| type2=Poison
+| expval=126
+| expmax=1059860
+| captureval=90
+| groupoeuf1=Indéterminé
+| capspe1=Lévitation
+| capspe1-desc=Immunise contre toutes les capacités de type Sol.
+| couleur=Violet
+| forme=4}}
+'''Spectrum''' (anglais : '''Haunter''' ; japonais : '''ゴースト''' ''Ghost'') est un [[Pokémon]] de [[type]] {{type|spectre}} et {{type|poison}}. Il est la forme évoluée intermédiaire de la seule famille de Pokémon de type spectre de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====Chromatique====
+
+L'intérieur de la bouche et l'aura autour des mains de Spectrum sont bleus dans le cas d'un chromatique.
+
+===[[Évolution]]===
+
+Spectrum est l'évolution de [[Fantominus]] à partir du niveau 25, et évolue en [[Ectoplasma]] lorsqu'il est échangé entre dresseurs.
+{{TableauEvolutionHaut|Spectre|Fantominus}}
+{{TableauEvolutionSimple|[[Niveau]] 25|Spectrum}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]]|Ectoplasma}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+[[Lévitation]] immunise (sauf utilisation de [[Gravité]]) Spectrum contre les attaques de type [[Sol]], qui constituaient curieusement l'une de ses faiblesses majeures dans les générations précédant l'apparition des capacités spéciales à cause de sa faible défense et de son type poison désavantageux (ce qui pouvait paraître étonnant pour un fantôme, qui est supposé planer au-dessus du sol).
+
+===Étymologies===
+* Français : issu de spectre, puisqu'il s'agit d'un fantôme.
+* Anglais : issu de ''to haunt'', hanter : ''Haunter'' est celui qui hante, logique pour un spectre
+* Japonais : ''Ghost'', fantôme en anglais
+* Allemand : issu de ''Alptraum''(cauchemar) et de ''Apollon''
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il peut se glisser à travers les murs comme une créature d'une autre dimension.
+;[[Pokémon Jaune]]
+:Les tremblements provoqués par le contact de sa langue éthérée ne s'arrêtent qu'à l'évanouissement.
+;[[Pokémon Stadium]]
+:Si vous trébuchez sans raison apparente en étant seul dans une pièce, un {{PCap|Spectrum}} ne doit pas être loin.
+;[[Pokémon Or]]
+:Dans les ténèbres obscures, là où on ne voit rien, il se déplace en silence à l'affût de sa proie.
+;[[Pokémon Argent]]
+:Sa langue est de gaz. Si léchée, la cible est prise de tremblements jusqu'à ce que mort s'en suive.
+;[[Pokémon Cristal]]
+:Il se cache dans le noir, cherchant à prendre la vie de la prochaine créature qui le croise.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Spectrum}} est un {{PCap|Pok}}é{{PCap|mon}} dangereux. Si l'un d'entre eux vous fait signe d'approcher, il ne faut jamais l'écouter. Ce {{PCap|Pok}}é{{PCap|mon}} risque de sortir sa langue pour essayer de voler votre vie.
+;[[Pokémon Émeraude]]
+:{{PCap|Spectrum}} est un {{PCap|Pok}}é{{PCap|mon}} dangereux. Si l'un d'entre eux fait signe d'approcher, il ne faut pas l'écouter. Il risque de sortir sa langue pour essayer de voler votre vie.
+;[[Pokémon Rouge Feu]]
+:Si vous avez l'impression d'être surveillé dans le noir, c'est sûrement qu'un {{PCap|Spectrum}} est dans le coin.
+;[[Pokémon Vert Feuille]]
+:Parce qu'il peut traverser les murs, on raconte que ce {{PCap|Pok}}é{{PCap|mon}} vient d'une autre dimension.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: Quand {{PCap|Spectrum}} disparaît, il réapparaît derrière un {{PCap|Pok}}é{{PCap|mon}} pour l'enlever.
+;[[Pokémon Diamant]]
+: Il peut traverser n'importe quel obstacle. Il rôde dans les murs pour surveiller ses ennemis.
+;[[Pokémon Perle]]
+: Il vole l'énergie vitale de l'ennemi d'un coup de langue gazeuse. Il aime chasser dans l'ombre.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en crachant des orbes imprégnés de sentiments négatifs.
+;[[Pokémon Platine]]
+:Il adore se tapir dans l'ombre et faire frissonner ses proies en leur touchant l'épaule.
+;[[Pokémon Or HeartGold]]
+:Dans les ténèbres impénétrables, là où on ne voit rien, il se déplace en silence à l’affût de sa proie.
+;[[Pokémon Argent SoulSilver]]
+:Sa langue est faite de gaz. Un ennemi léché est pris de tremblements jusqu'à ce que mort s'en suive.
+;[[Pokémon Noir et Blanc]]
+:Il adore se tapir dans l'ombre et faire frissonner ses proies en leur touchant l'épaule.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Version
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Spectre}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Pourcentage de rencontre
+|-
+| rowspan="5" style="vertical-align: middle;" |[[Rouge]] et [[Bleu]] || rowspan="5" style="vertical-align: middle;" | Rare || [[Tour Pokémon]] à [[Lavanville]] - 2ème étage || N. 25 || 1%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 3ème étage || N. 25 || 5%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 4ème étage || N. 25 || 5%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 5ème étage || N. 26-28 || 6%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 6ème étage || N. 28-30 || 15%
+|-
+| rowspan="5" style="vertical-align: middle;" |[[Jaune]] || rowspan="5" style="vertical-align: middle;" | Rare || [[Tour Pokémon]] à [[Lavanville]] - 2ème étage || N. 20-25 || 5%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 3ème étage || N. 20-25 || 5%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 4ème étage || N. 22-27 || 5%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 5ème étage || N. 22-27 || 5%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 6ème étage || N. 24-29 || 5%
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Version
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Spectre}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Pourcentage de rencontre
+|-
+| [[Pokémon Or et Argent|Or]] et [[Pokémon Or et Argent|Argent]] || Commun || [[Route 8]] - [[Temps|Nuit]] || N. 20 || 30%
+|-
+| rowspan="3" style="vertical-align: middle;" |[[Cristal]] || rowspan="3" style="vertical-align: middle;" | Peu commun || [[Grotte]] - Rez-de-chaussée - [[Temps|Nuit]] || N.5 || 5%
+|-
+| [[Grotte]] - Sous-sol - [[Temps|Nuit]]|| N.7 || 5%
+|-
+| [[Route 8]] - [[Temps|Nuit]] || N. 17 || 10%
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Version
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Spectre}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Pourcentage de rencontre
+|-
+| [[Rubis]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]]. || ||
+|-
+| [[Saphir]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]]. || ||
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]]. || ||
+|-
+| rowspan="6" style="vertical-align: middle;" |[[Rouge Feu]] et [[Vert Feuille]] || rowspan="6" style="vertical-align: middle;" | Peu commun || [[Tour Pokémon]] à [[Lavanville]] - 2ème étage || N. 20 || 1%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 3ème étage || N. 20 || 5%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 4ème étage || N. 20 || 5%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 5ème étage || N. 21-23 || 6%
+|-
+| [[Tour Pokémon]] à [[Lavanville]] - 6ème étage || N. 23-25 || 15%
+|-
+| [[Grotte Perdue]] sur les [[îles Sévii]] || N. 44-52 || 30%
+|-
+| [[Colosseum]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]]. || ||
+|-
+| [[XD]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]]. || ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Version
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Spectre}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Pourcentage de rencontre
+|-
+| [[Diamant]] || Commun || [[Vieux Château]] -en insérant n'importe quel jeu de [[troisième génération]] dans le port GBA de la [[Nintendo DS]]-, [[Grotte Retour]], échange interne avec [[Charmina]] à [[Frimapic]] dans la maison au nord-ouest. 
+|-
+| [[Perle]] || Commun ||  [[Vieux Château]] -en insérant n'importe quel jeu de [[troisième génération]] dans le port GBA de la [[Nintendo DS]]-, [[Grotte Retour]], échange interne avec [[Charmina]] à [[Frimapic]] dans la maison au nord-ouest.
+|-
+| [[Platine]] || Commun || [[Grotte Retour]], échange interne avec [[Charmina]] à [[Frimapic]].
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Version
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Spectre}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Fantominus]]
+| style="vertical-align:middle;" | 25
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Léchouille|20|100|30}}
+{{Attaque|Départ|Ténèbres|-|100|15}}
+{{Attaque|Départ|Onde Folie|-|100|10}}
+{{Attaque|N.29|Hypnose|-|60|20}}
+{{Attaque|N.38|Dévorêve|100|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Léchouille|20|100|30}}
+{{Attaque|Départ|Dépit|-|100|10}}
+{{Attaque|Départ|Regard Noir|-|-|5}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|Départ|Malédiction|-|-|10}}
+{{Attaque|Départ|Ténèbres|-|100|15}}
+{{Attaque|N.31|Onde Folie|-|100|10}}
+{{Attaque|N.39|Dévorêve|100|100|15}}
+{{Attaque|N.48|PRLVT Destin|-|-|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Hypnose|-|60|20|intelligence|1|3}}
+{{Attaque-III|Départ|Léchouille|20|100|30|robustesse|1|4}}
+{{Attaque-III|Départ<br>N.8|Dépit|-|100|10|robustesse|1|0}}
+{{Attaque-III|N.13{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.64{{Sup|RF}}{{Sup|VF}}|Regard Noir|-|100|5|beauté|2|0}}
+{{Attaque-III|N.16{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.13{{Sup|RF}}{{Sup|VF}}|Malédiction|-|-|10|robustesse|3|0}}
+{{Attaque-III|N.21{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.16{{Sup|RF}}{{Sup|VF}}|Ténèbres|-|100|15|intelligence|2|1}}
+{{Attaque-III|N.25|Poing Ombre|60|-|20|intelligence|2|0}}
+{{Attaque-III|N.31{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.21{{Sup|RF}}{{Sup|VF}}|Onde Folie|-|100|10|intelligence|3|0}}
+{{Attaque-III|N.39{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.31{{Sup|RF}}{{Sup|VF}}|Dévorêve|100|100|15|intelligence|2|2}}
+{{Attaque-III|N.48{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.39{{Sup|RF}}{{Sup|VF}}|PRLVT Destin|-|-|5|intelligence|8|0}}
+{{Attaque-III|N.45{{Sup|RF}}{{Sup|VF}}|Ball'Ombre|80|100|15|intelligence|3|0}}
+{{Attaque-III|N.53{{Sup|RF}}{{Sup|VF}}|Cauchemar|-|100|15|intelligence|1|3}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Hypnose|-|70{{Sup|D}}{{Sup|P}}<br>60{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|20|intelligence|2}}
+{{Attaque-IV|Départ|Léchouille|20|100|30|robustesse|2}}
+{{Attaque-IV|Départ<br>N.5|Dépit|-|100|10|robustesse|2}}
+{{Attaque-IV|N.8|Regard Noir|-|-|5|beauté|2}}
+{{Attaque-IV|N.12|Malédiction|-|-|10|robustesse|0}}
+{{Attaque-IV|N.15|Ténèbres|-|100|15|intelligence|2}}
+{{Attaque-IV|N.19|Onde Folie|-|100|10|intelligence|2}}
+{{Attaque-IV|N.22|Coup Bas|80|100|5|intelligence|2}}
+{{Attaque-IV|N.25|Poing Ombre|60|-|20|intelligence|2}}
+{{Attaque-IV|N.28|Représailles|50|100|10|sang-froid|1}}
+{{Attaque-IV|N.33|Ball'Ombre|80|100|15|intelligence|2}}
+{{Attaque-IV|N.39|Dévorêve|100|100|15|intelligence|1}}
+{{Attaque-IV|N.44|Vibrobscur|80|100|15|sang-froid|2}}
+{{Attaque-IV|N.50|PRLVT Destin|-|-|5|intelligence|0}}
+{{Attaque-IV|N.55|Cauchemar|-|100|15|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Hypnose|-|60|20}}
+{{Attaque-V|Départ|Léchouille|20|100|30}}
+{{Attaque-V|Départ<br>N.5|Dépit|-|100|10}}
+{{Attaque-V|N.8|Regard Noir|-|-|5}}
+{{Attaque-V|N.12|Malédiction|-|-|10}}
+{{Attaque-V|N.15|Ténèbres|-|100|15}}
+{{Attaque-V|N.19|Onde Folie|-|100|10}}
+{{Attaque-V|N.22|Coup Bas|80|100|5}}
+{{Attaque-V|N.25|Poing Ombre|60|-|20}}
+{{Attaque-V|N.28|Représailles|50|100|10}}
+{{Attaque-V|N.33|Ball'Ombre|80|100|15}}
+{{Attaque-V|N.39|Dévorêve|100|100|15}}
+{{Attaque-V|N.44|Vibrobscur|80|100|15}}
+{{Attaque-V|N.50|PRLVT Destin|-|-|5}}
+{{Attaque-V|N.55|Châtiment|50|100|10}}
+{{Attaque-V|N.61|Cauchemar|-|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Méga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 29 || [[Psyko]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 36 || [[Destruction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 42 || [[Dévorêve]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 46 || [[Vague Psy]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 47 || [[Explosion]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+À venir
+
+===Par [[donneur de capacités]]===
+
+À venir
+
+==Sensibilités==
+{{Sensibilités
+|type=spectre
+|sensib-combat=0
+|sensib-insecte=0.25
+|sensib-normal=0
+|sensib-plante=0.5
+|sensib-poison=0.25
+|sensib-psy=2
+|sensib-sol=0
+|sensib-spectre=2
+|sensib-ténèbres=2
+|rmq-combat=Si l'attaque [[Clairvoyance]] ou [[Flair]] est utilisée ou si l'adversaire dispose de la [[capacité spéciale]] [[Querelleur]], l'efficacité des attaques de type et {{tp|Combat}} sur '''{{PAGENAME}}''' est de 1/2 et celle des attaques de type {{tp|Normal}} est normal.
+|rmq-combat-num=1
+|rmq-sol=L'efficacité des attaques de type {{tp|Sol}} est nulle du fait de sa capacité spéciale [[Lévitation]]. De ce fait, si [[Anti-Air]] [[Gravité]], [[Échange (attaque)|Échange]] ou [[Suc Digestif]] est utilisé, si l'adversaire dispose de [[Brise Moule]] ou si '''{{PAGENAME}}''' se voit doté d'une [[Balle Fer]], l'effet de [[Lévitation]] est annulé et l'efficacité des attaques {{tp|Sol}} à son encontre est double.
+|rmq-sol-num=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=spectre
+|PV=45
+|attaque=50
+|defense=45
+|atq-spc=115
+|def-spc=55
+|vitesse=95
+|special=115
+}}
+
+==Imagerie==
+{{Imagerie Pokémon
+| pokemon=Spectrum
+| numero=093
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Spectrum RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère : Explorateurs du Ciel|Explorateurs du Ciel]]''
+| artwork_supp2-img=Spectrum-EdC.png{{!}}x200px
+| forme=4
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Spectrum n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasions :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Spectrum|Spectrum JEREMY]] (États-Unis) - Ce Pokémon évolua en [[Ectoplasma|GENGAR]] (Ectoplasma) après réception. 
+* '''2010'''
+** [[Liste des Pokémon distribués en 2010#Spectrum|Spectrum Trade for Evolution]] (Japon)
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Spectrum de Sacha|Spectrum]] apparaît dans l'[[épisode 23]], où Sacha en rencontre un en compagnie d'un [[Ectoplasma]] et d'un [[Fantominus]] dans la [[Tour Pokémon]] de [[Lavanville]]. Celui-ci accepte de l'accompagner pour faire face à [[Morgane]], qu'il combattra par le rire après avoir disparu dans un premier temps dans l'[[épisode 24]].
+
+Sacha fait également face à un Spectrum lors de son combat pour le 4ème badge dans l'[[épisode 182]].
+
+=== Descriptions du [[Pokédex]] ===
+;[[Épisode 23]]
+:{{PCap|Pok}}é{{PCap|mon}} Gaz. Pas d'autre information.
+;[[Épisode 95]]
+:{{PCap|Pok}}é{{PCap|mon}} Spectre. Est l'[[évolution]] de {{PCap|[[Fantominus]]}}. Ses attaques spéciales sont [[Hypnose]] et parfois même [[Dévorêve]].
+
+{{Ruban Pokémon
+| nomPrécédent=Fantominus
+| numéro=093
+| nom=Spectrum
+| nomSuivant=Ectoplasma
+}}
+
+[[Catégorie:Pokémon évoluant lors d'un échange]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/93| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Haunter| ]]
+
+[[de:Alpollo]]
+[[en:Haunter (Pokémon)]]
+[[es:Haunter]]
+[[it:Haunter]]
+[[ja:ゴースト]]
+[[pl:Haunter]]
+[[pt:Haunter (pokémon)]]

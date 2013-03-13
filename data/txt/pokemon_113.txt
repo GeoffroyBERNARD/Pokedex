@@ -1,0 +1,392 @@
+{{Ruban Pokémon
+| nomPrécédent=Rhinoféros
+| numéro=113
+| nom=Leveinard
+| nomSuivant=Saquedeneu
+}}
+{{Infobox Pokémon
+| nom=Leveinard
+| nomen=Chansey
+| nomja=ラッキー
+| nomtm=Lucky
+| nomromaji=Rakkī
+| nomde=Chaneira
+| légende=Artwork de Leveinard dans {{RFVF}}
+| ndex=113
+| jdex=217
+| njdex=222
+| hdex=277
+| sdex=097
+| espece=Œuf
+| taille=1.1
+| poids=34.6
+| fmratio=1
+| oeufpas=10240
+| effortval=+2 PV 
+| type1=Normal
+| expval=395
+| expmax=800000
+| captureval=30
+| groupoeuf1=Fée
+| capspe1=Médic Nature
+| capspe2=Sérénité
+| capspe3=Cœur Soin
+| couleur=Rose
+| forme=6}}
+'''Leveinard''' (anglais : '''Chansey''' ; japonais : '''ラッキー''' ''Lucky'') est un [[Pokémon]] rare très charitable, il offre son œuf aux blessés. Il est apparu dans la [[première génération]] et est de [[type]] {{type|normal}}.
+
+==À propos du Pokémon==
+===Physionomie===
+Leveinard est un Pokémon qui a l'allure d'un œuf rose, avec plusieurs mèches de cheveux qui rebiquent sur les cotés. Il transporte son œuf sur sa poche ventrale.
+
+====Différences mâle/femelle====
+
+Cette espèce est composée uniquement d'individus femelles.
+
+===[[Évolution]]===
+Leveinard est l'évolution de [[Ptiravi]], si ce dernier tient une [[Pierre Ovale]] et qu'il monte d'un niveau pendant la journée. Leveinard évolue ensuite en [[Leuphorie]] lorsqu'il est très [[bonheur|heureux]] avec son dresseur.
+
+{{TableauEvolutionHaut|Normal|Ptiravi}}
+{{TableauEvolutionSimple|Gain de niveau en tenant une [[Pierre Ovale]]|imageObjet=Miniat pierre ovale dp.png|Leveinard}}
+{{TableauEvolutionSimple|[[Bonheur]]|Leuphorie}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale|Capacités spéciales]]===
+[[Medic nature]] : Si le Pokémon est changé lors d'un combat, il guérit de ses altérations d'état.
+
+'''Sérénité''' : La réussite des effets des attaques lancées sont doublées.
+
+===Étymologies===
+* Français : le + veinard
+* Anglais : vient de ''chance'' qui signifie ''hasard''.
+* Japonais : de ''chanceux'' en anglais (lucky)
+* Allemand : de ''Chance'' et ''Ei'' (œuf)
+
+===Descriptions du [[Pokédex]]===
+
+;[[Pokémon Rouge et Bleu]]
+:Un {{PCap|Pok}}é{{PCap|mon}} rare et difficile à capturer qui porte chance et bien-être à son possesseur.
+;[[Pokémon Jaune]]
+:Il est gentil et aimable, et il partage ses [[œuf]]s nourrissants avec les {{PCap|Pok}}é{{PCap|mon}} blessés.
+;[[Pokémon Stadium]]
+:Il pond de délicieux œufs tous les jours. S'il est aimé et bien entraîné, ses œufs deviendront encore plus délicieux.
+;[[Pokémon Or]]
+:Il marche lentement pour ne pas abîmer son [[œuf]]. Mais il peut, toutefois, s'enfuir très vite.
+;[[Pokémon Argent]]
+:Extrêmement rare et difficile à trouver, il apporte joie et bonheur à celui qui le possède.
+;[[Pokémon Cristal]]
+:On essaie souvent de l'attraper pour ses [[œuf]]s. On a cependant du mal à le trouver.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Leveinard}} pond tous les jours des [[œuf]]s pleins de vitamines. Ces œufs sont tellement bons que les gens les mangent même quand ils n'ont pas faim.
+;[[Pokémon Émeraude]]
+:{{PCap|Leveinard}} pond tous les jours des [[œuf]]s pleins de vitamines. Ces œufs sont tellement bons que les gens les mangent même quand ils n'ont pas faim.
+;[[Pokémon Rouge Feu]]
+:Il peut pondre plusieurs [[œuf]]s par jours. Ses œufs sont très riches en nutriments et vraiment délicieux.
+;[[Pokémon Vert Feuille]]
+:Un {{PCap|Pok}}é{{PCap|mon}} rare et difficile à capturer qui porte chance et bonheur à son possesseur.
+;[[Pokémon Diamant]]
+:Il est censé apporter la joie. Ce {{PCap|Pok}}é{{PCap|mon}} charitable offre ses [[œuf]]s aux blessés.
+;[[Pokémon Perle]]
+:Il pond plusieurs [[œuf]]s chaque jour. Il refuse de les partager avec les personnes malintentionnées.
+;[[Pokémon Platine]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} très serviable distribue ses [[œuf]]s hautement nutritifs aux humains et {{PCap|Pok}}é{{PCap|mon}} blessés.
+;[[Pokémon Or HeartGold]]
+:Il marche lentement pour ne pas abîmer son œuf. Mais il peut toutefois s'enfuir très vite.
+;[[Pokémon Argent SoulSilver]]
+:Extrêmement rare et difficile à trouver, il apporte joie et bonheur à celui qui le possède.
+;[[Pokémon Noir et Blanc]]
+:Ce Pokémon très serviable distribue ses œufs hautement nutritifs aux humains et Pokémon blessés.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Rare || [[Parc Safari]], [[Grotte Inconnue]].
+|-
+| [[Bleu]] || Rare || [[Parc Safari]], [[Grotte Inconnue]].
+|-
+| [[Jaune]] || Rare || [[Parc Safari]], [[Grotte Inconnue]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Rare || Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Rare || Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]].
+|-
+| [[Cristal]] || Rare || Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Saphir]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Rouge Feu]] || Rare || [[Parc Safari]].
+|-
+| [[Vert Feuille]] || Rare || [[Parc Safari]].
+|-
+| [[Colosseum]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[XD]] || Unique ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Peu commun || Routes [[Route 209|209]] et [[Route 210|210]].
+|-
+| [[Perle]] || Peu commun || Routes [[Route 209|209]] et [[Route 210|210]].
+|-
+| [[Pokémon Argent SoulSilver|Argent SoulSilver]] || 1 % || Routes 13, 14, 15 en troupeaux
+|-
+| [[Pokémon Or HeartGold|Or HeartGold]] || 1% || Routes 13, 14, 15 en troupeaux
+|}
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:270px; vertical-align;middle" | Version
+! style="background-color:{{Couleur|Normal}}; width:350px; vertical-align;middle" | Obtention
+! style="background-color:{{Couleur|Normal}}; width:110px; vertical-align;middle" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:125px; vertical-align;middle" | Taux de rencontre
+! style="background-color:{{Couleur|Normal}}; width:105px; vertical-align;middle" | Niveau
+|-
+| style="vertical-align:middle" | {{NB}}
+| style="vertical-align:middle" | Faire évoluer [[Ptiravi]]
+| style="vertical-align:middle" | Inexistant
+| style="vertical-align:middle" | Inexistant
+| style="vertical-align:middle" | —
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Torgnoles|15|85|10}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|N.24|Berceuse|-|55|15}}
+{{Attaque|N.30|Rugissement|-|100|40}}
+{{Attaque|N.38|Lilliput|-|-|20}}
+{{Attaque|N.44|Boul'Armure|-|-|40}}
+{{Attaque|N.48|Mur Lumière|-|-|30}}
+{{Attaque|N.54|Damoclès|100|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|N.5|Rugissement|-|100|40}}
+{{Attaque|N.9|Mimi-Queue|-|100|30}}
+{{Attaque|N.13|E-Coque|-|100|10}}
+{{Attaque|N.17|Torgnoles|15|85|10}}
+{{Attaque|N.23|Lilliput|-|-|20}}
+{{Attaque|N.29|Berceuse|-|55|15}}
+{{Attaque|N.35|Bomb'Œuf|100|75|10}}
+{{Attaque|N.41|Boul'Armure|-|-|40}}
+{{Attaque|N.49|Mur Lumière|-|-|30}}
+{{Attaque|N.57|Damoclès|120|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Écras'Face|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|N.5|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|N.9|Régénération|-|100|20|grâce|1|0}}
+{{Attaque-III|N.13|E-Coque|-|100|10|beauté|4|0}}
+{{Attaque-III|N.17|Torgnoles|15|85|10|robustesse|2|1}}
+{{Attaque-III|N.23|Lilliput|-|-|20|grâce|2|0}}
+{{Attaque-III|N.29|Berceuse|-|55|15|grâce|2|0}}
+{{Attaque-III|N.35|Bomb'Œuf|100|75|10|robustesse|4|0}}
+{{Attaque-III|N.41|Boul'Armure|-|-|40|grâce|2|0}}
+{{Attaque-III|N.49|Mur Lumière|-|-|30|beauté|1|0}}
+{{Attaque-III|N.57|Damoclès|120|100|15|robustesse|6|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Écras'Face|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|N.5|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|N.9|Régénération|-|-|20|grâce|0}}
+{{Attaque-IV|N.12|E-Coque|-|-|10|beauté|0}}
+{{Attaque-IV|N.16|Torgnoles|15|85|10|robustesse|2}}
+{{Attaque-IV|N.20|Lilliput|-|-|20|grâce|2}}
+{{Attaque-IV|N.23|Berceuse|-|55|15|grâce|2}}
+{{Attaque-IV|N.27|Dégommage|1|100|10|robustesse|1}}
+{{Attaque-IV|N.31|Boul'Armure|-|-|40|grâce|2}}
+{{Attaque-IV|N.34|Mur Lumière|-|-|30|beauté|2}}
+{{Attaque-IV|N.38|Bomb'Œuf|100|75|10|robustesse|3}}
+{{Attaque-IV|N.42|Vœu Soin|-|-|10|grâce|0}}
+{{Attaque-IV|N.46|Damoclès|120|100|15|robustesse|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Boul'Armure|-|-|40}}
+{{Attaque-V|Départ|Écras'Face|40|100|35}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|N.5|Mimi-Queue|-|100|30}}
+{{Attaque-V|N.9|Régénération|-|-|20}}
+{{Attaque-V|N.12|Torgnoles|15|85|10}}
+{{Attaque-V|N.16|E-Coque|-|-|10}}
+{{Attaque-V|N.20|Passe-Cadeau|-|-|15}}
+{{Attaque-V|N.23|Lilliput|-|-|20}}
+{{Attaque-V|N.27|Bélier|90|85|20}}
+{{Attaque-V|N.31|Berceuse|-|55|15}}
+{{Attaque-V|N.34|Dégommage|1|100|10}}
+{{Attaque-V|N.38|Vibra Soin|-|-|10}}
+{{Attaque-V|N.42|Bomb'Œuf|100|75|10}}
+{{Attaque-V|N.46|Mur Lumière|-|-|30}}
+{{Attaque-V|N.50|Vœu Soin|-|-|10}}
+{{Attaque-V|N.54|Damoclès|120|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" |À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" |À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" |À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" |À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+| type=normal
+| sensib-spectre=0
+| sensib-combat=2
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+| type=normal
+| PV=250
+| attaque=5
+| defense=5
+| atq-spc=35
+| def-spc=105
+| vitesse=50
+| special=105
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Leveinard
+| numero=113
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Leveinard RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère 2]]''
+| artwork_supp2-img=Leveinard-DM2.png
+| forme=6
+| pinballRB-gif=oui
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Leveinard n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasions :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Leveinard|Leveinard œuf voeu (PCNY)]] (États-Unis)
+* '''2006'''
+** [[Liste des Pokémon distribués en 2006#Leveinard|Leveinard Gotta Catch'Em All]] (Japon)
+
+==Apparitions dans le [[dessin animé]]==
+Leveinard apparaît souvent dans le dessin animé, où il joue un rôle d'infirmière dans les [[Centre Pokémon|Centres Pokémon]] jusqu'à l'arrivée de la cinquième génération (saison 14, il est remplacé par [[Nanméouïe]]). [[Pierre (dessin animé)|Pierre]] en a également un qui est l'évolution de son [[Ptiravi de Pierre|Ptiravi]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 656]]
+:{{PCap|Pok}}é{{PCap|mon}} Oeuf est la forme évoluée de {{PCap|Ptiravi}}. {{PCap|Leveinard}} est un genre de Pokémon qui partage ses oeufs avec ceux qui sont malades ou blessés.
+
+{{Ruban Pokémon
+| nomPrécédent=Rhinoféros
+| numéro=113
+| nom=Leveinard
+| nomSuivant=Saquedeneu
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon uniquement femelle]]
+[[Catégorie:Pokémon évoluant au Bonheur]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/113| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Chansey| ]]
+
+[[de:Chaneira]]
+[[en:Chansey (Pokémon)]]
+[[es:Chansey]]
+[[it:Chansey]]
+[[ja:ラッキー]]
+[[pl:Chansey]]
+[[pt:Chansey (pokémon)]]

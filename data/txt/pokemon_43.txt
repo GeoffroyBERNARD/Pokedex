@@ -1,0 +1,357 @@
+{{Ruban Pokémon
+| nomPrécédent=Nosferalto
+| numéro=043
+| nom=Mystherbe
+| nomSuivant=Ortide
+}}
+{{Infobox Pokémon 
+| nom=Mystherbe
+| nomen=Oddish
+| nomja=ナゾノクサ
+| nomtm=Nazonokusa
+| nomde=Myrapla
+| légende=Artwork de Mystherbe pour {{RFVF}}
+| ndex=043
+| jdex=083
+| hdex=088
+| fdex=126
+| adex=114
+| odex=R-127
+| opdex=N-012
+| type1=Plante
+| type2=Poison
+| espece=Racine
+| taille=0.5
+| poids=5.4
+| capspe1=Chlorophyle
+| capspe2=Fuite (capacité spéciale){{!}}Fuite
+| capspe2-reve=oui
+| groupoeuf1=Plante
+| oeufpas=5120 
+| effortval=+1 Att. Spé 
+| expval=78
+| expmax=1059860
+| fmratio=.5 
+| captureval=255
+| couleur=Bleu
+| forme=7
+}}
+'''Mystherbe''' (anglais : '''Oddish''' ; japonais : '''ナゾノクサ''' ''Nazonokusa'') est un [[Pokémon]] de [[type]] {{type|plante}} de la [[première génération]].
+
+==À propos du Pokémon==
+
+===Physionomie===
+Mystherbe ressemble à un radis avec des pattes.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===Évolution===
+Mystherbe peut évoluer en [[Ortide]] au niveau 21. Ce dernier peut ensuite évoluer soit en [[Rafflesia]] s'il est mis au contact d'une [[Pierre Plante]], soit en [[Joliflor]] s'il est mis au contact d'une [[Pierresoleil]] (apparue lors de la [[seconde génération]]).
+
+{{TableauEvolutionHaut|Plante|Mystherbe|2}}
+{{TableauEvolutionSimple|Niveau 21|Ortide|2}}
+{{TableauEvolutionConditionBranche/1|Avec une [[Pierre Plante]]|imageObjet=Miniat pierre plante dp.png}}
+{{TableauEvolutionConditionBranche|Avec une [[Pierresoleil]]|imageObjet=Miniat Pierresoleil dp.png}}
+{{TableauEvolutionBranche/1|Rafflesia}}
+{{TableauEvolutionBranche|Joliflor}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+La capacité spéciale [[Chlorophyle]] permet à Mystherbe de voir sa vitesse augmenter si le soleil brille (suite à une utilisation de [[Zénith]], ou à l'apparition de [[Groudon]] et de sa capacité spéciale [[Sécheresse]] plus tôt dans le match).
+
+===Étymologies===
+* Français : de '''myst'''ère et '''herbe'''.
+* Anglais : de ''odd'', étrange/bizarre, et ''radish'', radis
+* Japonais : de ''nazo no kusa'', qui signifie ''mystère de la plante''
+* Allemand : de ''myrte''[http://www.naturemania.com/produits/images/myrte.jpg] et de ''pflanze''(plante)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Pendant la journée il se cache sous la terre. Il s'aventure la nuit pour planter des graines.
+;[[Pokémon Jaune]]
+:Il est souvent confondu avec un radis noir. Si on essaie de le soulever du sol, il hurle.
+;[[Pokémon Stadium]]
+: Tout le jour durant, il s'enterre et ne fait sortir que ses feuilles. On raconte qu'il crie si l'on tente de l'arracher du sol.
+;[[Pokémon Or]]
+:La lumière de la lune le tient éveillé. Pendant la journée il se dissimule sous la terre.
+;[[Pokémon Argent]]
+:Il ne se déplace pour disséminer ses graines que lorsqu'il est exposé aux rayons de lune.
+;[[Pokémon Cristal]]
+:Le jour, il reste en soul-sol et évite le soleil. Il grandit en se baignant au clair de lune.
+;[[Pokémon Rubis]]
+: Pendant la journée, {{PCap|Mystherbe}} s'enterre dans le sol pour absorber avec son corps tout entier les nutriments présents dans la terre. Plus le sol est fertile, plus ses feuilles sont brillantes.
+;[[Pokémon Saphir]]
+:{{PCap|Mystherbe}} cherche un sol fertile et riche en nutriments, pour s'y planter. Pendant la journée, quand il est planté, les pieds de ce {{PCap|Pok}}é{{PCap|mon}} changent de forme et deviennent similaires à des racines.
+;[[Pokémon Émeraude]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} grandit en absorbant la lumière de la lune. La journée, il s'enfouit sous terre pour se cacher et ne laisse dépasser que ses feuilles.
+;[[Pokémon Rouge Feu et Vert Feuille]]
+:Pendant la journée il se cache sous terre. Il erre dehors toute la nuit pour planter ses graines.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Les feuilles sur la tête de {{PCap|Mystherbe}} sont capables de couper le bois.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: En journée, il plante ses pieds-racines dans le sol. La nuit, il se promène en semant des graines.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en projetant ses feuilles et en émettant des spores toxiques.
+;[[Pokémon Or HeartGold]]
+:La lumière de la lune le rend très actif. Pendant la journée, il se dissimule sous la terre.
+;[[Pokémon Argent SoulSilver]]
+:Il ne se déplace pour disséminer ses graines que lorsqu'il est exposé aux rayons de lune.
+;[[Pokémon Noir et Blanc]]
+: En journée, il plante ses pieds-racines dans le sol. La nuit, il se promène en semant des graines.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:280px" | Version
+! style="background-color:{{Couleur|Plante}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+|-
+| [[Rouge]] || Commun || Routes [[Route 5|5]], [[Route 6|6]], [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Route 24|24]] et [[Route 25|25]].
+|-
+| [[Bleu]] || Inexistant || À échanger depuis [[Rouge]] ou [[Jaune]].
+|-
+| [[Jaune]] || Commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Route 24|24]] et [[Route 25|25]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:280px" | Version
+! style="background-color:{{Couleur|Plante}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+|-
+| [[Or]] || Commun || Routes [[Route 5|5]], [[Route 6|6]], [[Route 24|24]], [[Route 25|25]] et [[Bois aux chênes]] - [[Temps|Nuit]] uniquement.
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Routes [[Route 5|5]], [[Route 6|6]], [[Route 24|24]], [[Route 25|25]] et [[Bois aux chênes]] - [[Temps|Nuit]] uniquement.
+|-
+| [[Cristal]] || Commun || Routes [[Route 24|24]], [[Route 25|25]] et [[Bois aux chênes]] - [[Temps|Nuit]] uniquement.
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:280px" | Version
+! style="background-color:{{Couleur|Plante}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+|-
+| rowspan="2" style="vertical-align:middle;" | {{RSE}}
+| rowspan="2" style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | Routes [[Route 110|110]], [[Route 117|117]], [[Route 119|119]], [[Route 120|120]], [[Route 121|121]] et [[Route 123|123]].
+|-
+| style="vertical-align:middle;" | [[Parc safari]]
+|-
+| [[Rouge Feu]] || Commun || Routes [[Route 5|5]], [[Route 6|6]], [[Route 7|7]], [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Route 24|24]], [[Route 25|25]], [[Île 2]], [[Île 3]] et [[Île 6]].
+|-
+| [[Vert Feuille]] || Inexistant || À obtenir par échange.
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:280px" | Version
+! style="background-color:{{Couleur|Plante}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| {{DP}} || rowspan="3" style="vertical-align: middle;"| Commun || Routes [[Route 229|229]] et [[Route 230|230]]. || N.47
+|-
+| ''[[Pokémon Platine]]'' || Routes [[Route 224|224]] et [[Route 230|230]] (Nuit). || N.47
+|-
+| [[Pokémon Or HeartGold]] || [[Bois aux Chênes]] et Routes [[Route 5|5]], [[Route 6|6]], [[Route 24|24]] et [[Route 25|25]] (Nuit uniquement) || N.??
+|}
+
+
+=== [[Cinquième génération]] ===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:280px" | Version
+! style="background-color:{{Couleur|Plante}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | ''[[Pokémon Blanc]]''
+| style="vertical-align:middle;" | Variable
+| style="vertical-align:middle;" | [[Forêt Blanche]] (à condition que Aristée soit dans la forêt)
+| style="vertical-align:middle;" | 5
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | [[Dream World]]: Le Bosquet
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Vol-Vie|20|100|20}}
+{{Attaque|N.15|Poudre Toxik|-|75|35}}
+{{Attaque|N.17|Para-Spore|-|75|30}}
+{{Attaque|N.19|Poudre Dodo|-|75|15}}
+{{Attaque|N.24|Acide|40|100|30}}
+{{Attaque|N.33|Danse-Fleur|70|100|20}}
+{{Attaque|N.46|Lance-Soleil|120|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Vol-Vie|20|100|20}}
+{{Attaque|N.7|Doux Parfum|-|100|20}}
+{{Attaque|N.14|Poudre Toxik|-|75|35}}
+{{Attaque|N.16|Para-Spore|-|75|30}}
+{{Attaque|N.18|Poudre Dodo|-|75|15}}
+{{Attaque|N.23|Acide|40|100|30}}
+{{Attaque|N.32|Rayon Lune|-|-|5}}
+{{Attaque|N.39|Danse-Fleur|70|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Vol-Vie|20|100|20|intelligence|2|3}}
+{{Attaque-III|N.7|Doux Parfum|-|100|20|grâce|1|3}}
+{{Attaque-III|N.14|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.16|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|N.18|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.23|Acide|40|100|30|intelligence|1|4}}
+{{Attaque-III|N.32|Rayon Lune|-|-|5|beauté|1|0}}
+{{Attaque-III|N.39|Danse-Fleur|70|100|20|beauté|4|4}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Vol-Vie|20|100|25|intelligence|1}}
+{{Attaque-IV|N.5|Doux Parfum|-|100|20|grâce|2}}
+{{Attaque-IV|N.9|Acide|40|100|30|intelligence|3}}
+{{Attaque-IV|N.13|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.15|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|N.17|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.21|Méga-Sangsue|40|100|15|intelligence|1}}
+{{Attaque-IV|N.25|Air Veinard|-|-|30|grâce|2}}
+{{Attaque-IV|N.29|Don Naturel|1|100|15|sang-froid|2}}
+{{Attaque-IV|N.33|Rayon Lune|-|-|5|beauté|0}}
+{{Attaque-IV|N.37|Giga-Sangsue|60|100|10|intelligence|1}}
+{{Attaque-IV|N.41|Danse-Fleur|90|100|20|beauté|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Vol-Vie|20|100|25}}
+{{Attaque-V|N.5|Doux Parfum|-|100|20}}
+{{Attaque-V|N.9|Acide|40|100|30}}
+{{Attaque-V|N.13|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.15|Para-Spore|-|75|30}}
+{{Attaque-V|N.17|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.21|Méga-Sangsue|40|100|15}}
+{{Attaque-V|N.25|Air Veinard|-|-|30}}
+{{Attaque-V|N.29|Don Naturel|1|100|15}}
+{{Attaque-V|N.33|Rayon Lune|-|-|5}}
+{{Attaque-V|N.37|Giga-Sangsue|75|100|10}}
+{{Attaque-V|N.41|Danse-Fleur|120|100|10}}
+{{Attaques apprises-bas}}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=plante
+|sensib-combat=0.5
+|sensib-eau=0.5
+|sensib-électrique=0.5
+|sensib-feu=2
+|sensib-glace=2
+|sensib-plante=0.25
+|sensib-insecte=1
+|sensib-psy=2
+|sensib-vol=2
+|rmq-insecte=Dans la [[génération I]], les attaques de type [[Insecte]] étaient très efficaces contre les Pokémon de type [[Poison]] -alors qu'elles sont peu efficaces depuis-, ce qui donnait pour '''Mystherbe''' une quadruple sensibilité (du fait de la sensibilité de son type [[Plante]] par ailleurs)
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=plante
+|PV=45
+|attaque=50
+|defense=55
+|atq-spc=75
+|def-spc=65
+|vitesse=30
+|special=75
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Mystherbe
+| numero=043
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Mystherbe RB.png
+| forme=7
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+== Distributions évènementielles ==
+À l'heure actuelle, Mystherbe a été [[Pokémon évènementiel|distribué de manière évènementielle]] en deux occasions :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Pokémon Center - Œufs surprise|Mystherbe œuf surprise, Pokémon Center]] (Japon)
+** [[JEREMY|Mystherbe JEREMY]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+
+Mystherbe apparaît dans l'[[épisode 10]], où il s'agit de l'un des Pokémon protégés (au grand dam d'{{da|Ondine}} qui avait tenté de le capturer) par le futur [[Bulbizarre]] de [[Sacha]].
+
+Dans l'[[épisode 137]], un Mystherbe faisant partie d'un groupe de [[Granivol]] essaye de voler avec eux.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 10]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} ne vit que dans la forêt. Il est connu pour déplacer du pollen quand il marche.
+
+{{Ruban Pokémon
+| nomPrécédent=Nosferalto
+| numéro=043
+| nom=Mystherbe
+| nomSuivant=Ortide
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/43| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Oddish| ]]
+
+[[de:Myrapla]]
+[[en:Oddish (Pokémon)]]
+[[es:Oddish]]
+[[it:Oddish]]
+[[ja:ナゾノクサ]]
+[[pl:Oddish]]
+[[pt:Oddish (pokémon)]]

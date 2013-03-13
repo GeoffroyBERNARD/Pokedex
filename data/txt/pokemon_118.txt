@@ -1,0 +1,442 @@
+{{Ruban Pokémon
+| nomPrécédent=Hypocéan
+| numéro=118
+| nom=Poissirène
+| nomSuivant=Poissoroy
+}}
+{{Infobox Pokémon
+| nom=Poissirène
+| nomen=Goldeen
+| nomja=トサキント
+| nomtm=Tosakinto
+| nomde=Goldini
+| légende=Artwork de Poissirène pour {{RFVF}}
+| ndex=118
+| jdex=078
+| hdex=050
+| sdex=078
+| fdex=110
+| espece=Poisson
+| taille=0.6
+| poids=15.0
+| fmratio=.5 
+| oeufpas=5120
+| effortval=+1 Att.
+| type1=Eau
+| expval=111
+| expmax=1000000
+| captureval=225
+| groupoeuf1=Eau 2
+| capspe1=Glissade
+| capspe1-desc=Augmente la Vitesse du Pokémon s'il pleut.
+| capspe2=Ignifu-Voile
+| capspe2-desc=Protège le Pokémon des brûlures.
+| couleur=Rouge
+| forme=3}}
+'''Poissirène''' (anglais : '''Goldeen''' ; japonais : '''トサキント''' ''Tosakinto'') est un [[Pokémon]] de [[type]] {{type|eau}} de la [[première génération]]. Il est le Pokémon poisson typique, le cas [[Magicarpe]] mis à part.
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Les Poissirène femelles ont une corne plus petite que les mâles.
+
+===[[Évolution]]===
+Poissirène évolue en [[Poissoroy]] à partir du [[niveau]] 33.
+
+{{TableauEvolutionHaut|Eau|Poissirène}}
+{{TableauEvolutionSimple|Niveau 33|Poissoroy}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Chaque Poissirène possède l'une des deux capacités spéciales suivantes : [[Glissade]], qui fait monter la vitesse du Pokémon s'il pleut, ou [[Ignifu-Voile]], qui protège des brûlures
+
+===Étymologies===
+* Français : Poisson et sirène (double jeu également avec reine, compte tenu du nom de son évolution et des noms dans d'autres langues)
+* Anglais : ''Goldeen'' vient de ''goldfish'', poisson rouge, et ''queen'', reine.
+* Allemand : ''Goldini'' vient de ''Goldfisch''(poisson rouge) et de ''mini''
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Sa queue ondule gracieusement comme un voile. On l'appelle Reine des océans.
+;[[Pokémon Jaune]]
+:Quand survient la saison de ponte, on peut en voir dans les rivières et les cascades en larges groupes.
+;[[Pokémon Stadium]]
+:Son élégante nageoire flotte et volète comme une robe dans le vent du soir. Et en plus, il nage à une vitesse de 5 nœuds.
+;[[Pokémon Or]]
+:Ses nageoires dorsales et pectorales bougent avec élégance. Il est surnommé le danseur des flots.
+;[[Pokémon Argent]]
+:Un bon nageur, capable de remonter un torrent à la vitesse impressionnante de 5 nœuds.
+;[[Pokémon Cristal]]
+:Pendant la saison des amours, il nage avec grâce et cherche le partenaire idéal.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Poissirène}} est un {{PCap|Pok}}é{{PCap|mon}} magnifique doté de nageoires qui ondulent élégamment dans les profondeurs. Il ne faut pourtant pas baisser sa garde face à ce {{PCap|Pok}}é{{PCap|mon}}, car il peut charger avec sa puissante corne.
+;[[Pokémon Émeraude]]
+:Au printemps, on peut voir des groupes de {{PCap|Poissirène}} remonter les cours d'eau. Il inflige de sérieux dommages à l'aide de son unique corne.
+;[[Pokémon Rouge Feu]]
+:Ses nageoires dorsales et pectorales sont très développées. Grâce à elles, {{PCap|Poissirène}} peut nager à 5 nœuds.
+;[[Pokémon Vert Feuille]]
+:Sa queue ondule gracieusement telle une sirène qui se déhanche. C'est pourquoi on l'appelle « La Reine des Océans ».
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Poissirène}} ne peut pas être capturé sous l'eau. Guettez ses sorties !
+;[[Pokémon Diamant]]
+: Il nage élégamment en agitant sa nageoire caudale comme si c'était une robe. Il a l'allure d'une reine.
+;[[Pokémon Perle]]
+:Il nage à 5 nœuds. Quand on l'agresse, il réplique d'un bon coup de corne aiguisée.
+;[[Pokémon Platine]]
+:Malgré son élégance quand il nage, ses coups de corne sont redoutables.
+;[[Pokémon Or HeartGold]]
+:Ses nageoires dorsales et pectorales bougent avec élégance. Il est surnommé le danseur des flots.
+;[[Pokémon Argent SoulSilver]]
+:Un bon nageur, capable de remonter un torrent à la vitesse impressionnante de 5 nœuds.
+;[[Pokémon Noir et Blanc]]
+:Malgré son élégance quand il nage, ses coups de corne sont redoutables.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:280px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| {{RBJ}} || Commun || Pêcher avec la [[Super Canne]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:280px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| {{OA}} || Commun || À venir
+|-
+| {{C}} || Commun || [[Caves Jumelles]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:280px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| style="vertical-align:middle;" | {{RSE}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Route 110]] et [[Parc Safari (Hoenn)|Parc Safari]]
+|-
+| {{RFVF}} || Commun || [[Pêche]]r avec la [[Méga Canne]] ou la [[Super Canne]]
+|-
+| ''[[Pokémon Colosseum]]'' || Inexistant || À échanger
+|-
+| ''[[Pokémon XD]]'' || Inexistant || À échanger
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:280px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+|-
+| {{DP}} || Peu commun || [[Pêche]]r avec la [[Super Canne]]
+|-
+| {{Pt}} || À venir || À venir
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:280px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="3" style="vertical-align:middle;" | {{NB}} 
+| rowspan="3" style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Pêche]] aux [[Route 3 (Unys)|Route 3]], [[Route 11 (Unys)|Route 11]] et [[Route 14 (Unys)|Route 14]] 
+| rowspan="3" style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Ogoesse]]
+|-
+| style="vertical-align:middle;" | [[Forêt d'Empoigne]] (intérieur), [[Bois des Illusions]] et [[Autel Abondance]]
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|N.19|Ultrason|-|55|20}}
+{{Attaque|N.24|Koud'Korne|65|100|25}}
+{{Attaque|N.30|Furie|15|85|20}}
+{{Attaque|N.37|Cascade|80|100|15}}
+{{Attaque|N.45|Empal'Korne|-|-|5}}
+{{Attaque|N.54|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|N.10|Ultrason|-|55|20}}
+{{Attaque|N.15|Koud'Korne|65|100|25}}
+{{Attaque|N.24|Fléau|-|100|15}}
+{{Attaque|N.29|Furie|15|85|20}}
+{{Attaque|N.38|Cascade|80|100|15}}
+{{Attaque|N.43|Empal'Korne|-|-|5}}
+{{Attaque|N.52|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Picpic|35|100|35|sang-froid|4|0}}
+{{Attaque-III|Départ|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ|Tourniquet|-|100|15|grâce|4|0}}
+{{Attaque-III|N.10|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.15|Koud'Korne|65|100|25|sang-froid|4|0}}
+{{Attaque-III|N.24|Fléau|-|100|15|grâce|1|0}}
+{{Attaque-III|N.29|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.38|Cascade|80|100|15|robustesse|2|0}}
+{{Attaque-III|N.43|Empal'Korne|-|-|5|sang-froid|2|1}}
+{{Attaque-III|N.52|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.57{{Sup|RF}}{{Sup|VF}}|Mégacorne|120|85|10|sang-froid|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Picpic|35|100|35|sang-froid|3}}
+{{Attaque-IV|Départ|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|Départ|Tourniquet|-|-|15|grâce|2}}
+{{Attaque-IV|N.7|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|N.11|Koud'Korne|65|100|25|sang-froid|3}}
+{{Attaque-IV|N.17|Vibraqua|60|100|20|beauté|2}}
+{{Attaque-IV|N.21|Fléau|-|100|15|grâce|2}}
+{{Attaque-IV|N.27|Anneau Hydro|-|-|20|beauté|2}}
+{{Attaque-IV|N.31|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.37|Cascade|80|100|15|robustesse|3}}
+{{Attaque-IV|N.41|Empal'Korne|-|-|5|sang-froid|0}}
+{{Attaque-IV|N.47|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.51|Mégacorne|120|85|10|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Picpic|35|100|35}}
+{{Attaque-V|Départ|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ|Tourniquet|-|-|15}}
+{{Attaque-V|N.7|Ultrason|-|55|20}}
+{{Attaque-V|N.11|Koud'Korne|65|100|25}}
+{{Attaque-V|N.17|Vibraqua|60|100|20}}
+{{Attaque-V|N.21|Fléau|-|100|15}}
+{{Attaque-V|N.27|Anneau Hydro|-|-|20}}
+{{Attaque-V|N.31|Furie|15|85|20}}
+{{Attaque-V|N.37|Cascade|80|100|15}}
+{{Attaque-V|N.41|Empal'Korne|-|-|5}}
+{{Attaque-V|N.47|Hâte|-|-|30}}
+{{Attaque-V|N.51|Détrempage|-|100|20}}
+{{Attaque-V|N.57|Mégacorne|120|85|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Empal'Korne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! colspan="3" | à venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | à venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+| nom=Poissirène
+| type=Eau
+| sensib-acier=0.5
+| sensib-eau=0.5
+| sensib-feu=0.5
+| sensib-glace=0.5
+| sensib-électrique=2
+| sensib-plante=2
+}}
+
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=45
+|attaque=67
+|defense=60
+|atq-spc=35
+|def-spc=50
+|vitesse=63
+|special=50
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Poissirène
+| numero=118
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Poissirène RB.png
+| forme=3
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+*{{da|Ondine}} en possède [[Poissirène d'Ondine|un]].
+
+*De nombreux [[Poissirène]] apparaissent dans l'anime dans des rôles souvent mineurs.
+
+===Descriptions du [[Pokédex]]===
+
+{{Ruban Pokémon
+| nomPrécédent=Hypocéan
+| numéro=118
+| nom=Poissirène
+| nomSuivant=Poissoroy
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/118| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Goldeen| ]]
+
+[[de:Goldini]]
+[[en:Goldeen (Pokémon)]]
+[[es:Goldeen]]
+[[it:Goldeen]]
+[[ja:トサキント]]
+[[pl:Goldeen]]
+[[pt:Goldeen (pokémon)]]

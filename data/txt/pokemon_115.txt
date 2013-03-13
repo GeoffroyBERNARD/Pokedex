@@ -1,0 +1,392 @@
+{{Ruban Pokémon
+| nomPrécédent=Saquedeneu
+| numéro=115
+| nom=Kangourex
+| nomSuivant=Hypotrempe
+}}
+{{Infobox Pokémon
+| nom=Kangourex
+| nomen=Kangaskhan
+| nomja=ガルーラ
+| nomtm=Garura
+| nomromaji=Garūra
+| nomde=Kangama
+| légende=Artwork de Kangourex pour {{RFVF}}
+| ndex=115
+| jdex=205
+| njdex=210
+| hdex=279
+| fdex=201
+| adex=146
+| type1=Normal
+| espece=Maternel
+| taille=2.2
+| poids=80.0
+| capspe1=Matinal
+| capspe2=Querelleur
+| capspe3=Attention
+| groupoeuf1=Monstre
+| oeufpas=5120
+| effortval=+2 PV
+| expval=175
+| expmax=1000000
+| fmratio=1 
+| captureval=45
+| couleur=Marron
+| forme=6
+}}
+'''Kangourex''' (anglais : '''Kangaskhan''' ; japonais : '''ガルーラ''' ''Garura'') est un [[Pokémon]] de base de [[type]] {{type|normal}} de la [[première génération]]. Il est rare et inspiré du [[wp:Kangourou|kangourou]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Cette espèce est composée uniquement d'individus femelles.
+
+===[[Évolution]]===
+Kangourex n'a pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===[[Capacité spéciale]]===
+
+Kangourex dispose soit de la capacité spéciale [[Matinal]], qui permet de se réveiller plus rapidement si le Pokémon est endormi, soit de la capacité spéciale [[Querelleur]], qui permet aux Pokémon de type [[Spectre]] d'être touchés par des attaques de type [[Normal]] ou [[Combat (type)|Combat]].
+
+===Étymologies===
+* Français : de ''kangourou'' et ''rex'', racine latine de roi
+* Anglais : de ''kangaroo'' et ''[[:wp:Khan|Khan]]'', signifiant dirigeant en mongol et en turc
+* Allemand : de ''kangarou'' et ''Mama''(maman)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Son enfant ne quitte la poche ventrale protectrice qu'à l'âge de 3 ans.
+;[[Pokémon Jaune]]
+:Il élève son petit dans sa poche ventrale. Il ne l'abandonne jamais dans un combat.
+;[[Pokémon Stadium]]
+:La femelle élève son petit dans sa poche ventrale pendant près de trois ans. Celui-ci sort une fois capable de se nourrir.
+;[[Pokémon Or]]
+:Dans les endroits sécurisés, le petit quitte sa poche pour jouer sous la protection des adultes.
+;[[Pokémon Argent]]
+:Pour protéger ses petits il n'abandonnera jamais un combat quel que soit son état.
+;[[Pokémon Cristal]]
+:Pour ne pas écraser le petit qu'il transporte, il dort toujours debout.
+;[[Pokémon Rubis et Saphir]]
+:Lorsqu'on rencontre un petit {{PCap|Kangourex}} qui joue tout seul, il ne faut jamais le déranger ou essayer de l'attraper. Les parents du bébé {{PCap|Pok}}é{{PCap|mon}} sont sûrement dans le coin et ils risquent d'entrer dans une colère noire.
+;[[Pokémon Émeraude]]
+:Lorsqu'on rencontre un petit {{PCap|Kangourex}} seul, il ne faut pas essayer de l'attraper. Ses parents sont sûrement dans le coin et risquent d'entrer dans une colère noire.
+;[[Pokémon Rouge Feu]]
+:La femelle élève sa progéniture dans une poche abdominale. Ce {{PCap|Pok}}é{{PCap|mon}} adore utiliser le {{PCap|[[Poing Comète]]}}.
+;[[Pokémon Vert Feuille]]
+:Son enfant ne quitte la poche ventrale protectrice qu'à l'âge de 3 ans.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Un rayon destructeur sort de la bouche de {{PCap|Kangourex}}.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il élève ses petits dans sa poche ventrale. Il attend d'être en lieu sûr pour les laisser jouer dehors.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Des rayons puissants sortent de sa bouche.
+;[[Pokémon Or HeartGold]]
+:Dans les endroits sûrs, le petit quitte sa poche pour jouer sous la protection des adultes.
+;[[Pokémon Argent SoulSilver]]
+:Pour protéger ses petits, il n'abandonnera jamais un combat, quel que soit son état.
+;[[Pokémon Noir et Blanc]]
+:Il élève ses petits dans sa poche ventrale. Il attend d'être en lieu sûr pour les laisser jouer dehors.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rouge]]|| Rare || [[Parc Safari]] à [[Parmanie]] - Zone 2 || N. 25 || 4%
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Bleu]] || rowspan="2" style="vertical-align: middle;" | Rare || [[Parc Safari]] à [[Parmanie]] - Zone 3 || N. 25 || 4%
+|-
+| [[Parc Safari]] à [[Parmanie]] - Zone 4 || N. 28 || 2%
+|-
+| [[Jaune]] || Rare || [[Parc Safari]] à [[Parmanie]] - Zones 2 et 3 || N. 28-33 || 15%
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Or]] || Rare || [[Grotte]] || N. 14 || 5%
+|-
+| [[Pokémon Or et Argent|Argent]] || Rare || [[Grotte]] || N. 14 || 5%
+|-
+| [[Cristal]] || Rare || [[Grotte]] - [[Temps|Matin, Jour]] || N. 15 || 5%
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.|| - || -
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.|| - || -
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.|| - || -
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Rouge Feu]] et [[Vert Feuille]] || rowspan="2" style="vertical-align: middle;" | Rare || [[Parc Safari]] à [[Parmanie]] - Zone 2 || N. 25 || 4%
+|-
+| [[Parc Safari]] à [[Parmanie]] - Zone 4 || N. 28 || 1%
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.|| - || -
+|-
+| [[XD]] || Unique || À snatcher sur l'[[Île Ténébra]]. || ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| {{DP}} || rowspan="2" style="vertical-align:middle;" | Rare || rowspan="2" style="vertical-align:middle;" | [[Grand Marais]] à [[Verchamps]] - L'une des possibilités de Pokémon spéciaux du jour vus aux jumelles || rowspan="2" style="vertical-align:middle;" | N. 20-26 || rowspan="2" style="vertical-align:middle;" | 10%
+|-
+| {{Pt}}
+|-
+| [[Or HeartGold]] || || [[Grotte]]
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Route 15 (Unys)|Route 15]]
+| style="vertical-align:middle;" | 49-59
+|-
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | [[Pokémon Dream World]] : Le Bosquet
+| style="vertical-align:middle;" | 10
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Poing Comète|18|85|15}}
+{{Attaque|Départ|Frénésie|20|100|20}}
+{{Attaque|N.26|Morsure|60|100|25}}
+{{Attaque|N.31|Mimi-Queue|-|100|30}}
+{{Attaque|N.36|Ultimapoing|80|85|20}}
+{{Attaque|N.41|Groz'Yeux|-|100|30}}
+{{Attaque|N.46|Uppercut|70|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Poing Comète|18|85|15}}
+{{Attaque|N.7|Groz'Yeux|-|100|30}}
+{{Attaque|N.13|Morsure|60|100|25}}
+{{Attaque|N.19|Mimi-Queue|-|100|30}}
+{{Attaque|N.25|Ultimapoing|80|85|20}}
+{{Attaque|N.31|Frénésie|20|100|20}}
+{{Attaque|N.37|Ténacité|-|-|10}}
+{{Attaque|N.43|Uppercut|70|100|10}}
+{{Attaque|N.49|Contre|-|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Poing Comète|18|85|15|robustesse|2|0}}
+{{Attaque-III|Départ|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.7|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.13|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|N.19|Bluff|40|100|10|grâce|2|1}}
+{{Attaque-III|N.25|Ultimapoing|80|85|20|robustesse|4|0}}
+{{Attaque-III|N.31|Frénésie|20|100|20|sang-froid|3|0}}
+{{Attaque-III|N.37|Ténacité|-|-|10|robustesse|2|0}}
+{{Attaque-III|N.43|Uppercut|70|100|10|sang-froid|1|4}}
+{{Attaque-III|N.49|Contre|-|100|15|sang-froid|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Poing Comète|18|85|15|robustesse|2}}
+{{Attaque-IV|Départ|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.7|Bluff|40|100|10|grâce|2}}
+{{Attaque-IV|N.10|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|N.13|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.19|Ultimapoing|80|85|20|robustesse|2}}
+{{Attaque-IV|N.22|Frénésie|20|100|20|sang-froid|0}}
+{{Attaque-IV|N.25|Uppercut|70|100|10|sang-froid|0}}
+{{Attaque-IV|N.31|Mâchouille|80|100|15|robustesse|2}}
+{{Attaque-IV|N.34|Ténacité|-|-|10|robustesse|2}}
+{{Attaque-IV|N.37|Colère|120|100|10|sang-froid|2}}
+{{Attaque-IV|N.43|Coup Double|35|90|10|intelligence|2}}
+{{Attaque-IV|N.46|Coup Bas|80|100|5|intelligence|2}}
+{{Attaque-IV|N.49|Contre|-|100|15|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Poing Comète|18|85|15}}
+{{Attaque-V|Départ|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.7|Bluff|40|100|10}}
+{{Attaque-V|N.10|Mimi-Queue|-|100|30}}
+{{Attaque-V|N.13|Morsure|60|100|25}}
+{{Attaque-V|N.19|Coup Double|35|90|10}}
+{{Attaque-V|N.22|Frénésie|20|100|20}}
+{{Attaque-V|N.25|Ultimapoing|80|85|20}}
+{{Attaque-V|N.31|Attrition|70|100|20}}
+{{Attaque-V|N.34|Uppercut|70|100|10}}
+{{Attaque-V|N.37|Mâchouille|80|100|15}}
+{{Attaque-V|N.43|Ténacité|-|-|10}}
+{{Attaque-V|N.46|Colère|120|100|10}}
+{{Attaque-V|N.49|Coup Bas|80|100|5}}
+{{Attaque-V|N.55|Contre|-|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=normal
+|PV=105
+|attaque=95
+|defense=80
+|atq-spc=40
+|def-spc=80
+|vitesse=90
+|special=40
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Kangourex
+| numero=115
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Kangourex RB.png
+| artwork_supp2-nom=[[Pokémon Donjon Mystère]]
+| artwork_supp2-img=Kangourex-DM.png{{!}}x150px
+| artwork_supp3-nom=''[[Pokémon Donjon Mystère 2|PDM2]]''
+| artwork_supp3-img=Kangourex-DM2.png
+| forme=6
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Kangourex n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasions :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Kangourex|Kangourex œuf voeu (PCNY)]] (États-Unis)
+* '''2006'''
+** [[Liste des Pokémon distribués en 2006#Kangourex|Kangourex Gotta Catch 'Em All]] (Japon)
+
+==Apparitions dans le [[dessin animé]]==
+
+La première apparition d'un Kangourex se fait dans l'[[épisode 34]], où un jeune enfant perdu devenu sauvage a été élevé par des Kangourex.
+
+Un Kangourex est également utilisé par l'un des compétiteurs du tournoi de Sumo remporté par le [[Ronflex de Sacha|Ronflex]] de [[Sacha]] dans l'[[épisode 194]].
+
+Dans l'un des épisodes spéciaux des [[Vacances d'hiver de Pikachu]], un Kangourex laisse son jeune enfant jouer avec [[Pikachu]] et d'autres Pokémon du groupe.
+
+Un autre Kangourex apparaît dans un épisode spécial n'ayant aucun lien avec la série et dédié au jeu [[Pokémon Donjon Mystère Bleu et Rouge|Pokémon Donjon Mystère]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 35]]
+:Est un {{PCap|Pok}}é{{PCap|mon}} Parent. Menacés d'extinction, les {{PCap|[[Kangourex]]}} sont désormais une espèce protégée par la loi. Les {{PCap|[[Kangourex]]}} sont des {{PCap|Pok}}é{{PCap|mon}} très rares qui élèvent leur progéniture dans une poche ventrale. Il est vivement déconseillé de s'en approcher car, dès qu'ils sentent leurs petits en danger, ils peuvent charger les importuns avec une rare violence. 
+
+{{Ruban Pokémon
+| nomPrécédent=Saquedeneu
+| numéro=115
+| nom=Kangourex
+| nomSuivant=Hypotrempe
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon uniquement femelle]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/115| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Kangaskhan| ]]
+
+[[de:Kangama]]
+[[en:Kangaskhan (Pokémon)]]
+[[es:Kangaskhan]]
+[[it:Kangaskhan]]
+[[ja:ガルーラ]]
+[[pl:Kangaskhan]]
+[[pt:Kangaskhan (pokémon)]]

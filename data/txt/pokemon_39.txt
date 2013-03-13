@@ -1,0 +1,335 @@
+{{Ruban Pokémon
+| nomPrécédent=Feunard
+| numéro=039
+| nom=Rondoudou
+| nomSuivant=Grodoudou
+}}
+{{Infobox Pokémon 
+| nom=Rondoudou
+| nomen=Jigglypuff 
+| nomja=プリン
+| nomtm=Purin
+| nomde=Pummeluff
+| légende=Artwork de Rondoudou pour {{RFVF}}
+| ndex=039
+| jdex=044
+| hdex=138
+| fdex=100
+| adex=203
+| type1=Normal
+| espece=Bouboule
+| taille=0.5
+| poids=5.5
+| capspe1=Joli Sourire
+| capspe2=Garde Amie
+| capspe2-reve=oui
+| groupoeuf1=Fée
+| oeufpas=2560 
+| effortval=+2 PV
+| expval=76
+| expmax=800000
+| fmratio=.25
+| captureval=170
+| couleur=Rose
+| forme=12}}
+'''Rondoudou''' (anglais : '''Jigglypuff ''' ; japonais : '''プリン''' ''Purin'') est un petit [[Pokémon]] de [[type]] [[Fichier:Type miniat normal.png|type=Normal]], devenu vite un symbole de la [[première génération]] grâce au [[dessin animé]]. En effet, sous ses airs de gentille boule rose, se cache un chanteur passionné. À ce jour, aucun spectateur n'a réussi à s'exprimer concernant la qualité de ses prestations, celles-ci déclenchant à chaque fois la somnolence du public. 
+
+==À propos du Pokémon==
+
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+
+Rondoudou a une pré-évolution, [[Toudoudou]], correspondant à un [[Bébé Pokémon]], et apparue donc depuis la [[seconde génération]].
+Il a également une évolution, [[Grodoudou]], qui s'obtient quand Rondoudou est soumis aux rayonnements d'une [[Pierre Lune]].
+
+{{TableauEvolutionHaut|Normal|Toudoudou}}
+{{TableauEvolutionSimple|[[Bonheur]]|Rondoudou}}
+{{TableauEvolutionSimple|Avec une [[Pierre Lune]]|imageObjet=Miniat pierre lune dp.png|Grodoudou}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+La capacité spéciale de ce Pokémon est [[Joli Sourire]]. Ainsi, grâce à celle-ci, si un Pokémon l'attaque directement, il aura un tiers de chances de subir l'[[attraction]].
+
+===Étymologies===
+
+* Français : '''Ron'''d + '''doudou'''.
+* Anglais : Jiggle(secouer sa graisse) et puff(bouffée)
+* Japonais :Purin (プリン) qui signifie flan
+* Allemand : vient de pummelig et fluffig(comme une peluche)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Quand ses yeux s'illuminent, il chante une mystérieuse berceuse.
+;[[Pokémon Jaune]]
+: Son regard déstabilise ses adversaires. Il chante ensuite une berceuse qui les endort.
+;[[Pokémon Stadium]]
+: Il hypnotise de ses grands yeux ronds et entonne une relaxante mélodie, ce qui endort la majorité des Pokémon des environs.
+;[[Pokémon Or]]
+: En se gonflant il peut chanter une longue {{PCap|[[Berceuse]]}} qui endort inévitablement ses adversaires.
+;[[Pokémon Argent]]
+: Le regarder dans les yeux le pousse à chantonner une douce mélopée qui endort ses adversaires.
+;[[Pokémon Cristal]]
+: Il roule des yeux et chante une longue {{PCap|Berceuse}} qui peut endormir ses adversaires.
+;[[Pokémon Rubis]]
+: {{PCap|Rondoudou}} utilise ses cordes vocales pour ajuster librement la longueur d'onde de sa voix. Cela permet à ce {{PCap|Pok}}é{{PCap|mon}} de chanter en utilisant une longueur d'onde qui endort ses ennemis.
+;[[Pokémon Saphir]]
+: Lorsque ce {{PCap|Pok}}é{{PCap|mon}} chante, il ne s'arrête pas pour respirer. Quand il se bat contre un adversaire qu'il ne peut pas facilement endormir, {{PCap|Rondoudou}} reste donc sans respirer, mettant sa vie en danger.
+;[[Pokémon Émeraude]]
+: Ceux qui entendent sa chanson ne peuvent s'empêcher de dormir. Les ondes sonores de sa voix correspondent aux ondes cérébrales d'une personne endormie.
+;[[Pokémon Rouge Feu]]
+: Il hypnotise ses ennemis grâce à ses grands yeux avant de les plonger dans un profond sommeil en chantant une douce mélopée.
+;[[Pokémon Vert Feuille]]
+:Quand ses yeux s'illuminent, il chante une mystérieuse berceuse pour endormir ses ennemis.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Rondoudou}} bondit dans tous les sens comme s'il dansait. Il aime se promener en ville.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Lorsqu'il roule ses grands yeux ronds, il entonne une berceuse qui endort son auditoire.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il chante pour attaquer avec des notes de musique.
+;[[Pokémon Or HeartGold]]
+:En se gonflant, il peut chanter une longue {{PCap|[[Berceuse]]}} qui endort inévitablement ses adversaires.
+;[[Pokémon Argent SoulSilver]]
+:Le regarder dans les yeux le pousse à chantonner une douce mélopée qui endort ses adversaires.
+;[[Pokémon Noir et Blanc]]
+: Lorsqu'il roule ses grands yeux ronds, il entonne une berceuse qui endort son auditoire.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Rare || [[Route 3]]
+|-
+| [[Bleu]] || Rare || [[Route 3]]
+|-
+| [[Jaune]] || Commun || Routes [[Route 5|5]], [[Route 6|6]], [[Route 7|7]] et [[Route 8|8]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Peu || Routes [[Route 3|3]], [[Route 4|4]], et [[Route 46|46]]
+|-
+| [[Argent]] || Peu || Routes [[Route 3|3]], [[Route 4|4]], et [[Route 46|46]]
+|-
+| [[Cristal]] || Peu || Routes [[Route 5|5]], [[Route 6|6]], [[Route 7|7]], [[Route 8|8]], [[Route 34|34]] et  [[Route 35|35]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Commun || [[Route 115]], évolution ou échange 
+|-
+| [[Saphir]] || Commun || [[Route 115]], évolution ou échange 
+|-
+| [[Pokémon Émeraude|Émeraude]] || Commun || [[Route 115]], évolution ou échange 
+|-
+| [[Rouge Feu]] || Commun || [[Route 3]], évolution ou échange 
+|-
+| [[Vert Feuille]] || Commun || [[Route 3]], évolution ou échange 
+|-
+| [[Colosseum]] || Inexistant || Doit être échangé
+|-
+| [[XD]] || Inexistant || Doit être échangé 
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Rare || [[Manoir Pokémon]] Après avoir obtenu le [[Pokédex national]], en parlant au propriétaire du manoir qui dira si le Pokémon est présent aujourd'hui, évolution ou échange 
+|-
+| [[Perle]] || Rare || [[Manoir Pokémon]] Après avoir obtenu le [[Pokédex national]], en parlant au propriétaire du manoir qui dira si le Pokémon est présent aujourd'hui, évolution ou échange 
+|-
+| [[Or HeartGold]] || Rare || [[Route 3]] et [[Route 4]] .Aussi au [[Parc Safari]]
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Route 14 (Unys)|Route 14]]
+| style="vertical-align:middle;" | 48-58
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Berceuse|-|55|15}}
+{{Attaque|N.9|Écras'Face|40|100|35}}
+{{Attaque|N.14|Entrave|-|55|20}}
+{{Attaque|N.19|Boul'Armure|-|-|40}}
+{{Attaque|N.24|Torgnoles|15|85|10}}
+{{Attaque|N.29|Repos|-|-|10}}
+{{Attaque|N.34|Plaquage|85|100|15}}
+{{Attaque|N.39|Damoclès|100|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Berceuse|-|55|15}}
+{{Attaque|N.4|Boul'Armure|-|-|40}}
+{{Attaque|N.9|Écras'Face|40|100|35}}
+{{Attaque|N.14|Entrave|-|55|20}}
+{{Attaque|N.19|Roulade|30|90|20}}
+{{Attaque|N.24|Torgnoles|15|85|10}}
+{{Attaque|N.29|Repos|-|-|10}}
+{{Attaque|N.34|Plaquage|85|100|15}}
+{{Attaque|N.39|Damoclès|120|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Berceuse|-|55|15|grâce|2|0}}
+{{Attaque-III|N.4|Boul'Armure|-|-|40|grâce|2|0}}
+{{Attaque-III|N.9|Écras'Face|40|100|35|robustesse|4|0}}
+{{Attaque-III|N.14|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.19|Roulade|30|90|20|robustesse|3|0}}
+{{Attaque-III|N.24|Torgnoles|15|85|10|robustesse|2|1}}
+{{Attaque-III|N.29|Repos|-|-|10|grâce|2|0}}
+{{Attaque-III|N.34|Plaquage|85|100|15|robustesse|1|4}}
+{{Attaque-III|N.39|Copie|-|100|10|grâce|1|0}}
+{{Attaque-III|N.44|Mégaphone|90|100|10|sang-froid|1|3}}
+{{Attaque-III|N.49|Damoclès|120|100|15|robustesse|6|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Berceuse|-|55|15|grâce|2}}
+{{Attaque-IV|N.5|Boul'Armure|-|-|40|grâce|2}}
+{{Attaque-IV|N.9|Écras'Face|40|100|35|robustesse|3}}
+{{Attaque-IV|N.13|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.17|Roulade|30|90|20|robustesse|2}}
+{{Attaque-IV|N.21|Torgnoles|15|85|10|robustesse|2}}
+{{Attaque-IV|N.25|Repos|-|-|10|grâce|0}}
+{{Attaque-IV|N.29|Plaquage|85|100|15|robustesse|3}}
+{{Attaque-IV|N.33|Gyroballe|1|100|5|beauté|2}}
+{{Attaque-IV|N.37|Réveil Forcé|60|100|10|intelligence|0}}
+{{Attaque-IV|N.41|Copie|-|-|10|grâce|0}}
+{{Attaque-IV|N.45|Mégaphone|90|100|10|sang-froid|3}}
+{{Attaque-IV|N.49|Damoclès|120|100|15|robustesse|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Berceuse|-|55|15}}
+{{Attaque-V|N.5|Boul'Armure|-|-|40}}
+{{Attaque-V|N.9|Écras'Face|40|100|35}}
+{{Attaque-V|N.13|Entrave|-|100|20}}
+{{Attaque-V|N.17|Chant Canon|60|100|15}}
+{{Attaque-V|N.21|Roulade|30|90|20}}
+{{Attaque-V|N.25|Torgnoles|15|85|10}}
+{{Attaque-V|N.29|Repos|-|-|10}}
+{{Attaque-V|N.33|Plaquage|85|100|15}}
+{{Attaque-V|N.37|Gyroballe|1|100|5}}
+{{Attaque-V|N.41|Réveil Forcé|60|100|10}}
+{{Attaque-V|N.45|Copie|-|-|10}}
+{{Attaque-V|N.49|Mégaphone|90|100|10}}
+{{Attaque-V|N.53|Damoclès|120|100|15}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=normal
+|PV=115
+|attaque=45
+|defense=20
+|atq-spc=45
+|def-spc=25
+|vitesse=20
+|special=25
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Rondoudou
+| numero=039
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Rondoudou RB.png{{!}}x130px
+| forme=12
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+| almia=oui
+}}
+
+==Anecdotes==
+*[[wp:Chantal Goya|Chantal Goya]], une chanteuse pour enfant très connue de 1975 à 1985, a appelé son chien Rondoudou
+
+==Apparitions dans le [[dessin animé]]==
+
+*Dans les 6 premières saisons du [[dessin animé]], un [[Rondoudou (dessin animé)|Rondoudou]] [[Pokémon sauvage|sauvage]] suit à la trace [[Sacha]] et ses amis. Dès qu'il les rejoint, il interprète sa [[berceuse]]. A la fin de sa chanson, tous les spectateurs (Pokémon et humains) s'endorment, ce qui provoque la colère de Rondoudou qui se venge en couvrant les visages des spectateurs de dessins fait avec un gros feutre noir.
+
+*[[Ursula]] possède aussi un [[Rondoudou d'Ursula|Rondoudou]] qu'elle utilise en concours avec son [[Carmache d'Ursula|Carmache]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 45]]
+:{{PCap|Pok}}é{{PCap|mon}} Bouboule. Il a de grands yeux rieurs et chante quand on le lui demande une mélodie très agréable.
+;[[Épisode 627]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Bouboule. Lorsque [[Rondoudou]] commence à cligner des yeux et à chanter une [[Berceuse]], tout le monde se met à somnoler.
+
+{{Ruban Pokémon
+| nomPrécédent=Feunard
+| numéro=039
+| nom=Rondoudou
+| nomSuivant=Grodoudou
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Lune]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/39| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Jigglypuff| ]]
+
+[[de:Pummeluff]]
+[[en:Jigglypuff (Pokémon)]]
+[[es:Jigglypuff]]
+[[it:Jigglypuff]]
+[[ja:プリン]]
+[[pl:Jigglypuff]]
+[[pt:Jigglypuff (pokémon)]]

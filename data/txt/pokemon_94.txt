@@ -1,0 +1,455 @@
+{{Ruban Pokémon
+| nomPrécédent=Spectrum
+| numéro=094
+| nom=Ectoplasma
+| nomSuivant=Onix
+}}
+{{Infobox Pokémon
+| nom=Ectoplasma
+| nomen=Gengar
+| nomja=ゲンガー
+| nomromaji=Gengā
+| nomtm=Gengar
+| nomde=Gengar
+| légende=Artwork d'Ectoplasma pour {{RFVF}}
+| ndex=094
+| jdex=060
+| hdex=264
+| sdex=071
+| fdex=096
+| adex=019
+| odex=R-166
+| opdex=N-185
+| espece=Ombre
+| taille=1.5
+| poids=40.5
+| fmratio=.5
+| oeufpas=5120
+| effortval=+3 Att. Spé
+| type1=Spectre
+| type2=Poison
+| expval=190
+| expmax=1059860
+| captureval=45
+| groupoeuf1=Indéterminé
+| capspe1=Lévitation
+| capspe1-desc=Immunise contre toutes les capacités de type Sol.
+| couleur=Violet
+| forme=6}}
+'''Ectoplasma''' (anglais : '''Gengar''' ; japonais : '''ゲンガー''' ''Gengar'') est un [[Pokémon]] de [[type]] {{type|spectre}} et {{type|poison}}. Il est la forme évoluée finale de la seule famille de Pokémon [[Spectre]] de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Chromatique====
+
+Les Ectoplasma chromatiques ont le corps légèrement plus clair que la normale.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Ectoplasma est l'évolution de [[Spectrum]] lorsque celui-ci est échangé entre dresseurs. [[Spectrum]] est lui-même l'évolution à partir du [[niveau]] 25 de [[Fantominus]].
+{{TableauEvolutionHaut|Spectre|Fantominus}}
+{{TableauEvolutionSimple|[[Niveau]] 25|Spectrum}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]]|Ectoplasma}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+[[Lévitation]] immunise (sauf utilisation de [[Gravité]]) Ectoplasma contre les attaques de type [[Sol]], qui constituaient curieusement l'une de ses faiblesses majeures dans les générations précédant l'apparition des capacités spéciales à cause de sa faible défense et de son type poison désavantageux (ce qui pouvait paraître étonnant pour un fantôme, qui est supposé planer au-dessus du sol).
+
+===Étymologies===
+
+* Français : vient de ''ectoplasme'' et ''plasma''
+* Japonais, Anglais, Allemand : de ''Gen'', illusoire/fantômatique
+A noter que le nom Gengar s'approche de (Doppel)Gänger, le double maléfique.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Les nuits de pleine lune, il imite l'ombre des passants et se moque de leur effroi.
+;[[Pokémon Jaune]]
+:Quand il lance une malédiction, il émet une aura malveillante qui provoque des frissons.
+;[[Pokémon Stadium]]
+:Il est connu pour attaquer les voyageurs perdus en montagne. On le décrit souvent comme le sourire d'un croissant de lune.
+;[[Pokémon Or]]
+:Il capture la chaleur de son entourage. Quand l'air se rafraîchit, c'est que {{PCap|Ectoplasma}} est là.
+;[[Pokémon Argent]]
+:Il se cache dans l'ombre de sa victime pour, le moment venu, lui voler son énergie vitale.
+;[[Pokémon Cristal]]
+:Il se cache dans l'ombre des passants et vole leur chaleur. Ses victimes ressentent alors un frisson.
+;[[Pokémon Rubis et Saphir]]
+:Parfois, pendant les nuits noires, une ombre projetée par un réverbère peut tout à coup vous dépasser. Il s'agit d'un {{PCap|Ectoplasma}} qui court, en se faisant pour l'ombre de quelqu'un d'autre.
+;[[Pokémon Émeraude]]
+:Parfois, pendant les nuits noires, une ombre projetée par un réverbère peut vous dépasser. C'est un {{PCap|Ectoplasma}} qui court en se faisant passer pour votre ombre.
+;[[Pokémon Rouge Feu]]
+:On dit que les {{PCap|Ectoplasma}} surgissent des ténèbres pour prendre la vie des personnes égarées en montagne.
+;[[Pokémon Vert Feuille]]
+:Les nuits de pleine lune, il imite l'ombre des passants et se moque de leur effroi.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Ectoplasma}} enlève les {{PCap|Pok}}é{{PCap|mon}}. Il fait des doubles de lui-même pour attaquer.
+;[[Pokémon Diamant]]
+: On dit que lorsqu'{{PCap|Ectoplasma}} se cache dans l'ombre, la température alentour chute de 5°C.
+;[[Pokémon Perle]]
+: Il guette l'occasion de voler l'énergie vitale de sa proie, caché dans un coin sombre de la pièce.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il crache des orbes effrayants et des orbes maudits.
+;[[Pokémon Platine]]
+:Si vous croisez un regard inquiétant qui perce la nuit, c'est sûrement un {{PCap|Ectoplasma}}.
+;[[Pokémon Or HeartGold]]
+:Il capture la chaleur de son entourage. Quand l'air se rafraîchit, c'est qu'{{PCap|Ectoplasma}} est là.
+;[[Pokémon Argent SoulSilver]]
+:Il se cache dans l'ombre de sa victime et, le moment venu, lui vole son énergie vitale.
+;[[Pokémon Noir et Blanc]]
+:Si vous croisez un regard inquiétant qui perce la nuit, c'est sûrement un Ectoplasma.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! style="background-color:{{Couleur|Spectre}}" | Version 
+! style="background-color:{{Couleur|Spectre}}" | Rareté
+! style="background-color:{{Couleur|Spectre}}" | Lieu
+|-
+| {{RBJ}} || Inexistant || Faire évoluer [[Spectrum]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! style="background-color:{{Couleur|Spectre}}" | Version 
+! style="background-color:{{Couleur|Spectre}}" | Rareté
+! style="background-color:{{Couleur|Spectre}}" | Lieu
+|-
+| {{OAC}} || Inexistant || Faire évoluer [[Spectrum]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! style="background-color:{{Couleur|Spectre}}" | Version 
+! style="background-color:{{Couleur|Spectre}}" | Rareté
+! style="background-color:{{Couleur|Spectre}}" | Lieu
+|-
+| {{RSE}} || Inexistant || À échanger depuis {{RFVF}}.
+|-
+| {{RFVF}} || Inexistant || Faire évoluer [[Spectrum]].
+|-
+| ''[[Pokémon Colosseum]]'' || Inexistant || À échanger depuis {{RFVF}}.
+|-
+| {{XD}} || Inexistant || À échanger depuis {{RFVF}}.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Spectre}}; width:200x" | Version 
+! style="background-color:{{Couleur|Spectre}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Spectre}}; width:250px" | Lieu
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Niveau 
+! style="background-color:{{Couleur|Spectre}}; width:200px" | Pourcentage de rencontre
+|-
+| {{DPP}} || Rare || [[Vieux Château]], pièce avec peintures{{Infobulle|*|Uniquement si un jeu de troisième génération est introduit dans le port GBA de la Nintendo DS}} || N. 16 || 4%
+|-
+| {{HGSS}} || Inexistant || Faire évoluer [[Spectrum]]. || - || - 
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Version
+! style="background-color:{{Couleur|Spectre}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Spectre}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Spectre}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Échanger  [[Spectrum]]
+| style="vertical-align:middle;" | -
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Léchouille|20|100|30}}
+{{Attaque|Départ|Ténèbres|-|100|15}}
+{{Attaque|Départ|Onde Folie|-|100|10}}
+{{Attaque|N.29|Hypnose|-|60|20}}
+{{Attaque|N.38|Dévorêve|100|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Léchouille|20|100|30}}
+{{Attaque|Départ|Dépit|-|100|10}}
+{{Attaque|Départ|Regard Noir|-|-|5}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|Départ|Malédiction|-|-|10}}
+{{Attaque|Départ|Ténèbres|-|100|15}}
+{{Attaque|N.31|Onde Folie|-|100|10}}
+{{Attaque|N.39|Dévorêve|100|100|15}}
+{{Attaque|N.48|PRLVT Destin|-|-|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Hypnose|-|60|20|intelligence|1|3}}
+{{Attaque-III|Départ|Léchouille|20|100|30|robustesse|1|4}}
+{{Attaque-III|Départ<br>N.8|Dépit|-|100|10|robustesse|1|0}}
+{{Attaque-III|N.13{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.64{{Sup|RF}}{{Sup|VF}}|Regard Noir|-|100|5|beauté|2|0}}
+{{Attaque-III|N.16{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.13{{Sup|RF}}{{Sup|VF}}|Malédiction|-|-|10|robustesse|3|0}}
+{{Attaque-III|N.21{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.16{{Sup|RF}}{{Sup|VF}}|Ténèbres|-|100|15|intelligence|2|1}}
+{{Attaque-III|N.25|Poing Ombre|60|-|20|intelligence|2|0}}
+{{Attaque-III|N.31{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.21{{Sup|RF}}{{Sup|VF}}|Onde Folie|-|100|10|intelligence|3|0}}
+{{Attaque-III|N.39{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.31{{Sup|RF}}{{Sup|VF}}|Dévorêve|100|100|15|intelligence|2|2}}
+{{Attaque-III|N.48{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.39{{Sup|RF}}{{Sup|VF}}|PRLVT Destin|-|-|5|intelligence|8|0}}
+{{Attaque-III|N.45{{Sup|RF}}{{Sup|VF}}|Ball'Ombre|80|100|15|intelligence|3|0}}
+{{Attaque-III|N.53{{Sup|RF}}{{Sup|VF}}|Cauchemar|-|100|15|intelligence|1|3}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Hypnose|-|70{{Sup|D}}{{Sup|P}}<br>60{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|20|intelligence|2}}
+{{Attaque-IV|Départ|Léchouille|20|100|30|robustesse|2}}
+{{Attaque-IV|Départ<br>N.5|Dépit|-|100|10|robustesse|2}}
+{{Attaque-IV|N.8|Regard Noir|-|-|5|beauté|2}}
+{{Attaque-IV|N.12|Malédiction|-|-|10|robustesse|0}}
+{{Attaque-IV|N.15|Ténèbres|-|100|15|intelligence|2}}
+{{Attaque-IV|N.19|Onde Folie|-|100|10|intelligence|2}}
+{{Attaque-IV|N.22|Coup Bas|80|100|5|intelligence|2}}
+{{Attaque-IV|N.25|Poing Ombre|60|-|20|intelligence|2}}
+{{Attaque-IV|N.28|Représailles|50|100|10|sang-froid|1}}
+{{Attaque-IV|N.33|Ball'Ombre|80|100|15|intelligence|2}}
+{{Attaque-IV|N.39|Dévorêve|100|100|15|intelligence|1}}
+{{Attaque-IV|N.44|Vibrobscur|80|100|15|sang-froid|2}}
+{{Attaque-IV|N.50|PRLVT Destin|-|-|5|intelligence|0}}
+{{Attaque-IV|N.55|Cauchemar|-|100|15|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Hypnose|-|60|20}}
+{{Attaque-V|Départ|Léchouille|20|100|30}}
+{{Attaque-V|Départ<br>N.5|Dépit|-|100|10}}
+{{Attaque-V|N.8|Regard Noir|-|-|5}}
+{{Attaque-V|N.12|Malédiction|-|-|10}}
+{{Attaque-V|N.15|Ténèbres|-|100|15}}
+{{Attaque-V|N.19|Onde Folie|-|100|10}}
+{{Attaque-V|N.22|Coup Bas|80|100|5}}
+{{Attaque-V|N.25|Poing Ombre|60|-|20}}
+{{Attaque-V|N.28|Représailles|50|100|10}}
+{{Attaque-V|N.33|Ball'Ombre|80|100|15}}
+{{Attaque-V|N.39|Dévorêve|100|100|15}}
+{{Attaque-V|N.44|Vibrobscur|80|100|15}}
+{{Attaque-V|N.50|PRLVT Destin|-|-|5}}
+{{Attaque-V|N.55|Châtiment|50|100|10}}
+{{Attaque-V|N.61|Cauchemar|-|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Ultimapoing]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 05 || [[Ultimawashi]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 18 || [[Riposte]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Méga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 29 || [[Psyko]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Métronome (attaque)|Métronome]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 36 || [[Destruction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 42 || [[Dévorêve]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 46 || [[Vague Psy]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 47 || [[Explosion]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+À venir
+
+===Par [[donneur de capacités]]===
+
+À venir
+
+==Sensibilités==
+{{Sensibilités
+|type=spectre
+|sensib-combat=0
+|sensib-insecte=0.25
+|sensib-normal=0
+|sensib-plante=0.5
+|sensib-poison=0.25
+|sensib-psy=2
+|sensib-sol=0
+|sensib-spectre=2
+|sensib-ténèbres=2
+|rmq-combat=Si l'attaque [[Clairvoyance]] ou [[Flair]] est utilisée ou si l'adversaire dispose de la [[capacité spéciale]] [[Querelleur]], l'efficacité des attaques de type {{tp|Combat}} sur '''{{PAGENAME}}''' est de 1/2 et celle des attaques de type {{tp|Normal}} est normale.
+|rmq-combat-num=1
+|rmq-sol=L'efficacité des attaques de type {{tp|Sol}} est nulle du fait de sa capacité spéciale [[Lévitation]]. De ce fait, si [[Anti-Air]], [[Gravité]], [[Échange (attaque)|Échange]] ou [[Suc Digestif]] est utilisé, si l'adversaire dispose de [[Brise Moule]] ou si '''{{PAGENAME}}''' se voit doté d'une [[Balle Fer]], l'effet de [[Lévitation]] est annulé et l'efficacité des attaques {{tp|Sol}} à son encontre est double.
+|rmq-sol-num=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=spectre
+|PV=60
+|attaque=65
+|defense=60
+|atq-spc=130
+|def-spc=75
+|vitesse=110
+|special=130
+}}
+
+==Imagerie==
+{{Imagerie Pokémon
+| pokemon=Ectoplasma
+| numero=094
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Ectoplasma RB.png
+| forme=6
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Ectoplasma n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en une seule occasion :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Ectoplasma|Ectoplasma JEREMY]] (États-Unis) - Ce Pokémon fut distribué en tant que [[Spectrum|HAUNTER]] (Spectrum), puis évolua après réception.
+
+==Apparitions dans le [[dessin animé]]==
+
+*Ectoplasma fait sa première apparition dans l'[[Épisode 1]], lorsque [[Sacha]] regarde un match Pokémon à la télévision.
+
+*On voit aussi un Ectoplasma lorsque Sacha se rend a la tour de la terreur de [[Lavanville]] dans l'[[Épisode 23]].
+
+*Quatre champions ont un Ectoplasma dans leur équipe: [[Didier (Archipel Orange)|Didier]], [[Mortimer]], [[Agatha (Conseil 4)|Agatha]] et [[Kiméra]].
+
+*Dans l'[[Épisode 72]], un Ectoplasma géant affronte un [[Alakazam]] géant.
+
+*Dans l'[[Épisode 182]], Sacha affronte celui de [[Mortimer]] pour gagner le badge de l'arène de [[Rosalia]]
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 23]]
+:Aucune information.
+;[[Épisode 72]]
+:{{PCap|Pok}}é{{PCap|mon}} Ombre. Forme évoluée de {{PCap|[[Spectrum]]}}. Aucune autre information à son sujet.
+;[[Épisode 182]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Spectre. [[évolution|Forme évoluée]] de {{PCap|Spectrum}}. Ses caractéristiques restent un mystère.
+;[[Épisode 406]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Ombre. {{PCap|Ectoplasma}} est la forme la plus évoluée de {{PCap|[[Fantominus]]}}. {{PCap|Ectoplasma}} absorbe la chaleur environnante pour glacer l'atmosphère.
+;[[Épisode 568]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Ombre. {{PCap|Ectoplasma}} se dissimule dans les ombres. On dit que lorsqu'un {{PCap|Ectoplasma}} s'approche de vous, la température ambiante descend de dix degrés.
+
+{{Ruban Pokémon
+| nomPrécédent=Spectrum
+| numéro=094
+| nom=Ectoplasma
+| nomSuivant=Onix
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/94| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Gengar| ]]
+
+[[de:Gengar]]
+[[en:Gengar (Pokémon)]]
+[[es:Gengar]]
+[[it:Gengar]]
+[[ja:ゲンガー]]
+[[pl:Gengar]]
+[[pt:Gengar (pokémon)]]

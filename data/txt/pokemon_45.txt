@@ -1,0 +1,365 @@
+{{Ruban Pokémon
+| nomPrécédent=Ortide
+| numéro=045
+| nom=Rafflesia
+| nomSuivant=Paras
+}}
+{{Infobox Pokémon 
+| nom=Rafflesia
+| nomen=Vileplume
+| nomja=ラフレシア
+| nomtm=Ruffresia
+| nomromaji=Rufureshia
+| nomde=Giflor
+| légende=Artwork de Rafflesia pour {{RFVF}}
+| ndex=045
+| jdex=085
+| hdex=090
+| fdex=128
+| adex=116
+| odex=R-129
+| opdex=N-014
+| type1=Plante
+| type2=Poison
+| espece=Fleur
+| taille=1.2
+| poids=18.6
+| capspe1=Chlorophyle
+| capspe1-desc=Augmente la vitesse du Pokémon s'il y a du soleil.
+| groupoeuf1=Plante
+| oeufpas=5120 
+| effortval=+3 Att. Spé 
+| expval=184
+| expmax=1059860
+| fmratio=.5 
+| captureval=45
+| couleur=Rouge
+| forme=12}}
+'''Rafflesia''' (anglais : '''Vileplume''' ; japonais : '''ラフレシア''' ''Ruffresia''), l'une des [[évolution]]s possibles d'[[Ortide]], par le biais de la [[Pierre Plante]], est un [[Pokémon]] de [[type]] {{type|plante}} et {{type|poison}}.
+
+==À propos du Pokémon==
+
+===Physionomie===
+Rafflesia ressemble à la plus grande fleur du monde, la [[:wp:Rafflesia|Rafflesie]]. Elle dégage d'ailleurs une horrible odeur de viande périmée.
+
+====Différences mâle/femelle====
+
+Les Rafflesia femelles ont un motif différent de taches sur les pétales.
+
+===[[Évolution]]===
+Rafflesia est l'évolution d'[[Ortide]] au contact d'une [[Pierre Plante]]. Ortide est lui-même l'évolution de [[Mystherbe]] à partir du [[niveau]] 21, et peut également évoluer en [[Joliflor]] s'il est mis au contact d'une [[Pierresoleil]].
+{{TableauEvolutionHaut|Plante|Mystherbe|2}}
+{{TableauEvolutionSimple|Niveau 21|Ortide|2}}
+{{TableauEvolutionConditionBranche/1|Avec une [[Pierre Plante]]|imageObjet=Miniat pierre plante dp.png}}
+{{TableauEvolutionConditionBranche|Avec une [[Pierresoleil]]|imageObjet=Miniat Pierresoleil dp.png}}
+{{TableauEvolutionBranche/1|Rafflesia}}
+{{TableauEvolutionBranche|Joliflor}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+La capacité spéciale [[Chlorophyle]] permet à Rafflesia de voir sa vitesse augmenter si le soleil brille (suite à une utilisation de [[Zénith]], ou à l'apparition de [[Groudon]] et de sa capacité spéciale [[Sécheresse]] plus tôt dans le match).
+
+===Étymologies===
+* Français, japonais : de '''[[wp:Rafflesia|Rafflesia]]''', une fleur parasite, plus grande du monde.
+* Anglais : Vile (mauvais, faute, sale) et Plume (panache)
+* Allemand : Gift (poison) et flora (la flore)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Plus ses pétales son grands, plus ils contiennent de pollen toxique.
+;[[Pokémon Jaune]]
+:Il fait un bruit sourd quand il secoue ses pétales pour disperser son pollen empoisonné.
+;[[Pokémon Stadium]]
+: Il vaporise une poudre allergisante depuis ses larges pétales. Plus les pétales sont grands, plus la poudre est abondante.
+;[[Pokémon Or]]
+:Il possède des pétales énormes. A chaque pas ils sèment des épais nuages de pollen toxique.
+;[[Pokémon Argent|Pokémon Argent]]
+:Le bourgeon éclot en détonant. Il commence alors a disperser son pollen empoisonné, irritant la peau.
+;[[Pokémon Cristal]]
+:En gigotant ses pétales, il émet du pollen toxique et s'entoure ainsi d'un nuage jaune.
+;[[Pokémon Rubis]]
+: Le pollen toxique de {{PCap|Rafflesia}} déclenche d'affreuses réactions allergiques. C'est pourquoi il est conseillé de ne jamais s'approcher des jolies fleurs trouvées dans la jungle, même lorsqu'elles sont magnifiques.
+;[[Pokémon Saphir]]
+:{{PCap|Rafflesia}} dispose des plus grands pétales du monde. Il s'en sert pour attirer ses proies avant de les endormir avec ses spores toxiques. Ce {{PCap|Pok}}é{{PCap|mon}} n'a plus alors qu'à attraper sa proie et à la manger.
+;[[Pokémon Émeraude]]
+:Les saisons où il produit le plus de pollen, un nuage jaune se forme autour de lui lorsqu'il marche. Ce pollen est hautement toxique et cause la paralysie.
+;[[Pokémon Rouge Feu]]
+:Ses pétales sont les plus grands au monde. À cause du pollen qu'ils libèrent, ce {{PCap|Pok}}é{{PCap|mon}} peut causer de terribles allergies.
+;[[Pokémon Vert Feuille]]
+:Plus ses pétales sont grands, plus ils contiennent du pollen toxique.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: La fleur que {{PCap|Rafflesia}} a sur la tête expulse des nuages de spores.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Ses pétales sont les plus grands du monde. Il marche en répandant un pollen extrêmement allergène.
+;[[Pokémon Ranger 2]]
+:Il attaque en expulsant différents types de spores.
+;[[Pokémon Or HeartGold]]
+:Il possède des pétales énormes. A chaque pas ils sèment d'épais nuages de pollen toxique.
+;[[Pokémon Argent SoulSilver]]
+:Le bourgeon éclot en détonant. Il commence alors à disperser son pollen empoisonné irritant la peau.
+;[[Pokémon Noir et Blanc]]
+:Ses pétales sont les plus grands du monde. Il marche en répandant un pollen extrêmement allergène.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Cristal]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Saphir]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[Or HeartGold]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|-
+| [[ Argent SoulSilver]] || Inexistant || Faire évoluer [[Ortide]] à l'aide d'une [[Pierre Plante]].
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Ortide]] ([[Pierre Plante]])
+| style="vertical-align:middle;" | N/A
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ<br>N.15|Poudre Toxik|-|75|35}}
+{{Attaque|Départ<br>N.17|Para-Spore|-|75|30}}
+{{Attaque|Départ<br>N.19|Poudre Dodo|-|75|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Vol-Vie|20|100|20}}
+{{Attaque|Départ|Doux Parfum|-|100|20}}
+{{Attaque|Départ|Para-Spore|-|75|30}}
+{{Attaque|Départ|Danse-Fleur|70|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Vol-Vie|20|100|20|intelligence|2|3}}
+{{Attaque-III|Départ|Aromathérapi|-|-|5|intelligence|2|0}}
+{{Attaque-III|Départ|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|Départ|Méga-Sangsue|40|100|10|intelligence|1|4}}
+{{Attaque-III|N.44|Danse-Fleur|70|100|20|beauté|4|4}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Méga-Sangsue|40|100|15|intelligence|1}}
+{{Attaque-IV|Départ|Aromathérapi|-|-|5|intelligence|0}}
+{{Attaque-IV|Départ|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|Départ|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.53|Danse-Fleur|90|100|20|beauté|0}}
+{{Attaque-IV|N.65|Lance-Soleil|120|100|10|sang-froid|1}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Méga-Sangsue|40|100|15}}
+{{Attaque-V|Départ|Aromathérapi|-|-|5}}
+{{Attaque-V|Départ|Para-Spore|-|75|30}}
+{{Attaque-V|Départ|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.53|Danse-Fleur|120|100|10}}
+{{Attaque-V|N.65|Lance-Soleil|120|100|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=plante
+|sensib-combat=0.5
+|sensib-eau=0.5
+|sensib-électrique=0.5
+|sensib-feu=2
+|sensib-glace=2
+|sensib-plante=0.25
+|sensib-insecte=1
+|sensib-psy=2
+|sensib-vol=2
+|rmq-insecte=Dans la [[génération I]], les attaques de type [[Insecte]] étaient très efficaces contre les Pokémon de type [[Poison]] -alors qu'elles sont peu efficaces depuis-, ce qui donnait pour '''Rafflesia''' une quadruple sensibilité (du fait de la sensibilité de son type [[Plante]] par ailleurs)
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=plante
+|PV=75
+|attaque=80
+|defense=85
+|atq-spc=100
+|def-spc=90
+|vitesse=50
+|special=100
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Rafflesia
+| numero=045
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Rafflesia RB.png
+| forme=12
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 48]]
+:La Fleur {{PCap|Pok}}é{{PCap|mon}}. Elle possède les pétales les plus longs du monde végétal et répand un nuage de pollen qui peut causer des réactions allergiques.
+
+On voit aussi un Rafflesia dans l'un des épisodes de la saison 9, ''Qui vole un œuf'', l'[[AG150]] et dans l'épisode suivant.
+
+==Anecdote==
+L'écriture exacte du nom de ce Pokémon varie suivant les médias. La série [[Pokémon Donjon Mystère]] lui a apporté un accent qui n'a pas été repris par la série principale de jeux.
+
+
+
+{{Ruban Pokémon
+| nomPrécédent=Ortide
+| numéro=045
+| nom=Rafflesia
+| nomSuivant=Paras
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/45| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Vileplume| ]]
+
+[[de:Giflor]]
+[[en:Vileplume (Pokémon)]]
+[[es:Vileplume]]
+[[it:Vileplume]]
+[[ja:ラフレシア]]
+[[pl:Vileplume]]
+[[pt:Vileplume (pokémon)]]

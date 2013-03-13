@@ -1,0 +1,453 @@
+{{Ruban Pokémon
+| nomPrécédent=Poissirène
+| numéro=119
+| nom=Poissoroy
+| nomSuivant=Stari
+}}
+{{Infobox Pokémon
+| nom=Poissoroy
+| nomen=Seaking
+| nomja=アズマオウ
+| nomtm=Azumao
+| nomromaji=Azumaō
+| nomde=Golking
+| légende=Artwork de Poissoroy pour {{RFVF}}
+| ndex=119
+| jdex=079
+| hdex=051
+| sdex=079
+| fdex=111
+| espece=Poisson
+| taille=1.3
+| poids=39.0
+| fmratio=.5 
+| oeufpas=5120
+| effortval=+2 Att.
+| type1=Eau
+| expval=170
+| expmax=1000000
+| captureval=60
+| groupoeuf1=Eau 2
+| capspe1=Glissade
+| capspe1-desc=Augmente la Vitesse du Pokémon s'il pleut.
+| capspe2=Ignifu-Voile
+| capspe2-desc=Protège le Pokémon des brûlures.
+| capspe3=Paratonnerre
+| capspe3-desc=Attire la foudre.
+| couleur=Rouge
+| forme=3}}
+'''Poissoroy''' (anglais : '''Seaking''' ; japonais : '''アズマオウ''' ''Azumao'') est un [[Pokémon]] de [[type]] {{type|eau}} de la [[première génération]]. Il est l'[[évolution]] de [[Poissirène]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Les Poissoroy femelles ont une corne plus petite que les mâles.
+
+===[[Évolution]]===
+Poissoroy est l'évolution de [[Poissirène]] à partir du [[niveau]] 33.
+{{TableauEvolutionHaut|Eau|Poissirène}}
+{{TableauEvolutionSimple|Niveau 33|Poissoroy}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Poissoroy peut posséder l'une des deux capacités spéciales suivantes : [[Glissade]], qui double sa vitesse s'il pleut, ou [[Ignifu-Voile]], qui protège des brûlures, il peut également apprendre [[Paratonnerre]] via le Dream World.
+
+===Étymologies===
+* Français : Poisson et roi
+* Anglais : ''Seaking'' vient de ''sea'', mer, et ''king'', roi.
+* Allemand : ''Golking'' vient de ''Goldfisch''(poisson rouge) et de ''King''(roi en anglais)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Pendant la saison des amours on peut le voir nager près des rivières ou des lacs.
+;[[Pokémon Jaune]]
+:Le mâle utilise la corne placée sur son front pour creuser un nid dans la rivière.
+;[[Pokémon Stadium]]
+:A l'automne, ils voyagent vers la source des fleuves pour se reproduire. Le reste de l'année, ils vivent dans leur propre nid.
+;[[Pokémon Or]]
+:Pendant la saison des pontes, {{PCap|Poissoroy}} explore les environs, colorant les rivières en rouge.
+;[[Pokémon Argent]]
+:Il fait des trous dans les rochers des berges pour y faire son joli petit nid.
+;[[Pokémon Cristal]]
+:À l'automne, le mâle fait sa ronde autour du nid pour protéger les petits.
+;[[Pokémon Rubis et Saphir]]
+: En automne, on peut voir les {{PCap|Poissoroy}} mâles effectuer des danses nuptiales dans les rivières pour plaire aux femelles. C'est pendant cette saison que le corps de ce {{PCap|Pok}}é{{PCap|mon}} prend ses plus belles couleurs. La garde de ces [[œuf]]s dure un peu plus d'un mois.
+;[[Pokémon Émeraude]]
+:Il fait des trous dans les rochers dans le lit de la rivière pour mettre ses [[œuf]]s à l'abri des prédateurs et du courant.
+;[[Pokémon Rouge Feu]]
+:La corne sur sa tête est plus dure que le foret d'une perceuse. Avec cette corne, il fait des trous dans les rochers pour y faire son nid.
+;[[Pokémon Vert Feuille]]
+:Pendant la saison des amours, on peut le voir nager dans les rivières et les lacs.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Votre seule chance de capturer {{PCap|Poissoroy}} est quand il sort de l'eau.
+;[[Pokémon Diamant]]
+: Il niche dans des rochers du ruisseau qu'il évide avec sa corne. Il donnerait sa vie pour ses [[œuf]]s.
+;[[Pokémon Perle]]
+:Il utilise sa corne torsadée pour protéger les siens. Il vit dans les rochers creux des ruisseaux.
+;[[Pokémon Platine]]
+:En automne, à la saison des amours, il fait des réserves de graisse et arbore des couleurs chatoyantes.
+;[[Pokémon Or HeartGold]]
+:Pendant la saison du frai, les {{PCap|Poissoroy}} se regroupent en bancs, colorant les rivières en rouge.
+;[[Pokémon Argent SoulSilver]]
+:Il fait des trous dans les rochers des berges pour y faire son joli petit nid.
+;[[Pokémon Noir et Blanc]]
+:En automne, à la saison des amours, il fait des réserves de graisse et arbore des couleurs chatoyantes.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RBJ}}
+| Rare || [[Route 23]], [[Parmanie]], [[Grotte Inconnue]]
+|-
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| [[Or]] || Commun || mont argent, surf|-
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || À venir.
+|-
+| [[Cristal]] || Commun || À venir.
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}}
+| Commun || [[Parc Safari]].
+|-
+| [[Rouge Feu]] || Commun || [[Parc Safari]], [[Parmanie]], [[Île 3]].
+|-
+| [[Vert Feuille]] || Commun || [[Parc Safari]], [[Parmanie]], [[Île 3]].
+|-
+| [[Colosseum]] || Inexistant || À échanger.
+|-
+| [[XD]] || Inexistant || À échanger.
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{DP}}
+| Peu commun || Pêcher avec la [[Méga Canne]] dans certaines zones.
+|-
+|}
+
+=== [[Cinquième génération]] ===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}} 
+| rowspan="2" style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Pêche]] à la [[Route 3 (Unys)|Route 3]], [[Route 11 (Unys)|11]], [[Route 14 (Unys)|14]],[[Autel Abondance]], [[Ogoesse]] ([[tourbillons]])
+| style="vertical-align:middle;" | 45-70
+|-
+| style="vertical-align:middle;" | [[Dream World]] : La [[Mer Étincelante]]
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Ultrason|-|55|20}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|N.30|Furie|15|85|20}}
+{{Attaque|N.39|Cascade|80|100|15}}
+{{Attaque|N.48|Empal'Korne|-|-|5}}
+{{Attaque|N.54|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Ultrason|-|55|20}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|Départ|Fléau|-|100|15}}
+{{Attaque|Départ|Furie|15|85|20}}
+{{Attaque|N.41|Cascade|80|100|15}}
+{{Attaque|N.49|Empal'Korne|-|-|5}}
+{{Attaque|N.61|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Picpic|35|100|35|sang-froid|4|0}}
+{{Attaque-III|Départ|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ|Tourniquet|-|100|15|grâce|4|0}}
+{{Attaque-III|Départ<br>N.10|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.15|Koud'Korne|65|100|25|sang-froid|4|0}}
+{{Attaque-III|N.24|Fléau|-|100|15|grâce|1|0}}
+{{Attaque-III|N.29|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.41|Cascade|80|100|15|robustesse|2|0}}
+{{Attaque-III|N.49|Empal'Korne|-|-|5|sang-froid|2|1}}
+{{Attaque-III|N.61|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.69{{Sup|RF}}{{Sup|VF}}|Mégacorne|120|85|10|sang-froid|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Direct Toxik|80|100|20|intelligence|2}}
+{{Attaque-IV|Départ|Picpic|35|100|35|sang-froid|3}}
+{{Attaque-IV|Départ|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|Départ|Tourniquet|-|-|15|grâce|2}}
+{{Attaque-IV|Départ<br>N.7|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|N.11|Koud'Korne|65|100|25|sang-froid|3}}
+{{Attaque-IV|N.17|Vibraqua|60|100|20|beauté|2}}
+{{Attaque-IV|N.21|Fléau|-|100|15|grâce|2}}
+{{Attaque-IV|N.27|Anneau Hydro|-|-|20|beauté|2}}
+{{Attaque-IV|N.31|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.40|Cascade|80|100|15|robustesse|3}}
+{{Attaque-IV|N.47|Empal'Korne|-|-|5|sang-froid|0}}
+{{Attaque-IV|N.56|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.63|Mégacorne|120|85|10|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Direct Toxik|80|100|20}}
+{{Attaque-V|Départ|Picpic|35|100|35}}
+{{Attaque-V|Départ|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ|Tourniquet|-|-|15}}
+{{Attaque-V|Départ<br>N.7|Ultrason|-|55|20}}
+{{Attaque-V|N.11|Koud'Korne|65|100|25}}
+{{Attaque-V|N.17|Vibraqua|60|100|20}}
+{{Attaque-V|N.21|Fléau|-|100|15}}
+{{Attaque-V|N.27|Anneau Hydro|-|-|20}}
+{{Attaque-V|N.31|Furie|15|85|20}}
+{{Attaque-V|N.40|Cascade|80|100|15}}
+{{Attaque-V|N.47|Empal'Korne|-|-|5}}
+{{Attaque-V|N.56|Hâte|-|-|30}}
+{{Attaque-V|N.63|Détrempage|-|100|20}}
+{{Attaque-V|N.72|Mégacorne|120|85|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Empal'Korne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! colspan="3" | à venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | à venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+| nom=Poissoroy
+| type=Eau
+| sensib-acier=0.5
+| sensib-eau=0.5
+| sensib-feu=0.5
+| sensib-glace=0.5
+| sensib-électrique=2
+| sensib-plante=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=80
+|attaque=92
+|defense=65
+|atq-spc=65
+|def-spc=80
+|vitesse=68
+|special=80
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Poissoroy
+| numero=119
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Poissoroy RB.png
+| forme=3
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+*Poissoroy sera notamment la vedette de l'[[épisode 168]], dans la région de [[Johto]], où se déroule un concours de capture de Poissoroy, qui sera remporté par {{da|Ondine}}.
+
+*[[Juan]], le champion d'[[Atalanopolis]], possède un [[Poissoroy]] que [[Sacha]] affronte pendant leur match d'arène.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 384]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Poisson. {{PCap|[[Poissoroy]]}} est la [[évolution|forme évoluée]] de {{PCap|Poissirène}}. Sa corne en forme de pique est capable de transpercer même de la pierre.
+
+{{Ruban Pokémon
+| nomPrécédent=Poissirène
+| numéro=119
+| nom=Poissoroy
+| nomSuivant=Stari
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/119| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Seaking| ]]
+
+[[de:Golking]]
+[[en:Seaking (Pokémon)]]
+[[es:Seaking]]
+[[it:Seaking]]
+[[ja:アズマオウ]]
+[[pl:Seaking]]
+[[pt:Seaking (pokémon)]]

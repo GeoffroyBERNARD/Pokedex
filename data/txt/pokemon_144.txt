@@ -1,0 +1,657 @@
+{{Ruban Pokémon
+| nomPrécédent=Ronflex
+| numéro=144
+| nom=Artikodin
+| nomSuivant=Électhor
+}}
+{{Infobox Pokémon
+| nom=Artikodin
+| nomen=Articuno
+| nomja=フリーザー
+| nomtm=Freezer
+| nomromaji=Furīzā
+| nomde=Arktos
+| légende=Artwork d'Artikodin pour {{RFVF}}
+| ndex=144
+| jdex=235
+| njdex=240
+| hdex=299
+| odex=R-298
+| espece=Glaciaire
+| taille=1.7
+| poids=55.4
+| couleur=Bleu
+| oeufpas=20480
+| type1=Glace
+| type2=Vol
+| expval=215
+| effortval=+3 Déf. Spé
+| expmax=1250000
+| captureval=3
+| groupoeuf1=Sans œuf
+| capspe1=Pression
+| capspe2=Rideau Neige
+| capspe2-reve=oui
+| couleur=Bleu
+| fmratio=-1
+| forme=9
+}}
+<dfn>Artikodin</dfn> (anglais : '''Articuno''' ; japonais : '''フリーザー''' ''Freezer''), l'oiseau [[légendaire]] de glace, est l'un des trois [[Pokémon]] composant le [[trio légendaire]] de [[Kanto]] et de la [[première génération]]. Il est de [[type]] {{type|glace}} et {{type|vol}}.
+
+==À propos du Pokémon==
+===Physionomie===
+
+Artikodin est un oiseau de glace. Il a trois "cornes" de glace sur la tête de couleur bleu foncé comme sa queue. Son pelage sur son ventre est blanc.
+
+====Différences mâle/femelle====
+
+Ce Pokémon est [[légendaire]] et asexué, il n'y a donc pas d'Artikodin mâle ou femelle.
+
+====[[Pokémon chromatique|Chromatique]]====
+Lorsqu'il est chromatique, Artikodin possède un corps légèrement plus pâle - à l'exception des pattes, qui restent les mêmes.
+
+=== [[Évolution]] ===
+
+Artikodin est un [[Pokémon légendaire]]. Il n'a donc pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===[[Capacité spéciale]]===
+
+[[Pression]] est la capacité spéciale de Artikodin. Elle permet, quand un adversaire utilise une [[attaque]], de lui retirer 2 [[PP]] au lieu d'un seul.
+
+===Étymologies===
+* Français : vient de arctique + Odin (dieu scandinave, mythologie nordique)
+* Anglais : vient de "arctic" et ''uno'' ('un' en espagnol)
+* Japonais : vient de l'anglais ''freeze'' (geler)
+* Allemand : vient de ''Arktis'' et de ''dos'', suffixe donné aux oiseaux légendaires
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Le légendaire oiseau des glaces. On dit qu'il apparaît aux gens perdus dans les sommets.
+;[[Pokémon Jaune]]
+: Un {{PCap|Pok}}é{{PCap|mon}} légendaire. Il glace la vapeur d'eau contenue dans l'air pour faire de la neige.
+;[[Pokémon Stadium]]
+:Un {{PCap|Pok}}é{{PCap|mon}} légendaire aux longues plumes. On raconte qu'il n'apparaît qu'en présence de voyageurs gelés en montagne.
+;[[Pokémon Or]]
+:Les majestueuses ailes translucides de ce {{PCap|Pok}}é{{PCap|mon}} légendaire semblent être faites de givre.
+;[[Pokémon Argent]]
+: L'un des {{PCap|Pok}}é{{PCap|mon}} oiseaux légendaires. Il gèle l'humidité en volant et fait neiger.
+;[[Pokémon Cristal]]
+: {{PCap|Pok}}é{{PCap|mon}} oiseau légendaire. Pendant son vol, il rafraîchit l'air et crée de la neige avec ses ailes.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Artikodin}} est un {{PCap|Pok}}é{{PCap|mon}} oiseau légendaire qui peut contrôler la glace. Le battement de ses ailes gèle l'air tout autour de lui. C'est pourquoi on dit que lorsque ce {{PCap|Pok}}é{{PCap|mon}} vole, il va neiger.
+;[[Pokémon Émeraude]]
+: C'est un {{PCap|Pok}}é{{PCap|mon}} oiseau légendaire qui peut contrôler la glace. Son battement d'ailes gèle l'air autour de lui. On dit que lorsqu'il vole, la neige va tomber.
+;[[Pokémon Rouge Feu]]
+:Il est l'un des {{PCap|Pok}}é{{PCap|mon}} oiseaux légendaires. Sa longue queue flottant au vent laisse bouche bée tous ceux qui ont la chance de l'apercevoir.
+;[[Pokémon Vert Feuille]]
+:Le légendaire oiseau des glaces. On dit qu'il apparaît aux gens perdus dans les sommets.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Un {{PCap|Pok}}é{{PCap|mon}} Oiseau légendaire. Il peut provoquer des [[Blizzard|blizzards]] en gelant l'humidité de l'air.
+;[[Pokémon Or HeartGold]]
+:Les majestueuses ailes translucides de ce {{PCap|Pok}}é{{PCap|mon}} légendaire semblent être faites de givre.
+;[[Pokémon Argent SoulSilver]]
+: L'un des {{PCap|Pok}}é{{PCap|mon}} Oiseaux Légendaires. Il gèle l'humidité en volant et fait neiger.
+;[[Pokémon Ranger : Sillages de Lumière]]
+:Crée un épais blizzard autour de lui pour se protéger du danger.
+;[[Pokémon Noir et Blanc]]
+: Un Pokémon Oiseau légendaire. Il peut provoquer des [[Blizzard|blizzards]] en gelant l'humidité de l'air.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| {{RB}} || rowspan="2" style="vertical-align: middle;"| Unique || rowspan="2" style="vertical-align: middle;"| [[Îles Écume]] || rowspan="2" style="vertical-align: middle;"| N. 50
+|-
+| ''[[Pokémon Jaune]]''
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| {{OA}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RBJ}} grâce au [[bloc temporel]].
+|-
+| ''[[Pokémon Cristal]]''
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| {{RS}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. || rowspan="2" style="vertical-align: middle;"| -
+|-
+| ''[[Pokémon Émeraude]]''
+|-
+| {{RFVF}} || Unique || [[Îles Écume]] || N. 50
+|-
+| ''[[Pokémon Colosseum]]'' ||Inexistant || À échanger depuis {{RFVF}}. || -
+|-
+| ''[[Pokémon XD]]'' ||Unique || Appartient à Leader Ombre Malafid à la fin du jeu. || N.50
+|-
+| ''[[Pokémon Donjon Mystère : Équipe De Secours Rouge et Bleue|Pokémon Donjon Mystère]]'' || Unique || [[Sous-Bois Givré]] || -
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| {{DP}} || Inexistant || À transférer par le biais du [[Parc des Amis]]. || -
+|-
+| {{Pt}} || rowspan="2" style="vertical-align: middle;"| Unique || style="vertical-align: middle;"| Rencontre au hasard dans [[Sinnoh]] après obtention du [[Pokédex National]] , ouverture du [[Parc des Amis]] et parle au prof [[chen]] dans la maison vide à [[Vestigion]] || style="vertical-align: middle;"| N. 60
+|-
+| {{HGSS}} || style="vertical-align: middle;"| [[Fond Île Écume]]  || style="vertical-align: middle;"| N. 50
+|}
+
+Dans {{PDM2}}, Artikodin est le seul des trois oiseaux de son trio qui ne peut pas être rencontré naturellement.
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Glace}}; width:150px" | Version
+! style="background-color:{{Couleur|Glace}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Glace}}; width:450px" | Lieu
+|-
+| {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align: middle;" | À transférer par [[PokéFret]].
+|-
+| ''[[Super Pokémon Rumble]]''
+| style="vertical-align:middle;" | Rare
+| style="vertical-align: middle;" | 2<sup>e</sup> sous-sol du pilier : secteur glaciaire
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Laser Glace|95|100|10}}
+{{Attaque|N.51|Blizzard|120|90|5}}
+{{Attaque|N.55|Hâte|-|-|30}}
+{{Attaque|N.60|Brume|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Tornade|40|100|35}}
+{{Attaque|Départ|Poudreuse|40|100|25}}
+{{Attaque|N.13|Brume|-|-|30}}
+{{Attaque|N.25|Hâte|-|-|30}}
+{{Attaque|N.37|Lire-Esprit|-|100|5}}
+{{Attaque|N.49|Laser Glace|95|100|10}}
+{{Attaque|N.61|Protection|-|-|20}}
+{{Attaque|N.73|Blizzard|120|70|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Tornade|40|100|35|intelligence|3|0}}
+{{Attaque-III|Départ|Poudreuse|40|100|25|beauté|4|0}}
+{{Attaque-III|N.13|Brume|-|-|30|beauté|1|0}}
+{{Attaque-III|N.25|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.37|Lire-Esprit|-|100|5|intelligence|3|0}}
+{{Attaque-III|N.49|Laser Glace|95|100|10|beauté|2|1}}
+{{Attaque-III|N.61|Protection|-|-|20|intelligence|1|0}}
+{{Attaque-III|N.73|Blizzard|120|70|5|beauté|4|0}}
+{{Attaque-III|N.85|Glaciation|-|30|5|beauté|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Tornade|40|100|35|intelligence|3}}
+{{Attaque-IV|Départ|Poudreuse|40|100|25|beauté|3}}
+{{Attaque-IV|N.8|Brume|-|-|30|beauté|2}}
+{{Attaque-IV|N.15|Éclats Glace|40|100|30|beauté|2}}
+{{Attaque-IV|N.22|Lire-Esprit|-|-|5|intelligence|1}}
+{{Attaque-IV|N.29|Pouv. Antique|60|100|5|robustesse|2}}
+{{Attaque-IV|N.36|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.43|Laser Glace|95|100|10|beauté|2}}
+{{Attaque-IV|N.50|Protection|-|-|20|intelligence|2}}
+{{Attaque-IV|N.57|Atterrissage|-|-|10|sang-froid|0}}
+{{Attaque-IV|N.64|Vent Arrière|-|-|30|intelligence|2}}
+{{Attaque-IV|N.71|Blizzard|120|70|5|beauté|2}}
+{{Attaque-IV|N.78|Glaciation|-|30|5|beauté|0}}
+{{Attaque-IV|N.85|Grêle|-|-|10|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Tornade|40|100|35}}
+{{Attaque-V|Départ|Poudreuse|40|100|25}}
+{{Attaque-V|N.8|Brume|-|-|30}}
+{{Attaque-V|N.15|Éclats Glace|40|100|30}}
+{{Attaque-V|N.22|Lire-Esprit|-|-|5}}
+{{Attaque-V|N.29|Pouv. Antique|60|100|5}}
+{{Attaque-V|N.36|Hâte|-|-|30}}
+{{Attaque-V|N.43|Laser Glace|95|100|10}}
+{{Attaque-V|N.50|Protection|-|-|20}}
+{{Attaque-V|N.57|Atterrissage|-|-|10}}
+{{Attaque-V|N.64|Vent Arrière|-|-|30}}
+{{Attaque-V|N.71|Blizzard|120|70|5}}
+{{Attaque-V|N.78|Glaciation|-|30|5}}
+{{Attaque-V|N.85|Grêle|-|-|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! style="background-color:{{Couleur|Glace}}" colspan="3" | {{Couleur lien|#000000|Génération I}}
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 04 || [[Cyclone]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Piqué]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! style="background-color:{{Couleur|Glace}}" colspan="3" | {{Couleur lien|#000000|Génération II}}
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 05 || [[Hurlement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Détection]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! style="background-color:{{Couleur|Glace}}" colspan="3" | {{Couleur lien|#000000|Génération III}}
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 05 || [[Hurlement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! style="background-color:{{Couleur|Glace}}" colspan="4" | {{Couleur lien|#000000|Génération IV}}
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 05 || [[Hurlement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 51 || [[Atterrissage]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 58 || [[Tenacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 68 || [[Giga Impact]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|-
+|CS 05 || [[Anti-Brume]] || [[Fichier:type miniat vol.png]]
+|-
+|CS 06 || [[Eclate-roc]] || [[Fichier:type miniat combat.png]]
+|-
+|}
+
+|}
+
+===Par [[reproduction]]===
+
+Artikodin ne peut se reproduire.
+
+===Par [[Donneur de capacités]]===
+
+{| class="wikitable"
+! style="background-color:{{Couleur|Glace}}" colspan="4" | {{Couleur lien|#000000|Génération II}}
+|-
+! Jeux || Moyen d'apprentissage || [[Attaque]] || [[Type]]
+|-
+|Cristal || Tous les mercredis et samedis, devant le casino de [[Doublonville]] || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|}
+
+{| class="wikitable"
+! style="background-color:{{Couleur|Glace}}" colspan="4" | {{Couleur lien|#000000|Génération III}}
+|-
+! Jeux || Moyen d'apprentissage || [[Attaque]] || [[Type]]
+|-
+| style="vertical-align:middle;" rowspan="3" |Vert Feuille et Rouge Feu || [[Route Victoire (Kanto)|Route Victoire]] || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Parmanie]] || [[Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Safrania]] (contre une [[Poképoupée]]) || [[Copie]] || [[Fichier:type miniat normal.png]] 
+|-
+| style="vertical-align:middle;" rowspan="10" |Émeraude || [[Atalanopolis]] || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Zone de Combat (Génération III)|Zone de Combat]] contre 48 Pco || [[Tenacité]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Zone de Combat (Génération III)|Zone de Combat]] contre 24 Pco || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|''Donnée manquante'' || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Zone de Combat (Génération III)|Zone de Combat]] contre 24 Pco || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|[[Cimetronelle]] || [[Blabla dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Zone de Combat (Génération III)|Zone de Combat]] contre 24 Pco || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Nénucrique]] || [[Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Poivressel]] || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Zone de Combat (Génération III)|Zone de Combat]] contre 24 Pco || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+| style="vertical-align:middle;" rowspan="5" |XD || [[Samaragd]] || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Samaragd]] || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|[[Samaragd]] || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Samaragd]] || [[Piqué]] || [[Fichier:type miniat vol.png]]
+|-
+|[[Samaragd]] || [[Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Samaragd]] || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|}
+
+{| class="wikitable"
+! style="background-color:{{Couleur|Glace}}" colspan="4" | {{Couleur lien|#000000|Génération IV}}
+|-
+! Jeux || Moyen d'apprentissage || [[Attaque]] || [[Type]]
+|-
+| style="vertical-align:middle;" rowspan="9" |Platine, {{HGSS}} || rowspan="3" style="vertical-align: middle;"| [[Route 212]] dans Platine et [[Atrium Combat]] pour 48 Pco dans HGSS||style="vertical-align: middle;"| [[Tranch'Air]] ||style="vertical-align: middle;"| [[Fichier:type miniat vol.png]]
+|-
+|style="vertical-align: middle;"|[[Vent Glace]] ||style="vertical-align: middle;"| [[Fichier:type miniat glace.png]]
+|-
+|style="vertical-align: middle;"|[[Vent Mauvais]] ||style="vertical-align: middle;"| [[Fichier:type miniat spectre.png]]
+|-
+|rowspan="3" style="vertical-align: middle;"|[[Aire de Survie]] dans Platine et [[Atrium Combat]] pour 40 Pco dans OGHASS ||style="vertical-align: middle;"|  [[Pouv.Antique|Pouvoir Antique]] ||style="vertical-align: middle;"| [[Fichier:type miniat roche.png]]
+|-
+|style="vertical-align: middle;"| [[Rayon Signal]] || style="vertical-align: middle;"| [[Fichier:type miniat insecte.png]]
+|-
+|style="vertical-align: middle;"| [[Ouragan]] ||style="vertical-align: middle;"|  [[Fichier:type miniat dragon.png]]
+|-
+|[[Aire de Survie]] dans Platine et [[Atrium Combat]] pour 32 Pco dans HGSS || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|[[Frimapic]] dans Platine et [[Atrium Combat]] pour 32 Pco dans HGSS || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|[[Frimapic]] dans Platine et [[Atrium Combat]] pour 40 Pco dans HGSS || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+| style="vertical-align:middle;" rowspan="2" |{{HGSS}} ||[[Atrium Combat]] pour 48 Pco || [[Vent Arrière]] || [[Fichier:type miniat vol.png]]
+|-
+|[[Atrium Combat]] pour 64 Pco || [[Piqué]] || [[Fichier:type miniat vol.png]]
+|-
+|}
+
+==Sensibilités==
+{{Sensibilités
+|type=glace
+|sensib-électrique=2
+|sensib-feu=2
+|sensib-acier=2
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=4
+|sensib-sol=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est normale
+|rmq-sol-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=glace
+|PV=90
+|attaque=85
+|defense=100
+|atq-spc=95
+|def-spc=125
+|vitesse=85
+|special=125
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Artikodin
+| numero=144
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Artikodin RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère 2]]''
+| artwork_supp2-img=Artikodin-DM2.png{{!}}x125px
+| forme=9
+| pdm=oui
+| pinballRB-gif=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+Artikodin a été [[Pokémon évènementiel|distribué de manière évènementielle]] en diverses occasion :
+* '''2006'''
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Journey Across America|Artikodin 10 ANIV]] (États-Unis)
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Party of the Decade - Bryant Park, New York|Artikodin 10 ANIV (Bryant Park)]] (États-Unis)
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Europe|Artikodin 10ème anniversaire]] (Europe)
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:EP410.jpg|right|thumb|Combat entre [[Dracaufeu de Sacha|Dracaufeu]] et Artikodin]]Artikodin apparaît dans le deuxième film, Pokémon Le Pouvoir est en Toi, ainsi que dans la [[Liste des épisodes du dessin animé#Saison 9 : Battle Frontier|Saison 9]] du dessin animé où il est possédé par le premier gardien d'emblème du Battle Frontier, que [[Sacha]] finira par vaincre à l'aide de [[Dracaufeu de Sacha|Dracaufeu]]
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 187]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Glaciaire. Ce {{PCap|Pok}}é{{PCap|mon}} légendaire possède des ailes qui semblent avoir été taillées dans de la glace. Il est capable d'agir sur la vapeur d'eau pour créer de la neige.
+;[[Épisode 409]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Glaciaire. Artikodin vit au sommet des chaînes de montagne et vole avec élégance grâce aux battements de sa queue.
+
+==Apparition dans le [[Pocket Monsters Special|manga]]==
+Artikodin est d'abord vu dans un bloc de glace qu'il crée lui-même pour se protéger des ennemis (il n'aime pas se battre). Mais il aide {{PMS|Sacha}} lorsque que son [[Léviator]] a été attaqué par le [[Grotadmorv]] de la [[Team Rocket (Organisation)]]. Dans le [[Pocket Monsters Special|tome 3]], il est montré que l'organisation a finalement réussi à le capturer ainsi qu'[[Electhor]] et [[Sulfura]]. [[Koga]] l'a utilisé pour congelé la pièce ainsi que Sacha et {{PMS|Régis}} mais lorsque qu'il a le dos tourné, le [[Dracaufeu]] de Régis brûle l'[[Sylphe SARL|immeuble]], décongelant ainsi la pièce. Lorsque le [[Kadabra]] de [[Morgane]] l'appelle avec Electhor, ils fusionnent tous les trois. Leur fusion se termine quand le [[Florizarre]] de Sacha, le Dracaufeu de Régis et le [[Tortank]] d'{{PMS|Olga}} s'unissent. Après s'être séparés, ils s'envolent tous les trois séparément.
+
+Il ne réapparaît que dans l'[[Arc Or-Argent-Cristal (Pocket Monsters Special)|arc Or-Argent-Cristal]] aux côtés d'Electhor et Sulfura lorsqu'Olga les utilise pour se battre contre [[Lugia]], [[Ho-Oh]], [[Clément]] et [[Marion]]. Après la bataille, il n'est plus revu.
+
+{{légendaire|gén=1}}
+
+{{Ruban Pokémon
+| nomPrécédent=Ronflex
+| numéro=144
+| nom=Artikodin
+| nomSuivant=Électhor
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon asexué]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/144| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Articuno| ]]
+
+[[de:Arktos]]
+[[en:Articuno (Pokémon)]]
+[[es:Articuno]]
+[[it:Articuno]]
+[[ja:フリーザー]]
+[[pl:Articuno]]
+[[pt:Articuno (pokémon)]]

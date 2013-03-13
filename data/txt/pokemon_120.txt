@@ -1,0 +1,318 @@
+{{Ruban Pokémon
+| nomPrécédent=Poissoroy
+| numéro=120
+| nom=Stari
+| nomSuivant=Staross
+}}
+{{Infobox Pokémon
+| nom=Stari
+| nomen=Staryu
+| nomja=ヒトデマン
+| nomtm=Hitodeman
+| nomde=Sterndu
+| image=Stari.png
+| légende=Artwork de Stari
+| ndex=120
+| jdex=167
+| njdex=169
+| hdex=143
+| fdex=112
+| adex=094
+| espece=Étoile
+| taille=0.8
+| poids=34.5
+| fmratio=-1
+| oeufpas=5120
+| effortval=+1 Vit.
+| type1=Eau
+| type2=
+| expval=106
+| expmax=1250000
+| captureval=225
+| groupoeuf1=Eau 3
+| groupoeuf2=
+| capspe1=Médic Nature
+| capspe2=Lumiattirance
+| capspe3=Analyste
+| couleur=Marron
+| forme=5}}
+'''Stari''' (anglais : '''Staryu''' ; japonais : '''ヒトデマン''' ''Hitodeman'') est un [[Pokémon]] de [[type]] {{type|eau}} de la [[première génération]] qui [[évolution|évolue]] en [[Staross]]. Il est l'un des Pokémon préférés d'{{da|Ondine}}.
+
+==À propos du Pokémon==
+===Physionomie===
+Stari ressemble à une étoile de mer à 5 branches avec un joyau rouge à son centre.
+
+====Différences mâle/femelle====
+
+Ce Pokémon est asexué, il n'y a donc pas de Stari mâle ou femelle.
+
+====Évolution====
+
+Stari évolue en [[Staross]] lorsqu'il est mis en contact avec une [[Pierre Eau]].
+{{TableauEvolutionHaut|Eau|Stari}}
+{{TableauEvolutionSimple|Avec une [[Pierre Eau]]|imageObjet=Miniat pierre eau dp.png|Staross}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+* Français : vient de ''star'', "étoile" en anglais, et du suffixe ''I''.
+* Anglais : vient de ''star'' et ''you'', qui signifie ''tu''
+*Allemand : vient de ''Stern'' signifiant "étoile", et de ''du'' signifiant "tu"
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Un {{PCap|Pok}}é{{PCap|mon}} bien curieux qui peut régénérer ses appendices sectionnés pendant un combat.
+;[[Pokémon Jaune]]
+:Tant que sa partie centrale est indemne, il peut régénérer les parties de son corps.
+;[[Pokémon Stadium]]
+:Il peut faire repousser n'importe quelle partie découpée de son corps. La nuit tombée son centre brille d'une lueur rougeâtre.
+;[[Pokémon Or]]
+:La nuit, le centre de son corps émet des pulsations au même rythme que le cœur des humains.
+;[[Pokémon Argent]]
+:Même si son corps est détruit, il peut régénérer aussi longtemps que son cœur est en bon état.
+;[[Pokémon Cristal]]
+:Quand les étoiles brillent la nuit, il flotte à la surface de l'eau et son centre se met à briller...
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Stari}} communique apparemment avec les étoiles dans le ciel en faisant clignoter son cœur rouge. Si des parties de son corps sont cassées, ce {{PCap|Pok}}é{{PCap|mon}} les régénère.
+;[[Pokémon Émeraude]]
+:Ils se réunissent la nuit et font briller leur cœur rouge au rythme des étoiles scintillantes. S'il se fait couper un de ses membres, il est capable de le régénérer.
+;[[Pokémon Rouge Feu]]
+:On peut voir des {{PCap|Stari}} en grand nombre près des côtes. La nuit, le centre de son corps clignote d'une lumière rouge.
+;[[Pokémon Vert Feuille]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} mystérieux peut régénérer ses appendices sectionnés lors d'un combat.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Stari}} attaque en tournoyant. Ne le touchez pas à ce moment-là.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Même amoché, son corps se régénère tant que le noyau rouge est intact. Le noyau s'illumine à minuit.
+;[[Pokémon Ranger 2]]
+:Il attaque en lançant des orbes bizarres et en tournoyant.
+;[[Pokémon Or HeartGold]]
+:La nuit, le centre de son corps émet des pulsations au même rythme que le cœur des humains.
+;[[Pokémon Argent SoulSilver]]
+:Même si son corps est détruit, il peut se régénérer aussi longtemps que son cœur est en bon état.
+;[[Pokémon Noir et Blanc]]
+:Même amoché, son corps se régénère tant que le noyau rouge est intact. Le noyau s'illumine à minuit.
+
+==Localisations==
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:600px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau 
+|-
+| [[Or]] || Rare || [[Route 19]], [[Route 34|34]], et [[Route 40|40]], [[Oliville]], [[Irisia]], [[Caves Jumelles]], [[Azuria]], [[Ville Griotte]] ([[Méga Canne]]) || 40
+|-
+| [[Pokémon Or et Argent|Argent]] || Rare || [[Route 19]], [[Route 34|34]], et [[Route 40|40]], [[Oliville]], [[Irisia]], [[Caves Jumelles]], [[Azuria]], [[Ville Griotte]] ([[Méga Canne]]) || 40
+|-
+| [[Cristal]] || Rare || [[Route 19]], [[Route 34|34]], et [[Route 40|40]], [[Oliville]], [[Irisia]], [[Caves Jumelles]], [[Azuria]], [[Ville Griotte]] ([[Méga Canne]]) (Nuit) || 40
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| [[Rubis]] || Commun || Pêche à [[Nénucrique]] || |
+|-
+| [[Saphir]] || Commun || Pêche à [[Nénucrique]] || |
+|-
+| [[Emeraude]] || Commun || Pêche à [[Nénucrique]] || |
+|-
+| [[ Rouge Feu]] || Indisponible || Echange || |
+|-
+| [[Vert Feuille]] || Commun || [[Bourg-Palette]], [[Île 1]], [[Île 4]], [[Lavanville]], ponton de l'[[Océane]], [[Route 25]]|| |
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| [[Diamant]] || Peu commun || [[Rivamar]] (Méga Canne) || |
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| [[Noir et Blanc]] || Commun || [[Route 13 (Unys)|Route 13]] (rencontre normale et [[tourbillons]]) || 25-60 
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.17|Pistolet à O|40|100|25}}
+{{Attaque|N.22|Armure|-|-|30}}
+{{Attaque|N.27|Soin|-|-|20}}
+{{Attaque|N.32|Météores|60|-|20}}
+{{Attaque|N.37|Lilliput|-|-|20}}
+{{Attaque|N.42|Mur Lumière|-|-|30}}
+{{Attaque|N.47|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Armure|-|-|30}}
+{{Attaque|N.7|Pistolet à O|40|100|25}}
+{{Attaque|N.13|Tour Rapide|40|100|20}}
+{{Attaque|N.19|Soin|-|-|20}}
+{{Attaque|N.25|Météores|60|-|20}}
+{{Attaque|N.31|Bulles d'O|65|100|20}}
+{{Attaque|N.37|Lilliput|-|-|20}}
+{{Attaque|N.43|Mur Lumière|-|-|30}}
+{{Attaque|N.50|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ|Armure|-|-|30|robustesse|2|0}}
+{{Attaque-III|N.6|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|N.10|Tour Rapide|20|100|40|sang-froid|2|0}}
+{{Attaque-III|N.15|Soin|-|-|20|intelligence|2|1}}
+{{Attaque-III|N.19|Camouflage|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.24|Météores|60|-|20|sang-froid|2|0}}
+{{Attaque-III|N.28|Bulles d'O|65|100|20|beauté|1|3}}
+{{Attaque-III|N.33|Lilliput|-|-|20|grâce|2|0}}
+{{Attaque-III|N.37|Mur Lumière|-|-|30|beauté|1|0}}
+{{Attaque-III|N.42|Force Cosmik|-|-|20|sang-froid|1|0}}
+{{Attaque-III|N.46|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ|Armure|-|-|30|robustesse|2}}
+{{Attaque-IV|N.6|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.10|Tour Rapide|20|100|40|sang-froid|2}}
+{{Attaque-IV|N.15|Soin|-|-|10|intelligence|0}}
+{{Attaque-IV|N.19|Camouflage|-|-|20|intelligence|2}}
+{{Attaque-IV|N.24|Météores|60|-|20|sang-froid|2}}
+{{Attaque-IV|N.28|Bulles d'O|65|100|20|beauté|2}}
+{{Attaque-IV|N.33|Lilliput|-|-|20|grâce|2}}
+{{Attaque-IV|N.37|Gyroballe|1|100|5|beauté|2}}
+{{Attaque-IV|N.42|Mur Lumière|-|-|30|beauté|2}}
+{{Attaque-IV|N.46|Rayon Gemme|70|100|20|beauté|3}}
+{{Attaque-IV|N.51|Force Cosmik|-|-|20|sang-froid|2}}
+{{Attaque-IV|N.55|Hydrocanon|120|80|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ|Armure|-|-|30}}
+{{Attaque-V|N.6|Pistolet à O|40|100|25}}
+{{Attaque-V|N.10|Tour Rapide|20|100|40}}
+{{Attaque-V|N.15|Soin|-|-|10}}
+{{Attaque-V|N.19|Camouflage|-|-|20}}
+{{Attaque-V|N.24|Météores|60|-|20}}
+{{Attaque-V|N.28|Bulles d'O|65|100|20}}
+{{Attaque-V|N.33|Lilliput|-|-|20}}
+{{Attaque-V|N.37|Gyroballe|1|100|5}}
+{{Attaque-V|N.42|Mur Lumière|-|-|30}}
+{{Attaque-V|N.46|Copie Type|-|-|15}}
+{{Attaque-V|N.51|Rayon Gemme|70|100|20}}
+{{Attaque-V|N.55|Force Cosmik|-|-|20}}
+{{Attaque-V|N.60|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=eau
+|sensib-plante=2
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-eau=0.5
+|sensib-glace=0.5
+|sensib-acier=0.5
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=30
+|attaque=45
+|defense=55
+|atq-spc=70
+|def-spc=55
+|vitesse=85
+|special=70
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Stari
+| numero=120
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Stari RB.png
+| forme=5
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+Stari a été [[Pokémon évènementiel|distribué de manière évènementielle]] en deux occasions :
+* '''2003'''
+** [[Liste des Pokémon distribués en 2003#Stari|Stari Evolution Stone (PCNY)]] (États-Unis) 
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Stari|Stari JEREMY]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+
+{{da|Ondine}} en possède [[Stari d'Ondine|un]].
+
+Un groupe de Stari apparaît dans le [[BW2002]]. Deux Stari apparaissent également dans le [[BW2003]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 7]]
+:Le cœur de ce {{PCap|Pok}}é{{PCap|mon}} aquatique brille comme les sept couleurs de l'arc en ciel. Un cœur qu'on estime être une pierre précieuse.
+
+{{Ruban Pokémon
+| nomPrécédent=Poissoroy
+| numéro=120
+| nom=Stari
+| nomSuivant=Staross
+}}
+
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Eau]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/120| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Staryu| ]]
+
+[[de:Sterndu]]
+[[en:Staryu (Pokémon)]]
+[[es:Staryu]]
+[[it:Staryu]]
+[[ja:ヒトデマン]]
+[[pl:Staryu]]
+[[pt:Staryu (pokémon)]]

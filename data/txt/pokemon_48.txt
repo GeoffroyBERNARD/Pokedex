@@ -1,0 +1,384 @@
+{{Ruban Pokémon
+| nomPrécédent=Parasect
+| numéro=048
+| nom=Mimitoss
+| nomSuivant=Aéromite
+}}
+{{Infobox Pokémon 
+| nom=Mimitoss
+| nomen=Venonat
+| nomja=コンパン
+| nomtm=Kongpang
+| nomromaji=Konpan
+| nomde=Bluzuk
+| légende=Artwork de Mimitoss pour {{RFVF}}
+| ndex=048
+| jdex=108
+| njdex=109
+| hdex=237
+| fdex=153
+| type1=Insecte
+| type2=Poison
+| espece=Vermine
+| taille=1.0
+| poids=30.0
+| capspe1=Œil Composé
+| capspe2=Lentiteintée
+| capspe3=Fuite (capacité spéciale){{!}}Fuite
+| groupoeuf1=Insecte
+| oeufpas=5120 
+| effortval=+1 Déf. Spé
+| expval=75
+| expmax=1000000
+| fmratio=.5 
+| captureval=190
+| couleur=Violet
+| forme=12}}
+'''Mimitoss''' (anglais : '''Venonat''' ; japonais : '''コンパン''' ''Kongpang'') est un [[Pokémon]] de [[type]] {{type|insecte}} et {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Mimitoss évolue en [[Aéromite]] à partir du [[niveau]] 31.
+{{TableauEvolutionHaut|Insecte|Mimitoss}}
+{{TableauEvolutionSimple|[[Niveau]] 31|Aéromite}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Mimitoss dispose soit de la capacité spéciale [[Œil composé]], qui augmente la précision de 30% en combat et augmente hors-combat lorsqu'il est en tête de l'équipe les chances de trouver des Pokémon sauvages tenant un objet, soit de la capacité spéciale [[Lentiteintée]] qui double la puissance des attaques peu efficaces.
+
+===Étymologies===
+* Français : de "mimi", mite et ''toss'' (''jeter'', en anglais, ici, des aiguillons/dards ...)
+* Anglais : Venom(venin) et Gnat(simulie)
+* Allemand : Blutsauger(suceur de sang) et insekt(insect)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il vit a l'ombre des grands arbres ou il mange des insectes. il est attiré par la lumière.
+;[[Pokémon Jaune]]
+:Ses grands yeux lui servent de radar. En pleine lumière on peut y distinguer des facette.
+;[[Pokémon Stadium]]
+: Il utilise ses grands yeux comme des radars pour se déplacer dans l'obscurité. Il est malgré lui attiré par la lumière.
+;[[Pokémon Or]]
+:Ses yeux fonctionnent comme des radars. Il se nourrit de petits insectes cachés dans le noir.
+;[[Pokémon Argent]]
+:Son corps secrète un poison redoutable. La nuit, il mange de petits insectes attirés par la lumière.
+;[[Pokémon Cristal]]
+:Ses proies n'apparaissant que la nuit, il dort le jour dans un arbre jusqu'au coucher du soleil.
+;[[Pokémon Rubis et Saphir]]
+:On raconte que {{PCap|Mimitoss}} a évolué avec une fourrure de poils fins et drus qui protège son corps tout entier. Il est doté de grands yeux capables de repérer ses proies, même minuscules.
+;[[Pokémon Émeraude]]
+:On raconte qu'il a évolué avec une fourrure de poils fins et drus qui protège son corps. Ses grands yeux sont capables de repérer ses proies, même minuscules.
+;[[Pokémon Rouge Feu]]
+:Ses yeux fonctionnent comme des radars et lui permettent de voir dans l'obscurité. Il peuvent également envoyer des rayons très puissants.
+;[[Pokémon Vert Feuille]]
+:Il vit à l'ombre des grands arbres où il se nourrit d'insectes. Il est attiré par la lumière.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Ses grands yeux sont en fait des amas d'yeux minuscules. La nuit, il est attiré par la lumière.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Mimitoss}} sautille en diffusant des nuages de poison.
+;[[Pokémon Or HeartGold]]
+:Ses yeux fonctionnent comme des radars. Il se nourrit de petits insectes cachés dans le noir.
+;[[Pokémon Argent SoulSilver]]
+:Son corps sécrète un poison redoutable. La nuit, il mange de petits insectes attirés par la lumière.
+;[[Pokémon Noir et Blanc]]
+:Ses grands yeux sont en fait des amas d'yeux minuscules. La nuit, il est attiré par la lumière.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]] et [[Parc Safari]].
+|-
+| [[Bleu]] || Commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]] et [[Parc Safari]].
+|-
+| [[Jaune]] || Commun || Routes [[Route 14|14]], [[Route 15|15]], [[Route 24|24]] et [[Route 25|25]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || Routes [[Route 24|24]], [[Route 25|25]] et [[Route 43|43]] ([[Temps|Matin et Nuit]]) et [[Parc Naturel]] durant le Concours de capture d'insecte ([[Temps|À tout moment de la journée]]).
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Routes [[Route 24|24]], [[Route 25|25]] et [[Route 43|43]] ([[Temps|Matin et Nuit]]) et [[Parc Naturel]] durant le Concours de capture d'insecte ([[Temps|À tout moment de la journée]]).
+|-
+| [[Cristal]] || Commun || Routes [[Route 9|9]], [[Route 10|10]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Route 24|24]], [[Route 25|25]], [[Route 43|43]], [[Parc Naturel]] et [[Bois aux chênes]] ([[Temps|Nuit]]) - [[Parc Naturel]] durant le Concours de capture d'insecte ([[Temps|À tout moment de la journée]]) - [[Route 43]] et [[Lac Colère]] en utilisant [[Coup d'Boule]] ([[Temps|À tout moment de la journée]])
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Parc Safari]], [[Île 3]] de l'[[Îles Sevii|Archipel Sevii]].
+|-
+| [[Vert Feuille]] || Commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Parc Safari]], [[Île 3]] de l'[[Îles Sevii|Archipel Sevii]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Diamant]] || Rare ([[Pokéradar]] uniquement) || [[Route 229]] || N. 22 || 2% (avec le [[Pokéradar]])
+|-
+| [[Perle]] ||  Rare ([[Pokéradar]] uniquement) || [[Route 229]] || N. 22 || 2% (avec le [[Pokéradar]])
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="background:#FFFFFF;" | {{Couleur lien|#000000|Blanc}} 
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| rowspan="2" style="vertical-align:middle;" | Faire un [[oeuf]] d'[[Aéromite]] à la [[Pension]]
+| rowspan="2" style="vertical-align:middle;" | N/A
+|-
+| style="background:#000000;" | {{Couleur lien|#FFFFFF|Noir}}
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|N.11{{Sup|J}}|Ultrason|-|55|20}}
+{{Attaque|N.19{{Sup|J}}|Choc Mental|50|100|25}}
+{{Attaque|N.24{{Sup|R}}{{Sup|B}}<br>N.22{{Sup|J}}|Poudre Toxik|-|75|35}}
+{{Attaque|N.27|Vampirisme|20|100|15}}
+{{Attaque|N.30|Para-Spore|-|75|30}}
+{{Attaque|N.35|Rafale Psy|65|100|20}}
+{{Attaque|N.38|Poudre Dodo|-|75|15}}
+{{Attaque|N.43|Psyko|90|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Clairvoyance|-|100|40}}
+{{Attaque|N.9|Ultrason|-|55|20}}
+{{Attaque|N.17|Choc Mental|50|100|25}}
+{{Attaque|N.20|Poudre Toxik|-|75|35}}
+{{Attaque|N.25|Vampirisme|20|100|15}}
+{{Attaque|N.28|Para-Spore|-|75|30}}
+{{Attaque|N.33|Rafale Psy|65|100|20}}
+{{Attaque|N.36|Poudre Dodo|-|75|15}}
+{{Attaque|N.41|Psyko|90|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|Départ|Clairvoyance|-|100|40|intelligence|3|0}}
+{{Attaque-III|N.9|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.17|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.20|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.25|Vampirisme|20|100|15|intelligence|2|3}}
+{{Attaque-III|N.28|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|N.33|Rafale Psy|65|100|20|beauté|3|0}}
+{{Attaque-III|N.36|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.41|Psyko|90|100|10|intelligence|1|3}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|Départ|Clairvoyance|-|100|40|intelligence|1}}
+{{Attaque-IV|N.5|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|N.11|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.13|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.17|Vampirisme|20|100|15|intelligence|1}}
+{{Attaque-IV|N.23|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|N.25|Rafale Psy|65|100|20|beauté|2}}
+{{Attaque-IV|N.29|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.35|Rayon Signal|75|100|15|beauté|0}}
+{{Attaque-IV|N.37|Psykoud'Boul|80|90|15|beauté|2}}
+{{Attaque-IV|N.41|Crochetvenin|50|100|15|intelligence|2}}
+{{Attaque-IV|N.47|Psyko|90|100|10|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ|Entrave|-|100|20}}
+{{Attaque-V|Départ|Clairvoyance|-|100|40}}
+{{Attaque-V|N.5|Ultrason|-|55|20}}
+{{Attaque-V|N.11|Choc Mental|50|100|25}}
+{{Attaque-V|N.13|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.17|Vampirisme|20|100|15}}
+{{Attaque-V|N.23|Para-Spore|-|75|30}}
+{{Attaque-V|N.25|Rafale Psy|65|100|20}}
+{{Attaque-V|N.29|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.35|Rayon Signal|75|100|15}}
+{{Attaque-V|N.37|Psykoud'Boul|80|90|15}}
+{{Attaque-V|N.41|Crochetvenin|50|100|15}}
+{{Attaque-V|N.47|Psyko|90|100|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=insecte
+|sensib-combat=0.25
+|sensib-feu=2
+|sensib-insecte=0.5
+|sensib-plante=0.25
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-roche=2
+|sensib-vol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison]] -donc sur '''{{PAGENAME}}'''- dans la [[première génération]].
+|rmq-insecte-num=1
+|rmq-poison=Les attaques de type [[Poison]] étaient très efficaces sur les Pokémon de type [[Insecte]] dans la [[première génération]]. De ce fait, elles possédaient dans cette génération une efficacité normale sur '''{{PAGENAME}}''' dans la mesure où ce dernier possède un double type [[Poison]] qui lui est résistant à ces attaques.
+|rmq-poison-num=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=insecte
+|PV=60
+|attaque=55
+|defense=50
+|atq-spc=40
+|def-spc=55
+|vitesse=45
+|special=40
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Mimitoss
+| numero=048
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Mimitoss RB.png
+| forme=12
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Koga]] et sa [[Aya|sœur]] possèdent tous deux un Mimitoss, vus dans l'[[épisode 32]]. Celui de Koga [[évolution|évolue]] en [[Aéromite]] au début du premier match contre [[Sacha]], interrompu par la [[Team Rocket (trio)|Team Rocket]].
+
+[[Jacky]] possède également un Mimitoss lorsqu'il rencontre [[Sacha]] et {{da|Ondine}} dans l'[[épisode 84]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 32]]
+: {{PCap|[[Mimitoss]]}} est un {{PCap|Pok}}é{{PCap|mon}} [[Insecte]]. Ses yeux fonctionnent comme un radar ce qui lui permet de voir dans l'obscurité la plus totale.
+
+{{Ruban Pokémon
+| nomPrécédent=Parasect
+| numéro=048
+| nom=Mimitoss
+| nomSuivant=Aéromite
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/48| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Venonat| ]]
+
+[[de:Bluzuk]]
+[[en:Venonat (Pokémon)]]
+[[es:Venonat]]
+[[it:Venonat]]
+[[ja:コンパン]]
+[[pl:Venonat]]
+[[pt:Venonat (pokémon)]]

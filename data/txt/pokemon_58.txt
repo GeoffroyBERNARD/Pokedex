@@ -1,0 +1,364 @@
+{{Ruban Pokémon
+| nomPrécédent=Colossinge
+| numéro=058
+| nom=Caninos
+| nomSuivant=Arcanin
+}}
+{{Infobox Pokémon 
+| nom=Caninos
+| nomen=Growlithe
+| nomja=ガーディ
+| nomromaji=Gādi
+| nomtm=Gardie
+| nomde=Fukano
+| légende=Artwork de Caninos pour {{RFVF}}
+| ndex=058
+| jdex=127
+| njdex=129
+| hdex=245
+| fdex=144
+| nudex=051
+| adex=065
+| espece=Chiot
+| taille=0.7
+| poids=19.0
+| fmratio=.25 
+| oeufpas=5120
+| effortval=+1 Att. Spé 
+| type1=Feu
+| expval=91
+| expmax=1250000
+| captureval=190
+| groupoeuf1=Sol
+| capspe1=Torche
+| capspe2=Intimidation (capacité spéciale){{!}}Intimidation
+| couleur=Marron
+| forme=8}}
+'''Caninos''' (anglais : '''Growlithe''' ; japonais : '''ガーディ''' ''Gardie'') est un [[Pokémon]] chien de [[type]] {{type|feu}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Caninos évolue en [[Arcanin]] grâce à une [[Pierre Feu]].
+
+{{TableauEvolutionHaut|Feu|Caninos}}
+{{TableauEvolutionSimple|Avec une [[Pierre Feu]]|imageObjet=Miniat pierre feu dp.png|Arcanin}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+*Français : de ''canin'' et ''os''.
+*Anglais : Growl, le son d'un chien en colère en anglais
+*Japonais : Gardie(Gādi)ガーディ garde
+*Allemand : de ''Funken''(fair une éteincelle) et ''canis''(chien en latin)
+
+===Descriptions du Pokédex===
+;[[Pokémon Rouge et Bleu]]
+:Pour protéger son territoire, il aboie et mord jusqu'à que les intrus s'enfuient.
+;[[Pokémon Jaune]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est de nature amicale. Mais il devient hargneux quand son territoire est menacé.
+;[[Pokémon Stadium]]
+: Amical et loyal, mais aussi protecteur de son territoire, il mord souvent les étrangers l'approchant de trop près.
+;[[Pokémon Or]]
+:Il est courageux et fier. Il se dresse vaillamment devant ses ennemis même s'ils sont plus puissants.
+;[[Pokémon Argent]]
+:Très fidèle, il aboyera sans peur pour protéger son maitre du danger qui le guette.
+;[[Pokémon Cristal]]
+:Il contrôle un grand territoire. S'il sent un intrus, il hurle pour le chasser.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Caninos}} a un odorat très développé. Ce {{PCap|Pok}}é{{PCap|mon}} n'oublie jamais un parfum, quel qu'il soit. Il utilise son puissant sens olfactif pour deviner les émotions des autres créatures vivantes.
+;[[Pokémon Émeraude]]
+:{{PCap|Caninos}} a un odorat très développé qui lui permet de ne jamais oublier un parfum. Il utilise son puissant sens olfactif pour deviner les émotions des autres.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est particulièrement affectueux et loyal. Il aboie et il mord pour se débarrasser de ses adversaires.
+;[[Pokémon Vert Feuille]]
+:Pour protéger son territoire il aboie et mord jusqu'à ce que les intrus s'enfuient.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Caninos}} est un {{PCap|Pok}}é{{PCap|mon}} très vif qui crache du feu en gambadant.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Un {{PCap|Pok}}é{{PCap|mon}} très loyal. Il restera immobile jusqu'à ce que son {{PCap|[[Dresseur]]}} lui donne un ordre.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il crache du feu et cherche à charger son adversaire.
+;[[Pokémon Or HeartGold]]
+:Il est courageux et fier. Il se dresse vaillamment devant ses ennemis même s'ils sont plus puissants.
+;[[Pokémon Argent SoulSilver]]
+:Très fidèle, il aboiera sans peur pour protéger son maître du danger qui le guette.
+;[[Pokémon Noir et Blanc]]
+:Un Pokémon très loyal. Il restera immobile jusqu'à ce que son [[Dresseur]] lui donne un ordre.
+;[[Pokémon Noir et Blanc 2]]
+:Un Pokémon très loyal. Il aboie dès que quelqu'un s'approche de trop près, et chasse les intrus.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-align="center"
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-align="center"
+| rowspan="3"|[[Rouge]] || rowspan="3" | || [[Route 7]] ||  || 
+|-align="center"
+| [[Route 8]] ||  ||
+|-align="center"
+| [[Manoir Pokémon]] ||  ||
+|-align="center"
+| [[Bleu]] || | Inexistant || Échange || || 
+|-align="center"
+|[[Jaune]] || || [[Manoir Pokémon]] ||  || 
+|}
+
+===[[Deuxième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-align="center"
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-align="center"
+| rowspan="4" |[[Or]] || rowspan="4" | || [[Route 7]] ||  || 
+|-align="center"
+| [[Route 8]] || ||
+|-align="center"
+| [[Route 36]] || ||
+|-align="center"
+| [[Route 37]] ||  || 
+|-align="center"
+| [[Pokémon Or et Argent|Argent]] || | Inexistant || Échange || || 
+|-align="center"
+|rowspan="4" |[[Cristal]] || rowspan="4" | || [[Route 8]] ||  || 
+|-align="center"
+|[[Route 35]] || ||
+|-align="center"
+|[[Route 36]] || ||
+|-align="center"
+|[[Route 37]] || ||
+|}
+
+===[[Troisième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-align="center"
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-align="center"
+| [[Rubis]] || | Inexistant || Échange || || 
+|-align="center"
+| [[Saphir]] || | Inexistant || Échange || || 
+|-align="center"
+| [[Pokémon Émeraude|Émeraude]] || | Inexistant || Échange || || 
+|-align="center"
+|rowspan="3"|[[Rouge Feu]] || rowspan="3"| || [[Route 7]] ||  || 
+|-align="center"
+|[[Route 8]] || ||
+|-align="center"
+|[[Manoir Pokémon]] || ||
+|-align="center"
+| [[Vert Feuille]] || | Inexistant || Échange || || 
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau  
+|-
+| [[Diamant et Perle]] || Commun || [[Route]]s [[Route 201|201]] et [[Route 202|202]] (insérer [[Pokémon Rouge Feu]]) || 5 
+|-
+| [[Platine]] || Commun || [[Route]]s [[Route 201|201]] et [[Route 202|202]]  (insérer [[Pokémon Rouge Feu]]) || 5
+|-
+| [[Or HeartGold]] || Peu commun || [[Route]]s [[Route 7 (Kanto)|7]], [[Route 8 (Kanto)|8]], [[Route 36|36]], [[Route 37|37]] et [[Route 48|48]] || 
+|-
+| [[Argent SoulSilver]] || Aucun ||Échange || 
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir2}}
+| rowspan="2" style="vertical-align: middle;" | Commun
+| rowspan="2" style="vertical-align: middle;" | Z.I. d'[[Ondes-sur-Mer]]
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc2}}
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Morsure|60|100|25}}
+{{Attaque|Départ|Hurlement|-|100|20}}
+{{Attaque|N.18|Flammèche|40|100|25}}
+{{Attaque|N.23|Groz'Yeux|-|100|30}}
+{{Attaque|N.30|Bélier|90|85|20}}
+{{Attaque|N.39|Hâte|-|-|30}}
+{{Attaque|N.50|Lance-Flamme|95|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Morsure|60|100|25}}
+{{Attaque|Départ|Hurlement|-|100|20}}
+{{Attaque|N.9|Flammèche|40|100|25}}
+{{Attaque|N.18|Groz'Yeux|-|100|30}}
+{{Attaque|N.26|Bélier|90|85|20}}
+{{Attaque|N.34|Roue de Feu|60|100|25}}
+{{Attaque|N.42|Hâte|-|-|30}}
+{{Attaque|N.50|Lance-Flamme|95|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|Départ|Hurlement|-|100|20|sang-froid|3|0}}
+{{Attaque-III|N.7|Flammèche|40|100|25|beauté|4|0}}
+{{Attaque-III|N.13|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.19|Flair|-|100|40|intelligence|3|0}}
+{{Attaque-III|N.25|Bélier|90|85|20|robustesse|6|0}}
+{{Attaque-III|N.31|Roue de Feu|60|100|25|beauté|4|0}}
+{{Attaque-III|N.37|Coup d'Main|-|100|20|intelligence|2|0}}
+{{Attaque-III|N.43|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.49|Lance-Flamme|95|100|15|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|Départ|Hurlement|-|100|20|sang-froid|2}}
+{{Attaque-IV|N.6|Flammèche|40|100|25|beauté|3}}
+{{Attaque-IV|N.9|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.14|Flair|-|-|40|intelligence|2}}
+{{Attaque-IV|N.17|Coup d'Main|-|-|20|intelligence|1}}
+{{Attaque-IV|N.20|Roue de Feu|60|100|25|beauté|2}}
+{{Attaque-IV|N.25|Contre|-|100|15|sang-froid|2}}
+{{Attaque-IV|N.28|Crocs Feu|65|95|15|beauté|3}}
+{{Attaque-IV|N.31|Bélier|90|85|20|robustesse|3}}
+{{Attaque-IV|N.34|Lance-Flamme|95|100|15|beauté|2}}
+{{Attaque-IV|N.39|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.42|Mâchouille|80|100|15|robustesse|2}}
+{{Attaque-IV|N.45|Canicule|100|90|10|beauté|2}}
+{{Attaque-IV|N.48|Boutefeu|120|100|15|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Morsure|60|100|25}}
+{{Attaque-V|Départ|Hurlement|-|100|20}}
+{{Attaque-V|N.6|Flammèche|40|100|25}}
+{{Attaque-V|N.9|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.12<sup>NB2</sup>|Coup d'Main|60|100|25}}
+{{Attaque-V|N.14|Flair|-|-|40}}
+{{Attaque-V|N.17<sup>NB</sup>|Coup d'Main|60|100|25}}
+{{Attaque-V|N.17<sup>NB2</sup>|Roue de Feu|60|100|25}}
+{{Attaque-V|N.20<sup>NB</sup>|Roue de Feu|60|100|25}}
+{{Attaque-V|N.21<sup>NB2</sup>|Crocs Feu|-|-|20}}
+{{Attaque-V|N.25|Contre|-|100|15}}
+{{Attaque-V|N.28<sup>NB</sup>|Crocs Feu|65|95|15}}
+{{Attaque-V|N.31|Rebondifeu|70|100|15}}
+{{Attaque-V|N.34|Bélier|90|85|20}}
+{{Attaque-V|N.39|Lance-Flamme|95|100|15}}
+{{Attaque-V|N.42|Hâte|-|-|30}}
+{{Attaque-V|N.45|Mâchouille|80|100|15}}
+{{Attaque-V|N.48|Vengeance|70|100|5}}
+{{Attaque-V|N.51|Canicule|100|90|10}}
+{{Attaque-V|N.56|Boutefeu|120|100|15}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=feu
+|sensib-acier=0.5
+|sensib-eau=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=2
+|rmq-feu=Lorsque la [[capacité spéciale]] [[Torche]] de '''{{PAGENAME}}''' est active, les attaques de type [[Feu]] ne produisent pas de dégâts sur lui.
+|rmq-feu-num=1
+|rmq-glace=Dans la [[génération I]], les attaques de type [[Glace]] avaient une efficacité normale contre les Pokémon de type [[Feu]].
+|rmq-glace-num=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=feu
+|PV=55
+|attaque=70
+|defense=45
+|atq-spc=70
+|def-spc=50
+|vitesse=60
+|special=50
+}}
+
+==Imagerie==
+{{Imagerie Pokémon
+| pokemon=Caninos
+| numero=058
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Caninos RB.png
+| forme=8
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Caninos n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasions :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Caninos|Caninos JEREMY]] (États-Unis)
+* '''2006'''
+** [[Liste des Pokémon distribués en 2006#Caninos|Caninos Gotta Catch'Em All]] (Japon)
+
+==Apparitions dans le [[dessin animé]]==
+
+Caninos est pour la première fois présenté dans [[Le Poké-marathon]].
+
+[[James]] possède un Caninos. Ce dernier se trouve chez les parents de James.
+
+De plus, un grand nombre d'[[Agent Jenny]] ont un Caninos comme assistant.
+
+[[Morrison]], un ami de [[Sacha]] possède aussi un Caninos 
+===Descriptions du [[Pokédex]]===
+;[[Épisode 33]]
+:{{PCap|Pok}}é{{PCap|mon}} Chiot. Obéissant, zélé et de compagnie agréable. Il éloigne ses ennemis en aboyant ou en mordant.
+;[[Épisode 54]]
+:Le Toutou {{PCap|Pok}}é{{PCap|mon}}. C'est un compagnon fidèle qui éloigne ses ennemis par ses aboiements et les dissuade par ses cuisantes [[Morsure]]s.
+;[[Épisode 619]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Chiot. {{PCap|Caninos}} est d'une grande loyauté et il ne bouge pas tant que son dresseur ne lui en  donne pas l'ordre.
+
+{{Ruban Pokémon
+| nomPrécédent=Colossinge
+| numéro=058
+| nom=Caninos
+| nomSuivant=Arcanin
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Feu]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/58| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Growlithe| ]]
+
+[[de:Fukano]]
+[[en:Growlithe (Pokémon)]]
+[[es:Growlithe]]
+[[it:Growlithe]]
+[[ja:ガーディ]]
+[[pl:Growlithe]]
+[[pt:Growlithe (pokémon)]]

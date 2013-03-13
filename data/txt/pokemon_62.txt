@@ -1,0 +1,351 @@
+{{Ruban Pokémon
+| nomPrécédent=Têtarte
+| numéro=062
+| nom=Tartard
+| nomSuivant=Abra
+}}
+{{Infobox Pokémon 
+| nom=Tartard
+| nomen=Poliwrath
+| nomja=ニョロボン
+| nomtm=Nyorobon
+| nomde=Quappo
+| légende=Artwork de Tartard pour {{RFVF}}
+| ndex=062
+| jdex=074
+| hdex=249
+| fdex=054
+| type1=Eau
+| type2=Combat
+| espece=Têtard
+| taille=1.3
+| poids=54.0
+| capspe1=Absorb Eau
+| capspe2=Moiteur
+| capspe3=Glissade
+| groupoeuf1=Eau 1
+| oeufpas=5120
+| effortval=+3 Déf.
+| expval=185
+| expmax=1059860
+| fmratio=.5 
+| captureval=45
+| couleur=Bleu
+| forme=12
+}}
+'''Tartard''' (anglais : '''Poliwrath''' ; japonais : '''ニョロボン''' ''Nyorobon'') est un [[Pokémon]] de [[type]] {{type|eau}} et {{type|combat}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Après que [[Ptitard]] a évolué en [[Têtarte]] à partir du [[niveau]] 25, il évolue en Tartard lorsqu'il est mis en contact avec une [[Pierre Eau]]. Ou s'il est échangé en tenant la Roche Royale, il évoluera en [[Tarpaud]].
+{{TableauEvolutionHaut|Eau|Ptitard|2}}
+{{TableauEvolutionSimple|Niveau 25|Têtarte|2}}
+{{TableauEvolutionConditionBranche/1|Avec une [[Pierre Eau]]|imageObjet=Miniat pierre eau dp.png}}
+{{TableauEvolutionConditionBranche|[[échange de Pokémon|Échange]] en tenant [[Roche Royale]]|imageObjet=Miniat roche royale dp.png}}
+{{TableauEvolutionBranche/1|Tartard}}
+{{TableauEvolutionBranche|Tarpaud}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Tartard peut disposer soit de la capacité [[Absorb Eau]], qui lui permet de récupérer un quart de ses [[PV]] lorsqu'il est touché par une attaque Eau, soit de la capacité [[Moiteur]], qui empêche les combattants de s'autodétruire.
+
+===Étymologies===
+
+* Français : vient de ''tétard'' et ''tarte'' (dans le sens "coup de poing") et/ou ''Tartare'' (dans le sens "qui applique des supplices")
+* Anglais : Poli- vient de polywag, un surnom pour tetard + Wrath(colère)
+* Allemand : vient de ''Kaulquappe''(têtard) et de ''Muskelprotz''(costaud)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Excellent nageur, il pratique le crawl ou la nage papillon mieux qu'un champion olympique.
+;[[Pokémon Jaune]]
+:Son corps très musclé lui permet de nager plus rapidement qu'un champion olympique.
+;[[Pokémon Stadium]]
+:Il est un puissant nageur, plus rapide qu'un champion humain. Il va vite et loin en respirant très peu.
+;[[Pokémon Or]]
+:Ce puissant nageur pourrait traverser l'Océan Pacifique en quelques battements de pieds.
+;[[Pokémon Argent]]
+:Nageur émérite se servant du moindre de ses muscles, il préfère cependant vivre sur la terre ferme.
+;[[Pokémon Cristal]]
+:Il peut, grâce à ses puissants membres, courir à la surface de l'eau pendant une demi-seconde.
+;[[Pokémon Rubis et Saphir]]
+:Les muscles solides et surdéveloppées de {{PCap|Tartard}} ne se fatiguent jamais, quels que soient les efforts qu'il produit. Ce {{PCap|Pok}}é{{PCap|mon}} est tellement infatigable qu'il peut traverser l'Océan Pacifique à la nage avec une étonnante facilité.
+;[[Pokémon Émeraude]]
+:Ses muscles solides et surdéveloppés ne se fatiguent jamais, quels que soient ses efforts. Il peut traverser les océans les plus grands avec une étonnante facilité.
+;[[Pokémon Rouge Feu]]
+:Il passe tout son temps à nager. Il connaît le crawl, la nage papillon et bien d'autres nages. Il est plus rapide que les plus grands champions humains.
+;[[Pokémon Vert Feuille]]
+:Excellent nageur, il pratique le crawl ou la nage papillon mieux qu'un champion olympique.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: {{PCap|Tartard}} lance de puissants jets d'eau avec une puissance extraordinaire.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Il possède de sacrés biscoteaux. Il peut parcourir sans relâche l'Océan Pacifique.
+;[[Pokémon Or HeartGold]]
+:Ce puissant nageur pourrait traverser l'Océan Pacifique en quelques battement de pieds.
+;[[Pokémon Argent SoulSilver]]
+:Nageur émérite se servant du moindre de ses muscles, il préfère cependant vivre sur la terre ferme.
+;[[Pokémon Noir et Blanc]]
+: Il possède de sacrés biscoteaux. Il peut parcourir sans relâche l'Océan Pacifique.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Têtarte]].
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Têtarte]].
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Têtarte]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer [[Têtarte]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Faire évoluer [[Têtarte]].
+|-
+| [[Cristal]] || Inexistant || Faire évoluer [[Têtarte]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Têtarte]].
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Têtarte]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Unique || À venir.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Têtarte]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Têtarte]].
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Veine Souterraine]], [[Antre d'Entraînement]], [[Route Victoire (Unys)|Route Victoire]], [[Grotte Cyclopéenne]]{{infobulle|*|Pêche dans les Tourbillons des Grottes}}
+| style="vertical-align:middle;" | 35-70
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Torgnoles|15|85|10}}
+{{Attaque|Départ|Plaquage|85|100|15}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Torgnoles|15|85|10}}
+{{Attaque|Départ|Plaquage|85|100|15}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|Départ|Danse Pluie|-|-|5}}
+{{Attaque|N.35|Sacrifice|80|80|25}}
+{{Attaque|N.51|Lire-Esprit|-|100|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|Départ|Hypnose|-|60|20|intelligence|1|3}}
+{{Attaque-III|Départ|Torgnoles|15|85|10|robustesse|2|1}}
+{{Attaque-III|Départ<br>N.35|Sacrifice|80|80|25|sang-froid|6|0}}
+{{Attaque-III|N.51|Lire-Esprit|-|100|5|intelligence|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Bulles d'O|65|100|20|beauté|2}}
+{{Attaque-IV|Départ|Hypnose|-|70%{{Sup|D}}{{Sup|P}}<br>60{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|20|intelligence|2}}
+{{Attaque-IV|Départ|Torgnoles|15|85|10|robustesse|2}}
+{{Attaque-IV|Départ|Sacrifice|80|80|25|sang-froid|3}}
+{{Attaque-IV|N.43|Dynamopoing|100|50|5|sang-froid|2}}
+{{Attaque-IV|N.53|Lire-Esprit|-|-|5|intelligence|1}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|N.27|Bulles d'O|65|100|20}}
+{{Attaque-V|Départ|Hypnose|-|60|20}}
+{{Attaque-V|Départ|Torgnoles|15|85|10}}
+{{Attaque-V|Départ|Sacrifice|80|80|25}}
+{{Attaque-V|N.32|Dynamopoing|100|50|5}}
+{{Attaque-V|N.43|Lire-Esprit|-|-|5}}
+{{Attaque-V|N.53|Projection|60|90|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=eau
+|sensib-acier=0.5
+|sensib-eau=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-insecte=0.5
+|sensib-plante=2
+|sensib-psy=2
+|sensib-roche=0.5
+|sensib-ténèbres=0.5
+|sensib-vol=2
+|rmq-eau=Lorsque la [[capacité spéciale]] [[Absorb Eau]] de '''{{PAGENAME}}''' est active, les attaques de type [[Eau]] ne produisent pas de dégâts sur lui.
+|rmq-eau-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=90
+|attaque=85
+|defense=95
+|atq-spc=70
+|def-spc=90
+|vitesse=70
+|special=70
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Tartard
+| numero=062
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Tartard RB.png
+| forme=12
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+La première apparition de Tartard se fait dans l'[[Épisode 105]], sous la coupe d'un dresseur qui vainc [[Sacha]] et [[Dracaufeu de Sacha|Dracaufeu]] lors d'un premier match, gelant ce dernier. Cela amène Dracaufeu à respecter Sacha en voyant ses efforts pour le sauver, et leur premier combat « ensemble » est une revanche fructueuse face à Tartard.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 105]]
+:{{PCap|Pok}}é{{PCap|mon}} Têtard. Excellent nageur. Importante masse de muscle, sa force de frappe est fulgurante.
+
+{{Ruban Pokémon
+| nomPrécédent=Têtarte
+| numéro=062
+| nom=Tartard
+| nomSuivant=Abra
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/62| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Poliwrath| ]]
+
+[[de:Quappo]]
+[[en:Poliwrath (Pokémon)]]
+[[es:Poliwrath]]
+[[it:Poliwrath]]
+[[ja:ニョロボン]]
+[[pl:Poliwrath]]
+[[pt:Poliwrath (pokémon)]]

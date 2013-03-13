@@ -1,0 +1,313 @@
+{{Ruban Pokémon
+| nomPrécédent=Goupix
+| numéro=038
+| nom=Feunard
+| nomSuivant=Rondoudou
+}}
+{{Infobox Pokémon 
+| nom=Feunard
+| nomen=Ninetales
+| nomja=キュウコン
+| nomtm=Kyukon
+| nomromaji=Kyūkon
+| nomde=Vulnona
+| légende=Artwork de Feunard, par Ken Sugimori pour {{RFVF}}
+| ndex=038
+| jdex=126
+| njdex=128
+| hdex=154
+| adex=172
+| odex=R-168
+| opdex=N-109
+| espece=Renard
+| taille=1.1
+| poids=19.9
+| fmratio=.75 
+| oeufpas=5120
+| effortval=+1 Vit. ; +1 Déf. Spé
+| type1=Feu
+| expval=178
+| expmax=1000000
+| captureval=75
+| groupoeuf1=Sol
+| capspe1=Torche
+| capspe1-desc=Les attaques Feu n'ont aucun effet sur ce Pokémon, et sont absorbées pour multiplier par 1,5 les capacités de ses propres attaques Feu.
+| couleur=Jaune
+| forme=8}}
+'''Feunard''' (anglais : '''Ninetales''' ; japonais : '''キュウコン''' ''Kyukon'') est un [[Pokémon]] de [[type]] [[Fichier:Type miniat feu.png|type=Feu]] de la [[première génération]]. C'est un renard possédant 9 queues, directement inspiré de la mythologie japonaise. 
+
+==À propos du Pokémon==
+
+===Physionomie et attitudes===
+Feunard est un grand renard couleur crème. Il possède neuf queues épaisses à l'extrémité orange et possédant des pouvoirs mystiques qui lui procurent notamment une longévité de 1000 ans. Il a les yeux rouges et de longs cheveux partent du sommet de sa tête. Ce quadrupède n'a pas de griffe apparente.
+
+====Différences mâle/femelle====
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====[[Chromatique]]====
+Lorsqu'il est chromatique, Feunard a un corps d'un teint violet argenté plutôt que blanc crème, tandis que les extrémités de ses multiples queues sont violets foncés (et non orange).
+
+===[[Évolution]]===
+Feunard est la forme évoluée de [[Goupix]]. Pour évoluer, il nécessite cependant l'utilisation d'une [[Pierre Feu]].
+{{TableauEvolutionHaut|Feu|Goupix}}
+{{TableauEvolutionSimple|Avec une [[Pierre Feu]]|imageObjet=Miniat pierre feu dp.png|Feunard}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+La capacité spéciale de Feunard est [[Torche]], ce qui lui permet d'être insensible face aux attaques [[Feu]], et de bénéficier d'une augmentation de la puissance de vos attaques [[Feu]] si l'adversaire en utilise une.
+
+Ainsi, votre Pokémon sera prémuni contre le type [[Feu]] ainsi que la brûlure.
+
+Cependant, aucun adversaire ne serait prêt à utiliser une attaque [[Feu]] contre un Pokémon de type [[Feu]], qui présente une résistance à son propre type. [[Torche]] peut donc éventuellement être utile en jeu si vous arrivez à placer Feunard lors d'une attaque feu…
+
+===Étymologies===
+
+* Français : ''Feunard'' provient de '''Feu''' et de Re'''nard'''.
+* Anglais : ''Ninetales'' vient de ''Nine'' et de ''Tales'', c'est-à-dire ''conte'' (jeu de mots entre ''Tales'' et ''Tails'' qui aurait été attendu pour décrire les neuf queues de Feunard)
+* Japonais : ''Kyūkon'' vient de Kyū qui veut dire "9". Il existe également dans la mythologie japonaise le [[:wp:Kyûbi|Kyūbi]], un renard à 9 queues (dont est inspiré ''Naruto'' par exemple).
+* Allemand : ''Vulnona'' provient des mots latin "Vulpes"(renard) et "nona"(neuvième)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Très intelligent et rancunier. Attrapez-lui une de ses queues et il vous maudira pour 1000 ans.
+;[[Pokémon Jaune]]
+: Selon la légende, 9 esprits se sont unis et incarnés dans ce {{PCap|Pok}}é{{PCap|mon}} mystérieux et magique.
+;[[Pokémon Stadium]]
+: Il est très féroce et revanchard. On dit qu'une malédiction de 1000 ans est infligée à qui s'amuserait à tirer l'une de ses queues.
+;[[Pokémon Or]]
+: Selon la légende, chacune de ses neuf queues possède un pouvoir magique, unique et spécial.
+;[[Pokémon Argent]]
+: Ses neufs magnifiques queues sont remplies d'une énergie incroyable lui assurant une vie de 1000 ans!
+;[[Pokémon Cristal]]
+: On dit qu'il vit 1000 ans et que chacune de ses queues a un pouvoir magique.
+;[[Pokémon Rubis]]
+: {{PCap|Feunard}} peut envoyer un inquiétant rayon avec ses yeux rouge vif pour prendre le contrôle de l'esprit de son ennemi. On raconte que ce {{PCap|Pok}}é{{PCap|mon}} peut vivre mille ans.
+;[[Pokémon Saphir]]
+: La légende raconte que {{PCap|Feunard}} est apparu lorsque neuf sorciers aux pouvoirs sacrés décidèrent de fusionner. Ce {{PCap|Pok}}é{{PCap|mon}} est très intelligent. Il comprend la langue des hommes.
+;[[Pokémon Émeraude]]
+: On raconte depuis longtemps que chacune de ses neufs queues possèe un pouvoir magique. Un {{PCap|Feunard}} très âgé se reconnaît à sa fourrure dorée.
+;[[Pokémon Rouge Feu]]
+: Il a neuf longues queues et une fourrure qui brille comme de l'or. On dit qu'il peut vivre 1 000 ans.
+;[[Pokémon Vert feuille]]
+: Il est très intelligent et rancunier. Attrapez-lui une de ses queues et il vous maudira pour 1 000 ans.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: On raconte que ses neuf queues détiennent un pouvoir mystique. Il peut vivre pendant mille ans.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il se protège à l'aide d'un anneau de feu spectral et crache un flot de flammes.
+;[[Pokémon Or HeartGold]]
+: Selon la légende, chacune de ses neuf queues possède un pouvoir magique, unique et spécial.
+;[[Pokémon Argent SoulSilver]]
+:Ses neuf{{Infobulle|s|La faute provient bien du jeu}} magnifiques queues sont remplies d'une énergie incroyable lui assurant une vie de 1 000 ans !
+;[[Pokémon Noir et Blanc]]
+: On raconte que ses neuf queues détiennent un pouvoir mystique. Il peut vivre pendant mille ans.
+
+==Localisations==
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Blanc}};" | {{Couleur lien|#000000|Blanc}} 
+| rowspan="2" style="vertical-align:middle;" | Rare
+| rowspan="2" style="vertical-align:middle;" | [[Autel Abondance]]
+| rowspan="2" style="vertical-align:middle;" | 50
+|-
+| style="background:{{Couleur|Noir}};" | {{Couleur lien|#FFFFFF|Noir}}
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|N.16|Vive-Attaque|40|100|30}}
+{{Attaque|N.21|Hurlement|-|100|20}}
+{{Attaque|N.42|Danseflamme|15|70|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|N.7|Vive-Attaque|40|100|30}}
+{{Attaque|N.25|Hurlement|-|100|20}}
+{{Attaque|N.37|Danseflamme|15|70|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Flammèche|40|100|25|beauté|4|0}}
+{{Attaque-III|Départ|Vive-Attaque|40|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ|Onde Folie|-|100|10|intelligence|3|0}}
+{{Attaque-III|Départ|Rune Protect|-|-|25|beauté|1|0}}
+{{Attaque-III|N.45|Danseflamme|15|70|15|beauté|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Machination|-|-|20|grâce|0}}
+{{Attaque-IV|Départ|Flammèche|40|100|25|beauté|3}}
+{{Attaque-IV|Départ|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|Départ|Onde Folie|-|100|10|intelligence|2}}
+{{Attaque-IV|Départ|Rune Protect|-|-|25|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Machination|-|-|20}}
+{{Attaque-V|Départ|Flammèche|40|100|25}}
+{{Attaque-V|Départ|Vive-Attaque|40|100|30}}
+{{Attaque-V|Départ|Onde Folie|-|100|10}}
+{{Attaque-V|Départ|Rune Protect|-|-|25}}
+{{Attaques apprises-bas}}
+
+===Par [[reproduction]]===
+
+;Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]
+:- [[Dépit]]
+:- [[Entrave]]
+:- [[Feinte]]
+:- [[Fléau]]
+:- [[Hypnose]]
+
+;Dans les jeux de [[troisième génération]]
+
+{| class="wikitable" style="text-align:center;"
+! colspan="9" | [[Génération III]]
+|-
+! [[Niveau]] || [[Attaque]] || [[Type]] || [[Puissance]] || [[Précision]] || [[PP]] || [[Concours Pokémon|Concours]] || [[Charme (concours)|Charme]] || [[Blocage]]
+|-
+|Evo Goupix || [[Feu Follet]] || [[Fichier:type miniat feu.png]] || - || 75% || 15 || {{type|beaute}} || ♥ || ♥♥♥♥
+|-
+|Evo Goupix || [[Onde Folie]] || [[Fichier:type miniat spectre.png]] || - || 100% || 10 || {{type|intelligence}} || ♥♥♥ || 0
+|-
+|Evo Goupix || [[Possessif]] || [[Fichier:type miniat psy.png]] || - || 100% || 10 || {{type|intelligence}} || ♥♥♥ || 0
+|-
+|Evo Goupix || [[Lance-Flamme]] || [[Fichier:type miniat feu.png]] || 95 || 100% || 15 || {{type|beaute}} || ♥♥♥♥ || 0
+|}
+
+:- [[Boost]]
+:- [[Canicule (attaque)|Canicule]]
+:- [[Dépit]]
+:- [[Entrave]]
+:- [[Feinte]]
+:- [[Fléau]]
+:- [[Grondement]]
+:- [[Hypnose]]
+
+;Dans [[Pokémon Diamant et Perle]]
+:- [[Boost]]
+:- [[Boutefeu]]
+:- [[Canicule (attaque)|Canicule]]
+:- [[Dépit]]
+:- [[Éco-Sphère]]
+:- [[Entrave]]
+:- [[Feinte]]
+:- [[Fléau]]
+:- [[Grondement]]
+:- [[Hypnose]]
+
+===Par [[Donneur de capacités]]===
+
+;Dans [[Pokémon Rouge Feu et Vert Feuille]]
+:- [[Clonage (attaque)|Clonage]]
+:- [[Copie]]
+:- [[Damoclès]]
+:- [[Plaquage]]
+
+;Dans [[Pokémon Émeraude]]
+:- [[Blabla Dodo]]
+:- [[Météores]]
+:- [[Ronflement]]
+:- [[Ténacité]]
+:- [[Vantardise]]
+
+==Sensibilités==
+
+{{Sensibilités
+|type=feu
+|sensib-acier=0.5
+|sensib-eau=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=2
+|rmq-feu=Lorsque la [[capacité spéciale]] [[Torche]] de '''Feunard''' est active, les attaques de type [[Feu]] ne produisent pas de dégâts sur lui.
+|rmq-feu-num=1
+|rmq-glace=Dans la [[génération I]], les attaques de type [[Glace]] avaient une efficacité normale contre les Pokémon de type [[Feu]].
+|rmq-glace-num=2
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=feu
+|PV=73
+|attaque=76
+|defense=75
+|atq-spc=81
+|def-spc=100
+|vitesse=100
+|special=100
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Feunard
+| numero=038
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Feunard RB.png
+| forme=8
+| pdm=oui
+| pinballRS=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Un Feunard est le centre d’intérêt de l'épisode [[Un seul être vous manque…]], où le Pokémon utilise ses mystérieux pouvoirs pour tenter de garder Pierre auprès de lui.
+Dans le film [[Mewtwo contre Mew]], Neesha possède un Feunard qui se fait ensuite cloner par Mewtwo.
+
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 58]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Renard. [[évolution|Forme évoluée]] du {{PCap|Pok}}é{{PCap|mon}} feu {{PCap|[[Goupix]]}}.
+;[[Épisode 169]]
+:{{PCap|Pok}}é{{PCap|mon}} Renard. [[évolution|Forme évoluée]] de {{PCap|Goupix}}. Il a neuf queues et une fourrure blond doré. Les {{PCap|Feunard}} vivent très très longtemps.
+;[[Épisode 232]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Renard. {{PCap|Feunard}} est la [[évolution|forme évoluée]] de {{PCap|Goupix}}. Chacune de ses queues a un pouvoir mystique diffèrent. 
+
+{{Ruban Pokémon
+| nomPrécédent=Goupix
+| numéro=038
+| nom=Feunard
+| nomSuivant=Rondoudou
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/38| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Ninetales| ]]
+
+[[de:Vulnona]]
+[[en:Ninetales (Pokémon)]]
+[[es:Ninetales]]
+[[it:Ninetales]]
+[[ja:キュウコン]]
+[[pl:Ninetales]]
+[[pt:Ninetales (pokémon)]]

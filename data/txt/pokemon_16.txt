@@ -1,0 +1,529 @@
+{{Ruban Pokémon
+| nomPrécédent=Dardargnan
+| numéro=016
+| nom=Roucool
+| nomSuivant=Roucoups
+}}
+{{Infobox Pokémon
+| nom=Roucool
+| nomen=Pidgey
+| nomja=ポッポ
+| nomtm=Poppo
+| nomde=Taubsi
+| légende=Artwork par Ken Sugimori
+| ndex=016
+| jdex=010
+| hdex=218
+| odex=R-001
+| opdex=N-007
+| espece=Minoiseau
+| taille=0.3
+| poids=1.8
+| fmratio=.500
+| couleur=Marron
+| oeufpas=3840
+| effortval=+1 Vit.
+| type1=Normal
+| type2=Vol
+| expval=55
+| expmax=1059860
+| captureval=255
+| groupoeuf1=Vol
+| capspe1=Regard vif
+| capspe2=Pied confus
+| capspe3=Cœur de Coq
+| forme=9}}
+<div style="text-align: justify;">
+
+'''Roucool''' (anglais : '''Pidgey''' ; japonais : '''ポッポ''' ''Poppo'') est un [[Pokémon]] de [[type]] {{type|normal}} et {{type|vol}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+Roucool est un Pokémon oiseau au corps plumé marron et blanc pâle. Son bec et ses pattes sont roses et puissants. Il a du noir sur les deux côtés de sa tête, ses "sourcils" sont blancs en plus de son ventre et de l'extrémité de ses ailes. Tout le reste de son corps est marron.
+
+Il possède aussi un crête marron et blanche sur la tête.
+C'est un Pokémon idéal pour les dresseurs débutants.
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, les teintes de l'ensemble du corps de Roucool tendent davantage vers le jaune qu'à l'ordinaire.
+
+===[[Évolution]]===
+
+Roucool évolue à partir du [[niveau]] 18 en [[Roucoups]], et ce dernier évolue en [[Roucarnage]] à partir du niveau 36.
+
+{{TableauEvolutionHaut|Normal|Roucool}}
+{{TableauEvolutionSimple|[[Niveau]] 18|Roucoups}}
+{{TableauEvolutionSimple|[[Niveau]] 36|Roucarnage}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Roucool peut avoir deux capacités spéciales :
+* [[Regard Vif]], qui empêche la diminution de la précision du Pokémon ;
+* [[Pied Confus]], qui augmentera d'un cran son esquive s'il est confus.
+
+===Étymologie===
+
+* Français : Roucool provient du terme « '''rou'''couler » et « '''cool''' ».
+* Anglais : ''Pidgey'' vient de ''Pigeon'', auquel le suffixe ''-ey'' a été rajouté pour donner un aspect « petit » et « mignon ». 
+* Allemand : ''Taubsi'' vient de ''Taube'' (pigeon), qui a subi des déformations similaires au nom anglais.
+
+===Descriptions du [[Pokédex]]===
+
+;[[Pokémon Rouge et Bleu]]
+: Il est souvent vu dans les forêts. Il brasse l'air de ses ailes près du sol pour projeter du sable.
+;[[Pokémon Jaune]]
+: De nature très docile, il préfère jeter du sable pour se défendre plutôt qu'attaquer.
+;[[Pokémon Stadium]]
+: Il évite les batailles la plupart du temps. De faibles ennemis succombent facilement à son attaque de {{PCap|[[Tornade]]}}.
+;[[Pokémon Or]]
+: Il se cache dans les hautes herbes. Il n'aime pas se battre. Il se défend en jetant du sable.
+;[[Pokémon Argent]]
+: Commun dans les forêts et les plaines, docile, il fait fuir ses ennemis en envoyant du sable.
+;[[Pokémon Cristal]]
+: Il bat vite des ailes au-dessus de l'herbe pour faire sortir tous les insectes.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Roucool}} a un excellent sens de l'orientation. Il est capable de retrouver son nid sans jamais se tromper, même s'il est très loin de chez lui et dans un environnement qu'il ne connaît pas.
+;[[Pokémon Émeraude]]
+: {{PCap|Roucool}} a un excellent sens de l'orientation. il retrouvera toujours son nid, même s'il est loin de chez lui et dans un environnement qu'il ne connaît pas.
+;[[Pokémon Rouge Feu]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} n'aime pas se battre, il se cache dans les hautes herbes à la recherche de petits insectes pour se nourrir.
+;[[Pokémon Vert Feuille]]
+: On l'aperçoit souvent dans les forêts. Il brasse l'air de ses ailes près du sol pour projeter du sable.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} docile préfère éviter le combat. Toutefois, il se montre très féroce quand on l'agresse.
+;[[Pokémon Or HeartGold]]
+:Il se cache dans les hautes herbes et n'aime pas se battre. Il se défend en jetant du sable.
+;[[Pokémon Argent SoulSilver]]
+:Commun dans les forêts et les plaines, docile, il fait fuir ses ennemis en envoyant du sable.
+;[[Pokémon Noir et Blanc]]
+: Ce Pokémon docile préfère éviter le combat. Toutefois, il se montre très féroce quand on l'agresse.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Vol}}; width:150px" | Version
+! style="background-color:{{Couleur|Vol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Vol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Vol}}; width:50px" | Niveau
+|-
+|-
+| [[Rouge]] || Courant || Un peu partout, notamment au début de l'aventure aux environs du [[Bourg Palette]] et de [[Jadielle]].
+|-
+| [[Bleu]] || Courant || Un peu partout, notamment au début de l'aventure aux environs du [[Bourg Palette]] et de [[Jadielle]].
+|-
+| [[Jaune]] || Courant || Un peu partout, notamment au début de l'aventure aux environs du [[Bourg Palette]] et de [[Jadielle]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Vol}}; width:150px" | Version
+! style="background-color:{{Couleur|Vol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Vol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Vol}}; width:50px" | Niveau
+|-
+|-
+| [[Or]] || Commun || Un peu partout de jour (remplacé la nuit par [[Hoothoot]]), notamment aux abords de [[Bourg Geon]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Un peu partout de jour (remplacé la nuit par [[Hoothoot]]), notamment aux abords de [[Bourg Geon]].
+|-
+| [[Cristal]] || Commun || Un peu partout de jour (remplacé la nuit par [[Hoothoot]]), notamment aux abords de [[Bourg Geon]].
+|}
+
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Vol}}; width:150px" | Version
+! style="background-color:{{Couleur|Vol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Vol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Vol}}; width:50px" | Niveau
+|-
+|-
+| [[Rubis]] || Inexistant || Remplacé par [[Nirondelle]]. À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Saphir]] || Inexistant || Remplacé par [[Nirondelle]]. À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || Remplacé par [[Nirondelle]]. À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Rouge Feu]] || Commun || Se balade dans de nombreuses routes, notamment en début de jeu.
+|-
+| [[Vert Feuille]] || Commun || Se balade dans de nombreuses routes, notamment en début de jeu.
+|-
+| [[Colosseum]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[XD]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Vol}}; width:150px" | Version
+! style="background-color:{{Couleur|Vol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Vol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Vol}}; width:50px" | Niveau
+|-
+|-
+| [[Diamant]] || Rare || [[Essaim de Pokémon]] [[Route 229]] ||
+|-
+| [[Perle]] || Rare ||[[Essaim de Pokémon]] [[Route 229]] ||
+|-
+| [[Pokémon Platine|Platine]] || Rare ||[[Essaim de Pokémon]] [[Route 229]] ||
+|-
+| [[Or HeartGold]] || Commun ||Routes [[Route 29|29]], [[Route 30|30]], [[Route 31|31]], [[Route 35|35]], [[Route 36|36]], [[Route 37|37]], [[Route 1 (Kanto)|1]], [[Route 2 (Kanto)|2]], [[Route 5|5]], [[Route 6|6]], [[Route 25|25]], [[Parc Naturel]] et [[Forêt de Jade]] ||
+|-
+| [[Argent SoulSilver]] || Commun ||Un peu partout de jour (remplacé la nuit par Hoothoot) ||
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Vol}}; width:150px" | Version
+! style="background-color:{{Couleur|Vol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Vol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Vol}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Blanc}};" | ''[[Pokémon Blanc]]''
+| style="vertical-align:middle;" | Variable 
+| style="vertical-align:middle;" | [[Forêt Blanche]] (à condition que Nestor soit dans la Forêt)
+| style="vertical-align:middle;" | 5
+|-
+| style="vertical-align:middle;" | {{NB}}
+| Inexistant
+| [[Dream World]] : Vaste Ciel
+| 10
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Tornade|40|100|35}}
+{{Attaque|N.5|Jet de Sable|-|100|15}}
+{{Attaque|N.12|Vive-Attaque|40|100|30}}
+{{Attaque|N.19|Cyclone|-|100|20}}
+{{Attaque|N.28|Cru-Aile|60|100|35}}
+{{Attaque|N.36|Hâte|-|-|30}}
+{{Attaque|N.44|Mimique|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.5|Jet de Sable|-|100|15}}
+{{Attaque|N.9|Tornade|40|100|35}}
+{{Attaque|N.15|Vive-Attaque|40|100|30}}
+{{Attaque|N.21|Cyclone|-|100|20}}
+{{Attaque|N.29|Cru-Aile|60|100|35}}
+{{Attaque|N.37|Hâte|-|-|30}}
+{{Attaque|N.47|Mimique|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|N.5|Jet de Sable|-|100|15|grâce|2|1}}
+{{Attaque-III|N.9|Tornade|40|100|35|intelligence|3|0}}
+{{Attaque-III|N.13|Vive-Attaque|40|100|30|sang-froid|3|0}}
+{{Attaque-III|N.19|Cyclone|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.25|Cru-Aile|60|100|35|sang-froid|2|0}}
+{{Attaque-III|N.31|Danse-Plume|-|100|15|beauté|2|0}}
+{{Attaque-III|N.39|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.47|Mimique|-|-|20|intelligence|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|N.5|Jet de Sable|-|100|15|grâce|2}}
+{{Attaque-IV|N.9|Tornade|40|100|35|intelligence|3}}
+{{Attaque-IV|N.13|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|N.17|Cyclone|-|100|20|intelligence|0}}
+{{Attaque-IV|N.21|Ouragan|40|100|20|sang-froid|3}}
+{{Attaque-IV|N.25|Danse-Plume|-|100|15|beauté|2}}
+{{Attaque-IV|N.29|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.33|Cru-Aile|60|100|35|sang-froid|3}}
+{{Attaque-IV|N.37|Atterrissage|-|-|10|sang-froid|0}}
+{{Attaque-IV|N.41|Vent Arrière|-|-|30|intelligence|2}}
+{{Attaque-IV|N.45|Mimique|-|-|20|intelligence|2}}
+{{Attaque-IV|N.49|Lame d'Air|75|95|20|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|N.5|Jet de Sable|-|100|15}}
+{{Attaque-V|N.9|Tornade|40|100|35}}
+{{Attaque-V|N.13|Vive-Attaque|40|100|30}}
+{{Attaque-V|N.17|Cyclone|-|100|20}}
+{{Attaque-V|N.21|Ouragan|40|100|20}}
+{{Attaque-V|N.25|Danse-Plume|-|100|15}}
+{{Attaque-V|N.29|Hâte|-|-|30}}
+{{Attaque-V|N.33|Cru-Aile|60|100|35}}
+{{Attaque-V|N.37|Atterrissage|-|-|10}}
+{{Attaque-V|N.41|Vent Arrière|-|-|30}}
+{{Attaque-V|N.45|Mimique|-|-|20}}
+{{Attaque-V|N.49|Lame d'Air|75|95|20}}
+{{Attaque-V|N.53|Vent Violent|120|70|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 04 || [[Cyclone]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Piqué]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Détection]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction (attaque)|Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| colspan="3" | ''A venir''
+|-
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| colspan="3" | ''A venir''
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+|}
+
+===Par [[reproduction]]===
+
+;Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]
+:- [[Aile d'Acier]]
+:- [[Clairvoyance]]
+:- [[Feinte]]
+:- [[Poursuite]]
+
+;Dans les jeux de [[troisième génération]]
+:- [[Aile d'Acier]]
+:- [[Clairvoyance]]
+:- [[Feinte]]
+:- [[Poursuite]]
+:- [[Tranch'Air]]
+
+;Dans [[Pokémon Diamant et Perle]]
+:- [[Aile d'Acier]]
+:- [[Brouhaha]]
+:- [[Clairvoyance]]
+:- [[Feinte]]
+:- [[Lame d'Air]]
+:- [[Poursuite]]
+:- [[Rapace]]
+:- [[Tranch'Air]]
+
+===Par [[Donneur de capacités]]===
+
+;Dans [[Pokémon Rouge Feu et Vert Feuille]]
+:- [[Clonage (attaque)|Clonage]]
+:- [[Copie]]
+:- [[Damoclès]]
+
+;Dans [[Pokémon Émeraude]]
+:- [[Blabla Dodo]]
+:- [[Coud'Boue]]
+:- [[Météores]]
+:- [[Ronflement]]
+:- [[Ténacité]]
+:- [[Vantardise]]
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-électrique=2
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=0
+|sensib-spectre=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''Roucool''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est normale.
+|rmq-sol-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=normal
+|PV=40
+|attaque=45
+|defense=40
+|atq-spc=35
+|def-spc=35
+|vitesse=56
+|special=35
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Roucool
+| numero=016
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Roucool RB.png
+| forme=9
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_4G-fm=non
+| pinballRB-gif=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+
+Roucool apparaît très tôt dans l'anime, c'est-à-dire dès le premier épisode même. Il s'agit du premier Pokémon sauvage que [[Sacha]] rencontrera. Le [[Pokédex]] de [[Sacha]] décrit Roucool comme un Pokémon docile et idéal pour une première capture. Notre "héros" tentera donc de se faire la main sur celui-ci. Mais sa tentative tourne vite au calvaire, car, abandonné par [[Pikachu de Sacha|Pikachu]], Sacha tente d'abord (sans réussite) de lancer directement une [[Poké Ball]] sur Roucool, avant d'attaquer par lui-même. Mais il comprendra vite pourquoi les humains utilisent des Pokémon pour se battre et ne frappent pas eux-mêmes des Pokémon. En effet, il essuye coup sur coup une attaque [[Tornade]] et [[Jet de Sable]], le tout couvert par les éclats de rire de [[Pikachu]].
+
+<center><gallery style="text-align:center">
+Fichier:Episode 1 - Roucool serres.png|Un étrange prédateur...
+Fichier:Episode 1 - Sacha t-shirt.png|La capture la plus bizarre de son genre.
+Fichier:Episode 1 - Sacha Tornade.png|Frappé par une [[Tornade]]...
+Fichier:Episode 1 - Sacha Jet de Sable.png|...et un [[Jet de Sable]].
+</gallery></center>
+
+Roucool est donc une grande star du dessin animé : c'est le premier Pokémon à avoir humilié Sacha (le premier d'une longue série).
+
+[[Fichier:Episode 211 2.jpg|thumb|right]]
+Roucool apparaît de nombreuses fois, notamment dans deux épisodes :
+* l'épisode ''[[Alerte au Bourg Palette]]'', où Sacha finit par abandonner son [[Roucarnage]], qui se dévoue à la protection d'une colonie de Roucool et de [[Roucoups]] ;
+* l'épisode ''[[Jusqu'à la Lune]]'' se déroulant sur l'île des dodus Roucool, où le Pokégroupe rencontre des Roucool « obèses », devenus incapables de voler.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 1]]
+:Les {{PCap|[[Roucool]]}} sont des {{PCap|Pok}}é{{PCap|mon}} volants. De tous les {{PCap|Pok}}é{{PCap|mon}} volants, ce sont les plus dociles et les plus faciles à capturer. Ils sont idéaux pour tester la dextérité des apprentis dresseurs.
+
+:La [[Tornade]] est une des attaques de {{PCap|[[Roucool]]}}; ainsi que l'attaque [[Jet de sable]]. 
+
+{{Ruban Pokémon
+| nomPrécédent=Dardargnan
+| numéro=016
+| nom=Roucool
+| nomSuivant=Roucoups
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/16| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Pidgey| ]]
+
+[[de:Taubsi]]
+[[en:Pidgey (Pokémon)]]
+[[es:Pidgey]]
+[[it:Pidgey]]
+[[ja:ポッポ]]
+[[pl:Pidgey]]
+[[pt:Pidgey (pokémon)]]

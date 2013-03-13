@@ -1,0 +1,350 @@
+{{Ruban Pokémon
+| nomPrécédent=Élektek
+| numéro=126
+| nom=Magmar
+| nomSuivant=Scarabrute
+}}
+{{Infobox Pokémon
+| nom=Magmar
+| nomen=Magmar
+| nomja=ブーバー
+| nomtm=Boober
+| nomromaji=Būbā
+| nomde=Magmar
+| légende=Artwork de Magmar pour {{RFVF}}
+| ndex=126
+| jdex=151
+| njdex=153
+| hdex=284
+| sdex=201
+| fdex=137
+| adex=074
+| odex=R-188
+| opdex=N-075
+| espece=Crache-feu
+| taille=1.3
+| poids=44.5
+| fmratio=.25 
+| oeufpas=6400
+| effortval=+2 Att. Spé
+| type1=Feu
+| expval=127
+| expmax=1000000
+| captureval=45
+| groupoeuf1=Humanoïde
+| capspe1=Corps Ardent
+| capspe2=Esprit Vital
+| capspe2-reve=oui
+| couleur=Rouge
+| forme=6
+}}
+'''Magmar''' (anglais : '''Magmar''' ; japonais : '''ブーバー''' ''Boober'') est un [[Pokémon]] de [[type]] {{type|feu}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Magmar a le corps rose et non rouge.
+
+===[[Évolution]]===
+[[Magby]] évolue en Magmar à partir du [[niveau]] 30. Ce dernier évolue ensuite en [[Maganon]] s'il est échangé en tenant l'objet [[Magmariseur]].
+{{TableauEvolutionHaut|Feu|Magby}}
+{{TableauEvolutionSimple|Niveau 30|Magmar}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]] en tenant [[Magmariseur]]|imageObjet=Miniat magmariseur dp.png|Maganon}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+* Français : ''Magma'' + ''Canard'' (sans doute à cause de son bec).
+* Anglais : ''Magma'' + ''Nightmare'' (Cauchemar)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Son corps en fusion brûle d'une flamme orangée le rendant invisible dans le feu.
+;[[Pokémon Jaune]]
+:Né dans un volcan en fusion, son corps est recouvert de flammes, comme une boule de feu.
+;[[Pokémon Stadium]]
+:Avec un corps atteignant les 2200 degrés, ce {{PCap|Pok}}é{{PCap|mon}} est constamment en feu. Il vit près des volcans en activité.
+;[[Pokémon Or]]
+:Il n'aime pas les endroits froids. Il façonne son nid avec son souffle de feu selon ses convenances.
+;[[Pokémon Argent]]
+:La surface ardente de son corps émet des éclats de lumière aussi puissants que ceux du soleil.
+;[[Pokémon Cristal]]
+:Il aime les milieux chauds. Il peut soigner ses blessures en les trempant dans de la lave.
+;[[Pokémon Rubis et Saphir]]
+:Lorsqu'il se bat, {{PCap|Magmar}} fait jaillir des flammes de son corps pour intimider son adversaire. Les explosions enflammées de ce {{PCap|Pok}}é{{PCap|mon}} déclenchent des vagues de chaleur qui embrasent la végétation environnante.
+;[[Pokémon Émeraude]]
+:Lorsqu'il se bat, il fait jaillir des flammes de son corps pour intimider son adversaire et déclencher des vagues de chaleur qui embrasent la végétation environnante.
+;[[Pokémon Rouge Feu]]
+:On trouve ce {{PCap|Pok}}é{{PCap|mon}} près des bouches de volcans. Son corps incandescent atteint 1 200 degrés.
+;[[Pokémon Vert Feuille]]
+:Son corps en fusion brûle d'une flamme orangée, le rendant invisible dans le feu.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Magmar}} crache du feu. Il peut facilement faire fondre la Ferraille.
+;[[Pokémon Diamant et Perle]]
+:Il est né au milieu d'un volcan. Son corps est couvert de flammes qui flambent comme un soleil.
+;[[Pokémon Ranger 2]]
+:Il génère des flammes et crache des boules de feu.
+;[[Pokémon Platine]]
+:Quand il respire profondément, des vagues de chaleur émanent de son corps et le rendent difficile à voir.
+;[[Pokémon Or HeartGold]]
+:Il n'aime pas les endroits froids. Il façonne son nid à sa convenance avec son souffle de feu.
+;[[Pokémon Argent SoulSilver]]
+:La surface ardente de son corps émet des éclats de lumière aussi puissants que ceux du soleil.
+;[[Pokémon Noir et Blanc]]
+:Quand il respire profondément, des vagues de chaleur émanent de son corps et le rendent difficile à voir.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Rouge}};"|{{Couleur lien|#000000|Rouge}}|| Inexistant  || échange
+|-
+| style="background:{{Couleur|Bleu}};"|{{Couleur lien|#000000|Bleu}} || Rare  || [[Manoir Pokémon]]
+|-
+| style="background:{{Couleur|Jaune}};"|{{Couleur lien|#000000|Jaune}} || Inexistant || échange
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Or}};"|{{Couleur lien|#000000|Pokémon Or et Argent|Or}} 
+| rowspan="2" style="vertical-align: middle;" | Rare 
+| rowspan="2" style="vertical-align: middle;" | [[Tour Cendrée]]
+|-
+| style="background:{{Couleur|Argent}};"|{{Couleur lien|#000000|Pokémon Or et Argent|Argent}}
+|-
+| style="background:{{Couleur|Cristal}};"|{{Couleur lien|#000000|Pokémon Cristal|Cristal}} || Rare || [[Tour Cendrée]], [[Grotte Argentée]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Rubis}};"|{{Couleur lien|#000000|Rubis}}
+| rowspan="3" style="vertical-align: middle;" | Inexistant
+| rowspan="3" style="vertical-align: middle;" | échange
+|-
+| style="background:{{Couleur|Saphir}};"|{{Couleur lien|#000000|Saphir}}
+|-
+| style="background:{{Couleur|Émeraude}};"|{{Couleur lien|#000000|Émeraude}}
+|-
+| style="background:{{Couleur|RF}};"|{{Couleur lien|#000000|Rouge Feu}} || Inexistant || échange
+|-
+| style="background:{{Couleur|VF}};"|{{Couleur lien|#000000|Vert Feuille}} || Rare || [[Mont Braise]]
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Diamant}};"|{{Couleur lien|#000000|Diamant}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant 
+| rowspan="2" style="vertical-align: middle;" | évolution ou échange
+|-
+| style="background:{{Couleur|Perle}};"|{{Couleur lien|#000000|Perle}}
+|-
+| style="background:{{Couleur|Platine}};"|{{Couleur lien|#000000|Platine}} || Rare || [[Forge Fuego]]
+|-
+| style="background:{{Couleur|HG}};"|{{Couleur lien|#000000|Pokémon OA|Or HeartGold}} 
+| rowspan="2" style="vertical-align: middle;" | Rare 
+| rowspan="2" style="vertical-align: middle;" | [[Tour Cendrée]] ou [[Parc Safari (Johto)|Parc Safari]]
+|-
+| style="background:{{Couleur|SS}};"|{{Couleur lien|#000000|Argent SoulSilver}}
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align:middle;" | Inexistant 
+| rowspan="2" style="vertical-align: middle;" | Faire évoluer [[Magby]]
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|N.36|Groz'Yeux|-|100|30}}
+{{Attaque|N.39|Onde Folie|-|100|10}}
+{{Attaque|N.43|Poing de Feu|75|100|15}}
+{{Attaque|N.48|Brouillard|-|100|20}}
+{{Attaque|N.52|Purédpois|20|70|20}}
+{{Attaque|N.55|Lance-Flamme|95|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Poing de Feu|75|100|15}}
+{{Attaque|Départ|Purédpois|20|70|20}}
+{{Attaque|N.25|Brouillard|-|100|20}}
+{{Attaque|N.33|Zénith|-|-|5}}
+{{Attaque|N.41|Lance-Flamme|95|100|15}}
+{{Attaque|N.49|Onde Folie|-|100|10}}
+{{Attaque|N.57|Déflagration|120|85|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Flammèche|40|100|25|beauté|4|0}}
+{{Attaque-III|Départ<br>N.7|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ<br>N.13|Purédpois|20|70|20|robustesse|1|3}}
+{{Attaque-III|Départ<br>N.19|Poing de Feu|75|100|15|beauté|4|0}}
+{{Attaque-III|N.25|Brouillard|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.33|Zénith|-|-|5|beauté|1|0}}
+{{Attaque-III|N.41|Lance-Flamme|95|100|15|beauté|4|0}}
+{{Attaque-III|N.49|Onde Folie|-|100|10|intelligence|3|0}}
+{{Attaque-III|N.57|Déflagration|120|85|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Purédpois|20|70|20|robustesse|3}}
+{{Attaque-IV|Départ|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|Départ<br>N.7|Flammèche|40|100|25|beauté|3}}
+{{Attaque-IV|N.10|Brouillard|-|100|20|intelligence|2}}
+{{Attaque-IV|N.16|Feinte|60|-|20|intelligence|2}}
+{{Attaque-IV|N.19|Danseflamme|15|70|15|beauté|0}}
+{{Attaque-IV|N.25|Onde Folie|-|100|10|intelligence|2}}
+{{Attaque-IV|N.28|Poing de Feu|75|100|15|beauté|2}}
+{{Attaque-IV|N.36|Ébullilave|80|100|15|robustesse|2}}
+{{Attaque-IV|N.41|Lance-Flamme|95|100|15|beauté|2}}
+{{Attaque-IV|N.49|Zénith|-|-|5|beauté|2}}
+{{Attaque-IV|N.54|Déflagration|120|85|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Purédpois|20|70|20}}
+{{Attaque-V|Départ|Groz'Yeux|-|100|30}}
+{{Attaque-V|Départ<br>N.6|Flammèche|40|100|25}}
+{{Attaque-V|N.11|Brouillard|-|100|20}}
+{{Attaque-V|N.16|Feinte|60|-|20}}
+{{Attaque-V|N.21|Danseflamme|35|85|15}}
+{{Attaque-V|N.26|Onde Folie|-|100|10}}
+{{Attaque-V|N.32|Rebondifeu|70|100|15}}
+{{Attaque-V|N.38|Poing de Feu|75|100|15}}
+{{Attaque-V|N.44|Ébullilave|80|100|15}}
+{{Attaque-V|N.47<sup>NB2</sup>|Zénith|-|-|5}}
+{{Attaque-V|N.50|Lance-Flamme|95|100|15}}
+{{Attaque-V|N.56<sup>NB</sup>|Zénith|-|-|5}}
+{{Attaque-V|N.62|Déflagration|120|85|5}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=feu
+|sensib-acier=0.5
+|sensib-eau=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=2
+|rmq-glace=Dans la [[génération I]], les attaques de type [[Glace]] avaient une efficacité normale contre les Pokémon de type [[Feu]].
+|rmq-glace-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=feu
+|PV=65
+|attaque=95
+|defense=57
+|atq-spc=100
+|def-spc=85
+|vitesse=93
+|special=85
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Magmar
+| numero=126
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Magmar RB.png
+| forme=6
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Magmar a été [[Pokémon évènementiel|distribué de manière évènementielle]] en trois occasions : 
+* '''2006'''
+** [[Liste des Pokémon distribués durant la campagne Gotta Catch 'Em All#Magmar|Gotta Catch 'Em All - Série 3]] (Japon)
+** [[Liste des Pokémon distribués en 2006#Magmar Festa|Magmar Festa]] (Japon)
+* '''2010'''
+** [[Liste des Pokémon distribués en 2010#Magmar|Magmar Trade for Evolution]] (japon)
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Auguste]], le champion de [[Cramois'île]], a un Magmar dans son équipe.
+
+Deux rivaux de [[Sacha]] ont un Magmar : [[Régis]] et [[Paul]].
+
+Régis utilise le sien contre le [[Scarhino de Sacha]] durant la [[Conférence Argentée]].
+
+[[Maganon de Paul|Celui de Paul]] évolue en Maganon dans la saison 12, durant la période située entre le match 6vs6 contre Brandon à Frimapic et celui contre Sacha près du lac Savoir.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 58]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Crache-feu. Son corps est une fournaise qui fait de {{PCap|Magmar}} un véritable enfer vivant. On ne le trouve que près des volcans en activité.
+
+{{Ruban Pokémon
+| nomPrécédent=Élektek
+| numéro=126
+| nom=Magmar
+| nomSuivant=Scarabrute
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon évoluant en tenant un objet]]
+[[Catégorie:Pokémon évoluant lors d'un échange]]
+[[Catégorie:Pokémon évoluant en tenant un objet lors d'un échange]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/126| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Magmar| ]]
+
+[[de:Magmar]]
+[[en:Magmar (Pokémon)]]
+[[es:Magmar]]
+[[it:Magmar]]
+[[ja:ブーバー]]
+[[pl:Magmar]]
+[[pt:Magmar (pokémon)]]

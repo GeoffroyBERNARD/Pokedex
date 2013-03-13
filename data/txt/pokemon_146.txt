@@ -1,0 +1,462 @@
+{{Ruban Pokémon
+| nomPrécédent=Électhor
+| numéro=146
+| nom=Sulfura
+| nomSuivant=Minidraco
+}}
+{{Infobox Pokémon
+| nom=Sulfura
+| nomen=Moltres
+| nomja=ファイヤー
+| nomtm=Fire
+| nomromaji=Faiyā
+| nomde=Lavados
+| légende=Artwork de Sulfura pour {{RFVF}}
+| ndex=146
+| jdex=237
+| njdex=242
+| hdex=301
+| odex=R-300
+| espece=Flamme
+| taille=2.0
+| poids=60.0
+| oeufpas=20480
+| type1=Feu
+| type2=Vol
+| expval=217
+| effortval=+3 Att. Spé
+| expmax=1250000
+| captureval=3
+| groupoeuf1=Sans œuf
+| capspe1=Pression
+| capspe2=Corps Ardent
+| capspe2-reve=oui
+| couleur=Jaune
+| fmratio=-1
+| forme=9
+}}
+'''Sulfura''' (anglais : '''Moltres''' ; japonais : '''ファイヤー''' ''Fire''), l'oiseau [[légendaire]] de feu, est l'un des trois [[Pokémon]] composant le [[trio légendaire]] de [[Kanto]] et de la [[première génération]]. Il est de [[type]] {{type|feu}} et {{type|vol}}.
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Ce Pokémon est [[légendaire]] et asexué, il n'y a donc pas de Sulfura mâle ou femelle.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Sulfura a un corps rosâtre.
+
+=== [[Évolution]] ===
+
+Sulfura est un [[Pokémon légendaire]]. Il n'a donc pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===[[Capacité spéciale]]===
+
+Sulfura a pour capacité spéciale [[Pression]], qui amène l'adversaire à consommer deux [[PP]] au lieu d'un à chaque fois qu'il utilise une attaque.
+
+===Étymologies===
+* Français : vient de sulfure (élément dérivé du soufre) + Ra (dieu égyptien du soleil)
+* Anglais : de ''molten'' (en fusion) et ''tres'' (trois en espagnol)
+* Japonais : vient de l'anglais ''fire'' (feu)
+* Allemand : vient de ''Lava'' (lave) et de ''dos'' suffixe donné aux oiseaux légendaires
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Le légendaire oiseau de feu. Une pluie de flammes surgit à chaque battement de ses ailes.
+;[[Pokémon Jaune]]
+:Quand ce {{PCap|Pok}}é{{PCap|mon}} légendaire agite ses ailes de feu, même la nuit noire s'embrase et rougeoie.
+;[[Pokémon Stadium]]
+:Un Pokémon légendaire connu sous le nom de "oiseau de feu". En plein vol, ses ailes laissent une trace de flammes dans le ciel.
+;[[Pokémon Or]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} légendaire sème des braises à chaque battement d'aile. Il est très impressionnant.
+;[[Pokémon Argent]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} oiseau légendaire annonce un printemps précoce aux régions qu'il visite.
+;[[Pokémon Cristal]]
+:{{PCap|Pok}}é{{PCap|mon}} oiseau légendaire. Il migre du sud au printemps.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Sulfura}} est un {{PCap|Pok}}é{{PCap|mon}} oiseau légendaire capable de contrôler le feu. On raconte que lorsque ce {{PCap|Pok}}é{{PCap|mon}} est blessé, il se baigne dans le magma en ébullition d'un volcan pour se soigner.
+;[[Pokémon Émeraude]]
+:C'est un {{PCap|Pok}}é{{PCap|mon}} oiseau légendaire qui peut contrôler le feu. On raconte que lorsqu'il est blessé, il se baigne dans un volcan en ébullition pour se soigner.
+;[[Pokémon Rouge Feu]]
+:Il est l'un des {{PCap|Pok}}é{{PCap|mon}} oiseaux légendaires. Tout ceux qui l'aperçoivent sont subjugués par ses ailes oranges qui semblent être en feu.
+;[[Pokémon Vert Feuille]]
+:Le légendaire oiseau du feu. Une pluie de flammes surgit à chaque battement de ses ailes.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:L'un des {{PCap|Pok}}é{{PCap|mon}} Oiseaux légendaires. On dit que sa venue annonce l'arrivée du printemps.
+;[[Pokémon Or HeartGold]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} légendaire sème des braises à chaque battement d'ailes. Sa beauté fait fondre les gens.
+;[[Pokémon Argent SoulSilver]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} Oiseau légendaire annonce un printemps précoce aux régions qu'il visite.
+;[[Pokémon Ranger : Sillages de Lumière]]
+:Crée des colonnes de flammes et allume des brasiers. 
+;[[Pokémon Noir et Blanc]]
+:L'un des Pokémon Oiseaux légendaires. On dit que sa venue annonce l'arrivée du Printemps.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| {{RB}} || rowspan="2" style="vertical-align: middle;"| Unique || rowspan="2" style="vertical-align: middle;"| [[Route Victoire]] || rowspan="2" style="vertical-align: middle;"| N. 50
+|-
+| ''[[Pokémon Jaune]]''
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| {{OA}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RBJ}} grâce au [[bloc temporel]].
+|-
+| ''[[Pokémon Cristal]]''
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| {{RS}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. || rowspan="2" style="vertical-align: middle;"| -
+|-
+| ''[[Pokémon Émeraude]]''
+|-
+| {{RFVF}} || Unique || [[Mont Braise]] sur l'[[Île 1]] des [[Îles Sevii|Archipel Sevii]] || N. 50
+|-
+| ''[[Pokémon Colosseum]]'' ||Inexistant || À échanger depuis {{RFVF}}. || -
+|-
+| ''[[Pokémon XD]]'' ||Unique || Appartient à Leader Ombre Malafid à la fin du jeu. || N. 50
+|-
+| ''[[Pokémon Donjon Mystère : Équipe De Secours Rouge et Bleue|Pokémon Donjon Mystère]]'' || Unique || [[Mont Ardent-Pic]] || N. 32
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| {{DP}} || Inexistant || À transférer par le biais du [[Parc des Amis]], ou échange avec {{OHAS}} || - 
+|-
+| ''[[Pokémon Platine]]'' || rowspan="2" style="vertical-align: middle;"| Unique || style="vertical-align: middle;"| Rencontre au hasard dans [[Sinnoh]] après obtention du [[Pokédex National]] et ouverture du [[Parc des Amis]] || style="vertical-align: middle;"| N. 60
+|-
+| {{HGSS}} || style="vertical-align: middle;"| [[Grotte Argentée]] || style="vertical-align: middle;"| N. 50
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align: middle;" | À transférer par [[PokéFret]].
+|-
+| ''[[Super Pokémon Rumble]]''
+| style="vertical-align:middle;" | Unique
+| style="vertical-align: middle;" | 1<sup>er</sup> sous-sol du pilier : secteur volcanique
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Danseflamme|15|70|15}}
+{{Attaque|N.51|Groz'Yeux|-|100|30}}
+{{Attaque|N.55|Hâte|-|-|30}}
+{{Attaque|N.60|Piqué|140|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Cru-Aile|60|100|35}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|N.13|Danseflamme|15|70|15}}
+{{Attaque|N.25|Hâte|-|-|30}}
+{{Attaque|N.37|Ténacité|-|-|10}}
+{{Attaque|N.49|Lance-Flamme|95|100|15}}
+{{Attaque|N.61|Rune Protect|-|-|25}}
+{{Attaque|N.73|Piqué|140|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Cru-Aile|60|100|35|sang-froid|2|0}}
+{{Attaque-III|Départ|Flammèche|40|100|25|beauté|4|0}}
+{{Attaque-III|N.13|Danseflamme|15|70|15|beauté|3|0}}
+{{Attaque-III|N.25|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.37|Ténacité|-|-|10|robustesse|2|0}}
+{{Attaque-III|N.49|Lance-Flamme|95|100|15|beauté|4|0}}
+{{Attaque-III|N.61|Rune Protect|-|-|25|beauté|1|0}}
+{{Attaque-III|N.73|Canicule|100|90|10|beauté|4|0}}
+{{Attaque-III|N.85|Piqué|140|90|5|sang-froid|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Cru-Aile|60|100|35|sang-froid|3}}
+{{Attaque-IV|Départ|Flammèche|40|100|25|beauté|3}}
+{{Attaque-IV|N.8|Danseflamme|15|70|15|beauté|0}}
+{{Attaque-IV|N.15|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.22|Ténacité|-|-|10|robustesse|2}}
+{{Attaque-IV|N.29|Pouv. Antique|60|100|5|robustesse|2}}
+{{Attaque-IV|N.36|Lance-Flamme|95|100|15|beauté|2}}
+{{Attaque-IV|N.43|Rune Protect|-|-|25|beauté|2}}
+{{Attaque-IV|N.50|Lame d'Air|75|95|20|sang-froid|2}}
+{{Attaque-IV|N.57|Atterrissage|-|-|10|sang-froid|0}}
+{{Attaque-IV|N.64|Canicule|100|90|10|beauté|2}}
+{{Attaque-IV|N.71|Lance-Soleil|120|100|10|sang-froid|1}}
+{{Attaque-IV|N.78|Piqué|140|90|5|sang-froid|1}}
+{{Attaque-IV|N.85|Zénith|-|-|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Cru-Aile|60|100|35}}
+{{Attaque-V|Départ|Flammèche|40|100|25}}
+{{Attaque-V|N.8|Danseflamme|35|85|15}}
+{{Attaque-V|N.15|Hâte|-|-|30}}
+{{Attaque-V|N.22|Ténacité|-|-|10}}
+{{Attaque-V|N.29|Pouv. Antique|60|100|5}}
+{{Attaque-V|N.36|Lance-Flamme|95|100|15}}
+{{Attaque-V|N.43|Rune Protect|-|-|25}}
+{{Attaque-V|N.50|Lame d'Air|75|95|20}}
+{{Attaque-V|N.57|Atterrissage|-|-|10}}
+{{Attaque-V|N.64|Canicule|100|90|10}}
+{{Attaque-V|N.71|Lance-Soleil|120|100|10}}
+{{Attaque-V|N.78|Piqué|140|90|5}}
+{{Attaque-V|N.85|Zénith|-|-|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 04 || [[Cyclone]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Piqué]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 05 || [[Hurlement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Rune Protectrice]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21|| [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27|| [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[lance-Flamme]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 50 || [[Surchauffe]] || [[Fichier:type miniat feu.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+Sulfura ne peut pas se reproduire.
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=feu
+|sensib-combat=0.5
+|sensib-eau=2
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-acier=0.5
+|sensib-insecte=0.25
+|sensib-plante=0.25
+|sensib-roche=4
+|sensib-sol=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est de x2.
+|rmq-sol-num=1
+|rmq-glace=Dans la [[génération I]], les attaques de type [[Glace]] avaient une efficacité normale contre les Pokémon de type [[Feu]], ce qui donne pour '''{{PAGENAME}}''' une sensibilité double, du fait de son type [[Vol (type)|Vol]].
+|rmq-glace-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=feu
+|PV=90
+|attaque=100
+|defense=90
+|atq-spc=125
+|def-spc=85
+|vitesse=90
+|special=125
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Sulfura
+| numero=146
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Sulfura RB.png
+| forme=9
+| pdm=oui
+| pinballRB-gif=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+Sulfura n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasion à l'heure actuelle :
+* '''2006'''
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Journey Across America|Sulfura 10 ANIV]] (États-Unis)
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Party of the Decade - Bryant Park, New York|Sulfura 10 ANIV (Bryant Park)]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+
+Sulfura apparaît dans l'[[épisode 74]] pour protéger la flamme de la [[Ligue Pokémon]] que convoite la [[Team Rocket (trio)|Team Rocket]], ainsi que dans le deuxième film, ''[[Le pouvoir est en toi]]'', et l'épisode spécial Hoso 18.
+
+On peut également noter que dans l'[[épisode 157]], James est persuadé que Sulfura est son signe d'horoscope Pokémon, ce qui l'amène à devenir le temps que dure cette croyance un homme décidé et sûr de lui, arrivant même à se faire obéir de son [[Empiflor de James|Empiflor]] sans se faire dévorer.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 74]]
+:Est un {{PCap|Pok}}é{{PCap|mon}} mythique. Ses qualités ont inspiré l'esprit qui guide la compétition de la Ligue Pokémon.
+;[[Hoso 18]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Légendaire Flamme. Sa puissance de feu est si grande qu'un souffle de lui peut amener le printemps dans les contrées les plus froides.
+
+== Anecdotes ==
+*Sulfura présente deux similarités avec [[Terrakium]]. Il fait partie d'un [[trio légendaire]], se trouve sur la [[Route Victoire (Kanto)|Route Victoire]] dans les premiers jeux de son apparition et dans un lieu différent dans les jeux suivants.
+
+{{légendaire|gén=1}}
+
+{{Ruban Pokémon
+| nomPrécédent=Électhor
+| numéro=146
+| nom=Sulfura
+| nomSuivant=Minidraco
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon asexué]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/146| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Moltres| ]]
+
+[[de:Lavados]]
+[[en:Moltres (Pokémon)]]
+[[es:Moltres]]
+[[it:Moltres]]
+[[ja:ファイヤー]]
+[[pl:Moltres]]
+[[pt:Moltres (pokémon)]]

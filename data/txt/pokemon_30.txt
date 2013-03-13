@@ -1,0 +1,381 @@
+{{Ruban Pokémon
+| nomPrécédent=Nidoran♀
+| numéro=030
+| nom=Nidorina
+| nomSuivant=Nidoqueen
+}}
+{{Infobox Pokémon 
+| nom=Nidorina
+| nomen=Nidorina
+| nomja=ニドリーナ
+| nomtm=Nidorina
+| nomromaji=Nidorīna
+| nomde=Nidorina
+| légende=Artwork de Nidorina pour {{RFVF}}
+| ndex=030
+| jdex=096
+| hdex=228
+| espece=Venepic
+| taille=0.8
+| poids=20.0
+| fmratio=1 
+| oeufpas=5120 
+| effortval=+2 PV 
+| type1=Poison
+| expval=117
+| expmax=1059860
+| captureval=120
+| groupoeuf1=Sans œuf
+| capspe1=Point Poison
+| capspe2=Rivalité
+| capspe3=Agitation
+| couleur=Bleu
+| forme=8
+}}
+'''Nidorina''' (anglais : '''Nidorina''' ; japonais : '''ニドリーナ''' ''Nidorina'') est un [[Pokémon]] de [[type]] {{type|poison}} de la [[première génération]]. Elle est la première [[évolution]] de [[Nidoran♀]].
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+Nidorina est un Pokémon femelle au corps bleu tirant vers le blanc. Il possède des taches bleues foncé sur ses pattes arrières en plus de piques hérissant son dos. Ses yeux sont rouges et il a deux grandes oreilles bleu foncé et bleu clair.
+
+Il est muni de deux canines mais n'a pas de moustaches, contrairement à sa pré-évolution ; il a trois griffes à chaque patte.
+
+====Différences mâle/femelle====
+
+Cette espèce est composée uniquement d'individus femelles.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Nidorina a la peau rose/violacée et non bleue et l'intérieur des oreilles vert.
+
+===[[Évolution]]===
+Nidorina est l'évolution à partir du [[niveau]] 16 de [[Nidoran♀]], et évolue en [[Nidoqueen]] lorsqu'il (ou plutôt elle) est mise en contact avec une [[Pierre Lune]].
+
+{{TableauEvolutionHaut|Poison|Nidoran♀}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Nidorina}}
+{{TableauEvolutionSimple|Avec une [[Pierre Lune]]|imageObjet=Miniat pierre lune dp.png|Nidoqueen}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Tout comme les Nidoran♀, les Nidorina peuvent avoir l'une des 2 capacités spéciales suivantes :
+*'''[[Point Poison]]''', qui peut causer un empoisonnement à l'ennemi s'il utilise une attaque de contact ;
+*'''[[Rivalité]]''', qui augmente l'attaque du Pokémon de 50% si son adversaire est du même sexe, mais la diminuera s'il est du sexe opposé.
+
+=== Étymologies ===
+* Français : '''Nidor'''an = ''aiguille'' en Japonais et '''-a''', terminaison désignant le genre féminin dans certaines langues comme l'italien ou l'espagnol.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:La corne de la femelle grandit lentement. Elle préfère attaquer avec ses griffes et sa gueule.
+;[[Pokémon Jaune]]
+:Caché au fond de son terrier, ses cornes se rétractent. C'est la preuve qu'il est au repos.
+;[[Pokémon Stadium]]
+: La femelle est habituellement docile mais une fois enragée, elle attaquera sans cesse à grands coups de griffes et de dents.
+;[[Pokémon Or]]
+:Pour nourrir ses petits, il mâche les aliments pour les rendre tendres et il les recrache à ses bébés.
+;[[Pokémon Argent]]
+:De nature calme et affectueuse,il préfère éviter les combats car sa corne grandit lentement.
+;[[Pokémon Cristal]]
+:Il est de nature docile. S'il se sent menacé, il dresse les pics qui couvrent son corps.
+;[[Pokémon Rubis et Saphir]]
+:Lorsqu'un {{PCap|Nidorina}} est avec ses amis ou sa famille, il replie ses pointes pour ne pas blesser ses proches. Ce {{PCap|Pok}}é{{PCap|mon}} devient vite nerveux lorsqu'il est séparé de son groupe.
+;[[Pokémon Émeraude]]
+:Lorsqu'un {{PCap|Nidorina}} est avec ses amis ou sa famille, il replie ses pointes pour ne pas blesser ses proches. Il devient vite nerveux lorsqu'il est séparé de son groupe. 
+;[[Pokémon Rouge Feu]]
+:La femelle à un tempérament doux. Elle émet des cris ultrasoniques capables de déstabiliser ses ennemis.
+;[[Pokémon Vert Feuille]]
+:Les cornes de la femelle poussent lentement. Elle préfère griffer ou mordre pour attaquer.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} dresse ses piquants en cas de danger. Ils poussent moins vite que ceux de {{PCap|[[Nidorino]]}}.
+;[[Pokémon Or HeartGold]]
+:Pour nourrir ses petits, il mâche les aliments pour les rendre tendres et il recrache à ses bébés.
+;[[Pokémon Argent SoulSilver]]
+:De nature calme et affectueuse, il préfère éviter les combats car sa corne grandit lentement.
+;[[Pokémon Noir et Blanc]]
+:Ce Pokémon dresse ses piquants en cas de danger. Ils poussent moins vite que ceux de [[Nidorino]].
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Rare || [[Parc Safari]]
+|-
+| [[Bleu]] || Commun || [[Parc Safari]]
+|-
+| [[Jaune]] || Commun || Routes [[Route 9|9]], [[Route 23|23]] et [[Parc Safari]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]]
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]]
+|-
+| [[Cristal]] || Commun || Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Rare || [[Parc Safari]]
+|-
+| [[Vert Feuille]] || Peu commun || [[Parc Safari]]
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Diamant]] || rowspan="2" style="vertical-align: middle;" |Rare ([[Pokéradar]] uniquement) || [[Route 221]] || N. 29 || 20% (avec le [[Pokéradar]])
+|-
+| [[Lac Courage]] || N. 21-22 || 20% (avec le [[Pokéradar]])
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Perle]] ||  rowspan="2" style="vertical-align: middle;" |Rare ([[Pokéradar]] uniquement) || [[Route 221]] || N. 30 || 2% (avec le [[Pokéradar]])
+|-
+| [[Lac Courage]] || N. 22 || 2% (avec le [[Pokéradar]])
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:150px" | Version
+! style="background-color:{{Couleur|Poison}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Nidoran♀]]
+| style="vertical-align:middle;" | 16
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|N.14{{Sup|R}}{{Sup|B}}<br>N.19{{Sup|J}}|Dard-Venin|15|100|35}}
+{{Attaque|N.23{{Sup|R}}{{Sup|B}}<br>N.27{{Sup|J}}|Mimi-Queue|-|100|30}}
+{{Attaque|N.36|Morsure|60|100|25}}
+{{Attaque|N.41{{Sup|R}}{{Sup|B}}<br>N.46{{Sup|J}}|Combo-Griffe|18|80|15}}
+{{Attaque|N.50{{Sup|R}}{{Sup|B}}<br>Départ{{Sup|J}}|Double Pied|30|100|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Double Pied|30|100|30}}
+{{Attaque|N.19|Dard-Venin|15|100|35}}
+{{Attaque|N.27|Mimi-Queue|-|100|30}}
+{{Attaque|N.32|Morsure|60|100|25}}
+{{Attaque|N.46|Combo-Griffe|18|80|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|N.8|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|N.12|Double Pied|30|100|30|sang-froid|2|0}}
+{{Attaque-III|N.18|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|N.22|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.26|Coup d'Main|-|100|20|intelligence|2|0}}
+{{Attaque-III|N.34|Combo-Griffe|18|80|15|robustesse|2|1}}
+{{Attaque-III|N.43|Flatterie|-|100|15|intelligence|2|0}}
+{{Attaque-III|N.53|Mâchouille|80|100|15|robustesse|1|4}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|N.7|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|N.9|Double Pied|30|100|30|sang-froid|2}}
+{{Attaque-IV|N.13|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|N.20|Combo-Griffe|18|80|15|robustesse|2}}
+{{Attaque-IV|N.23|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.28|Coup d'Main|-|100|20|intelligence|1}}
+{{Attaque-IV|N.35|Pics Toxik|-|-|20|intelligence|2}}
+{{Attaque-IV|N.38|Flatterie|-|100|15|intelligence|2}}
+{{Attaque-IV|N.43|Mâchouille|80|100|15|robustesse|2}}
+{{Attaque-IV|N.50|Séduction|-|100|20|beauté|2}}
+{{Attaque-IV|N.58|Crochetvenin|50|100|15|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|N.7|Mimi-Queue|-|100|30}}
+{{Attaque-V|N.9|Double Pied|30|100|30}}
+{{Attaque-V|N.13|Dard-Venin|15|100|35}}
+{{Attaque-V|N.20|Combo-Griffe|18|80|15}}
+{{Attaque-V|N.23|Morsure|60|100|25}}
+{{Attaque-V|N.28|Coup d'Main|-|100|20}}
+{{Attaque-V|N.35|Pics Toxik|-|-|20}}
+{{Attaque-V|N.38|Flatterie|-|100|15}}
+{{Attaque-V|N.43|Mâchouille|80|100|15}}
+{{Attaque-V|N.50|Séduction|-|100|20}}
+{{Attaque-V|N.58|Crochetvenin|50|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-combat=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-sol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison]] -donc sur Nidorina- dans la [[première génération]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=poison
+|PV=70
+|attaque=62
+|defense=67
+|atq-spc=55
+|def-spc=55
+|vitesse=56
+|special=55
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Nidorina
+| numero=030
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Nidorina RB.png
+| forme=8
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+On a l'occasion d'apercevoir brièvement un troupeau de Nidorina dans l'[[Épisode 33]].
+
+Dans l'[[Épisode 100]], les deux Nidoran amoureux évoluent en [[Nidorino]] et Nidorina après s'être donnés un baiser. [[Blanche (Johto)|Blanche]], la championne de Doublonville, en possède également un dans le dessin animé 
+ 
+===Descriptions du [[Pokédex]]===
+;[[Épisode 100]]
+:{{PCap|Pok}}é{{PCap|mon}} vénépic. [[évolution|forme évoluée]] de la femelle {{PCap|[[Nidoran♀|Nidoran]]}}. Ce {{PCap|Pok}}é{{PCap|mon}} émet des [[Ultrason]] qui déstabilisent ses adversaires. 
+
+{{Ruban Pokémon
+| nomPrécédent=Nidoran♀
+| numéro=030
+| nom=Nidorina
+| nomSuivant=Nidoqueen
+}}
+
+[[Catégorie:Pokémon uniquement femelle]]
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Lune]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/30| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Nidorina| ]]
+
+[[de:Nidorina]]
+[[en:Nidorina (Pokémon)]]
+[[es:Nidorina]]
+[[it:Nidorina]]
+[[ja:ニドリーナ]]
+[[pl:Nidorina]]
+[[pt:Nidorina (pokémon)]]

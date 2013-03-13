@@ -1,0 +1,353 @@
+{{Ruban Pokémon
+| nomPrécédent=Aquali
+| numéro=135
+| nom=Voltali
+| nomSuivant=Pyroli
+}}
+{{Infobox Pokémon
+| nom=Voltali
+| nomen=Jolteon
+| nomja=サンダース
+| nomtm=Thunders
+| nomromaji=Sandāsu
+| nomde=Blitza
+| légende=Artwork de Voltali dans {{RFVF}}
+| ndex=135
+| jdex=182
+| njdex=186
+| hdex=290
+| sdex=165
+| fdex=185
+| adex=099
+| odex=R-077
+| opdex=N-056
+| espece=Orage
+| taille=0.8
+| poids=24.5
+| fmratio=.125 
+| oeufpas=8960
+| effortval=+2 Vit.
+| type1=Électrique
+| expval=197
+| expmax=1000000
+| captureval=45
+| groupoeuf1=Sol
+| capspe1=Absorb Volt
+| capspe2=Pied Véloce
+| capspe2-reve=oui
+| couleur=Jaune
+| forme=8}}
+'''Voltali''' (anglais : '''Jolteon''' ; japonais : '''サンダース''' ''Thunders'') est un [[Pokémon]] de [[type]] {{type|électrique}} de la [[première génération]] et l'une des [[évolution]]s possibles d'[[Évoli]].
+
+==À propos du Pokémon==
+===Physionomie===
+Voltali est capable de maîtriser un flux d'énergie électrique dépassant les 10 000 volts, il court à une vitesse impressionnante et laisse parfois s'échapper des éclairs en pleine course. Lorsqu'il attaque, il a pour habitude d'envoyer un assaut de dards électrifiés qui proviennent de sa fourrure.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Voltali est l'une des multiples évolution d'[[Évoli]], en utilisant sur lui une [[Pierre Foudre]].
+{{TableauEvolutionHaut|Normal|Évoli|8}}
+{{TableauEvolutionConditionBranche/1|Avec une [[Pierre Eau]]|imageObjet=Miniat pierre eau dp.png}}
+{{TableauEvolutionConditionBranche|Avec une [[Pierre Foudre]]|imageObjet=Miniat pierre foudre dp.png}}
+{{TableauEvolutionConditionBranche|Avec une [[Pierre Feu]]|imageObjet=Miniat pierre feu dp.png}}
+{{TableauEvolutionConditionBranche|[[Bonheur]], Jour}}
+{{TableauEvolutionConditionBranche|[[Bonheur]], Nuit}}
+{{TableauEvolutionConditionBranche|Près d'une [[Pierre Mousse]] + gagne un niveau}}
+{{TableauEvolutionConditionBranche|Près d'une [[Pierre Glacée]] + gagne un niveau}}
+{{TableauEvolutionConditionBranche|Inconnu}}
+{{TableauEvolutionBranche/1|Aquali}}
+{{TableauEvolutionBranche|Voltali}}
+{{TableauEvolutionBranche|Pyroli}}
+{{TableauEvolutionBranche|Mentali}}
+{{TableauEvolutionBranche|Noctali}}
+{{TableauEvolutionBranche|Phyllali}}
+{{TableauEvolutionBranche|Givrali}}
+{{TableauEvolutionBranche|Nymphali}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+[[Absorb Volt]] lui permet de récupérer des [[PV]] s'il est touché par une attaque de type Électrique.
+
+[[Pied Véloce]], sa capacité du Dream World, multiplie la vitesse par 1,5 si le Pokémon est affecté par une [[altération d'état|statut]] tel que la brûlure, l'empoisonnement ou la paralysie.
+
+===Étymologies===
+
+* Français : de Volt, l'unité de mesure de la tension électrique (dont le nom est issu du physicien italien Volta), et -li, suffixe commun aux évolutions d'[[Évoli]].
+* Anglais : de Jolt, un soudain sentiment l'électricité dans son corps, et -eon, le suffixe commun aux évolutions d'Évoli en anglais.(Vaporeon, Flareon, Umbreon, etc.)
+* Japonais : de ''Thunder'' (en anglais, ''Tonnerre''), prononcé ''Sanda'' par les japonais.
+* Allemand : ''Blitz'' signifie éclair, foudre en allemand.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il se charge délectricité statique pour envoyer des décharges de 1000 volts.
+;[[Pokémon Jaune]]
+:Un {{PCap|Pok}}é{{PCap|mon}} très sensible et lunatique. Il se charge en énergie selon son humeur.
+;[[Pokémon Stadium]]
+:Ses attaques sont des décharges de 10.000 volts et des coups de poil piquant. Sa fourrure peut percer certains ennemis.
+;[[Pokémon Or]]
+:Il concentre la charge électrique créée dans chacune de ses cellules pour projeter un éclair.
+;[[Pokémon Argent]]
+:Chaque poil sur son corps se dresse quand il se charge en électricité.
+;[[Pokémon Cristal]]
+:Les ions négatifs contenus dans sa fourrure créent un sifflement continu et strident.
+;[[Pokémon Rubis et Saphir]]
+:Les cellules de {{PCap|Voltali}} génèrent un courant de faible intensité. Ce pouvoir est amplifié par l'électricité statique de ses poils, ce qui lui permet d'envoyer des éclairs. Sa fourrure hérissée est faite d'aiguilles chargées d'électricité.
+;[[Pokémon Émeraude]]
+:Ses cellules génèrent un courant de faible intensité, amplifié par l'électricité statique de sa fourrure faite d'aiguilles électrisées. Il peut envoyer des éclairs.
+;[[Pokémon Rouge Feu]]
+:S'il est irrité ou attaqué, toute la fourrure de son corps se dresse comme des aiguilles pour percer ses ennemis.
+;[[Pokémon Vert Feuille]]
+:Il se charge d'électricité statique pour envoyer des décharges de 10 000 volts.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Voltali}} est une clé du mystère du Temple de [[Fiore]]. Il attaque avec des éclairs.
+;[[Pokémon Diamant et Perle]]
+: Il contrôle une puissance de 10 000 volts. Il peut hérisser sa fourrure comme s'il s'agissait de piquants.
+;[[Pokémon Ranger 2]]
+:Il attaque en générant des décharges électriques avec tout son corps.
+;[[Pokémon Platine]]
+:Face au danger, il fait appel à l'électricité pour dresser ses poils et lancer des échardes.
+;[[Pokémon Or HeartGold]]
+:Il concentre la charge électrique créée dans chacune de ses cellules pour projeter un éclair.
+;[[Pokémon Argent SoulSilver]]
+:Chaque poil sur son corps se dresse quand il se charge en électricité.
+;[[Pokémon Noir et Blanc]]
+:Face au danger, il fait appel à l'électricité pour dresser ses poils et lancer des décharges.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|-
+| [[Cristal]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+|-
+| [[Rubis]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Saphir]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|-
+| [[Colosseum]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[XD]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|-
+| [[Pokémon Platine|Platine]] || Inexistant || Faire évoluer [[Évoli]] à l'aide d'une [[Pierre Foudre]].
+|}
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Jet de Sable|-|100|15}}
+{{Attaque|N.27|Vive-Attaque|40|100|30}}
+{{Attaque|N.31|Éclair|40|100|30}}
+{{Attaque|N.37|Mimi-Queue|-|100|30}}
+{{Attaque|N.40{{Sup|R}}{{Sup|B}}<br>N.42{{Sup|J}}|Cage-Éclair|-|100|20}}
+{{Attaque|N.42{{Sup|R}}{{Sup|B}}<br>N.30{{Sup|J}}|Double Pied|30|100|30}}
+{{Attaque|N.44{{Sup|R}}{{Sup|B}}<br>N.47{{Sup|J}}|Hâte|-|-|30}}
+{{Attaque|N.48{{Sup|R}}{{Sup|B}}<br>N.36{{Sup|J}}|Dard-Nuée|14|85|20}}
+{{Attaque|N.54{{Sup|R}}{{Sup|B}}<br>N.52{{Sup|J}}|Fatal-Foudre|120|70|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|N.8|Jet de Sable|-|100|15}}
+{{Attaque|N.16|Éclair|40|100|30}}
+{{Attaque|N.23|Vive-Attaque|40|100|30}}
+{{Attaque|N.30|Double Pied|30|100|30}}
+{{Attaque|N.36|Dard-Nuée|14|85|20}}
+{{Attaque|N.42|Cage-Éclair|-|100|20}}
+{{Attaque|N.47|Hâte|-|-|30}}
+{{Attaque|N.52|Fatal-Foudre|120|70|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ|Coup d'Main|-|100|20|intelligence|2|0}}
+{{Attaque-III|N.8|Jet de Sable|-|100|15|grâce|2|1}}
+{{Attaque-III|N.16|Éclair|40|100|30|sang-froid|4|0}}
+{{Attaque-III|N.23|Vive-Attaque|40|100|30|sang-froid|3|0}}
+{{Attaque-III|N.30|Double Pied|30|100|30|sang-froid|2|0}}
+{{Attaque-III|N.36|Dard-Nuée|14|85|20|sang-froid|2|1}}
+{{Attaque-III|N.42|Cage-Éclair|-|100|20|sang-froid|2|1}}
+{{Attaque-III|N.47|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.52|Fatal-Foudre|120|70|10|sang-froid|2|2}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|Départ|Coup d'Main|-|-|20|intelligence|1}}
+{{Attaque-IV|N.8|Jet de Sable|-|100|15|grâce|2}}
+{{Attaque-IV|N.15|Éclair|40|100|30|sang-froid|3}}
+{{Attaque-IV|N.22|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|N.29|Double Pied|30|100|30|sang-froid|2}}
+{{Attaque-IV|N.36|Dard-Nuée|14|85|20|sang-froid|2}}
+{{Attaque-IV|N.43|Crocs Éclair|65|95|15|intelligence|3}}
+{{Attaque-IV|N.50|Dernierecour|130|100|5|grâce|0}}
+{{Attaque-IV|N.57|Cage-Éclair|-|100|20|sang-froid|2}}
+{{Attaque-IV|N.64|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.71|Fatal-Foudre|120|70|10|sang-froid|2}}
+{{Attaque-IV|N.78{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Coup d'Jus|80|100|15|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ|Coup d'Main|-|-|20}}
+{{Attaque-V|N.8|Jet de Sable|-|100|15}}
+{{Attaque-V|N.15|Éclair|40|100|30}}
+{{Attaque-V|N.22|Vive-Attaque|40|100|30}}
+{{Attaque-V|N.29|Double Pied|30|100|30}}
+{{Attaque-V|N.36|Dard-Nuée|14|85|20}}
+{{Attaque-V|N.43|Crocs Éclair|65|95|15}}
+{{Attaque-V|N.50|Dernierecour|140|100|5}}
+{{Attaque-V|N.57|Cage-Éclair|-|100|20}}
+{{Attaque-V|N.64|Hâte|-|-|30}}
+{{Attaque-V|N.71|Fatal-Foudre|120|70|10}}
+{{Attaque-V|N.78|Coup d'Jus|80|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+
+===Par [[reproduction]]===
+
+Voltali ne peut être directement obtenu par reproduction, mais peut logiquement récupérer via son évolution toutes les attaques apprises par reproduction de [[Évoli]].
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=électrique
+|sensib-acier=0.5
+|sensib-électrique=0.5
+|sensib-sol=2
+|sensib-vol=0.5
+|rmq-électrique='''{{PAGENAME}}''' possédant la [[capacité spéciale]] [[Absorb Volt]], les attaques de type [[Électrique]] n'ont aucun effet sur lui
+|rmq-électrique-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=électrique
+|PV=65
+|attaque=65
+|defense=60
+|atq-spc=110
+|def-spc=95
+|vitesse=130
+|special=110
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Voltali
+| numero=135
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Voltali RB.png
+| forme=8
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| almia=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+C'est dans l'[[épisode 40]] qu'un Voltali apparaît pour la première fois.
+
+Durant son match d'arène contre [[Tanguy]], [[Sacha]] combat un Voltali.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 101]]
+:{{PCap|Pok}}é{{PCap|mon}} Foudre. S'il est effrayé ou en colère, ses pointes se transforment en aiguilles qu'il projette sur ses ennemis. Il absorbe les atomes chargées et peut produire jusqu'à dix-mille volts.
+
+{{Ruban Pokémon
+| nomPrécédent=Aquali
+| numéro=135
+| nom=Voltali
+| nomSuivant=Pyroli
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/135| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Jolteon| ]]
+
+[[de:Blitza]]
+[[en:Jolteon (Pokémon)]]
+[[es:Jolteon]]
+[[it:Jolteon]]
+[[ja:サンダース]]
+[[pl:Jolteon]]
+[[pt:Jolteon (pokémon)]]

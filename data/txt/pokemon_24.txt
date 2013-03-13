@@ -1,0 +1,667 @@
+{{Ruban Pokémon
+| nomPrécédent=Abo
+| numéro=024
+| nom=Arbok
+| nomSuivant=Pikachu
+}}
+{{Infobox Pokémon 
+| nom=Arbok
+| nomen=Arbok
+| nomja=アーボック
+| nomromaji=Ābokku
+| nomtm=Arbok
+| nomde=Arbok
+| légende=Artwork par Ken Sugimori
+| ndex=024
+| jdex=051
+| hdex=226
+| fdex=152
+| espece=Cobra
+| taille=3.5
+| poids=65.0
+| fmratio=.5
+| oeufpas=5120 
+| effortval=+1 Att.
+| type1=Poison
+| expval=147
+| expmax=1000000
+| captureval=90
+| groupoeuf1=Sol
+| groupoeuf2=Dragon
+| capspe1=Intimidation (capacité spéciale){{!}}Intimidation
+| capspe2=Mue
+| capspe3=Tension
+| couleur=Violet
+| forme=2}}
+'''Arbok''' (anglais : '''Arbok''' ; japonais : '''アーボック''' ''Arbok'') est un [[Pokémon]] de [[type]] {{type|poison}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+Arbok est un Pokémon cobra au corps écailleux violet tirant vers le gris. Il a une excroissance au niveau du cou sur laquelle est dessiné un visage servant à effrayer les ennemis. Ses yeux sont noirs et il possède une longue langue fourchue. Contrairement à sa pré-évolution, ce Pokémon est très rarement peureux, mais agressif et fier.
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, les teintes de l'ensemble du corps d'Arbok tendent davantage vers le jaune et le doré qu'à l'ordinaire, mis à part les parties rouges des ocelles et l'intérieur de la bouche qui sont bleues et les démarcations des ocelles qui restent noires.
+
+===[[Évolution]]===
+Arbok est l'évolution d'[[Abo]] à partir du [[niveau]] 22.
+
+{{TableauEvolutionHaut|Poison|Abo}}
+{{TableauEvolutionSimple|[[Niveau]] 22|Arbok}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+*[[Intimidation (capacité spéciale)|Intimidation]] : quand le Pokémon arrive en jeu, l'attaque du Pokémon adverse diminue ;
+*[[Mue]] : à chaque tour, ce Pokémon à 1 chance sur 3 d'être soigné de ses [[statut|altérations de statut]].
+*[[Tension]] : l'adversaire ne peut plus manger de baies. (Pokémon Dream World)
+
+===Étymologies===
+* Français, anglais, allemand : [[:wp:Verlan|verlan]] phonétique ('''k''' au lieu de c) de C'''obra'''.
+* Japonais : verlan phonétique de ''Kobura'' (cobra)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Les motifs féroces peints sur son corps changent selon son environnement.
+;[[Pokémon Jaune]]
+: Des études menées sur les motifs effrayants de son corps ont révélé six variations différentes.
+;[[Pokémon Stadium]]
+: Devant un ennemi, il dresse la tête et intimide l'adversaire de par les dessins effrayants parcourant son corps.
+;[[Pokémon Or]]
+: Hypnotisant sa victime avec les motifs dessinés sur son ventre, il peut ensuite l'empoisonner.
+;[[Pokémon Argent]]
+: De nature revancharde, il n'abandonne jamais sa proie lorsqu'il a décidé de la prendre en chasse.
+;[[Pokémon Cristal]]
+: Pour apeurer ses ennemis, il gonfle sa poitrine et émet d'étranges sons avec sa bouche.
+;[[Pokémon Rubis et Saphir]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} doté d'une force extraordinaire peut étrangler ses proies avec son corps. Il peut même écraser des tonneaux métalliques. Une fois sous l'étreinte d'{{PCap|Arbok}}, il est impossible de lui échapper.
+;[[Pokémon Émeraude]]
+: Doté d'une force extraordinaire, il peut étrangler ses proies avec son corps et même écraser des tonneaux métalliques. Nul ne peut se libérer de son étreinte.
+;[[Pokémon Rouge Feu]]
+:Les motifs sur son corps ressemblent à un visage menaçant. Les adversaires les plus craintifs fuient à la seule vue de ce {{PCap|Pok}}é{{PCap|mon}}.
+;[[Pokémon Vert feuille]]
+:Les motifs féroces peints sur son corps varient selon la région où il se trouve.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Il utilise la marque sur son ventre pour intimider l'ennemi. Il étouffe l'ennemi pétrifié par la peur.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Arbok}} lance des boules de poison pour ne pas être capturé.
+;[[Pokémon Or HeartGold]]
+:Hypnotisant sa victime avec les motifs dessinés sur son ventre, il peut ensuite l'empoisonner.
+;[[Pokémon Argent SoulSilver]]
+:De nature revancharde, il n'abandonne jamais sa proie lorsqu'il décide de la prendre en chasse.
+;[[Pokémon Noir et Blanc]]
+: Il utilise la marque sur son ventre pour intimider l'ennemi. Il étouffe l'ennemi pétrifié par la peur.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Poison}};width150px"|Version
+! style="background-color:{{couleur|Poison}};width150px"|Rareté
+! style="background-color:{{couleur|Poison}};width150px"|Lieu
+|-
+| [[Rouge]] || Rare || [[Route 23]] et [[Caverne Azurée]]
+|-
+| [[Bleu]] || Inexistant || Importé depuis [[Pokémon Rouge]]
+|-
+| [[Jaune]] || Inexistant || Importé depuis [[Pokémon Rouge]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Poison}};width150px"|Version
+! style="background-color:{{couleur|Poison}};width150px"|Rareté
+! style="background-color:{{couleur|Poison}};width150px"|Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer Abo
+|-
+| [[Pokémon Or et Argent|Argent]] || Rare || Près des [[Chutes Tohjo]]
+|-
+| [[Cristal]] || Rare || [[Route 3]], [[Route 4]], [[Route 26]], [[Route 27]], [[Route 28]], [[Route 42]] et [[Mont Argenté]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Poison}};width150px"|Version
+! style="background-color:{{couleur|Poison}};width150px"|Rareté
+! style="background-color:{{couleur|Poison}};width150px"|Lieu
+|-
+| [[Rubis]] || Inexistant || Importé depuis [[Rouge Feu]] ou [[Pokémon XD]]
+|-
+| [[Saphir]] || Inexistant || Importé depuis [[Rouge Feu]] ou [[Pokémon XD]]
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || Importé depuis [[Rouge Feu]] ou [[Pokémon XD]]
+|-
+| [[Rouge Feu]] || Commun || [[Route Victoire (Kanto)|Route Victoire]] et [[Route 23]]
+|-
+| [[Vert Feuille]] || Inexistant || Importé depuis [[Rouge Feu]] ou [[Pokémon XD]]
+|-
+| [[Colosseum]] || Inexistant || Importé depuis [[Rouge Feu]] ou [[Pokémon XD]]
+|-
+| [[XD]] || Unique || Snatché au Guer. Ombre Rolf au Repaire Ombre
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Poison}};width150px"|Version
+! style="background-color:{{couleur|Poison}};width150px"|Rareté
+! style="background-color:{{couleur|Poison}};width150px"|Lieu
+|-
+| [[Diamant]] || Rare || [[Grand Marais de Verchamps]] en insérant la cartouche [[Rouge Feu]] dans le Slot GBA après avoir obtenu le [[Pokédex National]]
+|-
+| [[Perle]] || Rare || [[Grand Marais de Verchamps]] en insérant la cartouche [[Rouge Feu]] dans le Slot GBA après avoir obtenu le [[Pokédex National]]
+|-
+| [[Platine]] || Rare || [[Grand Marais de Verchamps]] en insérant la cartouche [[Rouge Feu]] dans le Slot GBA après avoir obtenu le [[Pokédex National]]
+|-
+| [[Or HeartGold]] || Inexistant || Faire évoluer Abo
+|-
+| [[Argent SoulSilver]] || Rare || [[Route 3]], [[Route 4]], [[Route 26]], [[Route 27]] et Parc Safari de Johto partie Zone Humide
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Poison}};width150px"|Version
+! style="background-color:{{couleur|Poison}};width150px"|Rareté
+! style="background-color:{{couleur|Poison}};width150px"|Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Dard-Venin|15|100|35}}
+{{Attaque|N.17|Morsure|60|100|25}}
+{{Attaque|N.27|Intimidation|-|75|30}}
+{{Attaque|N.36|Grincement|-|85|40}}
+{{Attaque|N.47|Acide|40|100|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Dard-Venin|15|100|35}}
+{{Attaque|Départ|Morsure|60|100|25}}
+{{Attaque|N.25|Intimidation|-|75|30}}
+{{Attaque|N.33|Grincement|-|85|40}}
+{{Attaque|N.43|Acide|40|100|30}}
+{{Attaque|N.51|Buée Noire|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Ligotage|15|85|20|robustesse|3|0}}
+{{Attaque-III|Départ|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ<br>N.8|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|Départ<br>N.13|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.20|Intimidation|-|75|30|robustesse|1|3}}
+{{Attaque-III|N.28|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.38|Acide|40|100|30|intelligence|1|4}}
+{{Attaque-III|N.46|Stockage|-|-|10|robustesse|2|0}}
+{{Attaque-III|N.46|Avale|-|-|10|robustesse|1|0}}
+{{Attaque-III|N.46|Relâche|100|100|10|robustesse|4|0}}
+{{Attaque-III|N.56|Buée Noire|-|-|30|beauté|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Crocs Givre|65|95|15|sang-froid|3}}
+{{Attaque-IV|Départ|Crocs Éclair|65|95|15|intelligence|3}}
+{{Attaque-IV|Départ|Crocs Feu|65|95|15|beauté|3}}
+{{Attaque-IV|Départ|Ligotage|15|85|20|robustesse|0}}
+{{Attaque-IV|Départ|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|Départ<br>N.4|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|Départ<br>N.9|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.12|Intimidation|-|75|30|robustesse|2}}
+{{Attaque-IV|N.17|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.20|Acide|40|100|30|intelligence|3}}
+{{Attaque-IV|N.22|Mâchouille|80|100|15|robustesse|2}}
+{{Attaque-IV|N.28|Stockage|-|-|20|robustesse|0}}
+{{Attaque-IV|N.28|Avale|-|-|10|robustesse|0}}
+{{Attaque-IV|N.28|Relâche|100|100|10|robustesse|2}}
+{{Attaque-IV|N.34|Boue-Bombe|65|85|10|intelligence|2}}
+{{Attaque-IV|N.42|Suc Digestif|-|100|10|beauté|2}}
+{{Attaque-IV|N.48|Buée Noire|-|-|30|beauté|2}}
+{{Attaque-IV|N.56|Détricanon|120|70|5|sang-froid|3}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Crocs Givre|65|95|15}}
+{{Attaque-V|Départ|Crocs Éclair|65|95|15}}
+{{Attaque-V|Départ|Crocs Feu|65|95|15}}
+{{Attaque-V|Départ|Ligotage|15|90|20}}
+{{Attaque-V|Départ|Groz'Yeux|-|100|30}}
+{{Attaque-V|Départ<br>N.4|Dard-Venin|15|100|35}}
+{{Attaque-V|Départ<br>N.9|Morsure|60|100|25}}
+{{Attaque-V|N.12|Intimidation|-|90|30}}
+{{Attaque-V|N.17|Grincement|-|85|40}}
+{{Attaque-V|N.20|Acide|40|100|30}}
+{{Attaque-V|N.22|Mâchouille|80|100|15}}
+{{Attaque-V|N.27|Stockage|-|-|20}}
+{{Attaque-V|N.27|Avale|-|-|10}}
+{{Attaque-V|N.27|Relâche|100|100|10}}
+{{Attaque-V|N.32|Bombe Acide|40|100|20}}
+{{Attaque-V|N.39|Boue-Bombe|65|85|10}}
+{{Attaque-V|N.44|Suc Digestif|-|100|10}}
+{{Attaque-V|N.51|Buée Noire|-|-|30}}
+{{Attaque-V|N.56|Enroulement|-|-|20}}
+{{Attaque-V|N.63|Détricanon|120|70|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+====[[Première génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Poison}}" | [[Niveau]]
+! style="background-color:{{Couleur|Poison}}" | [[Attaque]]
+! style="background-color:{{Couleur|Poison}}" | [[Type]]
+! style="background-color:{{Couleur|Poison}}" | [[Puissance (statistique)|Puissance]]
+! style="background-color:{{Couleur|Poison}}" | [[Précision]]
+! style="background-color:{{Couleur|Poison}}" | [[PP]]
+|-
+|CT 06 || [[Toxik]] || {{type|poison}} || - || 90% || 10
+|-
+|CT 08 || [[Plaquage]] || {{type|normal}} || 85 || 100% || 15
+|-
+|CT 09 || [[Bélier]] || {{type|normal}} || 90 || 85% || 20
+|-
+|CT 10 || [[Damoclès]] || {{type|normal}} || 120 || 100% || 15
+|-
+|CT 15 || [[Ultralaser]] || {{type|normal}} || 150 || 90% || 5
+|-
+|CT 20 || [[Frénésie]] || {{type|normal}} || 20 || 100% || 20
+|-
+|CT 21 || [[Méga-Sangsue]] || {{type|plante}} || 40 || 100% || 15
+|-
+|CT 26 || [[Séisme]] || {{type|sol}} || 100 || 100% || 10
+|-
+|CT 27 || [[Abîme]] || {{type|sol}} || - || - || 5
+|-
+|CT 28 || [[Tunnel]] || {{type|sol}} || 80 || 100% || 10
+|-
+|CT 31 || [[Copie]] || {{type|normal}} || - || - || 10
+|-
+|CT 32 || [[Reflet]] || {{type|normal}} || - || - || 15
+|-
+|CT 34 || [[Patience]] || {{type|normal}} || - || - || 10
+|-
+|CT 40 || [[Coud'Krâne]] || {{type|normal}} || 100 || 100% || 15
+|-
+|CT 44 || [[Repos]] || {{type|psy}} || - || - || 10
+|-
+|CT 48 || [[Éboulement]] || {{type|roche}} || 75 || 90% || 10
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || {{type|normal}} || - || - || 10
+|-
+|CS 04 || [[Force]] || {{type|normal}} || 80 || 100% || 15
+|}
+
+====[[Deuxième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Poison}}" | [[Niveau]]
+! style="background-color:{{Couleur|Poison}}" | [[Attaque]]
+! style="background-color:{{Couleur|Poison}}" | [[Type]]
+! style="background-color:{{Couleur|Poison}}" | [[Puissance (statistique)|Puissance]]
+! style="background-color:{{Couleur|Poison}}" | [[Précision]]
+! style="background-color:{{Couleur|Poison}}" | [[PP]]
+|-
+|CT 02 || [[Coup d'Boule]] || {{type|normal}} || 70 || 100% || 15
+|-
+|CT 03 || [[Malédiction]] || {{type|inconnu}} || - || - || 10
+|-
+|CT 06 || [[Toxik]] || {{type|poison}} || - || 90% || 10
+|-
+|CT 10 || [[Puissance Cachée]] || {{type|normal}} || - || 100% || 15
+|-
+|CT 11 || [[Zénith]] || {{type|feu}} || - || - || 5
+|-
+|CT 13 || [[Ronflement]] || {{type|normal}} || 40 || 100% || 15
+|-
+|CT 15 || [[Ultralaser]] || {{type|normal}} || 150 || 90% || 5
+|-
+|CT 17 || [[Abri]] || {{type|normal}} || - || - || 10
+|-
+|CT 19 || [[Giga-Sangsue]] || {{type|plante}} || 75 || 100% || 10
+|-
+|CT 20 || [[Ténacité]] || {{type|normal}} || - || - || 10
+|-
+|CT 21 || [[Frustration]] || {{type|normal}} || - || 100% || 20
+|-
+|CT 26 || [[Séisme]] || {{type|sol}} || 100 || 100% || 10
+|-
+|CT 27 || [[Retour]] || {{type|normal}} || - || 100% || 20
+|-
+|CT 28 || [[Tunnel]] || {{type|sol}} || 80 || 100% || 10
+|-
+|CT 32 || [[Reflet]] || {{type|normal}} || - || - || 15
+|-
+|CT 34 || [[Vantardise]] || {{type|normal}} || - || 90% || 15
+|-
+|CT 35 || [[Blabla Dodo]] || {{type|normal}} || - || - || 10
+|-
+|CT 36 || [[Bomb-Beurk]] || {{type|poison}} || 90 || 100% || 10
+|-
+|CT 44 || [[Repos]] || {{type|psy}} || - || - || 10
+|-
+|CT 45 || [[Attraction]] || {{type|normal}} || - || 100% || 15
+|-
+|CT 46 || [[Larcin]] || {{type|ténèbres}} || 40 || 100% || 10
+|-
+|CS 04 || [[Force]] || {{type|normal}} || 80 || 100% || 15
+|}
+
+====[[Troisième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Poison}}" | [[Niveau]]
+! style="background-color:{{Couleur|Poison}}" | [[Attaque]]
+! style="background-color:{{Couleur|Poison}}" | [[Type]]
+! style="background-color:{{Couleur|Poison}}" | [[Puissance (statistique)|Puissance]]
+! style="background-color:{{Couleur|Poison}}" | [[Précision]]
+! style="background-color:{{Couleur|Poison}}" | [[PP]]
+|-
+|CT 06 || [[Toxik]] || {{type|poison}} || - || 90% || 10
+|-
+|CT 10 || [[Puissance Cachée]] || {{type|normal}} || - || 100% || 15
+|-
+|CT 11 || [[Zénith]] || {{type|feu}} || - || - || 5
+|-
+|CT 15 || [[Ultralaser]] || {{type|normal}} || 150 || 90% || 5
+|-
+|CT 17 || [[Abri]] || {{type|normal}} || - || - || 10
+|-
+|CT 18 || [[Danse-Pluie]] || {{type|eau}} || - || - || 5
+|-
+|CT 19 || [[Giga-Sangsue]] || {{type|plante}} || 75 || 100% || 10
+|-
+|CT 21 || [[Frustration]] || {{type|normal}} || - || 100% || 20
+|-
+|CT 23 || [[Queue de Fer]] || {{type|acier}} || 100 || 75% || 15
+|-
+|CT 26 || [[Séisme]] || {{type|sol}} || 100 || 100% || 10
+|-
+|CT 27 || [[Retour]] || {{type|normal}} || - || 100% || 20
+|-
+|CT 28 || [[Tunnel]] || {{type|sol}} || 80 || 100% || 10
+|-
+|CT 32 || [[Reflet]] || {{type|normal}} || - || - || 15
+|-
+|CT 36 || [[Bomb-Beurk]] || {{type|poison}} || 90 || 100% || 10
+|-
+|CT 41 || [[Tourmente]] || {{type|ténèbres}} || - || 100% || 15
+|-
+|CT 42 || [[Façade]] || {{type|normal}} || 70 || 100% || 20
+|-
+|CT 43 || [[Force Cachée]] || {{type|normal}} || 70 || 100% || 20
+|-
+|CT 44 || [[Repos]] || {{type|psy}} || - || - || 10
+|-
+|CT 45 || [[Attraction]] || {{type|normal}} || - || 100% || 15
+|-
+|CT 46 || [[Larcin]] || {{type|ténèbres}} || 40 || 100% || 10
+|-
+|CT 49 || [[Saisie]] || {{type|ténèbres}} || - || 100% || 10
+|-
+|CS 04 || [[Force]] || {{type|normal}} || 80 || 100% || 15
+|}
+
+====[[Quatrième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Poison}}" | [[Niveau]]
+! style="background-color:{{Couleur|Poison}}" | [[Attaque]]
+! style="background-color:{{Couleur|Poison}}" | [[Type]]
+! style="background-color:{{Couleur|Poison}}" | [[Puissance (statistique)|Puissance]]
+! style="background-color:{{Couleur|Poison}}" | [[Précision]]
+! style="background-color:{{Couleur|Poison}}" | [[PP]]
+|-
+|CT 06 || [[Toxik]] || {{type|poison}} || - || 90% || 10
+|-
+|CT 10 || [[Puissance Cachée]] || {{type|normal}} || - || 100% || 15
+|-
+|CT 11 || [[Zénith]] || {{type|feu}} || - || - || 5
+|-
+|CT 15 || [[Ultralaser]] || {{type|normal}} || 150 || 90% || 5
+|-
+|CT 17 || [[Abri]] || {{type|normal}} || - || - || 10
+|-
+|CT 18 || [[Danse-Pluie]] || {{type|eau}} || - || - || 5
+|-
+|CT 19 || [[Giga-Sangsue]] || {{type|plante}} || 75 || 100% || 10
+|-
+|CT 21 || [[Frustration]] || {{type|normal}} || - || 100% || 20
+|-
+|CT 23 || [[Queue de Fer]] || {{type|acier}} || 100 || 75% || 15
+|-
+|CT 26 || [[Séisme]] || {{type|sol}} || 100 || 100% || 10
+|-
+|CT 27 || [[Retour]] || {{type|normal}} || - || 100% || 20
+|-
+|CT 28 || [[Tunnel]] || {{type|sol}} || 80 || 100% || 10
+|-
+|CT 32 || [[Reflet]] || {{type|normal}} || - || - || 15
+|-
+|CT 36 || [[Bomb-Beurk]] || {{type|poison}} || 90 || 100% || 10
+|-
+|CT 39 || [[Tomberoche]] || {{type|roche}} || 50 || 80% || 10
+|-
+|CT 41 || [[Tourmente]] || {{type|ténèbres}} || - || 100% || 15
+|-
+|CT 42 || [[Façade]] || {{type|normal}} || 70 || 100% || 20
+|-
+|CT 43 || [[Force Cachée]] || {{type|normal}} || 70 || 100% || 20
+|-
+|CT 44 || [[Repos]] || {{type|psy}} || - || - || 10
+|-
+|CT 45 || [[Attraction]] || {{type|normal}} || - || 100% || 15
+|-
+|CT 46 || [[Larcin]] || {{type|ténèbres}} || 40 || 100% || 10
+|-
+|CT 49 || [[Saisie]] || {{type|ténèbres}} || - || 100% || 10
+|-
+|CT 58 || [[Ténacité]] || {{type|normal}} || - || - || 10
+|-
+|CT 66 || [[Représailles]] || {{type|ténèbres}} || 50 || 100% || 10
+|-
+|CT 68 || [[Giga Impact]] || {{type|normal}} || 150 || 90% || 5
+|-
+|CT 78 || [[Séduction]] || {{type|normal}} || - || 100% || 20
+|-
+|CT 79 || [[Vibrobscur]] || {{type|ténèbres}} || 80 || 100% || 15
+|-
+|CT 80 || [[Éboulement]] || {{type|roche}} || 75 || 90% || 10
+|-
+|CT 82 || [[Blabla Dodo]] || {{type|normal}} || - || - || 10
+|-
+|CT 83 || [[Don naturel]] || {{type|normal}} || 1 || 100% || 15
+|-
+|CT 84 || [[Direct Toxik]] || {{type|poison}} || 80 || 100% || 20
+|-
+|CT 87 || [[Vantardise]] || {{type|normal}} || - || 90% || 15
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || {{type|normal}} || - || - || 10
+|-
+|CS 04 || [[Force]] || {{type|normal}} || 80 || 100% || 15
+|}
+
+====[[Cinquième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Poison}}" | [[Niveau]]
+! style="background-color:{{Couleur|Poison}}" | [[Attaque]]
+! style="background-color:{{Couleur|Poison}}" | [[Type]]
+! style="background-color:{{Couleur|Poison}}" | [[Puissance (statistique)|Puissance]]
+! style="background-color:{{Couleur|Poison}}" | [[Précision]]
+! style="background-color:{{Couleur|Poison}}" | [[PP]]
+|-
+|CT 06 || [[Toxik]] || {{type|poison}} || - || 90% || 10
+|-
+|CT 09 || [[Choc Venin]] || {{type|poison}} || 65 || 100% || 10
+|-
+|CT 10 || [[Puissance Cachée]] || {{type|normal}} || - || 100% || 15
+|-
+|CT 11 || [[Zénith]] || {{type|feu}} || - || - || 5
+|-
+|CT 15 || [[Ultralaser]] || {{type|normal}} || 150 || 90% || 5
+|-
+|CT 17 || [[Abri]] || {{type|normal}} || - || - || 10
+|-
+|CT 18 || [[Danse-Pluie]] || {{type|eau}} || - || - || 5
+|-
+|CT 21 || [[Frustration]] || {{type|normal}} || - || 100% || 20
+|-
+|CT 26 || [[Séisme]] || {{type|sol}} || 100 || 100% || 10
+|-
+|CT 27 || [[Retour]] || {{type|normal}} || - || 100% || 20
+|-
+|CT 28 || [[Tunnel]] || {{type|sol}} || 80 || 100% || 10
+|-
+|CT 32 || [[Reflet]] || {{type|normal}} || - || - || 15
+|-
+|CT 34 || [[Cradovague]] || {{type|poison}} || 95 || 100% || 10
+|-
+|CT 36 || [[Bomb-Beurk]] || {{type|poison}} || 90 || 100% || 10
+|-
+|CT 39 || [[Tomberoche]] || {{type|roche}} || 50 || 80% || 10
+|-
+|CT 41 || [[Tourmente]] || {{type|ténèbres}} || - || 100% || 15
+|-
+|CT 42 || [[Façade]] || {{type|normal}} || 70 || 100% || 20
+|-
+|CT 44 || [[Repos]] || {{type|psy}} || - || - || 10
+|-
+|CT 45 || [[Attraction]] || {{type|normal}} || - || 100% || 15
+|-
+|CT 46 || [[Larcin]] || {{type|ténèbres}} || 40 || 100% || 10
+|-
+|CT 48 || [[Chant Canon]] || {{type|normal}} || 60 || 100% || 15
+|-
+|CT 66 || [[Représailles]] || {{type|ténèbres}} || 50 || 100% || 10
+|-
+|CT 68 || [[Giga Impact]] || {{type|normal}} || 150 || 90% || 5
+|-
+|CT 78 || [[Piétisol]] || {{type|sol}} || 60 || 100% || 20
+|-
+|CT 80 || [[Éboulement]] || {{type|roche}} || 75 || 90% || 10
+|-
+|CT 82 || [[Draco-Queue]] || {{type|dragon}} || 60 || 90% || 10
+|-
+|CT 84 || [[Direct Toxik]] || {{type|poison}} || 80 || 100% || 20
+|-
+|CT 87 || [[Vantardise]] || {{type|normal}} || - || 90% || 15
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || {{type|normal}} || - || - || 10
+|-
+|CS 04 || [[Force]] || {{type|normal}} || 80 || 100% || 15
+|}
+
+===Par [[reproduction]]===
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|-|Baston|10|100|10}}
+{{Attaque-V|-|Crochetvenin|50|100|15}}
+{{Attaque-V|-|Dépit|-|100|10}}
+{{Attaque-V|-|Entrave|-|80|20}}
+{{Attaque-V|-|Grimace|-|90|10}}
+{{Attaque-V|-|Passe-Passe|-|100|10}}
+{{Attaque-V|-|Poursuite|40|100|20}}
+{{Attaque-V|-|Queue-Poison|50|100|25}}
+{{Attaque-V|-|Souplesse|80|75|20}}
+{{Attaques apprises-bas}}
+
+===Par [[Donneur de capacités]]===
+
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|-|Canon Graine|80|100|15}}
+{{Attaque-V|-|Coup d'Boule|70|100|15}}
+{{Attaque-V|-|Dépit|-|100|10}}
+{{Attaque-V|-|Détricanon|120|70|5}}
+{{Attaque-V|-|Hydroqueue|90|90|10}}
+{{Attaque-V|-|Ronflement|40|100|15}}
+{{Attaque-V|-|Suc Digestif|-|100|10}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-combat=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-sol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison (type)|poison]] -donc sur '''Arbok'''- dans la [[première génération]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=poison
+|PV=60
+|attaque=85
+|defense=69
+|atq-spc=65
+|def-spc=79
+|vitesse=80
+|special=65
+}}
+
+== Imagerie ==
+
+{{Imagerie Pokémon
+| pokemon=Arbok
+| numero=024
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Arbok RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère : Explorateurs du Ciel|Explorateurs du Ciel]]''
+| artwork_supp2-img=Arbok-EdC.png{{!}}x200px
+| forme=2
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Jessie]] en possède [[Arbok de Jessie|un]] dans les 6 premières saisons.
+
+===Descriptions du [[Pokédex]]===
+Aucune
+
+{{Ruban Pokémon
+| nomPrécédent=Abo
+| numéro=024
+| nom=Arbok
+| nomSuivant=Pikachu
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/24| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Arbok| ]]
+
+[[de:Arbok]]
+[[en:Arbok (Pokémon)]]
+[[es:Arbok]]
+[[it:Arbok]]
+[[ja:アーボック]]
+[[pl:Arbok]]
+[[pt:Arbok (pokémon)]]

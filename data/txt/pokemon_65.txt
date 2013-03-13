@@ -1,0 +1,392 @@
+{{Ruban Pokémon
+| nomPrécédent=Kadabra
+| numéro=065
+| nom=Alakazam
+| nomSuivant=Machoc
+}}
+{{Infobox Pokémon 
+| nom=Alakazam
+| nomen=Alakazam
+| nomja=フーディン
+| nomromaji=Fūdin
+| nomtm=Foodin
+| nomde=Simsala
+| légende=Artwork d'Alakazam pour {{RFVF}}
+| ndex=065
+| jdex=091
+| hdex=041
+| sdex=022
+| adex=184
+| espece=Psy
+| taille=1.5
+| poids=48.0
+| fmratio=.25
+| oeufpas=5120
+| effortval=+3 Att. Spé
+| type1=Psy
+| expval=186
+| expmax=1059860
+| captureval=50
+| groupoeuf1=Humanoïde
+| capspe1=Synchro
+| capspe2=Attention
+| capspe3=Garde Magik
+| couleur=Marron
+| forme=12}}
+'''Alakazam''' (anglais : '''Alakazam''' ; japonais : '''フーディン''' ''Foodin'') est un [[Pokémon]] de [[type]] {{type|psy}} de la [[première génération]], réputé pour son intelligence exceptionnelle.
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Les Alakazam femelles ont des moustaches beaucoup plus courtes.
+
+===[[Évolution]]===
+[[Abra]] évolue en [[Kadabra]] à partir du [[niveau]] 16, et ce dernier évolue ensuite en cas d'échange entre dresseurs en Alakazam.
+{{TableauEvolutionHaut|Psy|Abra}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Kadabra}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]]|Alakazam}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Alakazam peut disposer soit de la capacité spéciale [[Synchro]], qui transmet à l'ennemi l'[[empoisonnement]], la [[brûlure]] ou la [[paralysie]] du Pokémon et augmente la probabilité de rencontrer des Pokémon sauvages ayant la même nature lorsqu'il est en tête de l'équipe, soit de la capacité spéciale  [[Attention]], qui l'empêche d'être a[[peur]]é et de passer son tour face à des attaques comme [[Morsure]].
+
+===Étymologies===
+* Français, Anglais : ''Alakazam'' est une formule magique, comme Abracadabra.
+* Allemand : ''Simsala'' est aussi une formule magique, servant notamment à invoquer.
+
+===Descriptions du [[Pokédex]]===
+
+;[[Pokémon Rouge et Bleu]]
+: Son super cerveau peut effectuer des opérations à la vitesse d'un ordinateur. Il a un [[:wp:QI|Q.I.]] de 5000.
+;[[Pokémon Jaune]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} est très intelligent. Sa mémoire est immense, il retient tout ce qu'il apprend.
+;[[Pokémon Stadium]]
+: Un Pokémon extrêmement intelligent aux pouvoirs psychiques. Il peut immédiatement identifier la faiblesse de l'ennemi.
+;[[Pokémon Or]]
+: En fermant ses yeux il aiguise ses autres sens, ce qui lui permet d'augmenter ses pouvoirs.
+;[[Pokémon Argent]]
+: Ses cellules cérébrales se multiplient jusqu'à sa mort. Il se souvient donc de tout.
+;[[Pokémon Cristal]]
+: Il a un QI de 5000 et fait des calculs en permanence lui donnant ainsi l'avantage en combat.
+;[[Pokémon Rubis]]
+: Le cerveau d'{{PCap|Alakazam}} grossit sans arrêt, si bien que sa tête devient trop lourde pour son cou. Ce {{PCap|Pok}}é{{PCap|mon}} maintient sa tête relevée grâce à son [[:wp:Psychokinésie|pouvoir télékinésique]].
+;[[Pokémon Saphir]]
+: Le cerveau d'{{PCap|Alakazam}} grossit sans arrêt, multipliant sans cesse ses cellules. Ce {{PCap|Pok}}é{{PCap|mon}} a un QI incroyablement élevé, de 5 000. Il peut garder en mémoire tout ce qui s'est passé dans le monde.
+;[[Pokémon Émeraude]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} est doté de pouvoirs psychiques et d'une grande intelligence qui compensent sa faiblesse physique. Il utilise ses pouvoirs pour se déplacer.
+;[[Pokémon Rouge Feu]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} n'apprécie pas vraiment les attaques physiques. Il utilise ses pouvoirs extrasensoriels pour vaincre ses ennemis.
+;[[Pokémon Vert Feuille]]
+:Son cerveau hors du commun peut effectuer des opérations à la vitesse d'un ordinateur. Il a un [[:wp:QI|Q.I.]] de 5 000.
+;[[Pokémon Diamant]]
+: Grâce à sa mémoire exceptionnelle, il n'a rien oublié depuis sa naissance. Il a un Q.I. de 5 000.
+;[[Pokémon Perle]]
+: Son cerveau surdéveloppé n'a rien à envier à un super ordinateur. Ses talents psychiques sont inégalés.
+;[[Pokémon Ranger 2]]
+: Il se déplace par [[téléport]]ation et génère des orbes étranges pour attaquer.
+;[[Pokémon Platine]]
+: On dit que les cuillères qu'il tient en permanence ont été créées par la puissance de son esprit.
+;[[Pokémon Or HeartGold]]
+: En fermant ses yeux, il aiguise ses autres sens, ce qui lui permet d'augmenter ses pouvoirs.
+;[[Pokémon Argent SoulSilver]]
+: Ses cellules cérébrales se multiplient jusqu'à sa mort. Il se souvient donc de tout.
+;[[Pokémon Noir et Blanc]]
+: On dit que les cuillères qu'il tient en permanence ont été créées par la puissance de son esprit.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Kadabra]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Cristal]] || Inexistant || Faire évoluer [[Kadabra]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+|-
+| [[Rubis]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Saphir]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Kadabra]].
+|-
+| [[Platine]] || Inexistant || Faire évoluer [[Kadabra]].
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Obtention
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Échanger [[Kadabra]]
+| style="vertical-align:middle;" | N/A
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Téléport|-|-|20}}
+{{Attaque|Départ|Choc Mental|50|100|25}}
+{{Attaque|N.20|Entrave|-|55|20}}
+{{Attaque|N.27|Rafale Psy|65|100|20}}
+{{Attaque|N.31|Soin|-|-|20}}
+{{Attaque|N.38|Psyko|90|100|10}}
+{{Attaque|N.42|Protection|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Téléport|-|-|20}}
+{{Attaque|N.16|Choc Mental|50|100|25}}
+{{Attaque|N.18|Entrave|-|55|20}}
+{{Attaque|N.21|Rafale Psy|65|100|20}}
+{{Attaque|N.26|Soin|-|-|20}}
+{{Attaque|N.31|Prescience|80|90|15}}
+{{Attaque|N.38|Psyko|90|100|10}}
+{{Attaque|N.45|Protection|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Téléport|-|-|20|sang-froid|1|0}}
+{{Attaque-III|Départ|Télékinésie|-|80|15|intelligence|3|0}}
+{{Attaque-III|Départ<br>N.16|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.18|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.21|Rafale Psy|65|100|20|beauté|3|0}}
+{{Attaque-III|N.23|Protection|-|-|20|intelligence|1|0}}
+{{Attaque-III|N.25|Soin|-|-|20|intelligence|2|1}}
+{{Attaque-III|N.30|Prescience|80|90|15|intelligence|3|0}}
+{{Attaque-III|N.33|Imitation|-|100|10|grâce|1|0}}
+{{Attaque-III|N.36|Psyko|90|100|10|intelligence|1|3}}
+{{Attaque-III|N.43|Tourmagik|-|100|10|intelligence|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Téléport|-|-|20|sang-froid|2}}
+{{Attaque-IV|Départ|Télékinésie|-|80|15|intelligence|0}}
+{{Attaque-IV|Départ<br>N.16|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.18|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.22|Œil Miracle|-|-|40|grâce|1}}
+{{Attaque-IV|N.24|Rafale Psy|65|100|20|beauté|2}}
+{{Attaque-IV|N.28|Protection|-|-|20|intelligence|2}}
+{{Attaque-IV|N.30|Soin|-|-|10|intelligence|0}}
+{{Attaque-IV|N.34|Coupe Psycho|70|100|20|sang-froid|2}}
+{{Attaque-IV|N.36|Imitation|-|-|10|grâce|1}}
+{{Attaque-IV|N.40|Psyko|90|100|10|intelligence|2}}
+{{Attaque-IV|N.42|Prescience|80|90|15|intelligence|2}}
+{{Attaque-IV|N.46|Tourmagik|-|100|10|intelligence|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Téléport|-|-|20}}
+{{Attaque-V|Départ|Télékinésie|-|80|15}}
+{{Attaque-V|Départ<br>N.16|Choc Mental|50|100|25}}
+{{Attaque-V|N.18|Entrave|-|100|20}}
+{{Attaque-V|N.22|Œil Miracle|-|-|40}}
+{{Attaque-V|N.24|Interversion|-|-|15}}
+{{Attaque-V|N.28|Rafale Psy|65|100|20}}
+{{Attaque-V|N.30|Protection|-|-|20}}
+{{Attaque-V|N.34|Lévikinésie|-|-|15}}
+{{Attaque-V|N.36|Soin|-|-|10}}
+{{Attaque-V|N.40|Coupe Psycho|70|100|20}}
+{{Attaque-V|N.42|Imitation|-|-|10}}
+{{Attaque-V|N.46|Psyko|90|100|10}}
+{{Attaque-V|N.48|Prescience|100|100|10}}
+{{Attaque-V|N.52|Tourmagik|-|100|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=psy
+|sensib-combat=0.5
+|sensib-insecte=2
+|sensib-psy=0.5
+|sensib-spectre=2
+|sensib-ténèbres=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=psy
+|PV=55
+|attaque=50
+|defense=45
+|atq-spc=135
+|def-spc=85
+|vitesse=120
+|special=135
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Alakazam
+| numero=065
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Alakazam RB.png
+| forme=12
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+| diff_rs-rfvf=oui
+}}
+
+== Distributions évènementielles ==
+Alakazam n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasion à l'heure actuelle :
+* '''2006'''
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Journey Across America|Alakazam 10 ANIV]] (États-Unis)
+** [[Liste des Pokémon distribués lors de l'évènement 10ème Anniversaire#Party of the Decade - Bryant Park, New York|Alakazam 10 ANIV (Bryant Park)]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+Un [[Alakazam]] géant apparaît dans l'[[épisode 72]], où il combat un [[Ectoplasma]] tout aussi énorme.
+
+Un autre apparaît dans l'[[épisode 493]], et un dernier, [[Pokémon sauvage|sauvage]], dans [[Pokémon : Le Film]].
+
+[[Cathy (Tour de Combat)|Cathy]], la [[Meneur de Zone|meneuse]] de la [[Tour de Combat (Génération III)|Tour de Combat]] en possède un qu'elle utilise contre Sacha dans l'[[AG169]] et l'[[AG170]].
+===Descriptions du [[Pokédex]]===
+;[[Épisode 72]]
+: Alakazam est un {{PCap|Pok}}é{{PCap|mon}} {{PCap|[[Psy]]}}. Il utilise les [[attaque]]s [[Psyko]] pour vaincre ses adversaires.
+
+;[[Épisode 493]]
+: Le {{PCap|Pok}}é{{PCap|mon}} {{PCap|[[Psy]]}}. [[Alakazam]] est la [[évolution|forme évoluée]] de [[Kadabra]]. Son cerveau fonctionne comme un puissant ordinateur. Il est doté de pouvoirs surnaturels.
+
+{{Ruban Pokémon
+| nomPrécédent=Kadabra
+| numéro=065
+| nom=Alakazam
+| nomSuivant=Machoc
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/65| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Alakazam| ]]
+
+[[de:Simsala]]
+[[en:Alakazam (Pokémon)]]
+[[es:Alakazam]]
+[[it:Alakazam]]
+[[ja:フーディン]]
+[[pl:Alakazam]]
+[[pt:Alakazam (pokémon)]]

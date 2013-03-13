@@ -1,0 +1,337 @@
+{{Ruban Pokémon
+| nomPrécédent=Ramoloss
+| numéro=080
+| nom=Flagadoss
+| nomSuivant=Magnéti
+}}
+{{Infobox Pokémon
+| nom=Flagadoss
+| nomen=Slowbro
+| nomja=ヤドラン
+| nomtm=Yadoran
+| nomde=Lahmus
+| légende=Artwork de Flagadoss pour {{RFVF}}
+| ndex=080
+| jdex=081
+| hdex=256
+| espece=Symbiose
+| taille=1.6
+| poids=78.5
+| fmratio=.5
+| oeufpas=5120
+| effortval=+2 Déf.
+| type1=Eau
+| type2=Psy
+| expval=164
+| expmax=1000000
+| captureval=75
+| groupoeuf1=Monstre
+| groupoeuf2=Eau 1
+| capspe1=Benêt
+| capspe2=Tempo Perso
+| capspe3=Régé-Force
+| couleur=Rose
+| forme=6}}
+'''Flagadoss''' (anglais : '''Slowbro''' ; japonais : '''ヤドラン''' ''Yadoran'') est un [[Pokémon]] de [[type]] {{type|eau}} et {{type|psy}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Flagadoss a une peau violette et son [[Kokiyas]] est brun.
+
+===[[Évolution]]===
+[[Ramoloss]] évolue en Flagadoss à partir du [[niveau]] 37 ou en [[Roigada]] s'il est échangé en tenant une [[Roche Royale]].
+{{TableauEvolutionHaut|Eau|Ramoloss|2}}
+{{TableauEvolutionConditionBranche/1|Niveau 37}}
+{{TableauEvolutionConditionBranche|[[échange de Pokémon|Échange]] en tenant [[Roche Royale]]|imageObjet=Miniat roche royale dp.png}}
+{{TableauEvolutionBranche/1|Flagadoss}}
+{{TableauEvolutionBranche|Roigada}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+* Français : vient de ''flagada'' et ''molosse''
+* Anglais : Slow (lent) + Bro[ther]-(frère)
+* allemand : vient de ''Lahm'' (paralysé) et ''Muschel'' (coquillage)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Le {{PCap|[[Kokiyas]]}} attaché à la queue du {{PCap|[[Ramoloss]]}} se nourrit des restes de son hôte.
+;[[Pokémon Jaune]]
+:Il se prélasse au soleil. Si le {{PCap|[[Kokiyas]]}}, accroché à sa queue s'en va, il redevient un {{PCap|[[Ramoloss]]}}.
+;[[Pokémon Stadium]]
+:Si sa queue est mordue par un {{PCap|[[Kokiyas]]}}, {{PCap|[[Ramoloss]]}} évolue en {{PCap|Flagadoss}}. Le {{PCap|[[Kokiyas]]}} semble aimer ce qu'il mange.
+;[[Pokémon Or]]
+:Si pendant un combat le {{PCap|[[Kokiyas]]}} accroché à sa queue est arraché, il redevient un {{PCap|[[Ramoloss]]}}.
+;[[Pokémon Argent]]
+:D'une nature assez léthargique, il ne ressent plus la douleur à cause du poison injecte par le {{PCap|[[Kokiyas]]}}.
+;[[Pokémon Cristal]]
+:Le {{PCap|[[Kokiyas]]}} accroché à sa queue est friand de ce qu'il dévore et ne veut pas lâcher prise.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Flagadoss}} a un {{PCap|[[Kokiyas]]}} solidement attaché à sa queue. Du coup, il ne peut plus l'utiliser pour pêcher. {{PCap|Flagadoss}} est donc obligé, à contrecœur, de nager pour attraper ses proies.
+;[[Pokémon Émeraude]]
+:{{PCap|Flagadoss}} a un {{PCap|[[Kokiyas]]}} solidement attaqué à sa queue. Du coup, il ne peut plus l'utiliser pour pêcher et est donc obligé de nager pour attraper ses proies.
+;[[Pokémon Rouge Feu]]
+:Un {{PCap|[[Kokiyas]]}} s'est un jour accroché à la queue d'un {{PCap|[[Ramoloss]]}} qui pêchait et l'a fait évoluer en {{PCap|Flagadoss}}.
+;[[Pokémon Vert Feuille]]
+:Le {{PCap|[[Kokiyas]]}} accroché à la queue du {{PCap|[[Ramoloss]]}} se nourrit des restes de son hôte.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Ce grand benêt connaît des éclairs de lucidité lorsque le {{PCap|[[Kokiyas]]}} de sa queue se met à mordre.
+;[[Pokémon Or HeartGold]]
+:Si pendant un combat le {{PCap|Kokiyas}} accroché à sa queue est arraché, il redevient un {{PCap|Ramoloss}}.
+;[[Pokémon Argent SoulSilver]]
+:D'une nature assez léthargique, il ne ressent plus la douleur à cause du poison injecté par le {{PCap|Kokiyas}}.
+;[[Pokémon Noir et Blanc]]
+:Ce grand benêt connaît des éclairs de lucidité lorsque le [[Kokiyas]] de sa queue se met à mordre.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RB}}
+| Commun || [[Route 23]], [[Grotte azurée]] avec la Mega canne et dans les [[Îles Écume]].
+|-
+| [[Jaune]] || Commun || Routes 12 and 13 (en surfant) et dans l' [[Îles Écume]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{OAC}}
+| Rare || [[Puits Ramoloss]]
+|-
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}}
+| Inexistant|| [[Échange de Pokémon|Echange]]
+|-
+| [[Rouge Feu]] || Inexistant || [[Échange de Pokémon|Echange]]
+|-
+| [[Vert Feuille]] || Même rareté qu'[[Akwakwak]] || Même lieux qu'[[Akwakwak]]
+|-
+| [[Colosseum]] || Inexistant || [[Échange de Pokémon|Echange]]
+|-
+| [[XD]] || Inexistant || [[Échange de Pokémon|Echange]]
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| [[Diamant]] ||  || 
+|-
+| [[Perle]] ||  || 
+|-
+| [[Pokémon Platine|Platine]] || ||
+|-
+| [[Pokémon Or HeartGold et Argent SoulSilver|Or HeartGold]] || || [[Parc Safari]], [[Puits Ramoloss]] et dans les [[Îles Écume]]
+|-
+| [[Pokémon Or HeartGold et Argent SoulSilver|Argent SoulSilver]] || || [[Parc Safari]], [[Puits Ramoloss]] et dans les [[Îles Écume]]
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}}
+| rowspan="2" style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Autel Abondance]] {{Infobulle|*|Surf Tourbillons}}
+| style="vertical-align:middle;" | 35-70
+|-
+| style="vertical-align:middle;" | [[Dream World]] : La [[Mer Étincelante]]
+| style="vertical-align:middle;" | 10
+|}
+
+==[[Attaque]]s apprises==
+
+===Tactique===
+Dans la [[première génération]], Flagadoss était particulièrement utilisé lors des combats Pokémon dans une déclinaison appelée '''Tobybro''' (du nom anglais de Flagadoss <span lang="en" style="font-style:italic;">Slowbro</span>), c'est-à-dire disposant des attaques [[Amnésie]], [[Surf]], [[Cage-Éclair]] et [[Repos]].
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Choc Mental|50|100|25}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Coup d'Boule|70|100|15}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|N.37|Repli|-|-|40}}
+{{Attaque|N.44|Amnésie|-|-|20}}
+{{Attaque|N.55|Psyko|90|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Malédiction|-|-|10}}
+{{Attaque|Départ|Choc Mental|50|100|25}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Coup d'Boule|70|100|15}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|N.37|Repli|-|-|40}}
+{{Attaque|N.46|Amnésie|-|-|20}}
+{{Attaque|N.54|Psyko|90|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Malédiction|-|-|10|robustesse|3|0}}
+{{Attaque-III|Départ|Baillement|-|100|10|grâce|2|0}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.6|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|N.15{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.13{{Sup|RF}}{{Sup|VF}}|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|N.20{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.17{{Sup|RF}}{{Sup|VF}}|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.29{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.24{{Sup|RF}}{{Sup|VF}}|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.34{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.29{{Sup|RF}}{{Sup|VF}}|Coup d'Boule|70|100|15|robustesse|2|3}}
+{{Attaque-III|N.37|Repli|-|-|40|grâce|1|0}}
+{{Attaque-III|N.46{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.36{{Sup|RF}}{{Sup|VF}}|Amnésie|-|-|20|grâce|1|0}}
+{{Attaque-III|N.54{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.44{{Sup|RF}}{{Sup|VF}}|Psyko|90|100|10|intelligence|1|3}}
+{{Attaque-III|N.55{{Sup|RF}}{{Sup|VF}}|Boost|-|-|10|intelligence|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Malédiction|-|-|10|robustesse|0}}
+{{Attaque-IV|Départ|Baillement|-|100|10|grâce|2}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.6|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|N.11|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.15|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.20|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.25|Coup d'Boule|70|100|15|robustesse|3}}
+{{Attaque-IV|N.29|Vibraqua|60|100|20|beauté|2}}
+{{Attaque-IV|N.34|Psykoud'Boul|80|90|15|beauté|2}}
+{{Attaque-IV|N.37|Repli|-|-|40|grâce|2}}
+{{Attaque-IV|N.41|Paresse|-|-|10|grâce|0}}
+{{Attaque-IV|N.47|Amnésie|-|-|20|grâce|0}}
+{{Attaque-IV|N.54|Psyko|90|100|10|intelligence|2}}
+{{Attaque-IV|N.61|Danse Pluie|-|-|5|robustesse|2}}
+{{Attaque-IV|N.67|Boost|-|-|10|intelligence|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Malédiction|-|-|10}}
+{{Attaque-V|Départ|Baillement|-|-|10}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ<br>N.5|Rugissement|-|100|40}}
+{{Attaque-V|N.9|Pistolet à O|40|100|25}}
+{{Attaque-V|N.14|Choc Mental|50|100|25}}
+{{Attaque-V|N.19|Entrave|-|100|20}}
+{{Attaque-V|N.23|Coup d'Boule|70|100|15}}
+{{Attaque-V|N.28|Vibraqua|60|100|20}}
+{{Attaque-V|N.32|Psykoud'Boul|80|90|15}}
+{{Attaque-V|N.36|Paresse|-|-|10}}
+{{Attaque-V|N.37|Repli|-|-|40}}
+{{Attaque-V|N.43|Amnésie|-|-|20}}
+{{Attaque-V|N.49|Psyko|90|100|10}}
+{{Attaque-V|N.55|Danse Pluie|-|-|5}}
+{{Attaque-V|N.62|Boost|-|-|10}}
+{{Attaque-V|N.68|Vibra Soin|-|-|10}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+{{Sensibilités
+|type=eau
+|sensib-acier=0.5
+|sensib-combat=0.5
+|sensib-eau=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-insecte=2
+|sensib-plante=2
+|sensib-psy=0.5
+|sensib-spectre=2
+|sensib-ténèbres=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=95
+|attaque=75
+|defense=110
+|atq-spc=100
+|def-spc=80
+|vitesse=30
+|special=80
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Flagadoss
+| numero=080
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Flagadoss RB.png
+| forme=6
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Première apparition dans l'[[épisode 66]]. [[Siréna]] du Conseil des 4 en a un dans son équipe. [[Solidad]] utilise un [[Flagadoss]] durant le [[Grand Festival Kanto]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 244]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Symbiose. [[Flagadoss]] est capable de maîtriser de puissantes attaques psychiques mais préfère en général éviter le conflit.
+
+{{Ruban Pokémon
+| nomPrécédent=Ramoloss
+| numéro=080
+| nom=Flagadoss
+| nomSuivant=Magnéti
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/80| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Slowbro| ]]
+
+[[de:Lahmus]]
+[[en:Slowbro (Pokémon)]]
+[[es:Slowbro]]
+[[it:Slowbro]]
+[[ja:ヤドラン]]
+[[pl:Slowbro]]
+[[pt:Slowbro (pokémon)]]

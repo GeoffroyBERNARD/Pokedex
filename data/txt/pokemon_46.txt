@@ -1,0 +1,400 @@
+{{Ruban Pokémon
+| nomPrécédent=Rafflesia
+| numéro=046
+| nom=Paras
+| nomSuivant=Parasect
+}}
+{{Infobox Pokémon 
+| nom=Paras
+| nomen=Paras
+| nomja=パラス
+| nomtm=Paras
+| nomromaji=Parasu
+| nomde=Paras
+| légende=Artwork de Paras pour {{RFVF}}
+| ndex=046
+| jdex=070
+| hdex=235
+| fdex=050
+| type1=Insecte
+| type2=Plante
+| espece=Champignon
+| taille=0.3
+| poids=5.4
+| capspe1=Pose Spore
+| capspe1-desc=Peut [[paralysie|paralyser]], [[empoisonnement|empoisonner]], [[sommeil|endormir]] au contact.
+| capspe2=Peau Sèche
+| capspe2-desc=Si le Soleil brille (avec [[Zénith]], météo...), ce Pokémon perd des [[PV]]. Si il pleut ([[Danse-Pluie]], météo...),
+| groupoeuf1=Insecte
+| groupoeuf2=Plante
+| oeufpas=5120 
+| effortval=+1 Att.
+| expval=70
+| expmax=1000000
+| fmratio=.5 
+| captureval=190
+| couleur=Rouge
+| forme=14}}
+'''Paras''' (anglais : '''Paras''' ; japonais : '''パラス''' ''Paras''), le [[Pokémon]] parasité, est de [[type]] {{type|insecte}} et {{type|plante}} et est apparu lors de la [[première génération]].
+
+==À propos du Pokémon==
+
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Paras peut évoluer en [[Parasect]] à partir du [[niveau]] 24.
+{{TableauEvolutionHaut|Insecte|Paras}}
+{{TableauEvolutionSimple|[[Niveau]] 24|Parasect}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+* [[Pose Spore]] : Lorsque Paras est touché par une attaque directe, il a 30% de chances de provoquer l'[[empoisonnement]], la [[paralysie]] ou le [[sommeil]] en riposte.
+* [[Peau Sèche]] : La pluie et les attaques Eau rendent des PV à Paras, tandis que le soleil et les attaques Feu lui infligent des dégâts supplémentaires.
+
+===Étymologies===
+Le nom '''Paras''' (en toutes les langues) fait référence aux '''paras'''ites que sont les champignons sur son dos.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Les champignons sur son dos se nourrissent des nutriments de leur hôte insectoïde.
+;[[Pokémon Jaune]]
+:Il s'enfuit sous terre pour ronger des racines afin de nourrir le champignon sur son dos.
+;[[Pokémon Stadium]]
+: Il grandit en aspirant les nutriments des racines d'un arbre. Les champignons dorsaux sont des parasites eux-mêmes.
+;[[Pokémon Or]]
+:Il est couvert de spores à la naissance qui se transforment en champignons quand il grandit.
+;[[Pokémon Or et Argent|Pokémon Argent]]
+:Quand son corps grandit des champignons orientaux, des Tochukasos, se mettent à pousser sur son dos.
+;[[Pokémon Cristal]]
+:Le tochukaso sur son dos l'incite à aspirer la sève des arbres pour se nourrir.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Paras}} accueille des champignons parasites appelés tochukaso qui poussent sur son dos. Ils grandissent grâce aux nutriments trouvés sur le dos de ce {{PCap|Pok}}é{{PCap|mon}} {{PCap|[[Insecte]]}}/{{PCap|[[Plante]]}}. Ils peuvent rallonger l'espérance de vie.
+;[[Pokémon Émeraude]]
+:Des champignons parasites appelés tochukaso poussent sur son dos et grandissent grâce à ses nutriments. Ces champignons sont un élixir de longue vie.
+;[[Pokémon Rouge Feu]]
+:Sur le dos de ce {{PCap|Pok}}é{{PCap|mon}} ce trouvent des champignons appelés tochukaso. Ils se développent au même rythme que leur hôte.
+;[[Pokémon Vert Feuille]]
+:Les champignons sur son dos se nourrissent des nutriments de leur hôte insectoïde.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Paras}} coupe la Ligne de Capture avec ses pinces de devant pour ne pas être capturé.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Des champignons appelés « tochukaso » poussent sur son dos. Ils évoluent avec le {{PCap|Paras}} hôte.
+;[[Pokémon Or HeartGold]]
+:Il est couvert de spores à la naissance qui se transforment en champignons quand il grandit.
+;[[Pokémon Argent SoulSilver]]
+:Quand son corps grandit, des champignons orientaux dits "tochukaso" se mettent à pousser sur son dos.
+;[[Pokémon Noir et Blanc]]
+:Des champignons appelés « tochukaso » poussent sur son dos. Ils évoluent avec le [[Paras]] hôte.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Peu commun || [[Mont Sélénite]], [[Parc Safari]].
+|-
+| [[Bleu]] || Peu commun || [[Mont Sélénite]], [[Parc Safari]].
+|-
+| [[Jaune]] || Peu commun || [[Mont Sélénite]], [[Parc Safari]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Peu commun || [[Parc Naturel]], [[Bois aux chênes]], [[Mont Sélénite]].
+|-
+| [[Pokémon Or et Argent|Argent]] || Peu commun || [[Parc Naturel]], [[Bois aux chênes]], [[Mont Sélénite]]
+|-
+| [[Cristal]] || Peu commun || [[Parc Naturel]], [[Bois aux chênes]], [[Mont Sélénite]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Peu commun || [[Mont Sélénite]], [[Parc Safari]].
+|-
+| [[Vert Feuille]] || Peu commun || [[Mont Sélénite]], [[Parc Safari]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Unique ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Rare || [[Grand Marais]].
+|-
+| [[Perle]] || Rare || [[Grand Marais]].
+|-
+| [[Or HeartGold]] || Rare || [[Bois aux Chênes]], [[Mont Sélénite]] et [[Parc Safari (Johto)|Parc Safari]]
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="background:#FFFFFF;" | {{Couleur lien|#000000|Blanc}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Apparition de Troupeaux : [[Route 11]]
+| style="vertical-align:middle;" | N/A
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|N.13|Para-Spore|-|75|30}}
+{{Attaque|N.20|Vampirisme|20|100|15|}}
+{{Attaque|N.27|Spore|-|100|15}}
+{{Attaque|N.34|Tranche|70|100|20}}
+{{Attaque|N.41|Croissance|-|-|40}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|N.7|Para-Spore|-|75|30}}
+{{Attaque|N.13|Poudre Toxik|-|75|35}}
+{{Attaque|N.19|Vampirisme|20|100|15|}}
+{{Attaque|N.25|Spore|-|100|15}}
+{{Attaque|N.31|Tranche|70|100|20}}
+{{Attaque|N.37|Croissance|-|-|40}}
+{{Attaque|N.43|Giga-Sangsue|60|100|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|N.7|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|N.13|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.19|Vampirisme|20|100|15|intelligence|2|3}}
+{{Attaque-III|N.25|Spore|-|100|15|beauté|1|3}}
+{{Attaque-III|N.31|Tranche|70|100|20|sang-froid|3|0}}
+{{Attaque-III|N.37|Croissance|-|-|40|beauté|1|0}}
+{{Attaque-III|N.53|Giga-Sangsue|60|100|5|intelligence|2|1}}
+{{Attaque-III|N.49|Aromathérapi|-|-|5|intelligence|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|N.6|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|N.6|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.11|Vampirisme|20|100|15|intelligence|1}}
+{{Attaque-IV|N.17|Spore|-|100|15|beauté|0}}
+{{Attaque-IV|N.22|Tranche|70|100|20|sang-froid|3}}
+{{Attaque-IV|N.27|Croissance|-|-|40|beauté|0}}
+{{Attaque-IV|N.33|Giga-Sangsue|60|100|10|intelligence|1}}
+{{Attaque-IV|N.38|Aromathérapi|-|-|5|intelligence|0}}
+{{Attaque-IV|N.43|Plaie-Croix|80|100|15|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|N.6|Para-Spore|-|75|30}}
+{{Attaque-V|N.6|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.11|Vampirisme|20|100|15}}
+{{Attaque-V|N.17|Taillade|20|95|20}}
+{{Attaque-V|N.22|Spore|-|100|15}}
+{{Attaque-V|N.27|Tranche|70|100|20}}
+{{Attaque-V|N.33|Croissance|-|-|40}}
+{{Attaque-V|N.38|Giga-Sangsue|75|100|10}}
+{{Attaque-V|N.43|Aromathérapi|-|-|5}}
+{{Attaque-V|N.49|PoudreFureur|-|-|20}}
+{{Attaque-V|N.54|Plaie-Croix|80|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Danse-Lames]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Méga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 22 || [[Lance-Soleil]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 01 || [[Coupe]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+== Sensibilités ==
+{{Sensibilités
+| type=Insecte
+| sensib-vol=4
+| sensib-feu=4
+| sensib-poison=2
+| sensib-roche=2
+| sensib-insecte=2
+| sensib-glace=2
+| sensib-combat=0.5
+| sensib-eau=0.5
+| sensib-électrique=0.5
+| sensib-plante=0.25
+| sensib-sol=0.25
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=insecte
+|PV=35
+|attaque=70
+|defense=55
+|atq-spc=45
+|def-spc=55
+|vitesse=25
+|special=55
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Paras
+| numero=046
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Paras RB.png
+| forme=14
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+On aperçoit brièvement quelques Paras dans l'[[épisode 6]], mais Paras est surtout en lumière dans l'[[épisode 44]], où une fabricante en médicaments souhaite voir son Paras évoluer afin d'utiliser les spores de [[Parasect]], ce qui est fait avec l'aide de la [[Team Rocket (trio)|Team Rocket]].
+
+On voit également Paras dans les épisodes [[Épisode 97|97]] (sur une île comportant de nombreux Pokémon [[Insecte]]) et [[Épisode 161|161]] (dans le concours de capture d'insectes).
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 44]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Champignon. Des champignons très rares poussent sur son dos. {{PCap|Paras}} possède les qualités des {{PCap|Pok}}é{{PCap|mon}} {{tp|Insecte}}s et des {{PCap|Pok}}é{{PCap|mon}} [[Plante (type)|herbe]]. 
+
+{{Ruban Pokémon
+| nomPrécédent=Rafflesia
+| numéro=046
+| nom=Paras
+| nomSuivant=Parasect
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/46| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Paras| ]]
+
+[[de:Paras]]
+[[en:Paras (Pokémon)]]
+[[es:Paras]]
+[[it:Paras]]
+[[ja:パラス]]
+[[pl:Paras]]
+[[pt:Paras (pokémon)]]

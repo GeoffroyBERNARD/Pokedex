@@ -1,0 +1,442 @@
+{{Ruban Pokémon
+| nomPrécédent=Rattatac
+| numéro=021
+| nom=Piafabec
+| nomSuivant=Rapasdepic
+}}
+{{Infobox Pokémon 
+| nom=Piafabec
+| nomen=Spearow
+| nomja=オニスズメ
+| nomtm=Onisuzume
+| nomde=Habitak
+| légende=Artwork par Ken Sugimori
+| ndex=021
+| jdex=013
+| hdex=223
+| fdex=039
+| adex=112
+| espece=Minoiseau
+| taille=0.3
+| poids=2.0
+| fmratio=.5
+| oeufpas=3840 
+| effortval=+1 Vit.
+| type1=Normal
+| type2=Vol
+| expval=58
+| expmax=1000000
+| captureval=255
+| groupoeuf1=Vol
+| capspe1=Regard Vif
+| capspe2=Sniper
+| capspe2-reve=oui
+| couleur=Marron
+| forme=9}}
+'''Piafabec''' (anglais : '''Spearow''' ; japonais : '''オニスズメ''' ''Onisuzume'') est un [[Pokémon]] de [[type]] {{type|normal}} et {{type|vol}} de la [[première génération]].
+
+==À propos du Pokémon==
+
+=== Physionomie et attitude ===
+
+Petit et rapide, Piafabec est cependant doté d'un caractère très désagréable. D'une lâcheté à toute épreuve, il vit avec ses congénères dans des clans d'une trentaine de membres. Ils attaquent les différents Pokémon vivants dans leur territoire et les dresseurs de passage.
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, les teintes de l'ensemble du corps de Piafabec tendent davantage vers le jaune qu'à l'ordinaire, notamment les ailes qui sont d'une couleur or.
+
+===[[Évolution]]===
+Piafabec évolue à partir du [[niveau]] 20 en [[Rapasdepic]].
+
+{{TableauEvolutionHaut|Normal|Piafabec}}
+{{TableauEvolutionSimple|[[Niveau]] 20|Rapasdepic}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+[[Regard Vif]] empêche la perte de précision du Pokémon.
+
+===Étymologies===
+* Français : '''piaf''' '''à''' '''bec'''
+* Anglais : Spear (Lance) + Sparrow (moineau)
+* Japonais : Oni (démon) + Suzume (moineau)
+* Allemand : Habicht (un rapace) + Attacke (attaque)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Il chasse les insectes dans les hautes-herbes. Ses petites ailes lui permettent de voler trés vite.
+;[[Pokémon Jaune]]
+: Incapable de voler à haute altitude, il se déplace très vite pour protéger son territoire.
+;[[Pokémon Stadium]]
+: Ses ailes étant courtes, il ne peut voler pendant longtemps. S'il ne mange pas, il se déplace aux alentours rapidement.
+;[[Pokémon Or]]
+: Il bat des ailes pour éjecter les insectes réfugiés dans les herbes et les picore ensuite avec son bec.
+;[[Pokémon Argent]]
+: Trés protecteur de son territoire, il bat vite des ailes pour se déplacer à toute allure.
+;[[Pokémon Cristal]]
+: Pour protéger son territoire, il vole sans répit et pousse de grands cris aigus.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Piafabec}} crie tellement fort qu'il peut être entendu à 1 kilomètre de distance. Ces {{PCap|Pok}}é{{PCap|mon}} se préviennent d'un danger en entonnant une mélopée très aiguë, qu'ils se renvoient les uns les autres, comme un écho.
+;[[Pokémon Émeraude]]
+: Le cri de {{PCap|Piafabec}} peut être entendu à 1 kilomètre. Ces {{PCap|Pok}}é{{PCap|mon}} se préviennent d'un danger en entonnant une mélopée très aiguë, qu'ils se renvoient comme un écho.
+;[[Pokémon Rouge Feu]]
+:Il vole activement ça et là. Même s'il semble frêle, sa {{PCap|[[Mimique]]}} fait de lui un adversaire redoutable.
+;[[Pokémon Vert feuille]]
+:Il chasse les insectes dans les hautes herbes. Ses petites ailes lui permettent de voler très vite.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Piafabec}} crée des rafales de vent avec ses petites ailes.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Il fait battre vigoureusement ses petites ailes pour voler et cherche à manger dans l'herbe avec le bec.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il crée des rafales de vent avec ses ailes.
+;[[Pokémon Or HeartGold]]
+:Il bat des ailes pour éjecter les insectes réfugiés dans les herbes et les picore ensuite avec son bec.
+;[[Pokémon Argent SoulSilver]]
+: Trés protecteur de son territoire, il bat vite des ailes pour se déplacer à toute allure.
+;[[Pokémon Noir et Blanc]]
+: Il fait battre vigoureusement ses petites ailes pour voler et cherche à manger dans l'herbe avec le bec.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+|-
+| {{RB}} || Commun || Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, 23 
+|-
+| {{J}} || Commun || Routes 3, 4, 9, 16, 18, 22
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+|-
+| {{OA}} || Commun || Routes 3, 4, 7, 9, 10, 22, 33, 41, 46 Arbres (CT-02)
+|-
+| [[Cristal]] || Commun || Routes 1, 3, 4, 7, 9, 10, 22, 33, 42, 46
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:250px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+|-
+| {{RSE}} || Inexistant || Echange
+|-
+| {{RFVF}} || Commun || Routes 3, 4, 9, 10, 11, 16, 17, 18, 22, 23 - Ile 1 - Ile 2 - Ile 6 - Ile 7
+|-
+| [[Colosseum]] || Non disponible || Non disponible
+|-
+| [[XD]] || Rare || Lavina à Phénacits (Colisée) contre un Guerrier Ombre Lavinia
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:200px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{DP}}
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | Route 226
+| style="vertical-align:middle;" | -
+|-
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | [[Dream World]] : Vaste Ciel
+| style="vertical-align:middle;" | N/A
+|-
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.9|Groz'Yeux|-|100|30}}
+{{Attaque|N.15|Furie|15|85|20}}
+{{Attaque|N.22|Mimique|-|-|20}}
+{{Attaque|N.29|Bec Vrille|90|100|20}}
+{{Attaque|N.36|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Picpic|35|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.7|Groz'Yeux|-|100|30}}
+{{Attaque|N.13|Furie|15|85|20}}
+{{Attaque|N.25|Poursuite|40|100|20}}
+{{Attaque|N.31|Mimique|-|-|20}}
+{{Attaque|N.37|Bec Vrille|90|100|20}}
+{{Attaque|N.41|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Picpic|35|100|35|sang-froid|4|0}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|N.7|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.13|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.19|Poursuite|40|100|20|intelligence|2|1}}
+{{Attaque-III|N.25|Aéropique|60|-|20|sang-froid|2|0}}
+{{Attaque-III|N.31|Mimique|-|-|20|intelligence|1|0}}
+{{Attaque-III|N.37|Bec Vrille|80|100|20|sang-froid|4|0}}
+{{Attaque-III|N.43|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Picpic|35|100|35|sang-froid|3}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|N.5|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.9|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.13|Poursuite|40|100|20|intelligence|1}}
+{{Attaque-IV|N.17|Aéropique|60|-|20|sang-froid|2}}
+{{Attaque-IV|N.21|Mimique|-|-|20|intelligence|2}}
+{{Attaque-IV|N.25|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.29|Assurance|50|100|10|beauté|2}}
+{{Attaque-IV|N.33|Atterrissage|-|-|10|sang-froid|0}}
+{{Attaque-IV|N.37|Bec Vrille|80|100|20|sang-froid|3}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Picpic|35|100|35}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|N.5|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.9|Furie|15|85|20}}
+{{Attaque-V|N.13|Poursuite|40|100|20}}
+{{Attaque-V|N.17|Aéropique|60|-|20}}
+{{Attaque-V|N.21|Mimique|-|-|20}}
+{{Attaque-V|N.25|Hâte|-|-|30}}
+{{Attaque-V|N.29|Assurance|50|100|10}}
+{{Attaque-V|N.33|Atterrissage|-|-|10}}
+{{Attaque-V|N.37|Bec Vrille|80|100|20}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 04 || [[Cyclone]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+| CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 43 || [[Piqué]] || [[Fichier:type miniat vol.png]]
+|-
+| CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+| CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Détection]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|}
+|}
+
+===Par [[reproduction]]===
+
+
+
+===Par [[donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-électrique=2
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=0
+|sensib-spectre=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''Piafabec''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est normale.
+|rmq-sol-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=normal
+|PV=40
+|attaque=60
+|defense=30
+|atq-spc=31
+|def-spc=31
+|vitesse=70
+|special=31
+}}
+
+== Imagerie ==
+
+{{Imagerie Pokémon
+| pokemon=Piafabec
+| numero=021
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Piafabec RB.png
+| forme=9
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| pinballRB-gif=oui
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Piafabec a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 35. Pour plus d'informations, voir ''[[Piafabec (Premier Défi 35)]]''.
+
+[[Fichier:JFC-Premier Défi-35.png|thumb|center|La figurine de Piafabec]]
+
+==Apparitions dans le [[dessin animé]]==
+
+*Des Piafabecs apparaissent dans l'[[épisode 1]], où ils attaquent [[Sacha]] et [[Pikachu de Sacha|Pikachu]].
+*Idem dans l'[[épisode 11]] ou ils attaquent un [[Salamèche de Sacha|Salamèche]] abandonné.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 1]]
+:Contrairement aux {{PCap|Roucool}}, les {{PCap|[[Piafabec]]}} ont mauvais caractère. Il est fréquent qu'ils attaquent d'autres {{PCap|Pok}}é{{PCap|mon}} et même les humains.
+
+{{Ruban Pokémon
+| nomPrécédent=Rattatac
+| numéro=021
+| nom=Piafabec
+| nomSuivant=Rapasdepic
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/21| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Spearow| ]]
+
+[[de:Habitak]]
+[[en:Spearow (Pokémon)]]
+[[es:Spearow]]
+[[it:Spearow]]
+[[ja:オニスズメ]]
+[[pl:Spearow]]
+[[pt:Spearow (pokémon)]]

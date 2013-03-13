@@ -1,0 +1,337 @@
+{{Ruban Pokémon
+| nomPrécédent=Rhinocorne
+| numéro=112
+| nom=Rhinoféros
+| nomSuivant=Leveinard
+}}
+{{Infobox Pokémon
+| nom=Rhinoféros
+| nomen=Rhydon
+| nomja=サイドン
+| nomtm=Sidon
+| nomromaji=Saidon
+| nomde=Rizeros
+| légende=Artwork de Rhinoféros pour {{RFVF}}
+| ndex=112
+| jdex=207
+| njdex=212
+| hdex=170
+| sdex=187
+| fdex=063
+| adex=150
+| espece=Perceur
+| taille=1.9
+| poids=120.0
+| fmratio=.5
+| oeufpas=5120
+| effortval=+2 Att.
+| type1=Sol
+| type2=Roche
+| expval=204
+| expmax=1250000
+| captureval=60
+| groupoeuf1=Monstre
+| groupoeuf2=Sol
+| capspe1=Paratonnerre
+| capspe2=Tête de Roc
+| capspe3=Téméraire
+| couleur=Gris
+| forme=6
+}}
+'''Rhinoféros''' (anglais : '''Rhydon''' ; japonais : '''サイドン''' ''Sidon'') est un [[Pokémon]] de [[type]] {{type|sol}} et {{type|roche}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Les Rhinoféros femelles ont une corne plus petite que les mâles.
+
+===[[Évolution]]===
+Rhinoféros est l'évolution de [[Rhinocorne]] à partir du [[niveau]] 42, et il évolue en [[Rhinastoc]] s'il est échangé alors qu'il porte l'objet [[Protecteur]].
+{{TableauEvolutionHaut|Sol|Rhinocorne}}
+{{TableauEvolutionSimple|Niveau 42|Rhinoféros}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]] en tenant l'objet [[Protecteur]]|imageObjet=Miniat protecteur dp.png|Rhinastoc}}
+{{TableauEvolutionBas}}
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Son épiderme très élevé lui permet de survivre dans un environnement de plus de 3600 degrés.
+;[[Pokémon Jaune]]
+:Il peut se tenir debout. Il semble un peu intelligent. Son épiderme résiste même à la lave.
+;[[Pokémon Stadium]]
+:Protégé par une épaisse armure, il résiste à des températures dépassant 3600 degrés. Il perce des trous dans d'énormes rochers.
+;[[Pokémon Or]]
+:Son épiderme épais le protège même de la chaleur de la lave, mais il est en conséquence insensible.
+;[[Pokémon Argent]]
+:Son cerveau s'est développé quand il a marché sur 2 pattes. Sa peau le protège même du magma.
+;[[Pokémon Cristal]]
+:En faisant tourner sa corne comme une perceuse, il peut même briser un diamant à l'état brut.
+;[[Pokémon Rubis et Saphir]]
+:La corne de {{PCap|Rhinoféros}} lui sert de foreuse. Il l'utilise pour détruire des rochers et des cailloux. Ce {{PCap|Pok}}é{{PCap|mon}} charge de temps en temps dans du magma en fusion, mais sa peau blindé le protège de la chaleur.
+;[[Pokémon Émeraude]]
+:Sa corne qui pivote comme un foret est capable de détruire un immeuble d'un seul coup. Il se tient sur ses pattes arrières et son cerveau est très développé.
+;[[Pokémon Rouge Feu]]
+:L'[[évolution]] à permis à ce {{PCap|Pok}}é{{PCap|mon}} de marcher sur ses pattes arrières. Il peut facilement faire des trous dans les rochers en utilisant sa corne.
+;[[Pokémon Vert Feuille]]
+:Son épiderme très épais lui permet de survivre dans un environnement où il fait plus de 2 000 degrés.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Rhinoféros}} lance de gros rochers pouvant fracasser les Murs en Pierre.
+;[[Pokémon Diamant et Perle]]
+:Son cerveau s'est développé depuis qu'il tient debout. Sa corne peut traverser la pierre la plus dure.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il secoue son corps violemment et se jette contre l'ennemi.
+;[[Pokémon Platine]]
+:La station debout a libéré ses pattes avant et l'a rendu plus intelligent, mais il est distrait.
+;[[Pokémon Or HeartGold]]
+:Son épiderme épais le protège même de la chaleur de la lave, mais il est insensible en conséquence.
+;[[Pokémon Argent SoulSilver]]
+:Son cerveau s'est développé quand il a commencé à marcher sur 2 pattes. Sa peau le protège même du magma.
+;[[Pokémon Noir et Blanc]]
+:La station debout a libéré ses pattes avant et l'a rendu plus intelligent, mais il est distrait.
+
+==Localisation==
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Sol}}; width:150px" | Version
+! style="background-color:{{Couleur|Sol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Sol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Sol}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Rhinocorne]]
+| style="vertical-align:middle;" | 42
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|Départ|Écrasement|65|100|20}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Furie|15|85|20}}
+{{Attaque|N.48|Empal'Korne|-|-|5}}
+{{Attaque|N.55|Groz'Yeux|-|100|30}}
+{{Attaque|N.64|Bélier|90|85|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Écrasement|65|100|20}}
+{{Attaque|Départ|Furie|15|85|20}}
+{{Attaque|Départ|Grimace|-|90|10}}
+{{Attaque|Départ|Empal'Korne|-|-|5}}
+{{Attaque|N.54|Bélier|90|85|20}}
+{{Attaque|N.65|Séisme|100|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Koud'Korne|65|100|25|sang-froid|4|0}}
+{{Attaque-III|Départ|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ<br>N.10|Écrasement|65|100|20|robustesse|1|4}}
+{{Attaque-III|Départ<br>N.15|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.24|Grimace|-|90|10|robustesse|2|1}}
+{{Attaque-III|N.29|Boule Roc|25|80|10|robustesse|2|0}}
+{{Attaque-III|N.38|Empal'Korne|-|-|5|sang-froid|2|1}}
+{{Attaque-III|N.46|Bélier|90|85|20|robustesse|6|0}}
+{{Attaque-III|N.58|Séisme|100|100|10|robustesse|1|3}}
+{{Attaque-III|N.66|Mégacorne|120|85|10|sang-froid|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Koud'Korne|65|100|25|sang-froid|3}}
+{{Attaque-IV|Départ|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|Départ<br>N.9|Écrasement|65|100|20|robustesse|3}}
+{{Attaque-IV|Départ<br>N.13|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.21|Grimace|-|90|10|robustesse|2}}
+{{Attaque-IV|N.25|Boule Roc|25|80|10|robustesse|2}}
+{{Attaque-IV|N.33|Bélier|90|85|20|robustesse|3}}
+{{Attaque-IV|N.37|Empal'Korne|-|-|5|sang-froid|0}}
+{{Attaque-IV|N.42|Marto-Poing|100|90|10|sang-froid|2}}
+{{Attaque-IV|N.45|Lame de Roc|100|80|5|robustesse|2}}
+{{Attaque-IV|N.49|Séisme|100|100|10|robustesse|2}}
+{{Attaque-IV|N.57|Mégacorne|120|85|10|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Koud'Korne|65|100|25}}
+{{Attaque-V|Départ|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ<br>N.9|Écrasement|65|100|20}}
+{{Attaque-V|N.12|Furie|15|85|20}}
+{{Attaque-V|N.19|Grimace|-|100|10}}
+{{Attaque-V|N.23|Boule Roc|25|90|10}}
+{{Attaque-V|N.30|Piétisol|60|100|20}}
+{{Attaque-V|N.34|Attrition|70|100|20}}
+{{Attaque-V|N.41|Bélier|90|85|20}}
+{{Attaque-V|N.42|Marto-Poing|100|90|10}}
+{{Attaque-V|N.47|Tunnelier|80|95|10}}
+{{Attaque-V|N.56|Lame de Roc|100|80|5}}
+{{Attaque-V|N.62|Séisme|100|100|10}}
+{{Attaque-V|N.71|Empal'Korne|-|-|5}}
+{{Attaque-V|N.77|Mégacorne|120|85|10}}
+{{Attaques apprises-bas}}
+
+=== Par [[CT]]/[[CS]] ===
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Ultimapoing]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 05 || [[Ultimawashi]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Empal'Korne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 16 || [[Jackpot]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 18 || [[Riposte]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat électrique.png]]
+|-
+|CT 26 || [[Séisme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 27 || [[Abîme]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 48 || [[Éboulement]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[image:type_miniat_eau.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+==Sensibilités==
+{{Sensibilités
+|type=sol
+|sensib-acier=2
+|sensib-combat=2
+|sensib-eau=4
+|sensib-électrique=0
+|sensib-feu=0.5
+|sensib-glace=2
+|sensib-normal=0.5
+|sensib-plante=4
+|sensib-poison=0.25
+|sensib-roche=0.5
+|sensib-sol=2
+|sensib-vol=0.5
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=sol
+|PV=105
+|attaque=130
+|defense=120
+|atq-spc=45
+|def-spc=45
+|vitesse=40
+|special=45
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Rhinoféros
+| numero=112
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Rhinoféros RB.png
+| forme=6
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Auguste]], le champion de [[Cramois'île]], en utilise un contre [[Sacha]].
+
+Un autre champion possède un Rhinoféros : [[Giovanni]].
+
+D'autres Rhinoféros apparaissent dans le dessin animé.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 58]]
+:[[évolution|Forme évoluée]] du Rhinocorne. Il est connu comme le {{PCap|Pok}}é{{PCap|mon}} perceur. Sa grande corne lui confère une formidable puissance d'attaque.
+
+{{Ruban Pokémon
+| nomPrécédent=Rhinocorne
+| numéro=112
+| nom=Rhinoféros
+| nomSuivant=Leveinard
+}}
+
+[[Catégorie:Pokémon évoluant en tenant un objet]]
+[[Catégorie:Pokémon évoluant lors d'un échange]]
+[[Catégorie:Pokémon évoluant en tenant un objet lors d'un échange]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/112| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Rhydon| ]]
+
+[[de:Rizeros]]
+[[en:Rhydon (Pokémon)]]
+[[es:Rhydon]]
+[[it:Rhydon]]
+[[ja:サイドン]]
+[[pl:Rhydon]]
+[[pt:Rhydon (pokémon)]]

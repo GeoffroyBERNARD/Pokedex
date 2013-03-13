@@ -1,0 +1,635 @@
+{{Ruban Pokémon
+| nomPrécédent=Salamèche
+| numéro=005
+| nom=Reptincel
+| nomSuivant=Dracaufeu
+}}
+{{Infobox Pokémon 
+| nom=Reptincel
+| nomen=Charmeleon
+| nomja=リザード
+| nomromaji=Rizādo
+| nomtm=Lizardo
+| nomde=Glutexo
+| légende=Artwork de Reptincel pour {{RFVF}}
+| ndex=005
+| jdex=230
+| hdex=207
+| njdex=235
+| fdex=141
+| adex=138
+| odex=R-207
+| opdex=N-063
+| espece=Flamme
+| taille=1.1
+| poids=19.0
+| fmratio=.125 
+| oeufpas=5120 
+| effortval=+1 Vit. ; +1 Att. Spé
+| type1=Feu
+| expval=142
+| expmax=1059860
+| captureval=45
+| groupoeuf1=Monstre
+| groupoeuf2=Dragon
+| capspe1=Brasier
+| capspe2=Force Soleil
+| capspe2-reve=oui
+| couleur=Rouge
+| forme=6}}
+'''Reptincel''' (anglais : '''Charmeleon''' ; japonais : '''リザード''' ''Lizardo'') est un [[Pokémon]] de [[type]] {{type|feu}} de la [[première génération]].
+
+==À propos du Pokémon==
+
+=== Physionomie et attitudes ===
+
+Reptincel est tiré du dinosaure ; il possède de grandes et puissantes griffes acérées, qui l'aident notamment à déchirer la peau de ses ennemis lors des combats. Son crâne est doté d'une crête. Sa queue, longue et terminée par une flamme, lui sert notamment à élever sa température, le rendant plus puissant en combat, et à faire tomber ses adversaires avant de les achever.
+
+Le [[Pokédex]] le dit extrêmement agressif et violent, voire cruel dans certains cas. 
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Reptincel a un corps jaune.
+
+===[[Évolution]]===
+Reptincel est l'évolution de [[Salamèche]] au niveau 16, et évolue lui-même au niveau 36 en [[Dracaufeu]].
+
+{{TableauEvolutionHaut|Feu|Salamèche}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Reptincel}}
+{{TableauEvolutionSimple|[[Niveau]] 36|Dracaufeu}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+[[Brasier]] augmente la puissance des attaques feu de 50&nbsp;% lorsque les PV du Pokémon tombent à moins d’un tiers de leurs PVmax.
+
+===Étymologies===
+* Français : ''Reptincel'' vient de '''''rep'''tile'' et ''é'''tincel'''le''.
+* Anglais : ''Charmeleon'' vient de ''to char'' (carboniser) et ''chameleon'' (caméléon).
+* Japonais : リザード ''Lizâdo'' est la version [[:wp:Katakana|katakana]] du mot anglais ''lizard'' (lézard).
+* Allemand : ''Glutexo'' vient de ''Glut'' (braise) et ''Echse'' (lézard).
+* Coréen : 리자드 ''Rijadeu'', le mot [[wp:Hangeul|hangeul]] pour ''lézard''.
+* Chinois (Hong-Kong et Taïwan) : 火恐龍 ''Xíao Kông Lóng'' signifie ''Dinosaure de feu''.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: En agitant sa queue, il peux augmenter le niveau de la température à un degré incroyable.
+;[[Pokémon Jaune]]
+: Ce {{PCap|Pok}}é{{PCap|mon}} est violent. Dans la furie d'un combat son aura brille d'une flamme bleutée.
+;[[Pokémon Stadium]]
+: On le dit très cruel. Il attaque de ses griffes acérées et ne s'arrête qu'une fois l'ennemi terrassé.
+;[[Pokémon Or]]
+: Il a le sang chaud de par sa nature. Il est constamment à la recherche de nouveaux adversaires.
+;[[Pokémon Argent]]
+: Il est très sauvage. En combat, il se sert de ses griffes acérées et de sa queue.
+;[[Pokémon Cristal]]
+: S'il s'énerve pendant un combat, il crache de grandes flammes, brûlant tout aux alentours.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Reptincel}} lacère ses ennemis sans pitié grâce à ses griffes acérées. S'il rencontre un ennemi puissant, il devient agressif et la flamme au bout de sa queue s'embrase et prend une couleur bleu clair.
+;[[Pokémon Émeraude]]
+: Il lacère ses ennemis sans pitié grâce à ses griffes acérées. Face à un ennemi puissant, il est agressif et la flamme sur sa queue prend une couleur bleu clair..
+;[[Pokémon Rouge Feu]]
+:Il se sert de sa queue pour faire tomber ses adversaires. Une fois qu'ils sont au sol, il les lacère de ses griffes acérées.
+;[[Pokémon Vert feuille]]
+:En agitant sa queue, il peut élever la température à un niveau incroyable.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Reptincel}} crache de grosses boules de feu pouvant faire fondre la Ferraille.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: La nuit, la queue ardente du {{PCap|Reptincel}} brille comme une étoile dans son repaire montagneux.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en crachant des braises et des boules de feu.
+;[[Pokémon Or HeartGold]]
+:Il a le sang chaud de par sa nature. Il est constamment à la recherche de nouveaux adversaires.
+;[[Pokémon Argent SoulSilver]]
+:Il est très sauvage. En combat, il se sert de ses griffes acérées et de sa queue.
+;[[Pokémon Noir et Blanc]]
+:La nuit, la queue ardente du Reptincel brille comme une étoile dans son repaire montagneux.
+
+==Localisations==
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#D20000;"|{{couleur lien|#000000|Rouge}}|| rowspan="3" style="vertical-align: middle;"| Inexistant|| rowspan="3" style="vertical-align: middle;"| Faire évoluer [[Salamèche]]. 
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#1C2FDA;"|{{couleur lien|#FFFFFF|Bleu}} 
+|-
+| style="background:#FFFF52;"|{{couleur lien|#000000|Jaune}}
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|- 
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#E6D600;"|{{couleur lien|#000000|Or}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{BRJ}} par le [[Bloc temporel]].
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#D0D0D0;"|{{couleur lien|#000000|Argent}}
+|-
+| style="background:#009595;"|{{couleur lien|#FFFFFF|Cristal}} 
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#9F002A;"|{{couleur lien|#FFFFFF|Rubis}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="3" style="vertical-align: middle;"| -
+|-
+| style="background:#002395;"|{{couleur lien|#FFFFFF|Saphir}} 
+|-
+| style="background:#008B33;"|{{couleur lien|#FFFFFF|Émeraude}} 
+|-
+| style="background:#EA4E00;"|{{couleur lien|#000000|Rouge Feu}}|| rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| Faire évoluer [[Salamèche]]. 
+| rowspan="2" style="vertical-align: middle;"| -
+|-
+| style="background:#00BE46;"|{{couleur lien|#000000|Vert Feuille}} 
+|-
+| style="background:#B0001D;"|{{couleur lien|#FFFFFF|Colosseum}}  || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="2" style="vertical-align: middle;"| -
+|-
+| style="background:#700087;"|{{couleur lien|#FFFFFF|XD}} 
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#A7F6FF;"|{{couleur lien|#000000|Diamant}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;" | À échanger depuis {{OHAS}}.
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#FFBFF9;"|{{couleur lien|#000000|Perle}}
+|-
+| style="background:#606060;"|{{couleur lien|#FFFFFF|Platine}}
+|-
+| style="background:#E1C300;"|{{couleur lien|#000000|Or HeartGold}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;" | Faire évoluer [[Salamèche]]. 
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#A3A3A3;"|{{couleur lien|#000000|Argent SoulSilver}}
+|-
+| style="background:#3DB700;"|{{couleur lien|#000000|Parc des Amis}} 
+| style="vertical-align: middle;"| Variable 
+| style="vertical-align: middle;"| Plaine
+| style="vertical-align: middle;"| -
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#000000;"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#000000|Blanc}}
+|-
+| style="background:#000000;"|{{couleur lien|#318CE7|Noir 2}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#E9383F|Blanc 2}}
+|-
+|}
+
+===[[Sixième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#6050DC;"|{{couleur lien|#FFFFFF|X}}
+| rowspan="2" style="vertical-align: middle;" | ?
+| rowspan="2" style="vertical-align: middle;" | À venir
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#DE2916;"| {{couleur lien|#FFFFFF|Y}}
+|-
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|N.24|Frénésie|20|100|20}}
+{{Attaque|N.33|Tranche|70|100|20}}
+{{Attaque|N.42|Lance-Flamme|95|100|15}}
+{{Attaque|N.56|Danseflamme|15|70|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|N.13|Brouillard|-|100|20}}
+{{Attaque|N.20|Frénésie|20|100|20}}
+{{Attaque|N.27|Grimace|-|90|10}}
+{{Attaque|N.34|Lance-Flamme|95|100|15}}
+{{Attaque|N.41|Tranche|70|100|20}}
+{{Attaque|N.48|Draco-Rage|-|100|10}}
+{{Attaque|N.55|Danseflamme|15|70|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grace|2|0}}
+{{Attaque-III|Départ<br>N.7|Flammèche|40|100|25|beaute|4|0}}
+{{Attaque-III|N.13{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.20{{Sup|RF}}{{Sup|VF}}|Brouillard|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.13{{Sup|RF}}{{Sup|VF}}|Griffe Acier|50|95|35|sang-froid|4|0}}
+{{Attaque-III|N.20{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}|Frénésie|20|100|20|sang-froid|3|0}}
+{{Attaque-III|N.27|Grimace|-|90|10|robustesse|2|1}}
+{{Attaque-III|N.34|Lance-Flamme|95|100|15|beaute|4|0}}
+{{Attaque-III|N.41|Tranche|70|100|20|sang-froid|3|0}}
+{{Attaque-III|N.48|Draco-Rage|-|100|10|sang-froid|1|0}}
+{{Attaque-III|N.55|Danseflamme|15|70|15|beaute|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grace|2}}
+{{Attaque-IV|Départ<br>N.7|Flammèche|40|100|25|beaute|3}}
+{{Attaque-IV|N.10|Brouillard|-|100|20|intelligence|2}}
+{{Attaque-IV|N.17|Draco-Rage|-|100|10|sang-froid|2}}
+{{Attaque-IV|N.21|Grimace|-|90|10|robustesse|2}}
+{{Attaque-IV|N.28|Crocs Feu|65|95|15|beaute|3}}
+{{Attaque-IV|N.32|Tranche|70|100|20|sang-froid|3}}
+{{Attaque-IV|N.39|Lance-Flamme|95|100|15|beaute|2}}
+{{Attaque-IV|N.43|Danseflamme|15|70|15|beaute|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|Départ<br>N.7|Flammèche|40|100|25}}
+{{Attaque-V|N.10|Brouillard|-|100|20}}
+{{Attaque-V|N.16|Draco-Rage|-|100|10}}
+{{Attaque-V|N.21|Grimace|-|100|10}}
+{{Attaque-V|N.28|Crocs Feu|65|95|15}}
+{{Attaque-V|N.32|Rebondifeu|70|100|15}}
+{{Attaque-V|N.39|Tranche|70|100|20}}
+{{Attaque-V|N.43|Lance-Flamme|95|100|15}}
+{{Attaque-V|N.50|Danseflamme|35|85|15}}
+{{Attaque-V|N.54|Feu d'Enfer|100|50|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text-align: center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" colspan="3"| [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Ultimapoing]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 03 || [[Danse-Lames]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 05 || [[Ultimawashi]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 18 || [[Riposte]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 23 || [[Draco-Rage]] || [[Fichier:type miniat dragon.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Koud'Korne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 01 || [[Coupe]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| {| class="wikitable collapsible collapsed" style="text-align: center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" colspan="3"| [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Dynamopoing]] || {{type|combat}}
+|-
+|CT 03 || [[Malédiction]] || {{type|???}}
+|-
+|CT 06 || [[Toxik]] || {{type|poison}}
+|-
+|CT 08 || [[Éclate-Roc]] || {{type|combat}}
+|-
+|CT 10 || [[Puissance Cachée]] || {{type|normal}}
+|-
+|CT 11 || [[Zénith]] || {{type|feu}}
+|-
+|CT 13 || [[Ronflement]] || {{type|normal}}
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Ténacité]] || {{type|normal}}
+|-
+|CT 21 || [[Frustration]] || {{type|normal}}
+|-
+|CT 23 || [[Queue de Fer]] || {{type|acier}}
+|-
+|CT 24 || [[Dracosouffle]] || {{type|Dragon}}
+|-
+|CT 27 || [[Retour]] || {{type|normal}}
+|-
+|CT 28 || [[Tunnel]] || {{type|sol}}
+|-
+|CT 31 || [[Coud'Boue]] || {{type|Sol}}
+|-
+|CT 32 || [[Reflet]] || {{type|normal}}
+|-
+|CT 34 || [[Vantardise]] || {{type|normal}}
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 38 || [[Déflagration]] || {{type|feu}}
+|-
+|CT 40 || [[Boul'Armure]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || {{type|psy}}
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 48 || [[Poing de Feu]] || {{type|Feu}}
+|-
+|CT 49 || [[Taillade]] || {{type|Insecte}}
+|-
+|CS 01 || [[Coupe]] || {{type|normal}}
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{|class="wikitable collapsible collapsed" style="text-align: center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" colspan="3"| [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Mitra-Poing]] || {{type|combat}}
+|-
+|CT 02 || [[Dracogriffe]] || {{type|dragon}}
+|-
+|CT 06 || [[Toxik]] || {{type|Poison}}
+|-
+|CT 10 || [[Puissance Cachée]] || {{type|normal}}
+|-
+|CT 11 || [[Zénith]] || {{type|feu}}
+|-
+|CT 17 || [[Abri]] || {{type|normal}}
+|-
+|CT 21 || [[Frustration]] || {{type|normal}}
+|-
+|CT 23 || [[Queue de Fer]] || {{type|Acier}}
+|-
+|CT 27 || [[Retour]] || {{type|normal}}
+|-
+|CT 28 || [[Tunnel]] || {{type|sol}}
+|-
+|CT 31 || [[Casse-Brique]] || {{type|combat}}
+|-
+|CT 32 || [[Reflet]] || {{type|normal}}
+|-
+|CT 35 || [[Lance-Flamme]] || {{type|feu}}
+|-
+|CT 38 || [[Déflagration]] || {{type|feu}}
+|-
+|CT 39 || [[Tomberoche]] || {{type|roche}}
+|-
+|CT 40 || [[Aéropique]] || {{type|vol}}
+|-
+|CT 42 || [[Façade]] || {{type|normal}}
+|-
+|CT 43 || [[Force Cachée]] || {{type|normal}}
+|-
+|CT 44 || [[Repos]] || {{type|normal}}
+|-
+|CT 45 || [[Attraction]] || {{type|normal}}
+|-
+|CT 50 || [[Surchauffe]] || {{type|feu}}
+|-
+|CS 01 || [[Coupe]] || {{type|normal}}
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text-align: center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" colspan="3"| [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Mitra-Poing]] || {{type|Combat}}
+|-
+|CT 02 || [[Dracogriffe]] || {{type|dragon}}
+|-
+|CT 06 || [[Toxik]] || {{type|poison}}
+|-
+|CT 10 || [[Puissance Cachée]] || {{type|normal}}
+|-
+|CT 11 || [[Zénith]] || {{type|feu}}
+|-
+|CT 17 || [[Abri]] || {{type|normal}}
+|-
+|CT 21 || [[Frustration]] || {{type|normal}}
+|-
+|CT 23 || [[Queue de Fer]] || {{type|Acier}}
+|-
+|CT 27 || [[Retour]] || {{type|normal}}
+|-
+|CT 28 || [[Tunnel]] || {{type|sol}}
+|-
+|CT 31 || [[Casse-Brique]] || {{type|combat}}
+|-
+|CT 32 || [[Reflet]] || {{type|normal}}
+|-
+|CT 35 || [[Lance-Flamme]] || {{type|feu}}
+|-
+|CT 38 || [[Déflagration]] || {{type|feu}}
+|-
+|CT 39 || [[Tomberoche]] || {{type|roche}}
+|-
+|CT 40 || [[Aéropique]] || {{type|Vol}}
+|-
+|CT 42 || [[Façade]] || {{type|normal}}
+|-
+|CT 43 || [[Force Cachée]] || {{type|normal}}
+|-
+|CT 45 || [[Attraction]] || {{type|normal}}
+|-
+|CT 50 || [[Surchauffe]] || {{type|feu}}
+|-
+|CT 58 || [[Ténacité]] || {{type|normal}}
+|-
+|CT 61 || [[Feu Follet]] || {{type|feu}}
+|-
+|CT 75 || [[Danse-Lames]] || {{type|normal}}
+|-
+|CT 80 || [[Eboulement]] || {{type|roche}}
+|-
+|CT 82 || [[Blabla Dodo]] || {{type|normal}}
+|-
+|CT 87 || [[Vantardise]] || {{type|normal}}
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || {{type|normal}}
+|-
+|CS 01 || [[Coupe]] || {{type|normal}}
+|}
+|}
+
+===Par [[reproduction]]===
+
+à compléter
+
+===Par [[Donneur de capacités]]===
+
+à compléter
+
+==Sensibilités==
+
+{{Sensibilités
+|type=feu
+|sensib-acier=0.5
+|sensib-eau=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=2
+|rmq-glace=Dans la [[génération I]], les attaques de type [[Glace]] avaient une efficacité normale contre les Pokémon de type [[Feu]].
+|rmq-glace-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=feu
+|PV=58
+|attaque=64
+|defense=58
+|atq-spc=80
+|def-spc=65
+|vitesse=80
+|special=65
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Reptincel
+| numero=005
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Reptincel RB.png
+| forme=6
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:Charmeleonanime.png|thumb|left|Depuis qu'il a [[évolution|évolué]], [[Reptincel de Sacha|Reptincel]] n'obéit plus à son dresseur]]La première apparition de [[Reptincel de Sacha|Reptincel]] est dans l'episode ''[[Un Pokémon tout n'œuf !]]'' quand le [[Salamèche de Sacha|Salamèche]] de [[Sacha]] évolue. Malheureusement, il va s'apercevoir dans l'épisode suivant ''[[La potion miracle]]'' que son Pokémon ne lui obéit plus.
+
+Un autre Reptincel apparaît dans l'[[épisode 87]].
+
+Reptincel apparaît aussi dans le [[Film 4]].
+
+Dans les hoso, le [[Salamèche de Richie]] a [[évolution|évolué]] en Reptincel.
+
+On revoit un Reptincel dans l'[[épisode 366|épisode 366 : ''L'arbitre'']]  et dans l'[[épisode 476|épisode 476 : ''Les Faussaires'']].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 43]]
+:{{PCap|Reptincel}} est un {{PCap|Pok}}é{{PCap|mon}} de Feu. Ses griffes sont redoutables et son appendice caudal est vigoureux.
+
+{{Ruban Pokémon
+| nomPrécédent=Salamèche
+| numéro=005
+| nom=Reptincel
+| nomSuivant=Dracaufeu
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/5| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Charmeleon| ]]
+
+[[de:Glutexo]]
+[[en:Charmeleon (Pokémon)]]
+[[es:Charmeleon]]
+[[it:Charmeleon]]
+[[ja:リザード]]
+[[pl:Charmeleon]]
+[[pt:Charmeleon (pokémon)]]

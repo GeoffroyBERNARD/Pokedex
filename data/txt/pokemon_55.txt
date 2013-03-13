@@ -1,0 +1,625 @@
+{{Ruban Pokémon
+| nomPrécédent=Psykokwak
+| numéro=055
+| nom=Akwakwak
+| nomSuivant=Férosinge
+}}
+{{Infobox Pokémon 
+| nom=Akwakwak
+| nomen=Golduck
+| nomja=ゴルダック
+| nomtm=Golduck
+| nomromaji=Gorudakku
+| nomde=Entoron
+| légende=Artwork d'Akwakwak pour {{RFVF}}
+| ndex=055
+| jdex=139
+| njdex=141
+| hdex=159
+| sdex=044
+| nudex=029
+| espece=Canard
+| taille=1.7
+| poids=76.6
+| fmratio=.5 
+| oeufpas=5120 
+| effortval=+2 Att. Spé 
+| type1=Eau
+| expval=174
+| expmax=1000000
+| captureval=75
+| groupoeuf1=Eau 1
+| groupoeuf2=Sol
+| capspe1=Moiteur
+| capspe2=Ciel Gris
+| capspe3=Glissade
+| couleur=Bleu
+| forme=6
+}}
+'''Akwakwak''' (anglais : '''Golduck''' ; japonais : '''ゴルダック''' ''Golduck'') est un [[Pokémon]] de [[type]] [[Fichier:type miniat eau.png|link=Eau]] de la [[première génération]] et l'[[évolution]] de [[Psykokwak]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Akwakwak a le bec et ses palmures qui tirent davantage sur le rouge et sa peau est plus claire.
+
+===[[Évolution]]===
+Akwakwak est l'évolution à partir du [[niveau]] 33 de [[Psykokwak]].
+{{TableauEvolutionHaut|Eau|Psykokwak}}
+{{TableauEvolutionSimple|[[Niveau]] 33|Akwakwak}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Akwakwak peut posséder l'une des deux capacités spéciales suivantes :
+*[[Moiteur]], qui empêche l'utilisation de [[Destruction]] ou [[Explosion]] pour les deux combattants ;
+*[[Ciel Gris]], qui annule les effets du climat.
+
+===Étymologies===
+*Français : ''Aqua'' est le mot latin pour eau ; ''Kwak'' fait référence au cri du canard.
+*Anglais : ''Gold'' pour ''or'' - bien qu'il soit bleu - ;  ''Duck'' veut dire ''canard'' en anglais.
+*Allemand :  vient de ''Enton''(nom de psykokwak en allemand) dans le quel on a inséré un "or"
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il nage avec élégance le long des cotes. Il est souvent confondu avec le monstre japonais: Kappa.
+;[[Pokémon Jaune]]
+:Ses membres fins et longs sont terminés par des nageoires qui lui permettent de nager élégamment.
+;[[Pokémon Stadium]]
+: Ses pattes palmées font de lui un incroyable nageur. On peut le voir à l'aube, nageant majestueusement dans divers lacs.
+;[[Pokémon Or]]
+:Quand il nage à vitesse maximale grâce à ses pattes palmées, son front émet une lueur étrange.
+;[[Pokémon Argent]]
+:Il apparaît dans les étendues d'eau au crépuscule. Si son front brille, il se sert de sa télékinésie.
+;[[Pokémon Cristal]]
+:Il nage avec une grande grâce le long des lacs ou des rivières calmes.
+;[[Pokémon Rubis]]
+:Les pattes avant et arrière palmées et le corps aérodynamique d'{{PCap|Akwakwak}} lui donnent une vitesse effrayante. Ce {{PCap|Pok}}é{{PCap|mon}} est bien plus rapide que les plus grands champions de natation.
+;[[Pokémon Saphir]]
+:{{PCap|Akwakwak}} est le {{PCap|Pok}}é{{PCap|mon}} qui nage le plus vite. Il nage sans se fatiguer, même lorsque la mer est agitée. Il sauve parfois des gens coincés dans les navires bloqués en haute mer.
+;[[Pokémon Émeraude]]
+:Il nage si bien qu'il rejoint souvent des nageurs professionnels à l'entrainement. Il utilise ses pouvoirs psychiques quand la lumière sur son front s'allume.
+;[[Pokémon Rouge Feu]]
+:Ses pattes arrières palmées font de ce {{PCap|Pok}}é{{PCap|mon}} un excellent nageur. On peut souvent le voir nager élégamment dans les lacs.
+;[[Pokémon Vert Feuille]]
+:Il nage avec élégance le long des côtes. On le confond souvent avec [[:wp:Kappa (créature mythologique)|Kappa]], le monstre japonais.
+;[[Pokémon Diamant]]
+:Un habitant des lacs. Il nage plus vite qu'un champion humain de natation.
+;[[Pokémon Perle]]
+:Fend les eaux grâce aux nageoires de ses membres très développés. Le meilleur nageur parmi les {{PCap|Pok}}é{{PCap|mon}}.
+;[[Pokémon Platine]]
+:Ses membres palmés et son corps parfaitement adapté font de lui un nageur exceptionnel.
+;[[Pokémon Or HeartGold]]
+:Quand il nage à vitesse maximale grâce à ses pattes palmées, son front émet une lueur étrange.
+;[[Pokémon Argent SoulSilver]]
+:Il apparaît dans les étendues d'eau au crépuscule. Si son front brille, il se sert de sa télékinésie.
+;[[Pokémon Noir et Blanc]]
+:Ses membres palmés et son corps parfaitement adapté font de lui un nageur exceptionnel.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Rare || Îles Écumes.
+|-
+| [[Bleu]] || Rare || Îles Écumes.
+|-
+| [[Jaune]] || Rare || Route 6.
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Rare || Mont Argent (Surf) / Lac du bois des chêne : surf
+|-
+| [[Pokémon Or et Argent|Argent]] || Rare || Mont Argent / Lac du bois des chêne : surf
+|-
+| [[Cristal]] || Commun || [[Route 35]] (Surf).
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Rare || [[Parc Safari (Hoenn)|Parc Safari]]
+|-
+| [[Saphir]] || Rare || [[Parc Safari (Hoenn)|Parc Safari]]
+|-
+| [[Pokémon Émeraude|Émeraude]] || Rare || Parc Safari
+|-
+| [[Rouge Feu]] || Rare || [[îles Écume]]
+|-
+| [[Vert Feuille]] || Rare || Parc Safari
+|-
+| [[Colosseum]] || Inexistant || À échanger.
+|-
+| [[XD]] || Unique || À compléter.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Peu commun ||Routes 203, 204, 205, 208, 209, 210, 212, 214. Bonaugure. Celestia. Vestigion. Entrée Charbourg. Chemin Rocheux. Lac Vérité. Lac Savoir. Lac Courage.
+|-
+| [[Perle]] || Peu commun || Routes 203, 204, 205, 208, 209, 210, 212, 214. Bonaugure. Celestia. Vestigion. Entrée Charbourg. Chemin Rocheux. Lac Vérité. Lac Savoir. Lac Courage.
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:150px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}}
+| rowspan="2" style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Route 11 (Unys)|Route 11]]
+| style="vertical-align:middle;" | 47-58
+|-
+| style="vertical-align:middle;" | [[Route 14 (Unys)|Route 14]]
+| style="vertical-align:middle;" | 47-57
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ{{Sup|R}}{{Sup|B}}<br>N.28{{Sup|J}}|Mimi-Queue|-|100|30}}
+{{Attaque|N.31{{Sup|R}}{{Sup|B}}<br>Départ{{Sup|J}}|Entrave|-|55|20}}
+{{Attaque|N.39|Choc Mental|50|100|25}}
+{{Attaque|N.48|Combo-Griffe|18|80|15}}
+{{Attaque|N.52|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|N.16|Choc Mental|50|100|25}}
+{{Attaque|N.23|Grincement|-|85|40}}
+{{Attaque|N.31|Boost|-|-|10}}
+{{Attaque|N.44|Combo-Griffe|18|80|15}}
+{{Attaque|N.58|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Tourniquet|-|100|15|grâce|4|0}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.5|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ<br>N.10|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.16|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.23|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.31|Boost|-|-|10|intelligence|2|0}}
+{{Attaque-III|N.44|Combo-Griffe|18|80|15|robustesse|2|1}}
+{{Attaque-III|N.58|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Aqua-Jet|40|100|20|beauté|2}}
+{{Attaque-IV|Départ|Tourniquet|-|100|15|grâce|2}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.5|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|Départ<br>N.9|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.14|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.18|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.22|Vibraqua|60|100|20|beauté|2}}
+{{Attaque-IV|N.27|Combo-Griffe|18|80|15|robustesse|2}}
+{{Attaque-IV|N.31|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.37|Boost|-|-|10|intelligence|0}}
+{{Attaque-IV|N.44|Psykoud'Boul|80|90|15|beauté|2}}
+{{Attaque-IV|N.50|Amnésie|-|-|20|grâce|0}}
+{{Attaque-IV|N.56|Hydrocanon|120|80|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Aqua-Jet|40|100|20}}
+{{Attaque-V|Départ|Tourniquet|-|100|15}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|Départ<br>N.5|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ<br>N.9|Pistolet à O|40|100|25}}
+{{Attaque-V|N.14|Entrave|-|100|20}}
+{{Attaque-V|N.18|Choc Mental|50|100|25}}
+{{Attaque-V|N.22|Vibraqua|60|100|20}}
+{{Attaque-V|N.27|Combo-Griffe|18|80|15}}
+{{Attaque-V|N.31|Grincement|-|85|40}}
+{{Attaque-V|N.37|Détrempage|-|100|20}}
+{{Attaque-V|N.44|Boost|-|-|10}}
+{{Attaque-V|N.50|Psykoud'Boul|80|90|15}}
+{{Attaque-V|N.56|Amnésie|-|-|20}}
+{{Attaque-V|N.63|Hydrocanon|120|80|5}}
+{{Attaque-V|N.69|Zone Étrange|-|-|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Ultimapoing]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 05 || [[Ultimawashi]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 16 || [[Jackpot]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 18 || [[Riposte]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Dynamopoing]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 02 || [[Coup d'Boule]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 09 || [[Boost]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Poinglace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 49 || [[Taillade]] || [[Fichier:type miniat insecte.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 05 || [[Flash]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 06 || [[Siphon]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CT 01 || [[Mitra-Poing]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 04 || [[Plénitude]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+| CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+| CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]]
+|-
+| CT 31 || [[Casse-Brique]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+| CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 43 || [[Force Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+| CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+| CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+| CS 05 || [[Flash]] || [[Fichier:type miniat normal.png]]
+|-
+| CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+| CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+| CS 08 || [[Plongée]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="4" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]] || Catégorie
+|-
+| CT 01 || [[Mitra-Poing]] || [[Fichier:type miniat combat.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]] || [[Fichier:categorie miniat special.gif]]
+|-
+| CT 04 || [[Plénitude]] || [[Fichier:type miniat psy.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat special.gif]]
+|-
+| CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]] || [[Fichier:categorie miniat special.gif]]
+|-
+| CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]] || [[Fichier:categorie miniat special.gif]]
+|-
+| CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat special.gif]]
+|-
+| CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 28 || [[Tunnel]] || [[Fichier:type miniat sol.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 31 || [[Casse-Brique]] || [[Fichier:type miniat combat.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 43 || [[Force Cachée]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 52 || [[Exploforce]] || [[Fichier:type miniat combat.png]] || [[Fichier:categorie miniat special.gif]]
+|-
+| CT 55 || [[Saumure]] || [[Fichier:type miniat eau.png]] || [[Fichier:categorie miniat special.gif]]
+|-
+| CT 56 || [[Dégommage]] || [[Fichier:type miniat tenebres.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 58 || [[Ténacité]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 65 || [[Griffe Ombre]] || [[Fichier:type miniat spectre.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 68 || [[Giga Impact]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CT 70 || [[Flash]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 77 || [[Boost]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 78 || [[Séduction]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 82 || [[Blabla dodo]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 87 || [[Vantardise]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CT 90 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat autre.gif]]
+|-
+| CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]] || [[Fichier:categorie miniat special.gif]]
+|-
+| CS 04 || [[Force]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]] || [[Fichier:categorie miniat physique.gif]]
+|-
+| CS 08 || [[Escalade]] || [[Fichier:type miniat normal.png]] || [[Fichier:categorie miniat physique.gif]]
+|}
+|}
+
+À noter qu'il ne peut pas apprendre la [[CT|CT 29]] de [[Génération I]], [[Psyko]], contrairement à ce qu'on pourrait penser
+
+===Par [[reproduction]]===
+
+;Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]
+
+;Dans les jeux de [[troisième génération]]
+
+;Dans [[Pokémon Diamant et Perle]]
+
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=eau
+|sensib-acier=0.5
+|sensib-eau=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-plante=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=80
+|attaque=82
+|defense=78
+|atq-spc=95
+|def-spc=80
+|vitesse=85
+|special=80
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Akwakwak
+| numero=055
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Akwakwak RB.png
+| forme=6
+| pdm=oui
+| almia=non
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+Un Akwakwak apparaît dans l'épisode ''[[Rien que de la frime]]'' où {{da|Ondine}} pense que son [[Psykokwak d'Ondine|Psykokwak]] a [[évolution|évolué]]. Il s'agit en fait d'un Akwakwak sauvage qui aime plaire aux filles grâce à ses puissantes [[attaque]]s.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 91]]
+:{{PCap|Pok}}é{{PCap|mon}} Canard. [[évolution|forme évoluée]] de {{PCap|[[Psykokwak]]}}. {{PCap|Akwakwak}} est doté de puissantes palmes qui en font le le nageur le plus rapide parmi tous les {{PCap|Pok}}é{{PCap|mon}} aquatiques.
+;[[Épisode 473]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Canard. Il vit dans les lacs la plupart du temps et nage encore plus vite qu'un médaillé olympique.
+
+{{Ruban Pokémon
+| nomPrécédent=Psykokwak
+| numéro=055
+| nom=Akwakwak
+| nomSuivant=Férosinge
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/55| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Golduck| ]]
+
+[[de:Entoron]]
+[[en:Golduck (Pokémon)]]
+[[es:Golduck]]
+[[it:Golduck]]
+[[ja:ゴルダック]]
+[[pl:Golduck]]
+[[pt:Golduck (pokémon)]]

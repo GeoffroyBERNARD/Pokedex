@@ -1,0 +1,396 @@
+{{Ruban Pokémon
+| nomPrécédent=Mystherbe
+| numéro=044
+| nom=Ortide
+| nomSuivant=Rafflesia
+}}
+{{Infobox Pokémon 
+| nom=Ortide
+| nomen=Gloom
+| nomja=クサイハナ
+| nomtm=Kusaihana
+| nomde=Duflor
+| légende=Artwork d'Ortide pour {{RFVF}}
+| ndex=044
+| jdex=084
+| hdex=089
+| fdex=127
+| adex=115
+| odex=R-128
+| opdex=N-013
+| type1=Plante
+| type2=Poison
+| espece=Racine
+| taille=0.8
+| poids=8.6
+| capspe1=Chlorophyle
+| capspe1-desc=Augmente la [[vitesse]] du Pokémon s'il y a du soleil.
+| groupoeuf1=Plante
+| oeufpas=5120 
+| effortval=+2 Att. Spé 
+| expval=132
+| expmax=1059860
+| fmratio=.5 
+| captureval=120
+| couleur=Bleu
+| forme=12}}
+'''Ortide''' (anglais : '''Gloom''' ; japonais : '''クサイハナ''' ''Kusaihana'') est un [[Pokémon]] de [[type]] {{type|plante}} et {{type|poison}} de la [[première génération]] à l'odeur fétide. Il est le seul Pokémon à double-type capable d'évoluer en un [[Joliflor|Pokémon à type unique]] et aussi le seul à avoir deux évolutions qu'il atteint exclusivement avec une [[pierre évolutive]].
+
+==À propos du Pokémon==
+
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Les Ortide femelles ont un motif différent de taches sur les pétales.
+
+===[[Évolution]]===
+Ortide est l'évolution de [[Mystherbe]] à partir du [[niveau]] 21. Il peut évoluer soit en [[Rafflesia]] s'il est mis au contact d'une [[Pierre Plante]], soit en [[Joliflor]] s'il est mis au contact d'une [[Pierresoleil]] (apparue lors de la [[seconde génération]]).
+{{TableauEvolutionHaut|Plante|Mystherbe|2}}
+{{TableauEvolutionSimple|Niveau 21|Ortide|2}}
+{{TableauEvolutionConditionBranche/1|Avec une [[Pierre Plante]]|imageObjet=Miniat pierre plante dp.png}}
+{{TableauEvolutionConditionBranche|Avec une [[Pierresoleil]]|imageObjet=Miniat Pierresoleil dp.png}}
+{{TableauEvolutionBranche/1|Rafflesia}}
+{{TableauEvolutionBranche|Joliflor}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+La capacité spéciale [[Chlorophyle]] permet à Ortide de voir sa [[vitesse]] augmenter si le soleil brille (suite à une utilisation de [[Zénith]], ou à l'apparition de [[Groudon]] et de sa capacité spéciale [[Sécheresse]] plus tôt dans le match).
+
+===Étymologies===
+* Français : de '''ort'''ie et fét'''ide'''.
+* Anglais : ''gloom'' signifie noirceur, morosité.
+* Japonais : ''Kusaihana'' vient de 臭い ''kusai'', puant, et 花 ''hana'', fleur.
+* Allemand : ''Duft''(odeur) et ''flora''(la flore)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Le liquide qui coule de sa bouche est comestible. Il sert à appâter sa proie.
+;[[Pokémon Jaune]]
+:Il sent très mauvais ! Mais 1 personne sur 1000 aime la puanteur de son corps nauséabond.
+;[[Pokémon Stadium]]
+: Le pistil de cette fleur pue à des kilomètres à la ronde. Si l'imprudent la respire de trop près, il risque de tomber dans les pommes.
+;[[Pokémon Or]]
+:Ce qui semble être sa bave est en fait du miel très collant. Si on le touche, il adhère fortement.
+;[[Pokémon Or et Argent|Pokémon Argent]]
+:Il sécrète un miel gluant, semblable à de la bave.Il est sucré mais sent beaucoup trop mauvais.
+;[[Pokémon Cristal]]
+:L'odeur de son sirop buccal et du pollen de ses pétales est si mauvaise qu'elle met facilement [[K.O.]]
+;[[Pokémon Rubis]]
+: {{PCap|Ortide}} dégage un parfum immonde du pistil de sa fleur. Lorsqu'il se sent en danger, la puanteur est encore pire. Lorsque ce {{PCap|Pok}}é{{PCap|mon}} se sent bien et en sécurité, il ne dégage aucune odeur nauséabonde.
+;[[Pokémon Saphir]]
+:{{PCap|Ortide}} bave un miel qui sent horriblement mauvais. Apparemment, il adore cette odeur nauséabonde. Il en renifle les fumées toxiques et se met à baver du miel de plus belle.
+;[[Pokémon Émeraude]]
+:Un filet de miel nauséabond s'écoule de sa bouche. Le sentir peut entrainer une perte de mémoire mais on raconte que des gens raffolent de cette odeur.
+;[[Pokémon Rouge Feu]]
+:Ses pistils sécrètent une odeur incroyablement fétide. Cette senteur épouvantable peut faire perdre connaissance à ses adversaires.
+;[[Pokémon Vert Feuille]]
+:Ce n'est pas de la bave qui s'écoule de sa bouche, mais un nectar qu'il utilise pour appâter sa proie.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: {{PCap|Ortide}} rejette des gaz d'une puanteur extrême. Il cache son corps dans la terre.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:L'odeur du nectar de sa bouche est si répugnante qu'elle agresse les narines à deux kilomètres.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en répandant des nuées de spores toxiques.
+;[[Pokémon Or HeartGold]]
+:Ce qui semble être sa bave est en fait du miel très collant. Si on le touche, il adhère fortement.
+;[[Pokémon Argent SoulSilver]]
+:Il sécrète un miel gluant, semblable à de la bave. Il est sucré mais sent beaucoup trop mauvais.
+;[[Pokémon Noir et Blanc]]
+:L'odeur du nectar de sa bouche est si répugnante qu'elle agresse les narines à deux kilomètres.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Peu commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]].
+|-
+| [[Bleu]] || Inexistant || À échanger depuis [[Rouge]] ou [[Jaune]].
+|-
+| [[Jaune]] || Commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]] et [[Grotte Inconnue]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || [[Route 5]] - [[Temps|Nuit]] uniquement.
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || [[Route 5]] - [[Temps|Nuit]] uniquement.
+|-
+| [[Cristal]] || Commun || [[Route 24]] - [[Temps|Nuit]] uniquement.
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Commun || Routes [[Route 121|121]], [[Route 123|123]] et [[Parc safari]].
+|-
+| [[Saphir]] || Commun || Routes [[Route 121|121]], [[Route 123|123]] et [[Parc safari]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Commun || Routes [[Route 121|121]], [[Route 123|123]] et [[Parc safari]].
+|-
+| [[Rouge Feu]] || Commun || Routes [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Île 2]], [[Île 3]] et [[Île 6]].
+|-
+| [[Vert Feuille]] || Inexistant || À obtenir par échange.
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Commun || Routes [[Route 224|224]], [[Route 229|229]] et [[Route 230|230]].
+|-
+| [[Perle]] || Commun || Routes [[Route 224|224]], [[Route 229|229]] et [[Route 230|230]].
+|-
+| [[Or HeartGold]] || Rare || Routes [[Route 47|47]] (Tout le temps) et [[Route 5|5]] (Nuit unniquement)
+|-
+| || Commun || [[Route 48]] (Tout le temps)
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Mystherbe]]
+| style="vertical-align:middle;" | 21
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Vol-Vie|20|100|20}}
+{{Attaque|Départ|Poudre Toxik|-|75|35}}
+{{Attaque|Départ|Para-Spore|-|75|30}}
+{{Attaque|Départ|Poudre Dodo|-|75|15}}
+{{Attaque|N.28|Acide|40|100|30}}
+{{Attaque|N.38|Danse-Fleur|70|100|20}}
+{{Attaque|N.52|Lance-Soleil|120|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Vol-Vie|20|100|20}}
+{{Attaque|Départ|Doux Parfum|-|100|20}}
+{{Attaque|Départ|Poudre Toxik|-|75|35}}
+{{Attaque|Départ|Para-Spore|-|75|30}}
+{{Attaque|Départ|Poudre Dodo|-|75|15}}
+{{Attaque|N.24|Acide|40|100|30}}
+{{Attaque|N.35|Rayon Lune|-|-|5}}
+{{Attaque|N.44|Danse-Fleur|70|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Vol-Vie|20|100|20|intelligence|2|3}}
+{{Attaque-III|Départ<br>N.7|Doux Parfum|-|100|20|grâce|1|3}}
+{{Attaque-III|Départ<br>N.14|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.16|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|N.18|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.24|Acide|40|100|30|intelligence|1|4}}
+{{Attaque-III|N.35|Rayon Lune|-|-|5|beauté|1|0}}
+{{Attaque-III|N.44|Danse-Fleur|70|100|20|beauté|4|4}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Vol-Vie|20|100|25|intelligence|1}}
+{{Attaque-IV|Départ<br>N.5|Doux Parfum|-|100|20|grâce|2}}
+{{Attaque-IV|Départ<br>N.9|Acide|40|100|30|intelligence|3}}
+{{Attaque-IV|N.13|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.15|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|N.17|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.23|Méga-Sangsue|40|100|15|intelligence|1}}
+{{Attaque-IV|N.29|Air Veinard|-|-|30|grâce|2}}
+{{Attaque-IV|N.35|Don Naturel|1|100|15|sang-froid|2}}
+{{Attaque-IV|N.41|Rayon Lune|-|-|5|beauté|0}}
+{{Attaque-IV|N.47|Giga-Sangsue|60|100|10|intelligence|1}}
+{{Attaque-IV|N.53|Danse-Fleur|90|100|20|beauté|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Vol-Vie|20|100|25}}
+{{Attaque-V|Départ<br>N.5|Doux Parfum|-|100|20}}
+{{Attaque-V|Départ<br>N.9|Acide|40|100|30}}
+{{Attaque-V|N.13|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.15|Para-Spore|-|75|30}}
+{{Attaque-V|N.17|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.23|Méga-Sangsue|40|100|15}}
+{{Attaque-V|N.29|Air Veinard|-|-|30}}
+{{Attaque-V|N.35|Don Naturel|1|100|15}}
+{{Attaque-V|N.41|Rayon Lune|-|-|5}}
+{{Attaque-V|N.47|Giga-Sangsue|75|100|10}}
+{{Attaque-V|N.53|Danse-Fleur|120|100|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=plante
+|sensib-combat=0.5
+|sensib-eau=0.5
+|sensib-électrique=0.5
+|sensib-feu=2
+|sensib-glace=2
+|sensib-plante=0.25
+|sensib-psy=2
+|sensib-vol=2
+|rmq-insecte=Dans la [[génération I]], les attaques de type [[Insecte]] étaient très efficaces contre les Pokémon de type [[Poison]] -alors qu'elles sont peu efficaces depuis-, ce qui donnait pour '''Ortide''' une quadruple sensibilité (du fait de la sensibilité de son type [[Plante]] par ailleurs)
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=plante
+|PV=60
+|attaque=65
+|defense=70
+|atq-spc=85
+|def-spc=75
+|vitesse=40
+|special=85
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Ortide
+| numero=044
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Ortide RB.png
+| forme=12
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Ortide n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en une seule occasion :
+* '''2003'''
+** [[Liste des Pokémon distribués en 2003#Ortide|Ortide Evolution Stone (PCNY)]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Érika]], la championne d'arène de [[Céladopole]], possède un Ortide que [[Sacha]] sauve des flammes dans l'[[épisode 26]].
+
+Dans l'[[épisode 68]], l'amour du jour de [[Pierre (Kanto)|Pierre]] possède un Ortide qu'elle souhaite initialement faire évoluer en [[Rafflesia]] avant de se raviser en découvrant la puissance de son [[Lance-Soleil]].
+
+[[Sacha]] tente de se battre contre l'Ortide d'un dresseur et casse involontairement la [[Poké Ball]] de [[Ronflex]] dans l'[[épisode 107]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 107]]
+:{{PCap|Pok}}é{{PCap|mon}} Semence. {{PCap|[[Ortide]]}} dégage une odeur nauséabonde. Il est très fort contre les {{PCap|Pok}}é{{PCap|mon}} de [[type]] aquatique mais offre peu de résistance aux {{PCap|Pok}}é{{PCap|mon}} de [[type]] aérien ou [[Feu]].
+;[[Épisode 497]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Racine. Il dégage parfois une odeur si intense, qu'il peut assommer tout le monde dans un rayon de 1000 mètres.
+
+{{Ruban Pokémon
+| nomPrécédent=Mystherbe
+| numéro=044
+| nom=Ortide
+| nomSuivant=Rafflesia
+}}
+
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Plante]]
+[[Catégorie:Pokémon évoluant avec une Pierresoleil]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/44| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Gloom| ]]
+
+[[de:Duflor]]
+[[en:Gloom (Pokémon)]]
+[[es:Gloom]]
+[[it:Gloom]]
+[[ja:クサイハナ]]
+[[pl:Gloom]]
+[[pt:Gloom (pokémon)]]

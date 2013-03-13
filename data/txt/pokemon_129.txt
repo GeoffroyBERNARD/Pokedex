@@ -1,0 +1,432 @@
+{{Ruban Pokémon
+| nomPrécédent=Tauros
+| numéro=129
+| nom=Magicarpe
+| nomSuivant=Léviator
+}}
+{{Infobox Pokémon
+| nom=Magicarpe
+| nomen=Magikarp
+| nomja=コイキング
+| nomtm=Koiking
+| nomromaji=Koikingu
+| nomde=Karpador
+| légende=Artwork de Magicarpe pour {{RFVF}}
+| ndex=129
+| jdex=076
+| hdex=052
+| sdex=023
+| fdex=124
+| espece=Poisson
+| taille=0.9
+| poids=10.0
+| fmratio=.500
+| oeufpas=1280
+| effortval=+1 Vit.
+| type1=Eau
+| type2=
+| expval=20
+| expmax=1250000
+| captureval=255
+| groupoeuf1=Eau 2
+| groupoeuf2=Dragon
+| capspe1=Glissade
+| capspe2=Phobique
+| capspe2-reve=oui
+| couleur=Rouge
+| forme=3}}
+'''Magicarpe''' (anglais : '''Magikarp''' ; japonais : '''コイキング''' ''Koiking'') est un [[Pokémon]] de [[type]] {{type|eau}} de la [[première génération]], connu de tous comme étant le plus faible du jeu. Son attaque [[Trempette]] est tout aussi célèbre pour son inutilité absolue.
+
+==À propos du Pokémon==
+===Physionomie===
+Le plus faible des Pokémon. Magicarpe est un Pokémon poisson rouge, il a des yeux ronds et des moustaches. Il possède également des ailerons en forme de couronne.
+
+====Différences mâle/femelle====
+
+Les Magicarpe femelles ont des moustaches blanches, alors qu'elles sont jaunes pour les mâles.
+
+===[[Évolution]]===
+Magicarpe évolue à partir du [[niveau]] 20 en [[Léviator]].
+{{TableauEvolutionHaut|Eau|Magicarpe}}
+{{TableauEvolutionSimple|Niveau 20|Léviator}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+* Français : magique + carpe.
+* Anglais : ''magic'' + ''carp'', à moins que ''magi'' ne soit là pour signifier « roi ».
+* Japonais : ''Koikingu'', 鯉 ''koi'' signifiant carpe et ''king'' en tant qu'anglais pour roi (le roi des carpes).
+* Allemand : ''Karpador'' vient de ''Karpfen'', qui signifie « carpe » et de ''Dorsch''(la morue)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Autrefois, il était beaucoup plus puissant que cette créature minablement faible.
+;[[Pokémon Jaune]]
+:Célèbre pour son inutilité, on en trouve beaucoup dans les océans, les étangs et les rivières.
+;[[Pokémon Stadium]]
+: Quel que soit son adversaire, quelle que soit l'attaque qu'il reçoit en pleine tête, il ne lancera qu'une {{PCap|[[Trempette]]}}.
+;[[Pokémon Or]]
+:Un {{PCap|Pok}}é{{PCap|mon}} tout à fait pathétique. Il peut juste sauter haut en de rares occasions.
+;[[Pokémon Argent]]
+:Il effectue des bonds hors de l'eau, faisant de lui une proie facile pour les {{PCap|[[Roucoups]]}}.
+;[[Pokémon Cristal]]
+:Un {{PCap|Pok}}é{{PCap|mon}} tout à fait pathétique. Il ne peut que subir les courants.
+;[[Pokémon Rubis]]
+:{{PCap|Magicarpe}} est un {{PCap|Pok}}é{{PCap|mon}} ridicule qui ne sait faire que des ronds dans l'eau ou se laisser porter par les courants. Son comportement a donné envie aux savants d'étudier son cas.
+;[[Pokémon Saphir]]
+:{{PCap|Magicarpe}} est virtuellement inutile en combat. Il se contente de faire des ronds dans l'eau. On le considère plutôt faible. Pourtant, ce {{PCap|Pok}}é{{PCap|mon}} est très robuste et peut survivre dans n'importe quel environnement, même très pollué.
+;[[Pokémon Émeraude]]
+:Ses muscles ne sont pas assez puissants pour qu'il puisse lutter contre le courant. On peut souvent voir des {{PCap|Magicarpe}} où l'eau a tendance à stagner.
+;[[Pokémon Rouge Feu]]
+:{{PCap|Magicarpe}} manque totalement de vitesse et de force. C'est le {{PCap|Pok}}é{{PCap|mon}} le plus pathétique sur terre.
+;[[Pokémon Vert Feuille]]
+:La puissance de cette créature a beaucoup régressé au fil des siècles.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Magicarpe}} ne peut rien faire à part gigoter dans tous les sens.
+;[[Pokémon Diamant]]
+:Ce Pokémon est réputé pour être le plus faible au monde. Nul ne sait comment son espèce perdure.
+;[[Pokémon Perle]]
+:Il serait bien incapable de remonter le courant le plus faible. Il passe son temps à barboter.
+;[[Pokémon Platine]]
+:Un vénérable {{PCap|Magicarpe}} peut franchir une montagne en utilisant [[Trempette]]. Mais c'est tout...
+;[[Pokémon Or HeartGold]]
+:Un pokémon tout à fait pathétique.C'est à peine s'il peut sauter plus de 2 mètres de hauteur.
+;[[Pokémon Argent SoulSilver]]
+:Il effectue des bonds hors de l'eau, faisant de lui une proie facile pour les {{PCap|Roucoups}}.
+;[[Pokémon Noir et Blanc]]
+:Un vénérable Magicarpe peut franchir une montagne en utilisant [[Trempette]]. Mais c'est tout...
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RBJ}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | Pêcher un peu partout avec la Canne, ou à acquérir au Mont Sélénite.
+| style="vertical-align:middle;" | 5
+|-
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{OAC}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | Pêcher un peu partout avec la Canne.
+|-
+|}
+
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | Pêcher un peu partout avec la Canne.
+|-
+| style="vertical-align:middle;" | {{RFVF}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | Pêcher un peu partout avec la Canne, ou à acheter auprès du [[Vendeur de Magicarpe]]
+|-
+| [[Pokémon Colosseum|Colosseum]] || Inexistant || À échanger depuis [[Pokémon Rouge Feu et Vert Feuille|Rouge Feu]], [[Pokémon Rouge Feu et Vert Feuille|Vert Feuille]], [[Pokémon Rubis et Saphir|Rubis]], [[Pokémon Rubis et Saphir|Saphir]] ou [[Pokémon Émeraude|Émeraude]].
+|-
+| [[XD]] || Inexistant || À échanger depuis [[Pokémon Rouge Feu et Vert Feuille|Rouge Feu]], [[Pokémon Rouge Feu et Vert Feuille|Vert Feuille]], [[Pokémon Rubis et Saphir|Rubis]], [[Pokémon Rubis et Saphir|Saphir]] ou [[Pokémon Émeraude|Émeraude]].
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{DPP}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | Pêcher un peu partout avec la Canne.
+| style="vertical-align:middle;" | 1-100 {{Infobulle|*|Les Magicarpe très haut niveau sont uniquement dans Platine}}
+|-
+| [[Or HeartGold]] || Commun || Pêcher un peu partout avec la Canne.
+|-
+| [[Argent SoulSilver]] || Commun || Pêcher un peu partout avec une canne ou rencontrer en surf un peu partout aussi. || 10-40
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}}
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Achat à l'entrée du Pont de l'Inconnu (500 {{p}}).
+| style="vertical-align:middle;" | 5
+|-
+| style="vertical-align:middle;" | [[Dream World]] : La [[Mer Étincelante]]
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+===[[Attaque signature]]===
+Pendant une génération, Magicarpe et [[Léviator]] ont été les uniques détenteurs de l'attaque [[Trempette]], qui n'a strictement aucun effet.
+===En montant en [[niveau]]===
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Trempette|-|-|40}}
+{{Attaque|N.15|Charge|35|95|35}}
+{{Attaques apprises-bas}}
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Trempette|-|-|40}}
+{{Attaque|N.15|Charge|35|95|35}}
+{{Attaque|N.30|Fléau|-|100|15}}
+{{Attaques apprises-bas}}
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Trempette|-|-|40|grâce|2|0}}
+{{Attaque-III|N.15|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|N.30|Fléau|-|100|15|grâce|1|0}}
+{{Attaques apprises-bas}}
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=oui}}
+{{Attaque-IV|Départ|Trempette|-|-|40|grâce|2}}
+{{Attaque-IV|N.15|Charge|35|95|35|robustesse|4}}
+{{Attaque-IV|N.30|Fléau|-|100|15|grâce|1}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=oui}}
+{{Attaque-V|Départ|Trempette|-|-|40}}
+{{Attaque-V|N.15|Charge|50|100|35}}
+{{Attaque-V|N.30|Fléau|-|100|15}}
+{{Attaques apprises-bas}}
+
+===Par [[reproduction]]===
+
+====Toutes [[génération]]s====
+{| class="wikitable" style="text-align:center;"
+! style="width:200px; background:{{Couleur|Eau}}" | Pères possibles
+! style="background:{{Couleur|Eau}}" | [[Attaque]] 
+! style="background:{{Couleur|Eau}}" | [[Type]] 
+! style="background:{{Couleur|Eau}}" | [[Catégories d'attaque|Catégorie]]
+! style="background:{{Couleur|Eau}}" | [[Attaque#Puissance, précision et PP|Puissance]]  
+! style="background:{{Couleur|Eau}}" | [[Précision]] 
+! style="background:{{Couleur|Eau}}" | [[PP]]
+|-
+| colspan="7" | {{PAGENAME}} ne peut pas apprendre d'attaque à l'aide de la reproduction.
+|}
+===Via [[CT]]/[[CS]]===
+====Toutes [[génération]]s====
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Eau}}" | [[Attaque]] 
+! style="background:{{Couleur|Eau}}" | [[Type]] 
+! style="background:{{Couleur|Eau}}" | [[Catégories d'attaque|Catégorie]]
+! style="background:{{Couleur|Eau}}" | [[Attaque#Puissance, précision et PP|Puissance]]  
+! style="background:{{Couleur|Eau}}" | [[Précision]] 
+! style="background:{{Couleur|Eau}}" | [[PP]]
+|-
+| colspan="6" | {{PAGENAME}} ne peut pas apprendre d'attaque via capsule.
+|}
+
+===Par [[donneur de capacités]]===
+====[[Quatrième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Eau}}" | Jeux
+! style="background:{{Couleur|Eau}}" | Donneur
+! style="background:{{Couleur|Eau}}" | [[Attaque]] 
+! style="background:{{Couleur|Eau}}" | [[Type]] 
+! style="background:{{Couleur|Eau}}" | [[Catégories d'attaque|Catégorie]]
+! style="background:{{Couleur|Eau}}" | [[Attaque#Puissance, précision et PP|Puissance]]  
+! style="background:{{Couleur|Eau}}" | [[Précision]] 
+! style="background:{{Couleur|Eau}}" | [[PP]]
+! style="background:{{Couleur|Eau}}" | [[Concours Pokémon|Concours]]
+! style="background:{{Couleur|Eau}}" | [[Charme (Concours)|Charme]]
+|-
+| style="vertical-align:middle" | [[Pokémon Or HeartGold et Argent SoulSilver|<font color="{{Couleur|hg}}">HG</font><font color="{{Couleur|ss}}">SS</font>]]
+| style="vertical-align:middle" | [[Atrium Combat]]
+| style="vertical-align:middle" | [[Rebond]]
+| style="vertical-align:middle" | {{type|vol}}
+| style="vertical-align:middle" | {{type|physique}}
+| style="vertical-align:middle" | 85
+| style="vertical-align:middle" | 85%
+| style="vertical-align:middle" | 5
+| style="vertical-align:middle" | {{type|grâce}}
+| style="vertical-align:middle" | {{Cœurs|1|rose}}
+|}
+
+====[[Cinquième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Eau}}" | Jeux
+! style="background:{{Couleur|Eau}}" | Donneur
+! style="background:{{Couleur|Eau}}" | [[Attaque]] 
+! style="background:{{Couleur|Eau}}" | [[Type]] 
+! style="background:{{Couleur|Eau}}" | [[Catégories d'attaque|Catégorie]]
+! style="background:{{Couleur|Eau}}" | [[Attaque#Puissance, précision et PP|Puissance]]  
+! style="background:{{Couleur|Eau}}" | [[Précision]] 
+! style="background:{{Couleur|Eau}}" | [[PP]]
+|-
+| colspan="8" | {{PAGENAME}} ne peut pas apprendre d'attaque via donneur de capacités.
+|}
+
+
+===[[Pokémon Évènementiel|Évènement]]===
+====[[Deuxième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Eau}}" | [[Attaque]] 
+! style="background:{{Couleur|Eau}}" | [[Type]] 
+! style="background:{{Couleur|Eau}}" | [[Attaque#Puissance, précision et PP|Puissance]]  
+! style="background:{{Couleur|Eau}}" | [[Précision]] 
+! style="background:{{Couleur|Eau}}" | [[PP]]
+! style="background:{{Couleur|Eau}}" | Obtention 
+|-
+| style="vertical-align:middle" | [[Écume]]
+| style="vertical-align:middle" | {{type|eau}}
+| style="vertical-align:middle" | 20
+| style="vertical-align:middle" | 100%
+| style="vertical-align:middle" | 30 
+| style="vertical-align:middle" | [[New York City Pokémon Center]]
+|-
+| style="vertical-align:middle" | [[Contre]]
+| style="vertical-align:middle" | {{type|combat}}
+| style="vertical-align:middle" | —
+| style="vertical-align:middle" | 100%
+| style="vertical-align:middle" | 15
+| style="vertical-align:middle" | [[New York City Pokémon Center]]
+|}
+===Autres moyens===
+
+====[[Quatrième génération]]====
+=====[[Pokéwalker]]=====
+
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Eau}}" | [[Attaque]] 
+! style="background:{{Couleur|Eau}}" | [[Type]] 
+! style="background:{{Couleur|Eau}}" | [[Catégories d'attaque|Catégorie]]
+! style="background:{{Couleur|Eau}}" | [[Attaque#Puissance, précision et PP|Puissance]]  
+! style="background:{{Couleur|Eau}}" | [[Précision]] 
+! style="background:{{Couleur|Eau}}" | [[PP]]
+! style="background:{{Couleur|Eau}}" | Route
+|-
+| style="vertical-align:middle" | [[Rebond]]
+| style="vertical-align:middle" | {{type|vol}}
+| style="vertical-align:middle" | {{type|physique}}
+| style="vertical-align:middle" | 85
+| style="vertical-align:middle" | 85%
+| style="vertical-align:middle" | 5
+| style="vertical-align:middle" | [[Chemin Victoire]]
+|}
+====[[Cinquième génération]]====
+=====[[Pokémon Dream World]]=====
+
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Eau}}" | [[Attaque]] 
+! style="background:{{Couleur|Eau}}" | [[Type]] 
+! style="background:{{Couleur|Eau}}" | [[Catégories d'attaque|Catégorie]]
+! style="background:{{Couleur|Eau}}" | [[Attaque#Puissance, précision et PP|Puissance]]  
+! style="background:{{Couleur|Eau}}" | [[Précision]] 
+! style="background:{{Couleur|Eau}}" | [[PP]]
+|-
+| style="vertical-align:middle" | [[Rebond]]
+| style="vertical-align:middle" | {{type|vol}}
+| style="vertical-align:middle" | {{type|physique}}
+| style="vertical-align:middle" | 85
+| style="vertical-align:middle" | 85%
+| style="vertical-align:middle" | 5
+|}
+
+==Sensibilités==
+
+{{Sensibilités
+| type=Eau
+| sensib-acier=0.5
+| sensib-eau=0.5
+| sensib-feu=0.5
+| sensib-glace=0.5
+| sensib-électrique=2
+| sensib-plante=2
+}}
+
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=20
+|attaque=10
+|defense=55
+|atq-spc=15
+|def-spc=20
+|vitesse=80
+|special=20
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Magicarpe
+| numero=129
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Magicarpe RB.png
+| forme=3
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+==Apparitions dans le [[dessin animé]]==
+[[Fichier:Ep15jamesmagicarp.png|left|thumb|200px|Une affaire en or...]][[Fichier:Ep16jamesmagicarpkick.png|right|thumb|200px|Un coup de pied que James va bientôt regretter.]] Magicarpe a fait plusieurs apparitions dans l'animé : les plus notables sont celles où il devient la marchandise de la transposition de la personne qui vend un Magicarpe au [[Mont Sélénite]] pour 500{{P}} dans {{BRJ}} en un arnaqueur professionnel vendant des Magicarpe en Poké Balls dorées pour des montants astronomiques. 
+Une autre apparition notable est celle de l'[[épisode 92]] où une [[infirmière Joëlle]] sportive est amie avec un Magicarpe aux proportions gargantuesques.
+Nos héros ont également l'occasion d'étudier la migration des Magicarpe dans l'[[épisode 109]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 487]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Poisson. {{PCap|Magicarpe}} peut vivre dans les eaux les plus sales. Il saute très haut. Sa [[évolution|forme évoluée]] est {{PCap|Léviator}}.
+
+{{Ruban Pokémon
+| nomPrécédent=Tauros
+| numéro=129
+| nom=Magicarpe
+| nomSuivant=Léviator
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/129| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Magikarp| ]]
+
+[[de:Karpador]]
+[[en:Magikarp (Pokémon)]]
+[[es:Magikarp]]
+[[it:Magikarp]]
+[[ja:コイキング]]
+[[pl:Magikarp]]
+[[pt:Magikarp (pokémon)]]

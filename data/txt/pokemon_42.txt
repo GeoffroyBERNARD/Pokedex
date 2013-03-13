@@ -1,0 +1,425 @@
+{{Ruban Pokémon
+| nomPrécédent=Nosferapti
+| numéro=042
+| nom=Nosferalto
+| nomSuivant=Mystherbe
+}}
+{{Infobox Pokémon 
+| nom=Nosferalto
+| nomen=Golbat
+| nomja=ゴルバット
+| nomtm=Golbat
+| nomromaji=Gorubatto
+| nomde=Golbat
+| légende=Artwork de Nosferalto pour {{RFVF}}
+| ndex=042
+| jdex=038
+| hdex=064
+| sdex=029
+| fdex=059
+| adex=015
+| odex=R-043
+| opdex=N-065
+| espece=Chovsouris
+| taille=1.6
+| poids=55.0
+| fmratio=.5 
+| oeufpas=3840
+| effortval=+2 Vit.
+| type1=Poison
+| type2=Vol
+| expval=171
+| expmax=1000000
+| captureval=90
+| groupoeuf1=Vol
+| capspe1=Attention
+| capspe2=Infiltration
+| capspe2-reve=oui
+| couleur=Violet
+| forme=9}}
+'''Nosferalto''' (anglais : '''Golbat''' ; japonais : '''ゴルバット''' ''Golbat'') est un [[Pokémon]] de [[type]] {{type|poison}} et {{type|vol}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+Nosferalto est une grosse chauve-souris bleu foncé. Il possède de grandes ailes à la membrane violette, comme le creux de ses minuscules oreilles. Son énorme mâchoire compte quatre crocs apparents, qu'il utilise afin de transpercer la peau de ses victimes pour en aspirer le sang. À la grande différence de sa pré-évolution, il possède des pieds et des yeux. 
+
+====Différences mâle/femelle====
+Les Nosferalto femelles ont des crocs plus petits.
+
+===[[Évolution]]===
+Nosferalto est l'évolution à partir du [[niveau]] 22 de [[Nosferapti]], et peut évoluer en [[Nostenfer]] s'il est suffisamment [[Bonheur|heureux]].
+{{TableauEvolutionHaut|Poison|Nosferapti}}
+{{TableauEvolutionSimple|[[Niveau]] 22|Nosferalto}}
+{{TableauEvolutionSimple|[[Bonheur]]|Nostenfer}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Ce Pokémon a la capacité spéciale [[Attention]] qui l'empêche de pouvoir être [[apeuré]].
+
+===Étymologies===
+
+* Français : de '''Nosfer'''atu, vampire, et '''alto''' (grand).
+* Anglais, allemand, japonais :de golden-capped fruit[http://thewebsiteofeverything.com/img/golden-capped_fruit_bat.jpg] (nom anglais de la Roussette) et de Bat(chauve-souris)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Une fois son adversaire mordu, il absorbera son énergie même s'il est trop gros pour voler.
+;[[Pokémon Jaune]]
+:Il attaque par surprise et sans crier gare. Ses longues dents lui servent à sucer le sang.
+;[[Pokémon Stadium]]
+: Il mord sa victime et se nourrit de son énergie. Son groupe sanguin change en fonction de celui de sa victime.
+;[[Pokémon Or]]
+:Sa morsure peut percer l'épiderme le plus dur. Il peut ainsi boire le sang de ses ennemis.
+;[[Pokémon Argent]]
+:Il peut boire plus de 300cl de sang en une fois. S'il en a trop bu, il s'alourdit et vole plus lentement.
+;[[Pokémon Cristal]]
+:S'il plante ses crocs dans sa proie, il aspire plus de 300cl de sang.
+;[[Pokémon Rubis]]
+:{{PCap|Nosferalto}} adore boire le sang des créatures vivantes. Il est particulièrement actif pendant les nuits noires. Ce {{PCap|Pok}}é{{PCap|mon}} se balade dans les cieux étoilés, à la recherche de sang frais.
+;[[Pokémon Saphir]]
+:{{PCap|Nosferalto}} mord sa proie grâce à ses quatre crocs pour boire son sang. Il ne sort que lorsque la nuit est noire et sans lune, pour voleter en quête de gens et de {{PCap|Pok}}é{{PCap|mon}} à mordre.
+;[[Pokémon Émeraude]]
+:Ses dents acérées peuvent transpercer facilement la peau d'un animal. Il attaque par derrière et dans le noir pour se rassasier du sang de ses victimes.
+;[[Pokémon Rouge Feu]]
+:Une fois ses dents pointues plantées dans le corps de son adversaire, il est capable de lui retirer un quart de litre de sang en une seule gorgée.
+;[[Pokémon Vert Feuille]]
+:Il mord son adversaire et absorbe toute son énergie, même s'il devient trop lourd pour voler.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Les grandes ailes de {{PCap|Nosferalto}} peuvent créer des rafales de vent.
+;[[Pokémon Diamant]]
+:Il aime le sang des humains et des {{PCap|Pok}}é{{PCap|mon}}. Il erre la nuit en quête d'un cou où planter ses crocs.
+;[[Pokémon Perle]]
+:Quand il se met à sucer du sang, il ne s'arrête qu'une fois rassasié. C'est un chasseur nocturne.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il génère des ultrasons et crache du poison.
+;[[Pokémon Platine]]
+:Ses crocs acérés et creux peuvent pénétrer la plus épaisse des peaux et sucer le sang de la victime.
+;[[Pokémon Or HeartGold]]
+:Sa morsure peut percer l'épiderme le plus dur. Il peut ainsi boire le sang de ses ennemis.
+;[[Pokémon Argent SoulSilver]]
+:Il peut boire plus de 300 cl de sang en une fois. S'il en a trop bu, il s'alourdit et vole plus lentement.
+;[[Pokémon Noir et Blanc]]
+:Ses crocs acérés et creux peuvent pénétrer la plus épaisse des peaux et sucer le sang de la victime.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:200px" | Version
+! style="background-color:{{Couleur|Poison}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| [[Rouge]] || Commun || [[Route Victoire]]
+|-
+| [[Bleu]] || Commun || [[Route Victoire]]
+|-
+| [[Jaune]] || Commun || [[Route Victoire]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:200px" | Version
+! style="background-color:{{Couleur|Poison}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{OAC}}
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | Route victoire, Grotte Argentée
+|-
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:200px" | Version
+! style="background-color:{{Couleur|Poison}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}}
+| style="vertical-align:middle;" | Peu commun
+| style="vertical-align:middle;" | [[Route Victoire]], [[Site Météore]], [[Grotte Origine]], [[Grotte Tréfonds]], [[Caverne Fondmer]]
+|-
+| [[Rouge Feu]] || Peu commun || [[Caverne Azurée]], [[Grotte de Glace]], [[Grotte Perdue]], [[Îles Écume]], [[Route Victoire (Kanto)|Route Victoire]]
+|-
+| [[Vert Feuille]] || Peu commun || [[Caverne Azurée]], [[Grotte de Glace]], [[Grotte Perdue]], [[Îles Écume]], [[Route Victoire (Kanto)|Route Victoire]]
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || Faire évoluer [[Nosferapti]]
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:200px" | Version
+! style="background-color:{{Couleur|Poison}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| [[Diamant]] || Commun || À venir
+|-
+| [[Perle]] || Commun || À venir
+|- 
+| [[Or HeartGold]] || Commun || Toutes les grottes de [[Johto]] + [[Caverne Azurée]], [[Chutes Tohjo]], [[Grotte Argentée]], [[Îles Écume]] et [[Route Victoire (Kanto)]]
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:200px" | Version
+! style="background-color:{{Couleur|Poison}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}}
+| rowspan="2" style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Route 13 (Unys)|Route 13]]
+| style="vertical-align:middle;" | 22-48
+|-
+| style="vertical-align:middle;" | [[Grotte Cyclopéenne]]
+| style="vertical-align:middle;" | 48-60
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Vampirisme|20|100|15}}
+{{Attaque|Départ|Grincement|-|85|40}}
+{{Attaque|Départ|Morsure|60|100|25}}
+{{Attaque|N.21|Onde Folie|-|100|10}}
+{{Attaque|N.32|Cru-Aile|35|100|35}}
+{{Attaque|N.43|Buée Noire|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Vampirisme|20|100|15}}
+{{Attaque|Départ|Grincement|-|85|40}}
+{{Attaque|Départ|Morsure|60|100|25}}
+{{Attaque|Départ|Onde Folie|-|100|10}}
+{{Attaque|N.30|Cru-Aile|60|100|35}}
+{{Attaque|N.42|Grimace|-|90|10}}
+{{Attaque|N.55|Buée Noire|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|Départ|Vampirisme|20|100|15|intelligence|2|3}}
+{{Attaque-III|Départ<br>N.6|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|Départ<br>N.11|Étonnement|30|100|15|intelligence|2|3}}
+{{Attaque-III|N.16|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.21|Cru-Aile|60|100|35|sang-froid|2|0}}
+{{Attaque-III|N.28|Onde Folie|-|100|10|intelligence|3|0}}
+{{Attaque-III|N.35|Tranch'Air|55|95|25|sang-froid|2|1}}
+{{Attaque-III|N.42|Regard Noir|-|100|5|beauté|2|0}}
+{{Attaque-III|N.49|Crochetvenin|50|100|15|intelligence|3|0}}
+{{Attaque-III|N.56|Buée Noire|-|-|30|beauté|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|Départ|Vampirisme|20|100|15|intelligence|1}}
+{{Attaque-IV|Départ<br>N.5|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|Départ<br>N.9|Étonnement|30|100|15|intelligence|3}}
+{{Attaque-IV|N.13|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.17|Cru-Aile|60|100|35|sang-froid|3}}
+{{Attaque-IV|N.21|Onde Folie|-|100|10|intelligence|2}}
+{{Attaque-IV|N.27|Tranch'Air|55|95|25|sang-froid|3}}
+{{Attaque-IV|N.33|Regard Noir|-|-|5|beauté|2}}
+{{Attaque-IV|N.39|Crochetvenin|50|100|15|intelligence|2}}
+{{Attaque-IV|N.45|Buée Noire|-|-|30|beauté|2}}
+{{Attaque-IV|N.51|Lame d'Air|75|95|20|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Grincement|-|85|40}}
+{{Attaque-V|Départ|Vampirisme|20|100|15}}
+{{Attaque-V|Départ<br>N.5|Ultrason|-|55|20}}
+{{Attaque-V|Départ<br>N.9|Étonnement|30|100|15}}
+{{Attaque-V|N.13|Morsure|60|100|25}}
+{{Attaque-V|N.17|Cru-Aile|60|100|35}}
+{{Attaque-V|N.21|Onde Folie|-|100|10}}
+{{Attaque-V|N.27|Tranch'Air|55|95|25}}
+{{Attaque-V|N.33|Regard Noir|-|-|5}}
+{{Attaque-V|N.39|Acrobatie|55|100|15}}
+{{Attaque-V|N.45|Crochetvenin|50|100|15}}
+{{Attaque-V|N.51|Buée Noire|-|-|30}}
+{{Attaque-V|N.57|Lame d'Air|75|95|20}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 04 || [[Cyclone]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Méga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-électrique=2
+|sensib-roche=2
+|sensib-glace=2
+|sensib-psy=2
+|sensib-insecte=0.25
+|sensib-poison=0.5
+|sensib-plante=0.25
+|sensib-combat=0.25
+|sensib-sol=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est de x2.
+|rmq-sol-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=poison
+|PV=75
+|attaque=80
+|defense=70
+|atq-spc=65
+|def-spc=75
+|vitesse=90
+|special=75
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Nosferalto
+| numero=042
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Nosferalto RB.png
+| forme=9
+| pdm=oui
+| pinballRS=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:Nosféralto animé.png|thumb|left|Des Nosféralto appartenant aux sbires de la [[Team Galaxie]] dans le [[DP136]].]]
+
+[[Koga]], le champion de l'arène de [[Parmanie]], utilise un Nosferalto dans son second match contre [[Sacha]] dans l'[[Épisode 32]] (match que ce dernier remporte avec [[Salamèche]]).<br/>
+Dans l'[[épisode 75]], le troisième et dernier Pokémon utilisé par [[Mandy]] dans son match contre [[Sacha]] au premier tour de la [[Ligue Indigo]] n'est autre que Nosferalto… qui subit comme les deux précédents la loi de [[Krabboss de Sacha|Krabboss]].
+
+Pierre a capturé dans l'[[épisode 5]] un [[Nosferapti]]… qui évolue en Nosferalto dans l'[[épisode 165]] durant une bataille contre la [[Team Rocket (trio)|Team Rocket]]… au grand dam de [[Pierre (dessin animé)|Pierre]], puisque son amour du jour était un professeur utilisant l'attaque [[Ultrason]] de [[Nosferapti]] pour soigner les blessés, et qu'en ayant évolué l'attaque de Nosferalto est devenue beaucoup trop forte pour pouvoir être utile (et donc donner une raison à Pierre de rester sur place). Nosferalto évolue ensuite dans l'[[épisode 198]] en [[Nostenfer de Pierre|Nostenfer]].
+
+D'autres Nosferalto font également des apparitions plus succinctes dans le dessin animé, notamment utilisés par différents antagonistes de l'animé.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 32]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} possède des crocs qui lui permettent de sucer 300 cm3 de sang par [[Morsure]].
+;[[Épisode 165]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Chovsouris. La [[évolution|forme évoluée]] du {{PCap|Nosferapti}}. Il a quatre canines acérées et émet des [[Ultrason]]s très puissants.
+;[[Épisode 535]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Chovsouris. [[évolution|forme évoluée]] de {{PCap|Nosferapti}}. {{PCap|[[Nosferalto]]}} est un {{PCap|Pok}}é{{PCap|mon}} nocturne qui attend la nuit pour chasser ses proies.
+
+{{Ruban Pokémon
+| nomPrécédent=Nosferapti
+| numéro=042
+| nom=Nosferalto
+| nomSuivant=Mystherbe
+}}
+
+[[Catégorie:Pokémon évoluant au Bonheur]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/42| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Golbat| ]]
+
+[[de:Golbat]]
+[[en:Golbat (Pokémon)]]
+[[es:Golbat]]
+[[it:Golbat]]
+[[ja:ゴルバット]]
+[[pl:Golbat]]
+[[pt:Golbat (pokémon)]]

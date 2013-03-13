@@ -1,0 +1,581 @@
+{{Ruban Pokémon
+| nomPrécédent=Amonita
+| numéro=139
+| nom=Amonistar
+| nomSuivant=Kabuto
+}}
+{{Infobox Pokémon
+| nom=Amonistar
+| nomen=Omastar
+| nomja=オムスター
+| nomtm=Omstar
+| nomromaji=Omusutā
+| nomde=Amoroso
+| légende=Artwork d'Amonistar pour {{RFVF}}
+| ndex=139
+| jdex=221
+| njdex=226
+| hdex=294
+| adex=236
+| espece=Spirale
+| taille=1.0
+| poids=35.0
+| fmratio=.125
+| oeufpas=7680
+| effortval=+2 Déf.
+| type1=Roche
+| type2=Eau
+| expval=199
+| expmax=1000000
+| captureval=45
+| groupoeuf1=Eau 1
+| groupoeuf2=Eau 3
+| capspe1=Glissade
+| capspe2=Coque Armure
+| capspe3=Armurouillée
+| couleur=Bleu
+| forme=10}}
+'''Amonistar''' (anglais : '''Omastar''' ; japonais : '''オムスター''' ''Omstar'') est l'[[évolution]] de l'un des [[Pokémon]] préhistoriques qui ne sont théoriquement plus censés exister autrement qu'à l'état de fossiles, [[Amonita]], mais il est néanmoins possible de faire revivre ce dernier. Apparu dans la [[première génération]], il est de [[type]] {{type|roche}} et {{type|eau}}.
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Amonistar est l'évolution à partir du [[niveau]] 40 de [[Amonita]], obtenu en faisant revivre le [[Fossile Nautile]].
+
+{{TableauEvolutionHaut|Roche|Amonita}}
+{{TableauEvolutionSimple|Niveau 40|Amonistar}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Amonistar possède soit la capacité spéciale [[Glissade]], qui double la vitesse du Pokémon s'il pleut, soit la capacité spéciale [[Coque Armure]], qui l'empêche d'être victime de [[coups critiques]].
+
+===Étymologies===
+* Français : de Ammonite, famille d'animaux préhistoriques ayant inspiré le Pokémon, et star
+* Anglais :
+* Japonais :
+* Allemand :
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Un {{PCap|Pok}}é{{PCap|mon}} préhistorique qui disparut quand sa coquille devint trop lourde à déplacer.
+;[[Pokémon Jaune]]
+:Sa bouche est formée de becs aiguisés. Sa coquille trop lourde l'empêche de se déplacer.
+;[[Pokémon Stadium]]
+:Il attaque en enserrant son ennemi de ses tentacules et en le mordillant avec ses crocs acérés. Il est en revanche assez lent.
+;[[Pokémon Or]]
+:Il paraît qu'il cassait des {{PCap|[[Kokiyas]]}} avec ses crocs acérés pour en absorber l'intérieur.
+;[[Pokémon Argent]]
+:Une fois enroulé autour de sa proie,il ne la laisse pas repartir et la dévore avec ses crocs.
+;[[Pokémon Cristal]]
+:Sa grosse carapace ne lui permettait que d'attraper de la nourriture proche. Il a donc disparu.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Amonistar}} utilise ses tentacules pour capturer ses proies. On pense que l'espèce s'est éteinte parce que sa coquille était devenue trop grande et trop lourde, ce qui rendait ses mouvements lents et pesants.
+;[[Pokémon Émeraude]]
+:Il capture ses proies avec ses tentacules. On pense que l'espèce s'est éteinte parce que sa coquille était devenue trop grande, rendant ses mouvements lents et pesants.
+;[[Pokémon Rouge Feu]]
+:Ses tentacules sont développées comme s'il s'agissait de bras ou de jambes. Dès qu'il attrape une proie, il la mord.
+;[[Pokémon Vert Feuille]]
+:Un {{PCap|Pok}}é{{PCap|mon}} préhistorique qui disparut quand sa coquille devint trop lourde à déplacer.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:On pense que ce {{PCap|Pok}}é{{PCap|mon}} a disparu parce que sa coquille en spirale était devenue trop grosse.
+;[[Pokémon Ranger 2]]
+:Il attaque en faisant des bulles avec sa bouche.
+;[[Pokémon Or HeartGold]]
+:Il paraît qu'il cassait des {{PCap|[[Kokiyas]]}} avec ses crocs acérés pour en absorber l'intérieur.
+;[[Pokémon Argent SoulSilver]]
+:Une fois enroulé autour de sa proie, il ne la laisse pas repartir et la dévore avec ses crocs.
+;[[Pokémon Noir et Blanc]]
+:On pense que ce Pokémon a disparu parce que sa coquille en spirale était devenue trop grosse.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Amonita]].
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Amonita]].
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Amonita]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || À obtenir par échange.
+|-
+| [[Cristal]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Amonita]].
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Amonita]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Amonita]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Amonita]].
+|-
+| [[Or HeartGold]] || Inexistant || Faire évoluer [[Amonita]].
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Roche}}; width:150px" | Version
+! style="background-color:{{Couleur|Roche}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Roche}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Roche}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Blanc}};" | {{Couleur lien|#000000|Blanc}} 
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| rowspan="2" style="vertical-align:middle;" | Faire évoluer [[Amonita]]
+| rowspan="2" style="vertical-align:middle;" | 40
+|-
+| style="background:{{Couleur|Noir}};" | {{Couleur lien|#FFFFFF|Noir}}
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|Départ|Repli|-|-|40}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|N.44|Picanon|20|100|15}}
+{{Attaque|N.49|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Constriction|10|100|35}}
+{{Attaque|Départ|Repli|-|-|40}}
+{{Attaque|Départ|Morsure|60|100|25}}
+{{Attaque|Départ|Pistolet à O|40|100|25}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Abri|-|-|10}}
+{{Attaque|N.54|Pouv. Antique|60|100|5}}
+{{Attaque|N.65|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Constriction|10|100|35|robustesse|2|3}}
+{{Attaque-III|Départ|Repli|-|-|40|grâce|1|0}}
+{{Attaque-III|Départ<br>N.13|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.19|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|N.25|Tir de Boue|55|95|15|robustesse|1|3}}
+{{Attaque-III|N.31|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.37|Abri|-|-|10|grâce|1|0}}
+{{Attaque-III|N.40|Picanon|20|100|15|sang-froid|2|1}}
+{{Attaque-III|N.46|Chatouille|-|100|20|grâce|3|0}}
+{{Attaque-III|N.55|Pouv. Antique|60|100|5|robustesse|1|0}}
+{{Attaque-III|N.65|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Constriction|10|100|35|robustesse|0}}
+{{Attaque-IV|Départ|Repli|-|-|40|grâce|2}}
+{{Attaque-IV|Départ<br>N.7|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.10|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.16|Roulade|30|90|20|robustesse|2}}
+{{Attaque-IV|N.19|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.25|Tir de Boue|55|95|15|robustesse|2}}
+{{Attaque-IV|N.28|Saumure|65|100|10|intelligence|2}}
+{{Attaque-IV|N.34|Abri|-|-|10|grâce|0}}
+{{Attaque-IV|N.37|Pouv. Antique|60|100|5|robustesse|2}}
+{{Attaque-IV|N.40|Picanon|20|100|15|sang-froid|2}}
+{{Attaque-IV|N.48|Chatouille|-|100|20|grâce|2}}
+{{Attaque-IV|N.56|Boule Roc|25|80|10|robustesse|2}}
+{{Attaque-IV|N.67|Hydrocanon|120|80|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Constriction|10|100|35}}
+{{Attaque-V|Départ|Repli|-|-|40}}
+{{Attaque-V|Départ<br>N.7|Morsure|60|100|25}}
+{{Attaque-V|N.10|Pistolet à O|40|100|25}}
+{{Attaque-V|N.16|Roulade|30|90|20}}
+{{Attaque-V|N.19|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.25|Tir de Boue|55|95|15}}
+{{Attaque-V|N.28|Saumure|65|100|10}}
+{{Attaque-V|N.34|Abri|-|-|10}}
+{{Attaque-V|N.37|Pouv. Antique|60|100|5}}
+{{Attaque-V|N.40|Picanon|20|100|15}}
+{{Attaque-V|N.48|Chatouille|-|100|20}}
+{{Attaque-V|N.56|Boule Roc|25|90|10}}
+{{Attaque-V|N.67|Exuviation|-|-|15}}
+{{Attaque-V|N.75|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Empal'Korne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coup d'Boule]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 04 || [[Roulade]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 06 || [[Siphon]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 39 || [[Tomberoche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 08 || [[Plongée]] || [[Fichier:type miniat eau.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 39 || [[Tomberoche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 55 || [[Saumure]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 58 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 68 || [[Giga Impact]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 69 || [[Poliroche]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 71 || [[Lame de Roc]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 74 || [[Gyroballe]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 76 || [[Piège de Roc]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 78 || [[Séduction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 80 || [[Éboulement]] || [[Fichier:type miniat roche.png]]
+|-
+|CT 82 || [[Blabla dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 83 || [[Don Naturel]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 87 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 03 || [[Surf]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+|CS 07 || [[Cascade]] || [[Fichier:type miniat eau.png]]
+|-
+|CS 08 || [[Escalade]] || [[Fichier:type miniat normal.png]]
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+| type=roche
+| sensib-combat=2
+| sensib-feu=0.25
+| sensib-électrique=2
+| sensib-glace=0.5
+| sensib-normal=0.5
+| sensib-plante=4
+| sensib-poison=0.5
+| sensib-sol=2
+| sensib-vol=0.5
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=roche
+|PV=70
+|attaque=60
+|defense=125
+|atq-spc=115
+|def-spc=70
+|vitesse=55
+|special=115
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Amonistar
+| numero=139
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Amonistar RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère 2]]''
+| artwork_supp2-img=Amonistar-DM2.png
+| forme=10
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+La première apparition d'un Amonistar se fait en même temps que les autres Pokémon fossiles de la [[Génération I]] dans l'[[épisode 46]], où ils dormaient paisiblement depuis des millénaires avant que [[Sacha]] et la [[Team Rocket (trio)|Team Rocket]] ne viennent les interrompre.
+
+Dans l'[[Épisode 163]], on découvre des Amonita et des Amonistar vivant dans les [[Ruines d'Alpha]], qui sont étudiés par un des anciens élèves du [[Professeur Chen]] qui fait d'ailleurs le déplacement jusqu'à [[Johto]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 46]]
+:{{PCap|[[Amonita]]}} et {{PCap|Amonistar}}, {{PCap|[[Kabuto]]}} et {{PCap|[[Kabutops]]}}. Ces {{PCap|Pok}}é{{PCap|mon}} ont vraisemblablement disparus il y plusieurs dizaines de milliers d'années. Les détails concernant leurs comportements sont inconnus. Bien que certains pensent qu'il pourrait exister des spécimens encore vivants à l'heure actuelle, personne n'en a jamais vu.
+;[[Épisode 163]]
+:[[évolution|Forme évoluée]] de l'{{PCap|Amonita}}. Ce {{PCap|Pok}}é{{PCap|mon}}, aujourd'hui disparu, avait des crocs très acérés qui lui permettaient de trouer la coquille de ses proies.
+
+{{Ruban Pokémon
+| nomPrécédent=Amonita
+| numéro=139
+| nom=Amonistar
+| nomSuivant=Kabuto
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/139| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Omastar| ]]
+
+[[de:Amoroso]]
+[[en:Omastar (Pokémon)]]
+[[es:Omastar]]
+[[it:Omastar]]
+[[ja:オムスター]]
+[[pl:Omastar]]
+[[pt:Omastar (pokémon)]]

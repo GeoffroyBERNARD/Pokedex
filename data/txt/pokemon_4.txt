@@ -1,0 +1,641 @@
+{{Ruban Pokémon
+| nomPrécédent=Florizarre
+| numéro=004
+| nom=Salamèche
+| nomSuivant=Reptincel
+}}
+{{Infobox Pokémon 
+| nom=Salamèche
+| nomen=Charmander
+| nomja=ヒトカゲ
+| nomtm=Hitokage
+| nomde=Glumanda
+| légende=Artwork par Ken Sugimori
+| ndex=004
+| jdex=229
+| njdex=234
+| hdex=206
+| fdex=140
+| adex=137
+| odex=R-206
+| opdex=N-062
+| espece=Lézard
+| taille=0.6
+| poids=8.5
+| fmratio=.125 
+| couleur=Rouge
+| oeufpas=5120 
+| effortval=+1 Vit.
+| type1=Feu
+| expval=65
+| expmax=1059860
+| captureval=45
+| groupoeuf1=Dragon
+| groupoeuf2=Monstre
+| capspe1=Brasier
+| capspe2=Force Soleil
+| capspe2-reve=oui
+| forme=6
+}}
+'''Salamèche''' (Anglais: '''Charmander''' ; Japonais: '''ヒトカゲ''' ''Hitokage'') est le [[Pokémon de départ]] de type {{type|feu}} offert par le [[Professeur Chen]] dans [[Pokémon Rouge et Bleu|''Pokémon Rouge'', ''Bleu'']], [[Pokémon Rouge Feu et Vert Feuille|''Rouge Feu'' et ''Vert Feuille'']].
+
+==À propos du Pokémon==
+
+===Physionomie===
+
+Salamèche est un petit reptile bipède orange semblable à une salamandre. Il possède quatre petits crocs, mais sa plus grande particularité est la petite flamme qui brûle constamment au bout de sa queue. Ses deux jambes possèdent des griffes, comme ses mains, mais celles-ci sont moins apparentes.
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Salamèche a un corps jaune.
+
+===[[Évolution]]===
+
+Salamèche évolue à partir du [[niveau]] 16 en [[Reptincel]], puis il évolue en [[Dracaufeu]] à partir du niveau 36.
+
+{{TableauEvolutionHaut|Feu|Salamèche}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Reptincel}}
+{{TableauEvolutionSimple|[[Niveau]] 36|Dracaufeu}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+[[Brasier]] augmente la puissance des attaques feu de 50% lorsque les PV du Pokémon tombent à moins d’un tiers de leurs PVmax.
+
+===Étymologies===
+* Français : ''Salamèche'' vient de '''''sala'''mandre'' et ''flam'''mèche'''''.
+* Anglais : ''Charmander'' vient de ''to char'' (carboniser) et ''salamander'' (salamandre).
+* Japonais : 火蜥蜴 ''Hitokage'' signifie « lézard » et comporte « 火 », le kanji du feu.
+* Allemand : ''Glumanda '' vient de ''Glut'' (braise) et ''Salamander'' (salamandre).
+* Coréen : 파이리 ''Pairi'' est un dérivé des mots anglais ''fire'' (feu – 파이어 ''paiya'') et ''lizard'' (lézard – 리자드 ''risadeu'').
+* Chinois (Hong-Kong et Taïwan) : 小火龍 ''Xiǎo Huǒ Lóng'' signifie ''Petit dragon de feu''.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il préfère les endroits chauds. En cas de pluie, de la vapeur se forme autour de sa queue.
+;[[Pokémon Jaune]]
+:La flammèche au bout de sa queue émet un son crépitant audible seulement dans un endroit calme.
+;[[Pokémon Stadium]]
+: Même les plus jeunes ont une queue enflammée. On raconte que les petits, peu habitués au feu, se brûlent par accident.
+;[[Pokémon Or]]
+:La flamme au bout de sa queue montre la vivacité de son énergie. S'il est faible, sa flamme sera petite
+;[[Pokémon Argent]]
+:La flamme sur sa queue représente l'énergie vitale de {{PCap|Salamèche}}. Si elle est forte il a la santé.
+;[[Pokémon Cristal]]
+: S'il est en bonne santé, la flamme sur sa queue est importante, même s'il pleut.
+;[[Pokémon Rubis et Saphir]]
+: La flamme qui brûle au bout de sa queue indique l'humeur de ce Pokémon. Elle vacille lorsque {{PCap|Salamèche}} est content. En revanche, lorsqu'il s'énerve, la flamme prend de l'importance et brûle plus ardemment.
+;[[Pokémon Émeraude]]
+: La flamme qui brûle au bout de sa queue indique son humeur. Elle vacille lorsqu'il est content mais prend de l'importance et brûle plus ardemment lorsqu'il s'énerve.
+;[[Pokémon Rouge Feu]]
+: Depuis sa naissance, une petite flamme brûle au bout de sa queue. Si cette flamme s'éteint, la vie de ce {{PCap|Pok}}é{{PCap|mon}} s'éteindra elle aussi.
+;[[Pokémon Vert Feuille]]
+: Il préfère les endroits chauds. En cas de pluie, de la vapeur se forme autour de sa queue.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Salamèche}} vibre lorsqu'il crache du feu. Il est l'image même de la vitalité.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: La flamme de sa queue symbolise sa vitalité. Elle est intense quand il est en bonne santé.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en crachant des braises.
+;[[Pokémon Or HeartGold]]
+:La flamme au bout de sa queue montre la vivacité de son énergie. S'il est faible, sa flamme sera petite.
+;[[Pokémon Argent SoulSilver]]
+:La flamme sur sa queue représente l'énergie vitale de {{PCap|Salamèche}}. Quand il est vigoureux, elle brûle plus fort.
+;[[Pokémon Noir et Blanc]]
+:La flamme de sa queue symbolise sa vitalité. Elle est intense quand il est en bonne santé.
+
+==Localisations==
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#D20000;"|{{couleur lien|#000000|Rouge}}|| rowspan="2" style="vertical-align: middle;"| Unique || rowspan="2" style="vertical-align: middle;"| L’un des trois [[Pokémon de départ]] à choisir proposés par le [[Prof. Chen]] à [[Bourg Palette]]. 
+| rowspan="2" style="vertical-align: middle;"|N.5
+|-
+| style="background:#1C2FDA;"|{{couleur lien|#FFFFFF|Bleu}} 
+|-
+| style="vertical-align: middle; background:#FFFF52" | {{couleur lien|#000000|Jaune}}|| rowspan="1" style="vertical-align: middle;"| Unique || rowspan="1" style="vertical-align: middle;"| Donné par un dresseur situé sur la [[Route 24]]. 
+| style="vertical-align: middle;"|N.10
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|- 
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#E6D600;"|{{couleur lien|#000000|Or}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{BRJ}} par le [[Bloc temporel]].
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#D0D0D0;"|{{couleur lien|#000000|Argent}}
+|-
+| style="background:#009595;"|{{couleur lien|#FFFFFF|Cristal}} 
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#9F002A;"|{{couleur lien|#FFFFFF|Rubis}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="3" style="vertical-align: middle;"| -
+|-
+| style="background:#002395;"|{{couleur lien|#FFFFFF|Saphir}} 
+|-
+| style="background:#008B33;"|{{couleur lien|#FFFFFF|Émeraude}} 
+|-
+| style="background:#EA4E00;"|{{couleur lien|#000000|Rouge Feu}}|| rowspan="2" style="vertical-align: middle;"| Unique || rowspan="2" style="vertical-align: middle;"| L’un des trois Pokémon de départ à choisir proposés par le [[Prof. Chen]] à [[Bourg Palette]].
+| rowspan="2" style="vertical-align: middle;"| N.5
+|-
+| style="background:#00BE46;"|{{couleur lien|#000000|Vert Feuille}} 
+|-
+| style="background:#B0001D;"|{{couleur lien|#FFFFFF|Colosseum}}  || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="2" style="vertical-align: middle;"| -
+|-
+| style="background:#700087;"|{{couleur lien|#FFFFFF|XD}} 
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#A7F6FF;"|{{couleur lien|#000000|Diamant}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;" | À échanger depuis {{OHAS}}.
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#FFBFF9;"|{{couleur lien|#000000|Perle}}
+|-
+| style="background:#606060;"|{{couleur lien|#FFFFFF|Platine}}
+|-
+| style="background:#E1C300;"|{{couleur lien|#000000|Or HeartGold}} || rowspan="2" style="vertical-align: middle;"| Unique || rowspan="2" style="vertical-align: middle;" | L’un des trois [[Pokémon]] proposé par le [[Professeur Chen]] à [[Bourg Palette]] après avoir battu [[Red (jeux vidéo)|Red]].
+| rowspan="2" style="vertical-align: middle;" | N.5
+|-
+| style="background:#A3A3A3;"|{{couleur lien|#000000|Argent SoulSilver}}
+|-
+| style="background:#3DB700;"|{{couleur lien|#000000|Parc des Amis}} 
+| style="vertical-align: middle;"| Variable 
+| style="vertical-align: middle;"| Plaine
+| style="vertical-align: middle;"| -
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#000000;"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#000000|Blanc}}
+|-
+| style="background:#000000;"|{{couleur lien|#318CE7|Noir 2}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#E9383F|Blanc 2}}
+|-
+|}
+
+===[[Sixième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Feu}}; width:120px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="background:#6050DC;"|{{couleur lien|#FFFFFF|X}}
+| rowspan="2" style="vertical-align: middle;" | ?
+| rowspan="2" style="vertical-align: middle;" | À venir
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#DE2916;"| {{couleur lien|#FFFFFF|Y}}
+|-
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.9{{Sup|R}}{{Sup|B}}<br>Départ{{Sup|J}}|Flammèche|40|100|25}}
+{{Attaque|N.15|Groz'Yeux|-|100|30}}
+{{Attaque|N.22|Frénésie|20|100|20}}
+{{Attaque|N.30|Tranche|70|100|20}}
+{{Attaque|N.38|Lance-Flamme|95|100|15}}
+{{Attaque|N.46|Danseflamme|15|70|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.7|Flammèche|40|100|25}}
+{{Attaque|N.13|Brouillard|-|100|20}}
+{{Attaque|N.19|Frénésie|20|100|20}}
+{{Attaque|N.25|Grimace|-|90|10}}
+{{Attaque|N.31|Lance-Flamme|95|100|15}}
+{{Attaque|N.37|Tranche|70|100|20}}
+{{Attaque|N.43|Draco-Rage|-|100|10}}
+{{Attaque|N.49|Danseflamme|15|70|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grace|2|0}}
+{{Attaque-III|N.7|Flammèche|40|100|25|beaute|4|0}}
+{{Attaque-III|N.13{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.19{{Sup|RF}}{{Sup|VF}}|Brouillard|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.13{{Sup|RF}}{{Sup|VF}}|Griffe Acier|50|95|35|sang-froid|4|0}}
+{{Attaque-III|N.19{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}|Frénésie|20|100|20|sang-froid|3|0}}
+{{Attaque-III|N.25|Grimace|-|90|10|robustesse|2|1}}
+{{Attaque-III|N.31|Lance-Flamme|95|100|15|beaute|4|0}}
+{{Attaque-III|N.37|Tranche|70|100|20|sang-froid|3|0}}
+{{Attaque-III|N.43|Draco-Rage|-|100|10|sang-froid|1|0}}
+{{Attaque-III|N.49|Danseflamme|15|70|15|beaute|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grace|2}}
+{{Attaque-IV|N.7|Flammèche|40|100|25|beaute|3}}
+{{Attaque-IV|N.10|Brouillard|-|100|20|intelligence|2}}
+{{Attaque-IV|N.16|Draco-Rage|-|100|10|sang-froid|2}}
+{{Attaque-IV|N.19|Grimace|-|90|10|robustesse|2}}
+{{Attaque-IV|N.25|Crocs Feu|65|95|15|beaute|3}}
+{{Attaque-IV|N.28|Tranche|70|100|20|sang-froid|3}}
+{{Attaque-IV|N.34|Lance-Flamme|95|100|15|beaute|2}}
+{{Attaque-IV|N.37|Danseflamme|15|70|15|beaute|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|N.7|Flammèche|40|100|25}}
+{{Attaque-V|N.10|Brouillard|-|100|20}}
+{{Attaque-V|N.16|Draco-Rage|-|100|10}}
+{{Attaque-V|N.19|Grimace|-|100|10}}
+{{Attaque-V|N.25|Crocs Feu|65|95|15}}
+{{Attaque-V|N.28|Rebondifeu|70|100|15}}
+{{Attaque-V|N.34|Tranche|70|100|20}}
+{{Attaque-V|N.37|Lance-Flamme|95|100|15}}
+{{Attaque-V|N.43|Danseflamme|35|85|15}}
+{{Attaque-V|N.46|Feu d'Enfer|100|50|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+==== [[Génération I]] ====
+
+{{Apprentissage CT Haut|type=feu}}
+{{Apprentissage CT|01|Ultimapoing}}
+{{Apprentissage CT|03|Danse-Lames}}
+{{Apprentissage CT|05|Ultimawashi}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|08|Plaquage}}
+{{Apprentissage CT|09|Bélier}}
+{{Apprentissage CT|10|Damoclès}}
+{{Apprentissage CT|17|Sacrifice}}
+{{Apprentissage CT|18|Riposte}}
+{{Apprentissage CT|19|Frappe Atlas}}
+{{Apprentissage CT|20|Frénésie}}
+{{Apprentissage CT|23|Draco-Rage}}
+{{Apprentissage CT|28|Tunnel}}
+{{Apprentissage CT|31|Copie}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|33|Protection}}
+{{Apprentissage CT|34|Patience}}
+{{Apprentissage CT|38|Déflagration}}
+{{Apprentissage CT|39|Météores}}
+{{Apprentissage CT|40|Coud'Krâne}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|50|Clonage}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|04|Force|cs=oui}}
+{{Apprentissage CT Bas}}
+
+==== [[Génération II]] ====
+
+{{Apprentissage CT Haut|type=feu}}
+{{Apprentissage CT|01|Dynamopoing}}
+{{Apprentissage CT|02|Coup d'Boule}}
+{{Apprentissage CT|03|Malédiction}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|08|Éclate-Roc}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|13|Ronflement}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|20|Ténacité}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|23|Draco-Rage}}
+{{Apprentissage CT|24|Dracosouffle}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|28|Tunnel}}
+{{Apprentissage CT|31|Coud'Boue}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|34|Vantardise}}
+{{Apprentissage CT|35|Blabla Dodo}}
+{{Apprentissage CT|38|Déflagration}}
+{{Apprentissage CT|39|Météores}}
+{{Apprentissage CT|40|Boul'Armure}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|48|Poing de Feu}}
+{{Apprentissage CT|49|Taillade}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|05|Flash|cs=oui}}
+{{Apprentissage CT Bas}}
+
+==== [[Génération III]] ====
+
+{{Apprentissage CT Haut|type=feu}}
+{{Apprentissage CT|01|Mitra-Poing}}
+{{Apprentissage CT|02|Dracogriffe}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|23|Queue de Fer}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|28|Tunnel}}
+{{Apprentissage CT|31|Casse-Brique}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|34|Vantardise}}
+{{Apprentissage CT|35|Lance-Flamme}}
+{{Apprentissage CT|38|Déflagration}}
+{{Apprentissage CT|40|Aéropique}}
+{{Apprentissage CT|42|Façade}}
+{{Apprentissage CT|43|Force Cachée}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|50|Surchauffe}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|04|Force|cs=oui}}
+{{Apprentissage CT|06|Éclate-Roc|cs=oui}} 
+{{Apprentissage CT Bas}}
+
+==== [[Génération IV]] ====
+
+{{Apprentissage CT Haut|type=feu}}
+{{Apprentissage CT|01|Mitra-Poing}}
+{{Apprentissage CT|02|Dracogriffe}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|23|Queue de Fer}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|28|Tunnel}}
+{{Apprentissage CT|31|Casse-Brique}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|34|Vantardise}}
+{{Apprentissage CT|35|Lance-Flamme}}
+{{Apprentissage CT|38|Déflagration}}
+{{Apprentissage CT|40|Aéropique}}
+{{Apprentissage CT|42|Façade}}
+{{Apprentissage CT|43|Force Cachée}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|50|Surchauffe}}
+{{Apprentissage CT|56|Dégommage}}
+{{Apprentissage CT|61|Feu Follet}}
+{{Apprentissage CT|65|Griffe Ombre}}
+{{Apprentissage CT|75|Danse-Lames}}
+{{Apprentissage CT|78|Séduction}}
+{{Apprentissage CT|80|Éboulement}}
+{{Apprentissage CT|82|Blabla Dodo}}
+{{Apprentissage CT|83|Don Naturel}} 
+{{Apprentissage CT|87|Vantardise}}
+{{Apprentissage CT|90|Clonage}}
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|04|Force|cs=oui}}
+{{Apprentissage CT|06|Éclate-Roc|cs=oui}} 
+{{Apprentissage CT Bas}}
+
+==== [[Génération V]] ====
+
+{{Apprentissage CT Haut|type=feu}}
+{{Apprentissage CT|01|Aiguisage}}
+{{Apprentissage CT|02|Dracogriffe}}
+{{Apprentissage CT|06|Toxik}}
+{{Apprentissage CT|10|Puis. Cachée}}
+{{Apprentissage CT|11|Zénith}}
+{{Apprentissage CT|17|Abri}}
+{{Apprentissage CT|21|Frustration}}
+{{Apprentissage CT|23|Queue de Fer}}
+{{Apprentissage CT|27|Retour}}
+{{Apprentissage CT|28|Tunnel}}
+{{Apprentissage CT|31|Casse-Brique}}
+{{Apprentissage CT|32|Reflet}}
+{{Apprentissage CT|34|Vantardise}}
+{{Apprentissage CT|35|Lance-Flamme}}
+{{Apprentissage CT|38|Déflagration}}
+{{Apprentissage CT|39|Tomberoche}}
+{{Apprentissage CT|40|Aéropique}}
+{{Apprentissage CT|42|Façade}}
+{{Apprentissage CT|43|Nitrocharge}}
+{{Apprentissage CT|44|Repos}}
+{{Apprentissage CT|45|Attraction}}
+{{Apprentissage CT|48|Chant Canon}}
+{{Apprentissage CT|49|Écho}} 
+{{Apprentissage CT|50|Surchauffe}}
+{{Apprentissage CT|56|Dégommage}}
+{{Apprentissage CT|59|Calcination}}
+{{Apprentissage CT|61|Feu Follet}}
+{{Apprentissage CT|65|Griffe Ombre}}
+{{Apprentissage CT|75|Danse-Lames}}
+{{Apprentissage CT|80|Éboulement}}
+{{Apprentissage CT|87|Vantardise}}
+{{Apprentissage CT|90|Clonage}}
+{{Apprentissage CT|94|Éclate-Roc}} 
+{{Apprentissage CT|01|Coupe|cs=oui}}
+{{Apprentissage CT|04|Force|cs=oui}}
+{{Apprentissage CT Bas}}
+
+===Par [[reproduction]]===
+
+à compléter
+
+===Par [[donneur de capacités]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color: {{Couleur|Feu}};" colspan="9" | {{Couleur lien|#FFFFFF|Génération V}}
+|-
+! Localisation du donneur
+! [[Attaque]] 
+! [[Type]] 
+! [[Catégories d'attaque|Catégorie]]
+! [[Attaque#Puissance, Précision et PP|Puissance]] 
+! [[Précision]] 
+! [[PP]]
+|-
+| [[Port Yoneuve]]{{Infobulle|*|Maison proche du centre Pokémon}}
+| [[Aire de Feu]]
+| {{type|feu}}
+| {{type|spécial}}
+| 50
+| 100%
+| 10
+|}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=feu
+|sensib-acier=0.5
+|sensib-eau=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=2
+|rmq-glace=Dans la [[génération I]], les attaques de type [[Glace]] avaient une efficacité normale contre les Pokémon de type [[Feu]].
+|rmq-glace-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=feu
+|PV=39
+|attaque=52
+|defense=43
+|atq-spc=60
+|def-spc=50
+|vitesse=65
+|special=50
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Salamèche
+| numero=004
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Salamèche RB.png
+| artwork_supp2-nom=''[[Pokémon Donjon Mystère]]''
+| artwork_supp2-img=Salamèche-DM.png{{!}}x146px
+| artwork_supp3-nom=''[[Pokémon Donjon Mystère 2]]''
+| artwork_supp3-img=Salamèche-DM2.png
+| artwork_supp4-nom=[[Pokémon Donjon Mystère : Explorateurs du Ciel|Explorateurs du Ciel]]
+| artwork_supp4-img=Salamèche-EdC.png
+| forme=8
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff-fm=non
+}}
+
+== Distributions évènementielles ==
+Salamèche a été [[Pokémon évènementiel|distribué de manière évènementielle]] à plusieurs reprises :
+* '''2006'''
+** [[Liste des Pokémon distribués durant la campagne Gotta Catch 'Em All#Salamèche|Gotta Catch 'Em All - Série 4]] (Japon)
+* '''2007'''
+** [[Liste des Pokémon distribués en 2007#Salamèche Anniversaire|Salamèche Anniversaire]] (Japon)
+* '''2008'''
+** [[Liste des Pokémon distribués en 2008#Salamèche Anniversaire|Salamèche Anniversaire]] (Japon)
+* '''2009'''
+** [[Liste des Pokémon distribués en 2009#Salamèche Anniversaire|Salamèche Anniversaire]] (Japon)
+* '''2010'''
+** [[Liste des Pokémon distribués en 2010#Salamèche Anniversaire|Salamèche Anniversaire]] (Japon)
+* '''2012'''
+** [[Liste des Pokémon distribués en 2012#Salamèche|Salamèche (Œuf)]] (Japon)
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Salamèche a une figurine à son effigie dans le jeu de figurines à collectionner, dans la [[3e extension (JFC)|3e extension]]. Sa figurine est la numéro 5. Pour plus d'informations, voir ''[[Salamèche (3e extension 5)]]''.
+
+[[Fichier:JFC-3e extension-5.png|thumb|center|La figurine de Salamèche]]
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:PyroTranche.png|200px|thumb|right|Le [[Salamèche de Richie]] lançant [[Tranche]]]]
+[[Fichier:EP032 salameche.png|thumb|right|[[Salamèche de Sacha|Salamèche]] félicité par [[Sacha]]]]
+Salamèche apparaît dans les pensées de [[Sacha]] dans l'[[épisode 1]], mais sa première véritable apparition est lors de l'[[épisode 11]] où Sacha capture son propre [[Salamèche de Sacha|Salamèche]] (ce dernier avait été abandonné par son dresseur et a rejoint l'équipe de [[Sacha]]).<br/>
+Il apparaît régulièrement par la suite, jusqu'à son évolution lors de l'[[épisode 43]].<br/>
+
+Dans l'[[épisode 15]], deux garçons se présentent leurs Salamèche.
+
+Dans l'[[épisode 27]], un Salamèche apparaît comme affaiblit par les ondes de sommeil émises par Hypnomade.
+
+Un autre apparaît dans l'[[épisode 56]], utilisé par l'instructeur de l'examen.
+
+Un autre Salamèche apparaît dans l'[[épisode 79]], où Sacha affronte [[Richie]], qui utilise son propre [[Zippo|Salamèche]].
+
+[[Lise]] avait capturé sa [[Charla]] quand elle n'était qu'un [[Salamèche de Lise|Salamèche]].
+
+Dans l'hoso "le grand départ", un Salamèche apparaît aux cotés de Bulbizarre et Carapuce.
+
+La réapparition d'un Salamèche se fait ensuite dans l'épisode ''[[Une base secrète pas si secrète]]'' dans la saison 7.
+
+Un autre apparaît également brièvement dans la saison 8, lorsque [[Flora (dessin animé)|Flora]] reçoit son [[Carapuce de Flora|Carapuce]]. 
+
+Un autre est le chef de l'équipe risquetout dans Pokémon Donjon Mystère. 
+
+Un autre apparaît (très brièvement) dans le mini-film [[Les Vacances de Pikachu (court-métrage)|Les Vacances de Pikachu]], au moment où Dracaufeu est coincé dans un tuyau.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 11]]
+:Dès sa naissance, une flamme brûle à l'extrémité de son appendice caudal. Si cette flamme s'éteint, le {{PCap|Salamèche}} meurt.
+;[[Épisode 25]]
+:{{PCap|[[Frénésie]]}}. Attaque spéciale du {{PCap|Salamèche}}. Plus il est attaqué, plus il gagne de puissance. Il se battra jusqu'à ce que son adversaire perde ou abandonne.
+
+{{Pokémon starter}}
+
+{{Ruban Pokémon
+| nomPrécédent=Florizarre
+| numéro=004
+| nom=Salamèche
+| nomSuivant=Reptincel
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon de départ]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/4| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Charmander| ]]
+
+[[de:Glumanda]]
+[[en:Charmander (Pokémon)]]
+[[es:Charmander]]
+[[it:Charmander]]
+[[ja:ヒトカゲ]]
+[[pl:Charmander]]
+[[pt:Charmander (pokémon)]]

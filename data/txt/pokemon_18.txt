@@ -1,0 +1,539 @@
+{{Ruban Pokémon
+| nomPrécédent=Roucoups
+| numéro=018
+| nom=Roucarnage
+| nomSuivant=Rattata
+}}
+{{Infobox Pokémon 
+| nom=Roucarnage
+| nomen=Pidgeot
+| nomja=ピジョット
+| nomromaji=Pijotto
+| nomtm=Pigeot
+| nomde=Tauboss
+| légende=Artwork par Ken Sugimori
+| ndex=018
+| jdex=012
+| hdex=220
+| odex=R-003
+| opdex=N-009
+| espece=Oiseau
+| taille=1.5
+| poids=39.5
+| fmratio=.5
+| oeufpas=3840
+| effortval=+3 Vit.
+| type1=Normal
+| type2=Vol
+| couleur=Marron
+| expval=172
+| expmax=1059860
+| captureval=45
+| groupoeuf1=Vol
+| capspe1=Regard Vif
+| capspe2=Pied Confus
+| capspe3=Cœur de Coq
+| forme=9
+}}
+'''Roucarnage''' (anglais : '''Pidgeot''' ; japonais : '''ピジョット''' ''Pigeot'') est un Pokémon {{type|normal}} et {{type|vol}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie et attitudes===
+
+Malgré le fait que dans beaucoup de langues, son nom soit issu du terme ''pigeon'', il a bien plus de points communs avec un aigle. Ainsi, il partage avec cet animal une silhouette proche (''allure générale, taille, forme des ailes et des serres, etc'') et d'autres données physiologiques, comme la vue perçante. Cependant, ce Pokémon oiseau est doté d'un physique assez fort. Là où d'autres concurrents du même genre sont plutôt petits (''[[Hélédelle]] mesure 0,7 m - [[Étouraptor]], [[Déflaisan]] et [[Rapasdepic]] mesurent 1,2 m''), Roucarnage atteint une moyenne d'1,5 m. De même pour la masse, Hélédelle pèse 19,8 kg, Étouraptor atteint 24,9 kg, Rapasdepic 38 kg et [[Déflaisan]] 29 kg; alors que Roucarnage monte à 39,5 kg. Son allure à l'aspect moins élancé traduit d'ailleurs ces données physiques et le Pokémon est doté d'une vitesse relativement plus faible par rapport à ses adversaires cités plus haut. De ce fait, Roucarnage se sert surtout de ses ailes puissantes pour attaquer. Si contrairement à Rapasdepic, il n'a pas la capacité de lancer l'attaque [[Bec Vrille]], il se sert surtout de [[Tornade]], [[Cyclone]] mais surtout [[Cru-Aile]] et [[Rapace]]. L'attaque [[Hâte]] est aussi régulièrement utilisée pour combler ce déficit de vitesse. Roucarnage est un Pokémon réputé pour sa fierté, ainsi que son ardeur à défendre son territoire. A l'état domestique, il est en général très docile (''notamment parce que la plupart des Roucarnage domestiques sont issus d'évolutions à partir du stade de base Roucool''), mais conserve son ardeur qu'il met au service de son dresseur.
+
+====Différences mâle/femelle====
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====[[Chromatique]]====
+Dans le cas des Roucarnage chromatiques, ce Pokémon prend l'aspect doré avec un éclaircissement général du Pokémon. Notez que cet aspect a changé entre la [[deuxième génération]] et la [[troisième génération]], comme vous pouvez le voir dans l'[[Roucarnage#Imagerie|imagerie]].
+
+===[[Évolution]]===
+
+Roucarnage est l'évolution du [[Roucoups]] à partir du [[niveau]] 36, lui-même l'évolution de [[Roucool]] à partir du [[niveau]] 18.
+
+{{TableauEvolutionHaut|Normal|Roucool}}
+{{TableauEvolutionSimple|[[Niveau]] 18|Roucoups}}
+{{TableauEvolutionSimple|[[Niveau]] 36|Roucarnage}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Roucarnage peut avoir trois capacités spéciales :
+* [[Regard Vif]], qui empêche la diminution de la précision du Pokémon ; 
+* [[Pied Confus]], qui augmente d'un cran l'esquive du Pokémon s'il est confus ;
+* [[Cœur de Coq]], qui empêche la défense de baisser à cause d'attaques.
+
+===Étymologies===
+
+* Français : ''Roucarnage'' provient des termes '''rou'''couler et '''carnage'''.
+* Anglais : ''Pidgeot'', vient de ''pigeon''
+* Japonais : <span lang="ja">ピジョット</span> ''Pijotto'', de même qu'en anglais.
+* Allemand :  '''Tauboss''', ne vient pas de toboggan, mais de ''Tauben'', terme allemand pour pigeon, et de ''boss'' (''encore une fois, un qualificatif qui sied parfaitement à ce Pokémon'').
+* Coréen : '''<span lang="ko">피죤투</span>''' ''Pijontu''
+* Chinois (''Taiwan'') : '''<span lang="zh">比雕</span>''' ''Bî Diao'', le dernier caractère signifie aigle.
+* Chinois (''Hong Kong'') : '''<span lang="zh">大比鳥</span>''' ''Dái Bî Nîao'', Grand Roucoups.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il chasse en survolant la surface de l'eau et en plongeant pour attraper des proies faciles.
+;[[Pokémon Jaune]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} vole à Mach 2 quand il chasse. Ses grandes griffes sont des armes redoutables.
+;[[Pokémon Stadium]]
+: Il vole à une allure incroyable. En plein vol, une fois le bruit du battement de ses ailes perçu, il a déjà disparu.
+;[[Pokémon Or]]
+: Son torse musclé lui permet de battre puissamment ses ailes pour créer de terribles tourbillons.
+;[[Pokémon Argent]]
+:Il déploie ses magnifiques ailes pour effrayer ses ennemis. En vol, il peut atteindre Mach 2.
+;[[Pokémon Cristal]]
+:Son incroyable vue lui permet de repérer un {{PCap|[[Magicarpe]]}} faisant trempette jusqu'à 1 000 mètres.
+;[[Pokémon Rubis et Saphir]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est doté d'un plumage magnifique et luisant. Bien des {{PCap|[[Dresseur]]s}} sont captivés par la beauté fatale de sa crête et décident de choisir {{PCap|Roucarnage}} comme leur {{PCap|Pok}}é{{PCap|mon}} favori.
+;[[Pokémon Émeraude]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est doté d'un plumage magnifique et luisant. La beauté fatale de sa crête fait de lui le {{PCap|Pok}}é{{PCap|mon}} préféré de bien des {{PCap|[[Dresseur]]s}}.
+;[[Pokémon Rouge Feu]]
+:{{PCap|Roucarnage}} déploie ses ailes majestueuses pour effrayer ses ennemis. Il peut voler à Mach 2.
+;[[Pokémon Vert Feuille]]
+:Il survole la surface de l'eau pour repérer une proie et plonge en piqué pour l'attraper.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:En battant des ailes de toutes ses forces, {{PCap|Roucarnage}} génère une rafale à en déraciner les arbres.
+;[[Pokémon Or HeartGold|Pokémon Or HeartGold]]
+:Son torse est si musclé que le moindre battement d'ailes peut créer de terribles tourbillons.
+;[[Pokémon Argent SoulSilver]]
+:Il déploie ses magnifiques ailes pour effrayer ses ennemis. En vol, il peut atteindre Mach 2.
+;[[Pokémon Noir et Blanc]]
+:En battant des ailes de toutes ses forces, Roucarnage génère une rafale à en déraciner les arbres.
+
+==Localisations==
+
+Roucarnage n'est pas un Pokémon capturable sous forme sauvage, ce qui reflète toute la grandeur de celui-ci. 
+
+Vous devrez donc passer par la capture de ses formes pré-évoluées :
+* accéder aux localisations de [[Roucool#Localisations|Roucool]];
+* accéder aux localisations de [[Roucoups#Localisations|Roucoups]].
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Vol}}; width:150px" | Version
+! style="background-color:{{Couleur|Vol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Vol}}; width:450px" | Obtention
+! style="background-color:{{Couleur|Vol}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Roucoups]]
+| style="vertical-align:middle;" | 36
+|-
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Tornade|40|100|35}}
+{{Attaque|Départ|Jet de Sable|-|100|15}}
+{{Attaque|Départ|Vive-Attaque|40|100|30}}
+{{Attaque|N.21|Cyclone|-|100|20}}
+{{Attaque|N.31|Cru-Aile|35|100|35}}
+{{Attaque|N.44|Hâte|-|-|30}}
+{{Attaque|N.54|Mimique|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Jet de Sable|-|100|15}}
+{{Attaque|Départ|Tornade|40|100|35}}
+{{Attaque|Départ|Cyclone|-|100|20}}
+{{Attaque|Départ|Vive-Attaque|40|100|30}}
+{{Attaque|Départ|Cru-Aile|60|100|35}}
+{{Attaque|N.46|Hâte|-|-|30}}
+{{Attaque|N.61|Mimique|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.5|Jet de Sable|-|100|15|grâce|2|1}}
+{{Attaque-III|Départ<br>N.9|Tornade|40|100|35|intelligence|3|0}}
+{{Attaque-III|Départ<br>N.13|Vive-Attaque|40|100|30|sang-froid|3|0}}
+{{Attaque-III|N.20|Cyclone|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.27|Cru-Aile|60|100|35|sang-froid|2|0}}
+{{Attaque-III|N.34|Danse-Plume|-|100|15|beauté|2|0}}
+{{Attaque-III|N.48|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.62|Mimique|-|-|20|intelligence|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.5|Jet de Sable|-|100|15|grâce|2}}
+{{Attaque-IV|Départ<br>N.9|Tornade|40|100|35|intelligence|3}}
+{{Attaque-IV|Départ<br>N.13|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|N.17|Cyclone|-|100|20|intelligence|0}}
+{{Attaque-IV|N.22|Ouragan|40|100|20|sang-froid|3}}
+{{Attaque-IV|N.27|Danse-Plume|-|100|15|beauté|2}}
+{{Attaque-IV|N.32|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.38|Cru-Aile|60|100|35|sang-froid|3}}
+{{Attaque-IV|N.44|Atterrissage|-|-|10|sang-froid|0}}
+{{Attaque-IV|N.50|Vent Arrière|-|-|30|intelligence|2}}
+{{Attaque-IV|N.56|Mimique|-|-|20|intelligence|2}}
+{{Attaque-IV|N.62|Lame d'Air|75|95|20|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ<br>N.5|Jet de Sable|-|100|15}}
+{{Attaque-V|Départ<br>N.9|Tornade|40|100|35}}
+{{Attaque-V|Départ<br>N.13|Vive-Attaque|40|100|30}}
+{{Attaque-V|N.17|Cyclone|-|100|20}}
+{{Attaque-V|N.22|Ouragan|40|100|20}}
+{{Attaque-V|N.27|Danse-Plume|-|100|15}}
+{{Attaque-V|N.32|Hâte|-|-|30}}
+{{Attaque-V|N.38|Cru-Aile|60|100|35}}
+{{Attaque-V|N.44|Atterrissage|-|-|10}}
+{{Attaque-V|N.50|Vent Arrière|-|-|30}}
+{{Attaque-V|N.56|Mimique|-|-|20}}
+{{Attaque-V|N.62|Lame d'Air|75|95|20}}
+{{Attaque-V|N.68|Vent Violent|120|70|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! colspan="3" | [[CT|Capsule Technique]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 04 || [[Cyclone]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Piqué]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+! colspan="3" | '''[[CS|Capsule Secrète]]'''
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! colspan="3" | [[CT|Capsule Technique]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Détection]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+! colspan="3" | [[CS|Capsule Secrète]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! colspan="3" | [[CT|Capsule Technique]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+! colspan="3" | [[CS|Capsule Secrète]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! colspan="3" | [[CT|Capsule Technique]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Force Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+|CT 51 || [[Atterrissage]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 58 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 68 || [[Giga Impact]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 78 || [[Séduction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 82 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 83 || [[Don Naturel]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 87 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 88 || [[Picore]] || [[Fichier:type miniat vol.png]]
+|-
+! colspan="3" | [[CS|Capsule Secrète]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|-
+|CS 05 || [[Anti-Brume]] || [[Fichier:type miniat vol.png]]
+|}
+|}
+
+===Par [[reproduction]]===
+==== Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]] ====
+
+{| class="wikitable" style="text-align:center;"
+! [[Attaque]] || [[Type]] || [[Puissance]] || [[Précision]] || Parents possibles l'apprenant naturellement || Parents possibles l'apprenant par [[reproduction]]
+|-
+| style="vertical-align: middle;" | [[Aile d'Acier]] || style="vertical-align: middle;" | [[Fichier:type miniat acier.png]] || style="vertical-align: middle;" | 70 || style="vertical-align: middle;" | 90% || style="vertical-align: middle;" | || style="vertical-align: middle;" | 
+|-
+| style="vertical-align: middle;" | [[Clairvoyance]] || style="vertical-align: middle;" | [[Fichier:type miniat normal.png]] || style="vertical-align: middle;" | — || style="vertical-align: middle;" | — || style="vertical-align: middle;" | 163 {{miniature|163}} [[Hoothoot]]<br />164 {{miniature|164}} [[Noarfang]] || style="vertical-align: middle;" | ''Néant''
+|-
+| style="vertical-align: middle;" | [[Feinte]] || style="vertical-align: middle;" | [[Fichier:type miniat tenebres.png]] || style="vertical-align: middle;" | 60 || style="vertical-align: middle;" | — || style="vertical-align: middle;" | 198 {{miniature|198}} [[Cornèbre]] || style="vertical-align: middle;" | ''Néant''
+|-
+| style="vertical-align: middle;" | [[Poursuite]] || style="vertical-align: middle;" | [[Fichier:type miniat tenebres.png]] || style="vertical-align: middle;" | 40 || style="vertical-align: middle;" | 100% || 021 {{miniature|021}} [[Piafabec]]<br />022 {{miniature|022}} [[Rapasdepic]]<br />084 {{miniature|084}} [[Doduo]]<br />085 {{miniature|085}} [[Dodrio]]<br />198 {{miniature|198}} [[Cornèbre]]
+|}
+
+;Dans les jeux de [[troisième génération]]
+:- [[Aile d'Acier]]
+:- [[Clairvoyance]]
+:- [[Feinte]]
+:- [[Poursuite]]
+:- [[Tranch'Air]]
+
+;Dans [[Pokémon Diamant et Perle]]
+:- [[Aile d'Acier]]
+:- [[Brouhaha]]
+:- [[Clairvoyance]]
+:- [[Feinte]]
+:- [[Lame d'Air]]
+:- [[Poursuite]]
+:- [[Rapace]]
+:- [[Tranch'Air]]
+
+===Par [[Donneur de capacités]]===
+
+;Dans [[Pokémon Rouge Feu et Vert Feuille]]
+:- [[Clonage (attaque)|Clonage]]
+:- [[Copie]]
+:- [[Damoclès]]
+
+;Dans [[Pokémon Émeraude]]
+:- [[Blabla Dodo]]
+:- [[Coud'Boue]]
+:- [[Météores]]
+:- [[Ronflement]]
+:- [[Ténacité]]
+:- [[Vantardise]]
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-électrique=2
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=0
+|sensib-spectre=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''Roucarnage''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est normale.
+|rmq-sol-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=normal
+|PV=83
+|attaque=80
+|defense=75
+|atq-spc=70
+|def-spc=70
+|vitesse=91
+|special=70
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Roucarnage
+| numero=018
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Roucarnage RB.png
+| forme=9
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+[[Fichier:roucarnage Sacha.png|thumb|left|Le Roucarnage de Sacha]]
+{{Article principal|Roucarnage de Sacha}}
+
+[[Régis]] possède un Roucarnage, mais le Roucarnage le plus marquant reste celui issu de l'[[évolution]] du [[Roucoups]] de Sacha.
+
+Cette évolution se fait pendant l'[[épisode 81]], [[Alerte au Bourg Palette]]. Dans celui-ci, une colonie de [[Roucool]] et de [[Roucoups]] vivant à proximité du domicile de Sacha se fait malmener par une bande de [[Piafabec]] mené par un [[Rapasdepic]] (''Pokémon réputés pour être de mauvais genre'').
+
+Le [[Roucoups]] de Sacha souhaite donc leur venir en aide, et affronte le [[Rapasdepic]]. Durant leur duel, [[Roucoups]] évolue, et, portant Sacha sur son dos, balaye [[Rapasdepic]] en deux attaques [[Tornade]] et [[Vive-Attaque]], qui s'enfuit honteusement.
+
+Roucarnage reste alors auprès de la colonie pour assurer leur protection… Sacha lui fait tout de même la promesse de revenir le chercher (''ce qui n'a toujours pas été fait'').
+
+Dans le film ''[[Lucario et le mystère de Mew]]'', Aaron possède un Roucarnage. Il monte sur son dos pour aller à la bataille et lui demande de ramener le bâton dans lequel il a emprisonné Lucario à la princesse. On ne sait pas ce qui lui arrive par la suite.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 81]]
+:{{PCap|Pok}}é{{PCap|mon}} Oiseau. [[évolution|forme évoluée]] de {{PCap|Roucoups}}. Il peut voler à deux fois la vitesse du son et à une altitude de 1500 mètres.
+
+{{Ruban Pokémon
+| nomPrécédent=Roucoups
+| numéro=018
+| nom=Roucarnage
+| nomSuivant=Rattata
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/18| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Pidgeot| ]]
+
+[[de:Tauboss]]
+[[en:Pidgeot (Pokémon)]]
+[[es:Pidgeot]]
+[[it:Pidgeot]]
+[[ja:ピジョット]]
+[[pl:Pidgeot]]
+[[pt:Pidgeot (pokémon)]]

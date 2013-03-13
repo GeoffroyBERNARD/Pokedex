@@ -1,0 +1,338 @@
+{{Ruban Pokémon
+| nomPrécédent=M. Mime
+| numéro=123
+| nom=Insécateur
+| nomSuivant=Lippoutou
+}}
+{{Infobox Pokémon
+| nom=Insécateur
+| nomen=Scyther
+| nomja=ストライク
+| nomde=Sichlor
+| nomtm=Strike
+| nomromaji=Sutoraiku
+| légende=Artwork d'Insécateur pour {{RFVF}}
+| ndex=123
+| jdex=110
+| njdex=111
+| hdex=181
+| sdex=195
+| fdex=043
+| adex=216
+| odex=R-222
+| espece=Mante
+| taille=1.5
+| poids=56.0 
+| oeufpas=6400
+| groupoeuf1=Insecte
+| effortval=+1 Att.
+| type1=Insecte
+| type2=Vol
+| expval=187
+| expmax=1000000
+| captureval=45
+| couleur=Vert
+| capspe1=Essaim (capacité spéciale){{!}}Essaim
+| capspe2=Technicien
+| capspe3=Impassible
+| forme=13}}
+'''Insécateur''' (anglais : '''Scyther''' ; japonais : '''ストライク''' ''Strike'') est un [[Pokémon]] de la [[première génération]], qui dispose d'une [[évolution]] depuis la [[deuxième génération]]. Il est de double [[type]] {{type|insecte}} et {{type|vol}}.
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Les Insécateur femelles ont un abdomen plus grand que les mâles.
+
+===[[Évolution]]===
+Insécateur évolue en [[Cizayox]] s'il est échangé alors qu'il porte l'objet [[Peau Métal]].
+{{TableauEvolutionHaut|Insecte|Insécateur}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]] en tenant [[Peau Métal]]|imageObjet=Miniat peau metal dp.png|Cizayox}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+* Français : Insecte et sécateur.
+* Anglais : Vient de ''Scythe'' (faucher).
+* Allemand : vient de ''Sichel''(faucille) et de ''Lord''
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Rapide et agile comme un ninja, il se déplace si vite qu'il crée l'illusion d'être en groupe.
+;[[Pokémon Jaune]]
+:Bondissant hors de l'herbe comme un ninja, il lacère sa proie de ses griffes acérées.
+;[[Pokémon Stadium]]
+:Ultra-rapide et réputé pour trancher de ses bras ses victimes en fines lamelles. Il ne se sert de ses ailes et ne vole que rarement.
+;[[Pokémon Or]]
+:Il fauche les herbes avec ses lames acérées. Il bouge si vite qu'on ne peut le voir à l'œil nu.
+;[[Pokémon Argent]]
+:Quand il se déplace, il apparaît en rémanence. S'il se cache, son camouflage le rend invisible.
+;[[Pokémon Cristal]]
+:Il est très fier de sa vitesse. Il peut frapper un ennemi sans que celui-ci ne s'en rende compte.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Insécateur}} est incroyablement rapide. Sa vitesse fulgurante améliore l'efficacité des deux lames situées sur ses avant-bras. Elles sont si coupantes qu'elles peuvent trancher un énorme tronc d'arbre en un coup.
+;[[Pokémon Émeraude]]
+:Il est incroyablement rapide. Sa vitesse améliore l'efficacité des deux lames sur ses avant-bras. Elles peuvent trancher un énorme tronc d'arbre en un coup.
+;[[Pokémon Rouge Feu]]
+:Il déchiquette ses proies à l'aide de ses bras tranchants comme des faux. Il n'utilise ses ailes pour voler que très rarement.
+;[[Pokémon Vert Feuille]]
+:Rapide et agile comme une ninja, il se déplace si vite qu'il crée l'illusion d'être en groupe.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Insécateur}} taillade tout en sautillant. Ses faux peuvent détruire une Grosse Cage.
+;[[Pokémon Diamant et Perle]]
+:Ses coups de faux sont pratiquement imparables. Il se déplace comme un ninja.
+;[[Pokémon Ranger 2]]
+:Il attaque en tailladant avec ses bras tout en sautillant dans tous les sens.
+;[[Pokémon Platine]]
+:À force de trancher des objets solides, les faux de ses bras sont très aiguisés.
+;[[Pokémon Or HeartGold]]
+:Il fauche les herbes avec ses lames acérées. Il bouge si vite qu'on ne peut le voir à l'œil nu.
+;[[Pokémon Argent SoulSilver]]
+:Quand il se déplace, il apparaît en rémanence. S'il se cache, son camouflage le rend invisible.
+;[[Pokémon Noir et Blanc]]
+:À force de trancher des objets solides, les faux de ses bras sont très aiguisés.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| Bleu || Inexistant || [[Échange de Pokémon|Échange]]
+|-
+| Rouge || Peu commun || [[Parc Safari]] et casino de [[Céladopole]]
+|-
+| Jaune || Peu commun || [[Parc Safari]] et casino de [[Céladopole]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| Or || Peu commun || Concours du [[Parc Naturel]]
+|-
+| Argent || Peu commun || Concours du Parc Naturel
+|-
+| Cristal || Peu commun || Concours du Parc Naturel
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rubis]] || Inexistant || Inexistant || - || -
+|-
+| [[Saphir]] || Inexistant || Inexistant || - || -
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || Inexistant || - || -
+|-
+| [[Rouge Feu]] || Rare || [[Céladopole]] (Prix du [[Casino]]), [[Parc Safari (Kanto)|Parc Safari]] || N. 25 || Échanger 5500 jetons.
+|-
+| [[Vert Feuille]] || Inexistant || [[Echange]] || - ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! style="background-color:{{couleur|insecte}};width150px"|Version
+! style="background-color:{{couleur|insecte}};width150px"|Rareté
+! style="background-color:{{couleur|insecte}};width150px"|Lieu
+|-
+| style="background:{{couleur|Diamant}};"|{{couleur lien|#000000|Diamant}}  || Peu commun || [[Route 229]]
+|-
+| style="background:{{couleur|Perle}};"|{{couleur lien|#000000|Perle}}  || Inexistant || Inexistant
+|-
+| style="background:{{couleur|Platine}};"|{{couleur lien|#000000|Platine}}  || Peu commun || [[Route 210]] et [[Route 215]]
+|-
+| style="background:{{couleur|Argent Soulsilver}};"|{{Couleur lien|#000000|Argent SoulSilver}} || Rare ||[[Parc naturel]] ([[Concours de capture d'insecte|Concours]])
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Vive-Attaque|40|100|30}}
+{{Attaque|Départ{{Sup|R}}{{Sup|B}}<br>N.17{{Sup|J}}|Groz'Yeux|-|100|30}}
+{{Attaque|Départ{{Sup|R}}{{Sup|B}}<br>N.20{{Sup|J}}|Puissance|-|-|30}}
+{{Attaque|N.24|Reflet|-|-|15}}
+{{Attaque|N.29|Tranche|70|100|20}}
+{{Attaque|N.35|Danse-Lames|-|-|30}}
+{{Attaque|N.42|Hâte|-|-|30}}
+{{Attaque|N.50{{Sup|J}}|Cru-Aile|35|100|35}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Vive-Attaque|40|100|30}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|N.6|Puissance|-|-|30}}
+{{Attaque|N.12|Poursuite|40|100|20}}
+{{Attaque|N.18|Faux-Chage|40|100|40}}
+{{Attaque|N.24|Hâte|-|-|30}}
+{{Attaque|N.30|Cru-Aile|60|100|35}}
+{{Attaque|N.36|Tranche|70|100|20}}
+{{Attaque|N.42|Danse-Lames|-|-|30}}
+{{Attaque|N.48|Reflet|-|-|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Vive-Attaque|40|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|N.6|Puissance|-|-|30|sang-froid|1|3}}
+{{Attaque-III|N.11|Poursuite|40|100|20|intelligence|2|1}}
+{{Attaque-III|N.16|Faux-Chage|40|100|40|sang-froid|1|3}}
+{{Attaque-III|N.21|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.26|Cru-Aile|60|100|35|sang-froid|2|0}}
+{{Attaque-III|N.31|Tranche|70|100|20|sang-froid|3|0}}
+{{Attaque-III|N.36|Danse-Lames|-|-|30|beauté|1|0}}
+{{Attaque-III|N.41|Reflet|-|-|15|sang-froid|2|0}}
+{{Attaque-III|N.46|Taillade|10|95|20|robustesse|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Onde Vide|40|100|30|intelligence|2}}
+{{Attaque-IV|Départ|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|Départ|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|N.5|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.9|Poursuite|40|100|20|intelligence|1}}
+{{Attaque-IV|N.13|Faux-Chage|40|100|40|sang-froid|0}}
+{{Attaque-IV|N.17|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.21|Cru-Aile|60|100|35|sang-froid|3}}
+{{Attaque-IV|N.25|Taillade|10|95|20|robustesse|2}}
+{{Attaque-IV|N.29|Tranche|70|100|20|sang-froid|3}}
+{{Attaque-IV|N.33|Coupe-Vent|80|100|10|sang-froid|1}}
+{{Attaque-IV|N.37|Reflet|-|-|15|sang-froid|2}}
+{{Attaque-IV|N.41|Plaie-Croix|80|100|15|beauté|2}}
+{{Attaque-IV|N.45|Tranche-Nuit|70|100|15|beauté|3}}
+{{Attaque-IV|N.49|Coup Double|35|90|10|intelligence|2}}
+{{Attaque-IV|N.53|Lame d'Air|75|95|20|sang-froid|2}}
+{{Attaque-IV|N.57|Danse-Lames|-|-|30|beauté|0}}
+{{Attaque-IV|N.61{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Ruse|50|100|10|beauté|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Onde Vide|40|100|30}}
+{{Attaque-V|Départ|Vive-Attaque|40|100|30}}
+{{Attaque-V|Départ|Groz'Yeux|-|100|30}}
+{{Attaque-V|N.5|Puissance|-|-|30}}
+{{Attaque-V|N.9|Poursuite|40|100|20}}
+{{Attaque-V|N.13|Faux-Chage|40|100|40}}
+{{Attaque-V|N.17|Hâte|-|-|30}}
+{{Attaque-V|N.21|Cru-Aile|60|100|35}}
+{{Attaque-V|N.25|Taillade|20|95|20}}
+{{Attaque-V|N.29|Tranche|70|100|20}}
+{{Attaque-V|N.33|Coupe-Vent|80|100|10}}
+{{Attaque-V|N.37|Reflet|-|-|15}}
+{{Attaque-V|N.41|Plaie-Croix|80|100|15}}
+{{Attaque-V|N.45|Tranche-Nuit|70|100|15}}
+{{Attaque-V|N.49|Coup Double|35|90|10}}
+{{Attaque-V|N.53|Lame d'Air|75|95|20}}
+{{Attaque-V|N.57|Danse-Lames|-|-|30}}
+{{Attaque-V|N.61|Ruse|30|100|10}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=insecte
+|sensib-combat=0.25
+|sensib-électrique=2
+|sensib-feu=2
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-plante=0.25
+|sensib-poison={{Infobulle|× 1|× 2 en génération 1}}
+|sensib-roche=4
+|sensib-sol={{Infobulle|'''''× 0'''''|sauf utilisation de Gravité ou Balle Fer}}
+|sensib-vol=2
+|rmq-poison=Les attaques de type [[Poison]] étaient très efficaces sur les Pokémon de type [[Insecte]] -donc sur '''{{PAGENAME}}'''- dans la [[première génération]].
+|rmq-poison-num=1
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est d'1/2, du fait de son type [[Insecte]] qui y est résistant par ailleurs.
+|rmq-sol-num=2
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=insecte
+|PV=70
+|attaque=110
+|defense=80
+|atq-spc=55
+|def-spc=80
+|vitesse=105
+|special=55
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Insécateur
+| numero=123
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Insécateur RB.png
+| forme=13
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Insécateur a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 20. Pour plus d'informations, voir ''[[Insécateur (Premier Défi 20)]]''.
+
+[[Fichier:JFC-Premier Défi-20.png|thumb|center|La figurine d'Insécateur]]
+
+==Apparitions dans le [[dessin animé]]==
+
+Un Insécateur est le Pokémon de [[Yas]] qui apparaît dans l'[[épisode 42]].
+
+[[Jacky]] possède également un [[Insécateur de Jacky|Insécateur]].
+
+On peut aussi voir un Insécateur à la Ligue Indigo dans l'[[épisode 79]]. L'Insécateur se fait battre par le [[Bulbizarre de Sacha]], qui le met [[K.O.]] avec deux attaques [[Fouet Lianes]].
+
+[[Danny]], champion de l'[[Ile Double Chantilly]], et [[Hector]], champion d'[[Ecorcia]], utilisent un [[Insécateur]].
+
+De nombreux Insécateur font leur apparition le long du dessin animé.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 42]]
+:{{PCap|Insécateur}} et {{PCap|[[Élektek]]}} sont des {{PCap|Pok}}é{{PCap|mon}} très rares. Ils sont capables de distinguer les couleurs. Le rouge est la couleur qui les met en colère.
+;[[Épisode 97]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Mante. Ses pattes avant sont munies de griffes aussi aiguisées que des épées et ses ailes sont puissantes. Ce {{PCap|Pok}}é{{PCap|mon}} a été rarement capturé ou approché par l'être humain.
+
+{{Ruban Pokémon
+| nomPrécédent=M. Mime
+| numéro=123
+| nom=Insécateur
+| nomSuivant=Lippoutou
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon évoluant en tenant un objet]]
+[[Catégorie:Pokémon évoluant lors d'un échange]]
+[[Catégorie:Pokémon évoluant en tenant un objet lors d'un échange]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/123| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Scyther| ]]
+
+[[de:Sichlor]]
+[[en:Scyther (Pokémon)]]
+[[es:Scyther]]
+[[it:Scyther]]
+[[ja:ストライク]]
+[[pl:Scyther]]
+[[pt:Scyther (pokémon)]]

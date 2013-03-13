@@ -1,0 +1,367 @@
+{{Ruban Pokémon
+| nomPrécédent=Mewtwo
+| numéro=151
+| nom=Mew
+| nomSuivant=Germignon
+}}
+{{Infobox Pokémon
+| nom=Mew
+| nomen=Mew
+| nomja=ミュウ
+| nomromaji=Myū
+| nomtm=Mew
+| nomde=Mew
+| légende=Artwork par Ken Sugimori
+| ndex=151
+| jdex=250
+| njdex=255
+| hdex=306
+| fdex=213
+| opdex=N-222
+| espece=Nouveau
+| taille=0.4
+| poids=4.0
+| fmratio=-1
+| oeufpas=30720
+| effortval=+3 PV
+| type1=Psy
+| expval=64
+| expmax=1059860
+| captureval=45
+| groupoeuf1=Sans œuf
+| capspe1=Synchro
+| capspe1-desc=Transfère le statut.
+| couleur=Rose
+| forme=6}}
+'''Mew''' (anglais : '''Mew''' ; japonais : '''ミュウ''' ''Mew'') est un [[Pokémon]] [[légendaire]] de [[type]] {{type|psy}} apparu dans la [[première génération]]. Peu de choses sont connues à son propos. Il est dit qu'autrefois, les Mew étaient nombreux, mais tous auraient disparus sauf un. Ce Pokémon mythique peut apprendre toutes les capacités, c'est pour cela que certains pensent qu'il est l'ancêtre de tous les Pokémon.
+
+== Origine de Mew ==
+Contrairement aux autres Pokémon de la première génération, la conception de Mew n'a pas été supervisée par [[Ken Sugimori]]. Seuls 150 Pokémon étaient normalement prévus.<br/>
+Mew est né d'une blague du programmeur [[Shigeki Morimoto]] : avec l'aide de toute l'équipe, le 151<sup>ème</sup> Pokémon a été intégré dans le jeu au tout dernier moment, lorsque les fonctions de débogage furent retirées de la cartouche jusque là quasi-pleine, libérant 300 octets, malgré la demande de ne plus toucher au code durant la phase de test du jeu. Seuls les membres de [[Game Freak]] étaient au courant de la présence de Mew dans le jeu, son existence ne devant pas être révélée au public.<br/> 
+Le Pokémon rose apparut toutefois chez certains utilisateurs à cause de bugs imprévus. Il fut dès lors perçu par le public comme un personnage secret, alimentant bon nombres de mythes et rumeurs. C'est pourquoi, à la surprise de l'équipe de développement, [[Satoshi Tajiri]] décida d'exposer Mew dans le magazine japonais ''[[Coro Coro Comics]]'' au printemps 1996 et de lancer en avril le concours ''Offre de Pokémon légendaire'' : vingt gagnants devaient être sélectionnés pour recevoir Mew. Il y eut au total 78 000 inscrits pour ce qui fut la première [[Pokémon évènementiel|distribution évènementielle]] de l'histoire de la franchise. Satoshi Tajiri considère que Mew est le Pokémon qui permit de lancer un engouement autour du jeu en maintenant le bouche à oreille et donc l'intérêt des joueurs. De l'avis même du PDG de [[Nintendo]], [[:wp:Satoru Iwata|Satoru Iwata]], c'est à ce moment-là que le succès des jeux ''Pokémon'' commença : les ventes hebdomadaires ont explosé alors que le lancement du jeu quelques mois auparavant fut plutôt timide. ''[[Pokémon Vert|Pokémon Rouge et Vert]]'' devinrent numéro 1 des ventes hebdomadaires japonaises plus d'un an et demi après leur sortie.<ref name="Origine-Mew">[http://www.nintendo.fr/NOE/fr_FR/news/iwata/iwata_demande_-_pokmon_version_or_heartgold_et_version_argent_soulsilver_16288_16289.html Iwata demande : Pokémon Or HeartGold et Argent SoulSilver]</ref>
+
+== À propos du Pokémon ==
+=== Physionomie et attitudes ===
+
+Mew est une petite créature rose qui ressemble à une [[:wp:Gerboise|gerboise]]. Bien que bipède à première vue, il se déplace toujours en lévitant. Son pelage est tellement fin et délicat qu'il ne peut-être vu qu'au microscope. Sa longue et fine queue s'élargit à l’extrémité. Il dispose de grandes pattes arrières et de bras courts, avec trois doigts à chaque patte. Ses pieds sont très larges, avec une marque ovale près des trois orteils. Ses oreillles triangulaires, ses grands yeux bleus couplés à sa petite taille lui donnent un aspect enfantin, voire de bébé.
+
+Très peu de choses sont connues à son propos, au point que certains remettent en cause son existence. Dans {{RFVF}} on apprend que Mew fut découvert dans la jungle du [[:wp:Guyana|Guyana]] le 5 juillet (l'année n'est pas spécifiée), qu'il a été nommé ainsi le 10 juillet et qu'il a donné naissance à Mewtwo le 6 février. Son ADN mêle les gènes de toutes les espèces de Pokémon existantes et les scientifiques le considèrent comme l'ancêtre de tous les Pokémon car il peut aussi apprendre toutes les capacités et ses statistiques sont équitablement réparties. L'existence de Pokémon extra-terrestre remet donc en cause l'origine terrestre de Mew, laissant croire qu'il en existe d'autres dans l'univers.
+
+Pacifique, curieux et intelligent, Mew a un comportement très puéril et passe son temps à jouer et à s'amuser, contrairement à son clone [[Mewtwo]] plus sombre. Il a la capacité de se rendre invisible et il est le seul avec [[Métamorph]] à pouvoir prendre l'apparence de tous les autres Pokémon en utilisant [[Morphing]]. Ainsi, comme il est sans doute très timide, il ne se montre qu'aux personnes qui ont un cœur pur et qui veulent à tout prix le rencontrer. Cela explique pourquoi les scientifiques ont cru l'espèce éteinte et son surnom de « Mirage ».
+
+==== Différences mâle/femelle ====
+
+Ce Pokémon est [[légendaire]] et asexué, il n'y a donc pas de Mew mâle ou femelle.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Mew a le corps bleuté au lieu de rose.
+
+=== [[Évolution]] ===
+
+Mew est un [[Pokémon légendaire]]. Il n'a donc pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===[[Capacité spéciale]]===
+'''[[Synchro]]''' : Si le Pokémon se retrouve brulé, paralysé ou empoisonné, l'adversaire le devient également et si le Pokémon est placé en tête de l'équipe, il y a une chance sur deux de trouver un Pokémon à la même nature.
+
+=== Étymologies ===
+
+L'étymologie des noms de ce Pokémon peut venir : 
+*du mot japonais signifiant ''Mutant'', Myuu en étant l'abréviation.
+*de l'onomatopée du miaulement en anglais (Mew est un Pokémon ayant l'aspect d'un chat)
+*de ''new'' (nouveau, en anglais) comme le détermine son espèce.
+
+=== Descriptions du [[Pokédex]] ===
+;[[Pokémon Rouge et Bleu]]
+: Unique et rare, son existence est remise en cause par les experts. Peu nombreux sont ceux qui l'ont vu.
+;[[Pokémon Jaune]]
+: Vu au microscope, le pelage de ce {{PCap|Pok}}é{{PCap|mon}} est fin, soyeux et très délicat.
+;[[Pokémon Stadium]]
+:Un Pokémon mythique d'Amérique du Sud. Bien que réputé comme disparu, de nombreux témoignages certifient son existence.
+;[[Pokémon Or]]
+: Il n'apparaît qu'aux personnes qui ont un cœur pur et qui veulent à tout prix le rencontrer.
+;[[Pokémon Argent]]
+: Son ADN contient le code génétique de tous les {{PCap|Pok}}é{{PCap|mon}}. Il peut utiliser nombre de techniques.
+;[[Pokémon Cristal]]
+: Étant donné qu'il peut apprendre toutes les capacités, on le prend pour l'ancêtre des {{PCap|Pok}}é{{PCap|mon}}.
+;[[Pokémon Rubis et Saphir]]
+: On dit que {{PCap|Mew}} possède le code génétique de tous les autres {{PCap|Pok}}é{{PCap|mon}}. Il peut se rendre invisible à sa guise, ce qui lui permet de ne pas se faire remarquer quand il s'approche des gens.
+;[[Pokémon Émeraude]]
+: On dit que {{PCap|Mew}} possède le code génétique de tous les autres {{PCap|Pok}}é{{PCap|mon}}. Il peut se rendre invisible et ne se fait pas remarquer quand il s'approche des gens.
+;[[Pokémon Rouge Feu]]
+: On pensait que ce {{PCap|Pok}}é{{PCap|mon}} originaire d'Amérique du Sud avait disparu. Il est très intelligent et peut apprendre n'importe quelle capacité.
+;[[Pokémon Vert Feuille]]
+: Unique et rare, son existence est remise en cause par les experts. Peu nombreux sont ceux qui l'ont vu.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Nombre de scientifiques voient en lui l'ancêtre des {{PCap|Pok}}é{{PCap|mon}} car il maîtrise toutes leurs capacités.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Mew}} est un {{PCap|Pok}}é{{PCap|mon}} rare considéré comme un mirage. Il peut se rendre invisible.
+;[[Pokémon Or HeartGold]]
+:Il n'apparaît qu'aux personnes qui ont un cœur pur et qui veulent à tout prix le rencontrer.
+;[[Pokémon Argent SoulSilver]]
+:Son ADN contient les codes génétiques de tous les {{PCap|Pok}}é{{PCap|mon}}. Il peut utiliser nombre de techniques.
+;[[Pokémon Noir et Blanc]]
+: Nombre de scientifiques voient en lui l'ancêtre des Pokémon car il maîtrise toutes leurs capacités.
+
+== Localisations ==
+
+=== [[Première génération]] ===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Vert]] || Inexistant ||  Voir [[Bug du Croupier]] ou [[Ditto Glitch]] || N.7
+|-
+| [[Rouge]] || Inexistant || Voir [[Bug du Croupier]] ou [[Ditto Glitch]] || N.7
+|-
+| [[Bleu]] || Inexistant|| Voir [[Bug du Croupier]] ou [[Ditto Glitch]] || N.7
+|-
+| [[Jaune]] || Inexistant || Voir [[Bug du Croupier]] ou [[Ditto Glitch]] || N.7
+|}
+
+=== [[Deuxième génération]] ===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Inexistant || Échange avec [[Rouge]], [[Bleu]] ou [[Jaune]] grâce au [[bloc temporel]]
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Échange avec [[Rouge]], [[Bleu]] ou [[Jaune]] grâce au [[bloc temporel]]
+|-
+| [[Cristal]] || Inexistant || Échange avec [[Rouge]], [[Bleu]] ou [[Jaune]] grâce au [[bloc temporel]]
+|}
+
+=== [[Troisième génération]] ===
+Cela requiert un échange avec {{E}}.
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Rubis]] || Inexistant || Échange
+|-
+| [[Saphir]] || Inexistant || Échange
+|-
+| [[Pokémon Émeraude|Émeraude]] || Unique || Île Lointaine, après avoir reçu la [[Vieille Carte]] distribuée lors d'évènements Nintendo. || N.30
+|-
+| [[Rouge Feu]] || Inexistant || Échange
+|-
+| [[Vert Feuille]] || Inexistant || Échange
+|-
+| [[Colosseum]] || Inexistant || Échange
+|-
+| [[XD]] || Inexistant || Échange
+|}
+
+=== [[Quatrième génération]] ===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| {{DP}} || Unique || Évènement Nintendo ou atteindre le niveaux 25 de [[Pokémon Ranch]] et donner un Givrali à Eulalie 
+|-
+| [[Pokémon Platine|Platine]] || Unique || Évènement Nintendo ou atteindre le niveaux 25 de [[Pokémon Ranch]] et donner un Givrali à Eulalie 
+|-
+| {{HGSS}} || Unique || Évènement Nintendo (cadeau mystère avec la CWF Nintendo du 15 octobre 2010 au 30 octobre 2010) ou à échanger depuis {{DPP}} 
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+== [[Attaque]]s apprises ==
+
+Mew est, avec [[Foretress]], [[Tarinor]], [[Tarinorme]], [[Tic]], [[Clic]], [[Cliticlic]], [[Noacier]], [[Queulorior]] et [[Cobaltium]], un des rares Pokémon qui n'étant pas du [[type]] {{type|électrique}} peut apprendre l'[[attaque]] [[Change Éclair]].
+*Il est également le seul [[Pokémon]] de type {{type|psy}} à pouvoir l'apprendre.
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|N.10|Morphing|-|-|10}}
+{{Attaque|N.20|Ultimapoing|80|85|20}}
+{{Attaque|N.30|Métronome|-|-|10}}
+{{Attaque|N.40|Psyko|90|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|N.10|Morphing|-|-|10}}
+{{Attaque|N.20|Ultimapoing|80|85|20}}
+{{Attaque|N.30|Métronome|-|-|10}}
+{{Attaque|N.40|Psyko|90|100|10}}
+{{Attaque|N.50|Pouv. Antique|60|100|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Écras'Face|40|100|35|robustesse|4|0}}
+{{Attaque-III|N.10|Morphing|-|-|10|intelligence|3|0}}
+{{Attaque-III|N.20|Ultimapoing|80|85|20|robustesse|4|0}}
+{{Attaque-III|N.30|Métronome|-|-|10|grâce|3|0}}
+{{Attaque-III|N.40|Psyko|90|100|10|intelligence|1|3}}
+{{Attaque-III|N.50|Pouv. Antique|60|100|5|robustesse|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Écras'Face|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Morphing|-|-|10|intelligence|1}}
+{{Attaque-IV|N.10|Ultimapoing|80|85|20|robustesse|2}}
+{{Attaque-IV|N.20|Métronome|-|-|10|grâce|2}}
+{{Attaque-IV|N.30|Psyko|90|100|10|intelligence|2}}
+{{Attaque-IV|N.40|Bouclier|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.50|Pouv. Antique|60|100|5|robustesse|2}}
+{{Attaque-IV|N.60|Amnésie|-|-|20|grâce|0}}
+{{Attaque-IV|N.70|Moi d'Abord|-|-|20|grâce|2}}
+{{Attaque-IV|N.80|Relais|-|-|40|grâce|0}}
+{{Attaque-IV|N.90|Machination|-|-|20|grâce|0}}
+{{Attaque-IV|N.100|Aurasphère|90|-|20|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Écras'Face|40|100|35}}
+{{Attaque-V|Départ|Copie Type|-|-|15}}
+{{Attaque-V|Départ|Morphing|-|-|10}}
+{{Attaque-V|N.10|Ultimapoing|80|85|20}}
+{{Attaque-V|N.20|Métronome|-|-|10}}
+{{Attaque-V|N.30|Psyko|90|100|10}}
+{{Attaque-V|N.40|Bouclier|-|-|30}}
+{{Attaque-V|N.50|Pouv. Antique|60|100|5}}
+{{Attaque-V|N.60|Amnésie|-|-|20}}
+{{Attaque-V|N.70|Moi d'Abord|-|-|20}}
+{{Attaque-V|N.80|Relais|-|-|40}}
+{{Attaque-V|N.90|Machination|-|-|20}}
+{{Attaque-V|N.100|Aurasphère|90|-|20}}
+{{Attaques apprises-bas}}
+
+=== Par [[CT]]/[[CS]] ===
+
+Mew possède la particularité unique de pouvoir apprendre toutes les [[CT|Capsules Techniques]] et [[CS|Capsules Spéciales]] et ce dans toutes les générations.
+
+=== Par [[reproduction]] ===
+
+Mew est un pokémon légendaire et ne peut pas se reproduire donc il ne peut pas apprendre de capacité par ce moyen.
+
+=== Par [[Donneur de capacités]] ===
+
+== Sensibilités ==
+
+{{Sensibilités
+| type=psy
+| sensib-combat=0.5
+| sensib-insecte=2
+| sensib-psy=0.5
+| sensib-spectre=2
+| sensib-ténèbres=2
+}}
+
+== [[Statistiques]] ==
+
+{{Statistiques
+|type=psy
+|PV=100
+|attaque=100
+|defense=100
+|atq-spc=100
+|def-spc=100
+|vitesse=100
+|special=100
+}}
+
+== Imagerie ==
+
+{{Imagerie Pokémon
+| pokemon=Mew
+| numero=151
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Mew RB.png
+| forme=6
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+Mew est historiquement le premier Pokémon a avoir été [[Pokémon évènementiel|distribué de manière évènementielle]]. Depuis sa première distribution en 1996, il a régulièrement été associés à divers évènements :
+* '''1996'''
+** « Distribution Légendaire » (Japon)
+** World Hobby Fair (Japon)
+* '''1997'''
+** Nintendo Space World (Japon)
+* '''1999'''
+** Nintendo Space World (Japon)
+** Nintendo Power (Amérique du Nord)
+** Toys “R” Us (États-Unis)
+* '''2000'''
+** Nintendo Power (Amérique du Nord)
+** Pokémon 2000 Stadium Tour (États-Unis)
+* '''2002'''
+** Pokémon Center New-York (États-Unis)
+* '''2005'''
+** [[Liste des Pokémon distribués en 2005#Mew Hadou|Mew Hadou]] (Japon)
+* '''2006'''
+** [[Liste des Pokémon distribués en 2006#Mew PokéPark|Mew PokéPark]] (Taïwan)
+** [[Liste des Pokémon distribués en 2006#Mew MYSTRY|Mew MYSTRY]] (États-Unis)
+* '''2007'''
+** [[Liste des Pokémon distribués en 2007#Mew Pal City|Mew Pal City]] (Japon)
+** [[Liste des Pokémon distribués en 2007#Mew Aura|Mew Aura]] (Europe)
+* '''2009'''
+** [[Liste des Pokémon distribués en 2009#Mew|Mew Nintendo Corée]] (Corée du Sud)
+** [[Liste des Pokémon distribués en 2009#Mew Susumu|Mew Susumu]] (Japon)
+* '''2010'''
+** [[Liste des Pokémon distribués en 2010#Mew FAL2010|Mew FAL2010]] (Amérique du Nord)
+** [[Liste des Pokémon distribués en 2010#Mew Automne 2010|Mew Automne 2010]] (Europe)
+
+== Apparitions dans le [[dessin animé]] ==
+
+Mew apparaît dans le premier film où il se partage la vedette avec [[Mewtwo]], ainsi que dans le mini-film « Les origines de Mewtwo ».
+
+Il réapparaît dans le 8ème film ''[[Lucario et le mystère de Mew]]''. Ce Mew-ci montre pour la première fois dans le dessin animé sa [[attaque|capacité]] [[Morphing]] en prenant l'apparence de [[Pichu]], [[Capumain]], [[Miaouss]], [[Nirondelle]], [[Mime Jr.]], [[Arcko]], [[Roucarnage]] et [[Ho-Oh]]. Il vit dans l'Arbre des Origines avec lequel il est lié. Au début du film, il enlève [[Pikachu de Sacha|Pikachu]] et [[Miaouss de la Team Rocket|Miaouss]] après avoir été attaqué par des [[Dimoret]] pour qu'ils deviennent ses amis.
+
+Il apparaît aussi dans le film spécial « Le Maître des mirages » sous forme d'un Pokémon Mirage.
+
+==Références==
+<references/>
+
+{{légendaire|gén=1}}
+
+{{Ruban Pokémon
+| nomPrécédent=Mewtwo
+| numéro=151
+| nom=Mew
+| nomSuivant=Germignon
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon asexué]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/151| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Mew| ]]
+
+[[de:Mew]]
+[[en:Mew (Pokémon)]]
+[[es:Mew]]
+[[it:Mew]]
+[[ja:ミュウ]]
+[[pl:Mew]]
+[[pt:Mew (pokémon)]]

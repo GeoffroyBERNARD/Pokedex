@@ -1,0 +1,452 @@
+{{Ruban Pokémon
+| nomPrécédent=Dracaufeu
+| numéro=007
+| nom=Carapuce
+| nomSuivant=Carabaffe
+}}
+{{Infobox Pokémon 
+| nom=Carapuce
+| nomen=Squirtle
+| nomja=ゼニガメ 
+| nomtm=Zenigame
+| nomde=Schiggy 
+| légende=Artwork de Carapuce pour {{RFVF}}
+| ndex=007
+| jdex=232
+| njdex=237
+| hdex=209
+| fdex=076
+| adex=011
+| espece=Minitortue
+| taille=0.5
+| poids=9.0
+| fmratio=.125 
+| oeufpas=5120
+| groupoeuf1=Eau 1
+| groupoeuf2=Monstre
+| effortval=+1 Déf.
+| type1=Eau
+| expval=66
+| expmax=1059860
+| captureval=45
+| capspe1=Torrent
+| capspe2=Cuvette
+| capspe2-reve=oui
+| couleur=Bleu
+| forme=6}}
+'''Carapuce''' (anglais : '''Squirtle''' ; japonais : '''ゼニガメ''' ''Zenigame'') est le [[starter]] {{type|eau}} de la [[première génération]].
+
+==À propos du Pokémon==
+
+===Physionomie===
+Carapuce est une petite tortue bipède de couleur bleue. Il possède une carapace majoritairement brune, jaune pâle au niveau du ventre. Ses yeux sont grands et rouges. Il a une queue avec un motif de spirale à son extrémité. Il possède quatre pattes avec chacune trois doigts.
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====[[Chromatique]]====
+
+Lorsqu'il est chromatique, Carapuce a un ventre jaune, sa carapace est verte et il est légèrement plus pâle.
+
+===[[Évolution]]===
+
+Carapuce évolue à partir du [[niveau]] 16 en [[Carabaffe]], qui évolue à partir du niveau 36 en [[Tortank]].
+
+{{TableauEvolutionHaut|Eau|Carapuce}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Carabaffe}}
+{{TableauEvolutionSimple|[[Niveau]] 36|Tortank}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+La capacité spéciale de Carapuce est [[Torrent]], ce qui permet d'améliorer ses attaques Eau lorsqu'il lui reste moins d'un tiers de ses PV. Il s'agit d'une capacité spéciale présente chez tous les "starters" Eau. Son apport est loin d'être négligeable d'un point de vue offensif, même chez un Pokémon avec un "[[staying power]]" relativement élevé comme Carapuce et ses évolutions.
+
+===Étymologies===
+
+* Français : ''Carapuce'' provient de '''''cara'''pace'' et de '''''puce''''' (dans le sens affectueux du mot).
+* Anglais : ''Squirtle'' provient de ''squirt'' (jet), de ''turtle'' (tortue marine) et ''tortoise'' (tortue terrestre).
+* Japonais : 銭亀 ''zenigame'' désigne une espèce de tortue.
+* Allemand : ''Schiggy'' vient de ''Schildkröte'' (tortue).
+* Coréen : 꼬부기 ''Kkobugi'' est un néologisme venant de ''tortue'' et ''enfant''.
+* Chinois (Taïwan) : 傑尼龜 ''Jíe Ní Guī'' vient d'une onomatopée qui fait référence au nom japonais de Carapuce, ''Zenigame''. Le dernier caractère, 龜, signifie ''tortue''.
+* Chinois (Hong-Kong) : 車厘龜 ''Chē Lí Guī'' peut signifier ''tortue cerise'', cerise s'écrivant 車厘子 ''Chē Lí Zi'' en cantonnais.
+
+===Descriptions du [[Pokédex]]===
+
+;[[Pokémon Rouge et Bleu]]
+:Son dos durcit avec l'âge et devient une super carapace. Il peut cracher des jets d'écume.
+;[[Pokémon Jaune]]
+:Caché sous l'eau, il crache un jet d'eau sur sa proie et se cache à l'intérieur de sa coquille.
+;[[Pokémon Stadium]]
+:Après la naissance, sa carapace met du temps à grandir et durcir. Il peut cracher de puissants jets d'écume.
+;[[Pokémon Or]]
+:Sa carapace est molle à la naissance, mais elle devient de plus en plus dure avec l'âge.
+;[[Pokémon Argent]]
+:Sa coquille commence à durcir juste après sa naissance. Jeune, elle est assez tendre.
+;[[Pokémon Cristal]]
+:S'il est menacé, il rétracte ses pattes dans sa carapace et crache de l'eau.
+;[[Pokémon Rubis et Saphir]]
+:La carapace de {{PCap|Carapuce}} ne sert pas qu'à le protéger. La forme ronde de sa carapace et ses rainures lui permettent d'améliorer son hydrodynamisme lorsqu'il est dans l'eau. Ce {{PCap|Pok}}é{{PCap|mon}} nage donc extrêmement vite.
+;[[Pokémon Émeraude]]
+:Sa carapace ne sert pas qu'à le protéger. La forme ronde de sa carapace et ses rainures lui permettent d'améliorer son hydrodynamisme. Il nage donc très vite.
+;[[Pokémon Rouge Feu]]
+:Quand il rentre son coup dans sa carapace, {{PCap|Carapuce}} peut projeter de l'eau à haute tension.
+;[[Pokémon Vert Feuille]]
+:Son dos se gonfle et durcit avec l'âge pour former une carapace très résistante. Il peut cracher des jets d'écumes.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+: {{PCap|Carapuce}} gonfle les joues et crache de l'eau pouvant éteindre les petits feux.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il se réfugie dans sa carapace et réplique en éclaboussant l'ennemi à la première occasion.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en crachant de l'eau.
+;[[Super Smash Bros Brawl]]
+:Un Pokémon Minitortue. En cas de danger, il replie bras et jambes dans sa carapace pour se protéger des attaques ennemies. Lorsqu'il rentre son cou, il crache aussi un puissant jet d'eau. Sa carapace ne fait pas que le protéger, elle permet aussi de réduire la friction dans l'eau. Il évolue en [[Carabaffe]].
+;[[Pokémon Or HeartGold]]
+:Sa carapace est molle à la naissance, mais elle devient de plus en plus dure avec l'âge.
+;[[Pokémon Argent SoulSilver]]
+:Sa carapace commence à durcir juste après sa naissance. Jeune, elle est assez tendre.
+;[[Pokémon Noir et Blanc]]
+:Il se réfugie dans sa carapace et réplique en éclaboussant l'ennemi à la première occasion.
+
+==Localisations==
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:120px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="background:#D20000;"|{{couleur lien|#000000|Rouge}}|| rowspan="2" style="vertical-align: middle;"| Unique || rowspan="2" style="vertical-align: middle;"| L’un des trois [[Pokémon de départ]] à choisir proposés par le [[Prof. Chen]] à [[Bourg Palette]]. 
+| rowspan="2" style="vertical-align: middle;"|N.5
+|-
+| style="background:#1C2FDA;"|{{couleur lien|#FFFFFF|Bleu}} 
+|-
+| style="vertical-align: middle; background:#FFFF52" | {{couleur lien|#000000|Jaune}}|| rowspan="1" style="vertical-align: middle;"| Unique || rowspan="1" style="vertical-align: middle;"| Donné par l'[[Agent Jenny]] à [[Carmin-sur-Mer]] après avoir reçu le Badge Foudre.
+| style="vertical-align: middle;"|N.10
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|- 
+! style="background-color:{{Couleur|Eau}}; width:120px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="background:#E6D600;"|{{couleur lien|#000000|Or}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{BRJ}} par le [[Bloc temporel]].
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#D0D0D0;"|{{couleur lien|#000000|Argent}}
+|-
+| style="background:#009595;"|{{couleur lien|#FFFFFF|Cristal}} 
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:120px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="background:#9F002A;"|{{couleur lien|#FFFFFF|Rubis}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="3" style="vertical-align: middle;"| -
+|-
+| style="background:#002395;"|{{couleur lien|#FFFFFF|Saphir}} 
+|-
+| style="background:#008B33;"|{{couleur lien|#FFFFFF|Émeraude}} 
+|-
+| style="background:#EA4E00;"|{{couleur lien|#000000|Rouge Feu}}|| rowspan="2" style="vertical-align: middle;"| Unique || rowspan="2" style="vertical-align: middle;"| L’un des trois Pokémon de départ à choisir proposés par le [[Prof. Chen]] à [[Bourg Palette]].
+| rowspan="2" style="vertical-align: middle;"| N.5
+|-
+| style="background:#00BE46;"|{{couleur lien|#000000|Vert Feuille}} 
+|-
+| style="background:#B0001D;"|{{couleur lien|#FFFFFF|Colosseum}}  || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. 
+| rowspan="2" style="vertical-align: middle;"| -
+|-
+| style="background:#700087;"|{{couleur lien|#FFFFFF|XD}} 
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:120px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="background:#A7F6FF;"|{{couleur lien|#000000|Diamant}} || rowspan="3" style="vertical-align: middle;"| Inexistant || rowspan="3" style="vertical-align: middle;" | À échanger depuis {{OHAS}}.
+| rowspan="3" style="vertical-align: middle;"|-
+|-
+| style="background:#FFBFF9;"|{{couleur lien|#000000|Perle}}
+|-
+| style="background:#606060;"|{{couleur lien|#FFFFFF|Platine}}
+|-
+| style="background:#E1C300;"|{{couleur lien|#000000|Or HeartGold}} || rowspan="2" style="vertical-align: middle;"| Unique || rowspan="2" style="vertical-align: middle;" | L’un des trois [[Pokémon]] proposé par le [[Professeur Chen]] à [[Bourg Palette]] après avoir battu [[Red (jeux vidéo)|Red]].
+| rowspan="2" style="vertical-align: middle;" | N.5
+|-
+| style="background:#A3A3A3;"|{{couleur lien|#000000|Argent SoulSilver}}
+|-
+| style="background:#3DB700;"|{{couleur lien|#000000|Parc des Amis}} 
+| style="vertical-align: middle;"| Variable 
+| style="vertical-align: middle;"| Mare
+| style="vertical-align: middle;"| -
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:120px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="background:#000000;"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#000000|Blanc}}
+|-
+| style="background:#000000;"|{{couleur lien|#318CE7|Noir 2}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]].
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#FFFFFF;"| {{couleur lien|#E9383F|Blanc 2}}
+|-
+|}
+
+===[[Sixième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:120px" | Version
+! style="background-color:{{Couleur|Eau}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="background:#6050DC;"|{{couleur lien|#FFFFFF|X}}
+| rowspan="2" style="vertical-align: middle;" | ?
+| rowspan="2" style="vertical-align: middle;" | À venir
+| rowspan="2" style="vertical-align: middle;" |-
+|-
+| style="background:#DE2916;"| {{couleur lien|#FFFFFF|Y}}
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ{{Sup|J}}<br/>N.4{{Sup|R}}{{Sup|B}}|Mimi-Queue|-|100|30}}
+{{Attaque|Départ{{Sup|J}}<br/>N.8{{Sup|R}}{{Sup|B}}|Écume|20|100|30}}
+{{Attaque|N.15|Pistolet à O|40|100|25}}
+{{Attaque|N.22|Morsure|60|100|25}}
+{{Attaque|N.28|Repli|-|-|40}}
+{{Attaque|N.35|Coud'Krâne|100|100|10}}
+{{Attaque|N.42|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.4|Mimi-Queue|-|100|30}}
+{{Attaque|N.7|Écume|20|100|30}}
+{{Attaque|N.10|Repli|-|-|40}}
+{{Attaque|N.13|Pistolet à O|40|100|25}}
+{{Attaque|N.18|Morsure|60|100|25}}
+{{Attaque|N.23|Tour Rapide|20|100|40}}
+{{Attaque|N.28|Abri|-|-|10}}
+{{Attaque|N.33|Danse Pluie|-|-|5}}
+{{Attaque|N.40|Coud'Krâne|100|100|10}}
+{{Attaque|N.47|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|N.4|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|N.7|Écume|20|100|30|grâce|2|2}}
+{{Attaque-III|N.10|Repli|-|-|40|grâce|1|0}}
+{{Attaque-III|N.13|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|N.18|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.23|Tour Rapide|20|100|40|sang-froid|2|0}}
+{{Attaque-III|N.28|Abri|-|-|10|grâce|1|0}}
+{{Attaque-III|N.33|Danse Pluie|-|-|5|robustesse|1|0}}
+{{Attaque-III|N.40|Coud'Krâne|100|100|10|robustesse|1|4}}
+{{Attaque-III|N.47|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|N.4|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|N.7|Écume|20|100|30|grâce|2}}
+{{Attaque-IV|N.10|Repli|-|-|40|grâce|2}}
+{{Attaque-IV|N.13|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.16|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.19|Tour Rapide|20|100|40|sang-froid|2}}
+{{Attaque-IV|N.22|Abri|-|-|10|grâce|0}}
+{{Attaque-IV|N.25|Vibraqua|60|100|20|beauté|2}}
+{{Attaque-IV|N.28|Hydroqueue|90|90|10|grâce|3}}
+{{Attaque-IV|N.31|Coud'Krâne|100|100|10|robustesse|1}}
+{{Attaque-IV|N.34{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Mur de Fer|-|-|15|robustesse|2}}
+{{Attaque-IV|N.34{{Sup|D}}{{Sup|P}}<br/>N.37{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Danse Pluie|-|-|5|robustesse|2}}
+{{Attaque-IV|N.37{{Sup|D}}{{Sup|P}}<br/>N.40{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Hydrocanon|120|80|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|N.4|Mimi-Queue|-|100|30}}
+{{Attaque-V|N.7|Écume|20|100|30}}
+{{Attaque-V|N.10|Repli|-|-|40}}
+{{Attaque-V|N.13|Pistolet à O|40|100|25}}
+{{Attaque-V|N.16|Morsure|60|100|25}}
+{{Attaque-V|N.19|Tour Rapide|20|100|40}}
+{{Attaque-V|N.22|Abri|-|-|10}}
+{{Attaque-V|N.25|Vibraqua|60|100|20}}
+{{Attaque-V|N.28|Hydroqueue|90|90|10}}
+{{Attaque-V|N.31|Coud'Krâne|100|100|10}}
+{{Attaque-V|N.34|Mur de Fer|-|-|15}}
+{{Attaque-V|N.37|Danse Pluie|-|-|5}}
+{{Attaque-V|N.40|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+=== Par [[CT]]/[[CS]] ===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="20%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" colspan="3" | {{Couleur lien|#FFFFFF|Génération I}}
+|-
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" colspan="3" | {{Couleur lien|#FFFFFF|Génération II}}
+|-
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" colspan="3" | {{Couleur lien|#FFFFFF|Génération III}}
+|-
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text align:center;"
+! style="background-color:{{Couleur|Eau}}; width:150px" colspan="3" | {{Couleur lien|#FFFFFF|Génération IV}}
+|-
+|}
+|}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=eau
+|sensib-acier=0.5
+|sensib-eau=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-plante=2
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=eau
+|PV=44
+|attaque=48
+|defense=65
+|atq-spc=50
+|def-spc=64
+|vitesse=43
+|special=50
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Carapuce
+| numero=007
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Carapuce RB.png
+| artwork_supp2-nom=[[PDM]]
+| artwork_supp2-img=Carapuce-DM.png{{!}}x125px
+| artwork_supp3-nom=[[PDM2]]
+| artwork_supp3-img=Carapuce-DM2.png
+| artwork_supp4-nom=[[Pokémon Donjon Mystère : Explorateurs du Ciel|Explorateurs du Ciel]]
+| artwork_supp4-img=Carapuce-EdC.png{{!}}x150px
+| forme=6
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| pinballRB-gif=oui
+}}
+
+== Distributions évènementielles ==
+Carapuce n'a pour l'instant été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en deux occasions :
+* '''2006'''
+** [[Liste des Pokémon distribués durant la campagne Gotta Catch 'Em All#Carapuce|Gotta Catch 'Em All - Série 4]] (Japon)
+* '''2012'''
+** [[Liste des Pokémon distribués en 2012#Carapuce|Carapuce (Œuf)]] (Japon)
+
+==Apparitions dans le [[dessin animé]]==
+[[Fichier:Carapuce de Sacha.png|thumb|Le Carapuce de Sacha|right|Le Carapuce de Sacha]] 
+[[Sacha]] capture un [[Carapuce de Sacha|Carapuce]] dans l'[[épisode 12]], qui est le chef d'un gang de Carapuce. Son [[rival]], [[Régis Chen|Régis]], a eu un Carapuce pour [[starter]], ce que l' on apprend à la fin de la ligue [[Johto]] lorsqu'il utilise son [[Tortank de Régis|Tortank]].
+
+Un autre Carapuce apparaît dans l'[[épisode 15]] où un dresseur présente son Carapuce à deux garçons qui se présentent leurs [[Salamèche]].
+
+[[Flora (dessin animé)|Flora]] capture également un [[Carapuce de Flora|Carapuce]], plus petit et timide. Il montre rapidement son habileté aux concours et aux combats.
+
+Un Carapuce réapparaît dans l'épisode ''[[Les meilleurs amis du monde]]'' où on le voit scotché amoureusement à un [[Raichu]].
+
+Un Carapuce, qui était un humain, apparaît dans Donjon Mystère en tant que membre de l'Équipe Risquetout.
+
+Dans ''[[Pokémon : Le Film]]'', un clone du Carapuce de Sacha est créé par [[Mewtwo]]. Il réapparaît dans ''[[Le retour de Mewtwo]]''.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 12]]
+:Ces tortues {{PCap|Pok}}é{{PCap|mon}} sont, comme on peut s'en douter, des {{PCap|Pok}}é{{PCap|mon}} aquatiques. Pour attaquer leurs adversaires, ils disposent d'un puissant jet d'eau, dont la portée et la précision sont redoutables.
+
+{{Pokémon starter}}
+
+{{Ruban Pokémon
+| nomPrécédent=Dracaufeu
+| numéro=007
+| nom=Carapuce
+| nomSuivant=Carabaffe
+}}
+
+[[Catégorie:Pokémon de départ]]
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/7| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Squirtle| ]]
+
+[[de:Schiggy]]
+[[en:Squirtle (Pokémon)]]
+[[es:Squirtle]]
+[[it:Squirtle]]
+[[ja:ゼニガメ]]
+[[pl:Squirtle]]
+[[pt:Squirtle (pokémon)]]

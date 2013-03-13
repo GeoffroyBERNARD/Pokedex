@@ -1,0 +1,281 @@
+{{Ruban Pokémon
+| nomPrécédent=Magnéti
+| numéro=082
+| nom=Magnéton
+| nomSuivant=Canarticho
+}}
+{{Infobox Pokémon
+| nom=Magnéton
+| nomen=Magneton
+| nomja=レアコイル
+| nomtm=Rarecoil
+| nomromaji=Reakoiru
+| nomde=Magneton
+| légende=Artwork de Magnéton pour {{RFVF}}
+| ndex=082
+| jdex=119
+| njdex=120
+| hdex=083
+| sdex=179
+| fdex=057
+| adex=063
+| odex=R-111
+| espece=Magnétique
+| taille=1.0
+| poids=60.0
+| fmratio=-1
+| oeufpas=5120
+| effortval=+2 Att. Spé
+| type1=Électrique
+| type2=Acier
+| expval=161
+| expmax=1000000
+| captureval=60
+| groupoeuf1=Minéral
+| capspe1=Magnépiège
+| capspe2=Fermeté
+| capspe3=Analyste
+| couleur=Gris
+| forme=11}}
+'''Magnéton''' (anglais : '''Magneton''' ; japonais : '''レアコイル''' ''Rarecoil'') est un [[Pokémon]] de [[type]] {{type|électrique}} dans la [[première génération]], puis {{type|électrique}} et {{type|acier}} à partir de la [[deuxième génération|seconde]].
+
+==À propos du Pokémon==
+===Physionomie===
+Les Magnéton sont des Magnéti assemblés.
+
+====Différences mâle/femelle====
+
+Ce Pokémon est asexué, il n'y a donc pas de Magnéton mâle ou femelle.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Magnéton est d'une couleur proche de la rouille et non blanc acier.
+
+===[[Évolution]]===
+[[Magnéti]] évolue en Magnéton à partir du [[niveau]] 30. Ce dernier évolue en [[Magnézone]] s'il gagne un niveau au [[Mont Couronné]] ([[Sinnoh]]) ou à la [[Grotte Electrolithe]] ([[Unys]]).
+{{TableauEvolutionHaut|Électrique|Magnéti}}
+{{TableauEvolutionSimple|[[Niveau]] 30|Magnéton}}
+{{TableauEvolutionSimple|Gain de niveau au [[Mont Couronné]] ou à la [[Grotte Electrolithe]]|Magnézone}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+*Français, Anglais, Allemand: ''Magnéton'' peut avoir deux étymologies : 
+**''Magnétron''
+**''Magnet'' et ''neutron'' (un neutron ayant la forme supposée de trois boules collées en forme de triangle)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Constitué de {{PCap|[[Magnéti]]}} reliés les uns aux autres, il apparaît lorsque le soleil brille.
+;[[Pokémon Jaune]]
+:Il émet un signal radio étrange. Sa présence augmente la température de 1 degré dans un rayon de 1000 m.
+;[[Pokémon Stadium]]
+:Il est formé d'un assemblage de {{PCap|[[Magnéti]]}}, attirés les uns aux autres suivant l'apparition de taches noires sur le soleil.
+;[[Pokémon Or]]
+:Le lien magnétique qui lie ces trois {{PCap|[[Magnéti]]}} provoque des douleurs aux oreilles si on s'en approche.
+;[[Pokémon Argent]]
+:Les {{PCap|[[Magnéti]]}} sont unis par un magnétisme si puissant qu'il assèche toute humidité a proximité.
+;[[Pokémon Cristal]]
+:Quant plusieurs {{PCap|Magnéton}} se rassemblent, les ondes émises font griller tous les postes de radio.
+;[[Pokémon Rubis]]
+:{{PCap|Magnéton}} émet un puissant champ magnétique qui neutralise les appareils mécaniques. Lorsque ces {{PCap|Pok}}é{{PCap|mon}} débarquent en masse, les villes sonnent l'alarme et préviennent les habitants.
+;[[Pokémon Saphir]]
+:{{PCap|Magnéton}} émet un puissant champ magnétique qui neutralise les appareils électroniques. Certaines villes demandent aux propriétaires de ces {{PCap|Pok}}é{{PCap|mon}} de les garder dans leurs [[Pokéball|{{PCap|Pok}}é{{PCap|balls}}]].
+;[[Pokémon Émeraude]]
+:Il est composé de trois {{PCap|[[Magnéti]]}} reliés entre eux par magnétisme. Ses ondes radio augmentent la température de 2 degrés dans un rayon d'un kilomètre.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est composé de plusieurs {{PCap|[[Magnéti]]}}. Il est capable de projeter de puissantes décharges magnétiques à haute tension.
+;[[Pokémon Vert Feuille]]
+:Constitué de {{PCap|[[Magnéti]]}} reliés les uns aux autres, il apparaît souvent quand le soleil brille.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Le magnétisme de {{PCap|Magnéton}} génère de l'électricité pour recharger le [[Capstick]].
+;[[Pokémon Diamant et Perle]]
+:Il est formé de trois {{PCap|[[Magnéti]]}} liés par magnétisme. En groupe, ils déclenchent un orage magnétique.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Son corps émet de l'électricité. Il se protège avec une barrière électrique.
+;[[Pokémon Platine]]
+:Des groupes apparaissent si des taches solaires couvrent le soleil. Il brouillent les télévisions.
+;[[Pokémon Or HeartGold]]
+:Le lien qui lie ces trois {{PCap|Magneti}} provoque des douleurs aux oreilles si on s'en approche.
+;[[Pokémon Argent SoulSilver]]
+:Les {{PCap|Magnéti}} sont unis par un magnétisme si puissant qu'il assèche toute humidité à proximité.
+;[[Pokémon Noir et Blanc]]
+:Des groupes apparaissent si des taches solaires couvrent le soleil. Il brouillent les télévisions.
+;[[Pokémon Noir et Blanc 2]]
+:L'association de trois {{PCap|Magnéti}} génère un magnétisme suffisamment puissant pour vaporiser l'eau alentour.
+
+==Localisations==
+=== [[Cinquième génération]] ===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Version
+! style="background-color:{{Couleur|Électrique}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Électrique}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Électrique}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | ''{{NB}}''
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Magnéti]]
+| style="vertical-align:middle;" | -
+|-
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Éclair|40|100|30}}
+{{Attaque|Départ|Ultrason|-|55|20}}
+{{Attaque|Départ|Sonicboom|-|90|20}}
+{{Attaque|N.38|Cage-Éclair|-|100|20}}
+{{Attaque|N.46|Météores|60|-|20}}
+{{Attaque|N.54|Grincement|-|85|40}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Éclair|40|100|30}}
+{{Attaque|Départ|Ultrason|-|55|20}}
+{{Attaque|Départ|Sonicboom|-|90|20}}
+{{Attaque|Départ|Cage-Éclair|-|100|20}}
+{{Attaque|Départ|Verrouillage|-|-|5}}
+{{Attaque|N.35|Météores|60|-|20}}
+{{Attaque|N.35{{Sup|C}}|Triplattaque|80|100|10}}
+{{Attaque|N.43|Grincement|-|85|40}}
+{{Attaque|N.53|Élécanon|100|50|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Strido-Son|-|85|40|intelligence|1|3}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.6|Éclair|40|100|30|sang-froid|4|0}}
+{{Attaque-III|Départ<br>N.11|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.16|Sonicboom|-|90|20|sang-froid|2|0}}
+{{Attaque-III|N.21|Cage-Éclair|-|100|20|sang-froid|2|1}}
+{{Attaque-III|N.26|Étincelle|65|100|20|sang-froid|1|4}}
+{{Attaque-III|N.35|Verrouillage|-|-|5|intelligence|3|0}}
+{{Attaque-III|N.44|Triplattaque|80|100|10|beauté|2|2}}
+{{Attaque-III|N.53|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.62|Élécanon|100|50|5|sang-froid|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Triplattaque|80|100|10|beauté|3}}
+{{Attaque-IV|Départ|Strido-Son|-|85|40|intelligence|2}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.6|Éclair|40|100|30|sang-froid|3}}
+{{Attaque-IV|Départ<br>N.11|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|N.14|Sonicboom|-|90|20|sang-froid|3}}
+{{Attaque-IV|N.17|Cage-Éclair|-|100|20|sang-froid|2}}
+{{Attaque-IV|N.22|Étincelle|65|100|20|sang-froid|3}}
+{{Attaque-IV|N.27|Verrouillage|-|-|5|intelligence|1}}
+{{Attaque-IV|N.30|Bombaimant|60|-|20|sang-froid|3}}
+{{Attaque-IV|N.34|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.40|Coup d'Jus|80|100|15|robustesse|2}}
+{{Attaque-IV|N.46|Miroi-Tir|65|85|10|grâce|2}}
+{{Attaque-IV|N.50|Vol Magnétik|-|-|10|grâce|2}}
+{{Attaque-IV|N.54|Gyroballe|1|100|5|beauté|2}}
+{{Attaque-IV|N.60|Élécanon|120|50|5|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Triplattaque|80|100|10}}
+{{Attaque-V|Départ|Strido-Son|-|85|40}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ<br>N.6|Éclair|40|100|30}}
+{{Attaque-V|Départ<br>N.11|Ultrason|-|55|20}}
+{{Attaque-V|N.14|Sonicboom|-|90|20}}
+{{Attaque-V|N.17|Cage-Éclair|-|100|20}}
+{{Attaque-V|N.22|Étincelle|65|100|20}}
+{{Attaque-V|N.27|Boule Élek|1|100|10}}
+{{Attaque-V|N.30|Verrouillage|-|-|5}}
+{{Attaque-V|N.34|Bombaimant|60|-|20}}
+{{Attaque-V|N.40|Grincement|-|85|40}}
+{{Attaque-V|N.46|Coup d'Jus|80|100|15}}
+{{Attaque-V|N.50|Miroi-Tir|65|85|10}}
+{{Attaque-V|N.54|Vol Magnétik|-|-|10}}
+{{Attaque-V|N.60|Gyroballe|1|100|5}}
+{{Attaque-V|N.66|Élécanon|120|50|5}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+{{Sensibilités
+|type=Électrique
+|sensib-feu=2
+|sensib-acier=0.25
+|sensib-insecte=0.5
+|sensib-dragon=0.5
+|sensib-glace=0.5
+|sensib-spectre=0.5
+|sensib-ténèbres=0.5
+|sensib-psy=0.5
+|sensib-plante=0.5
+|sensib-normal=0.5
+|sensib-poison=0
+|sensib-sol=4
+|sensib-combat=2
+|sensib-roche=0.5
+|sensib-vol=0.25
+|sensib-électrique=0.5
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=électrique
+|PV=50
+|attaque=60
+|defense=95
+|atq-spc=120
+|def-spc=70
+|vitesse=70
+|special=120
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Magnéton
+| numero=082
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Magnéton RB.png
+| forme=11
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Magnéton]] est introduit dans l'épisode [[Coup de foudre magnétique]]. [[Jackson]], un des participants de [[Conférence Argentée]] en possède un. Tout comme [[Voltère]] le champion de [[Lavandia]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 101]]
+:{{PCap|Pok}}é{{PCap|mon}} Aimant. La [[évolution|forme évoluée]] de {{PCap|Magnéti}}. Ses pouvoirs anti-gravité lui permettent de flotter dans les airs. Il émet de puissants champs magnétiques et électriques.
+
+{{Ruban Pokémon
+| nomPrécédent=Magnéti
+| numéro=082
+| nom=Magnéton
+| nomSuivant=Canarticho
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/82| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Magneton| ]]
+
+[[de:Magneton]]
+[[en:Magneton (Pokémon)]]
+[[es:Magneton]]
+[[it:Magneton]]
+[[ja:レアコイル]]
+[[pl:Magneton]]
+[[pt:Magneton (pokémon)]]

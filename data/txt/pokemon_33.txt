@@ -1,0 +1,379 @@
+{{Ruban Pokémon
+| nomPrécédent=Nidoran♂
+| numéro=033
+| nom=Nidorino
+| nomSuivant=Nidoking
+}}
+{{Infobox Pokémon 
+| nom=Nidorino
+| nomen=Nidorino
+| nomja=ニドリーノ
+| nomtm=Nidorino
+| nomromaji=Nidorīno
+| nomde=Nidorino
+| légende=Artwork de Nidorino pour {{RFVF}}
+| ndex=033
+| jdex=099
+| hdex=231
+| espece=Venepic
+| taille=0.9
+| poids=19.5
+| fmratio=0
+| oeufpas=5120 
+| effortval=+2 Att.
+| type1=Poison
+| expval=118
+| expmax=1059860
+| captureval=120
+| groupoeuf1=Monstre
+| groupoeuf2=Sol
+| capspe1=Point Poison
+| capspe2=Rivalité
+| capspe3=Agitation
+| couleur=Violet
+| forme=8
+}}
+'''Nidorino''' (anglais : '''Nidorino''' ; japonais : '''ニドリーノ''' ''Nidorino'') est un [[Pokémon]] de [[type]] {{type|poison}} de la [[première génération]] et la première évolution de [[Nidoran♂]].
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+
+Nidorino est un Pokémon mâle au corps violet. Il possède une corne sur son front, une paire de canines et une colonne de piquants sur son dos. Ses grandes oreilles, dont l'intérieur est verdâtre, sont munies de deux cornes chacunes. Sa peau comporte quelques taches violet foncé par endroits et ses yeux sont rouges. Ce quadrupède possède trois griffes à chaque patte.
+
+====Différences mâle/femelle====
+
+Cette espèce est composée uniquement d'individus mâles.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Nidorino a la peau bleue plutôt que violacée. L'intérieur de ses oreilles est rougeâtre.
+
+===[[Évolution]]===
+
+{{TableauEvolutionHaut|Poison|Nidoran♂}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Nidorino}}
+{{TableauEvolutionSimple|Avec une [[Pierre Lune]]|imageObjet=Miniat pierre lune dp.png|Nidoking}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Tout comme les Nidoran♂, les Nidorino peuvent avoir l'une des 2 capacités spéciales suivantes :
+*'''[[Point Poison]]''', qui peut causer un empoisonnement à l'ennemi s'il utilise une attaque de contact ;
+*'''[[Rivalité]]''', qui augmente l'attaque du Pokémon de 50% si son adversaire est du même sexe, mais la diminuera s'il est du sexe opposé.
+
+===Étymologies===
+Français: '''Nidor'''an = ''aiguilles'' en Japonais + le suffixe -'''o''', marque du masculin dans certaines langues.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Très agressif, il est prompt à répondre à la violence. La corne sur sa tête est venimeuse.
+;[[Pokémon Jaune]]
+: Ses cornes sont venimeuses. Si elles touchent un ennemi, elles lui injectent un poison violent.
+;[[Pokémon Stadium]]
+: Plus dure que le diamant, sa corne peut piquer un ennemi puis injecter une dose de venin dans la blessure de la victime.
+;[[Pokémon Or]]
+: Il dresse ses oreilles à l'affût d'un bruit suspect et attaque toute menace se rapprochant de lui.
+;[[Pokémon Argent]]
+: Rapidement énervé, il frappe ses adversaires de sa corne qui injecte un puissant poison.
+;[[Pokémon Cristal]]
+: Il s'agite facilement et utilise sa corne pour attaquer s'il repère un ennemi.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Nidorino}} dispose d'une corne plus dure que du diamant. S'il sent une présence hostile, toutes les pointes de son dos se hérissent d'un coup, puis il défie son ennemi.
+;[[Pokémon Émeraude]]
+: Il dispose d'une corne plus dure que du diamant. S'il sent une présence hostile, toutes les pointes de son dos se hérissent d'un coup, puis il défie son ennemi.
+;[[Pokémon Rouge Feu]]
+:Il se met très facilement en colère. S'il charge avec sa corne imposante, ce {{PCap|Pok}}é{{PCap|mon}} peut même briser du diamant.
+;[[Pokémon Vert Feuille]]
+:Très agressif, il est prompt à répondre à la violence. La corne sur sa tête est venimeuse.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: D'un tempérament violent, il empale l'ennemi sur sa corne qui distille un poison puissant.
+;[[Pokémon Or HeartGold|Pokémon Or HeartGold]]
+:Il dresse ses oreilles à l'affût d'un bruit suspect et attaque toute menace se rapprochant de lui.
+;[[Pokémon Argent SoulSilver]]
+:Rapidement énervé, il frappe ses adversaires de sa corne qui injecte un puissant poison.
+;[[Pokémon Noir et Blanc]]
+: D'un tempérament violent, il empale l'ennemi sur sa corne qui distille un poison puissant.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Commun || [[Parc Safari]]
+|-
+| [[Bleu]] || Rare || [[Parc Safari]]
+|-
+| [[Jaune]] || Peu commun || Routes [[Route 9|9]], [[Route 23|23]] et [[Parc Safari]] ou évolution
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]]
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]]
+|-
+| [[Cristal]] || Commun || Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Peu commun || [[Parc Safari]]
+|-
+| [[Vert Feuille]] || Rare || [[Parc Safari]]
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Diamant]] || rowspan="2" style="vertical-align: middle;" |Rare ([[Pokéradar]] uniquement) || [[Route 221]] || N. 30 || 2% (avec le [[Pokéradar]])
+|-
+| [[Lac Courage]] || N. 22 || 2% (avec le [[Pokéradar]])
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Perle]] ||  rowspan="2" style="vertical-align: middle;" |Rare ([[Pokéradar]] uniquement) || [[Route 221]] || N. 29 || 20% (avec le [[Pokéradar]])
+|-
+| [[Lac Courage]] || N. 21-22 || 20% (avec le [[Pokéradar]])
+|}
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:150px" | Version
+! style="background-color:{{Couleur|Poison}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Nidoran♂]]
+| style="vertical-align:middle;" | 16
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|Départ{{Sup|R}}{{Sup|B}}<br>N.19{{Sup|J}}|Dard-Venin|15|100|35}}
+{{Attaque|N.23{{Sup|R}}{{Sup|B}}<br>N.27{{Sup|J}}|Puissance|-|-|30}}
+{{Attaque|N.32{{Sup|R}}{{Sup|B}}<br>N.36{{Sup|J}}|Furie|15|85|20}}
+{{Attaque|N.41{{Sup|R}}{{Sup|B}}<br>N.46{{Sup|J}}|Empal'Korne|-|-|5}}
+{{Attaque|N.50{{Sup|R}}{{Sup|B}}<br>Départ{{Sup|J}}|Double Pied|30|100|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Koud'Korne|65|100|25}}
+{{Attaque|Départ|Double Pied|30|100|30}}
+{{Attaque|N.19|Dard-Venin|15|100|35}}
+{{Attaque|N.27|Puissance|-|-|30}}
+{{Attaque|N.36|Furie|15|85|20}}
+{{Attaque|N.46|Empal'Korne|-|-|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ|Picpic|35|100|35|sang-froid|4|0}}
+{{Attaque-III|N.8|Puissance|-|-|30|sang-froid|1|3}}
+{{Attaque-III|N.12|Double Pied|30|100|30|sang-froid|2|0}}
+{{Attaque-III|N.18|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|N.22|Koud'Korne|65|100|25|sang-froid|4|0}}
+{{Attaque-III|N.26|Coup d'Main|-|100|20|intelligence|2|0}}
+{{Attaque-III|N.34|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.43|Flatterie|-|100|15|intelligence|2|0}}
+{{Attaque-III|N.53|Empal'Korne|-|-|5|sang-froid|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|Départ|Picpic|35|100|35|sang-froid|3}}
+{{Attaque-IV|N.7|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.9|Double Pied|30|100|30|sang-froid|2}}
+{{Attaque-IV|N.13|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|N.20|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.23|Koud'Korne|65|100|25|sang-froid|3}}
+{{Attaque-IV|N.28|Coup d'Main|-|100|20|intelligence|1}}
+{{Attaque-IV|N.35|Pics Toxik|-|-|20|intelligence|2}}
+{{Attaque-IV|N.38|Flatterie|-|100|15|intelligence|2}}
+{{Attaque-IV|N.43|Direct Toxik|80|100|20|intelligence|2}}
+{{Attaque-IV|N.50|Séduction|-|100|20|beauté|2}}
+{{Attaque-IV|N.58|Empal'Korne|-|-|5|sang-froid|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Groz'Yeux|-|100|30}}
+{{Attaque-V|Départ|Picpic|35|100|35}}
+{{Attaque-V|N.7|Puissance|-|-|30}}
+{{Attaque-V|N.9|Double Pied|30|100|30}}
+{{Attaque-V|N.13|Dard-Venin|15|100|35}}
+{{Attaque-V|N.20|Furie|15|85|20}}
+{{Attaque-V|N.23|Koud'Korne|65|100|25}}
+{{Attaque-V|N.28|Coup d'Main|-|100|20}}
+{{Attaque-V|N.35|Pics Toxik|-|-|20}}
+{{Attaque-V|N.38|Flatterie|-|100|15}}
+{{Attaque-V|N.43|Direct Toxik|80|100|20}}
+{{Attaque-V|N.50|Séduction|-|100|20}}
+{{Attaque-V|N.58|Empal'Korne|-|-|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-combat=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-sol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison]] -donc sur Nidorino- dans la [[première génération]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=poison
+|PV=61
+|attaque=72
+|defense=57
+|atq-spc=55
+|def-spc=55
+|vitesse=65
+|special=55
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Nidorino
+| numero=033
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Nidorino RB.png
+| forme=8
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+On aperçoit un Nidorino à la télévision dans l'[[Épisode 1]], lorsque [[Sacha]] regarde un match Pokémon.<br/>
+On a l'occasion d'apercevoir brièvement un troupeau de Nidorino dans l'[[Épisode 33]].<br/>
+Sacha combat un Nidorino pour son deuxième match de la [[Ligue Indigo]] sur le terrain rocheux dans l'[[Épisode 76]] et en vient à bout avec [[Carapuce]].<br/>
+Dans l'[[Épisode 100]], les deux Nidoran amoureux évoluent en Nidorino et [[Nidorina]] après s'être donnés un baiser.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 100]]
+:{{PCap|Pok}}é{{PCap|mon}} Vénépic. [[évolution|forme évoluée]] du {{PCap|Nidoran}} mâle. Sa corne est très développée et très puissante. 
+
+{{Ruban Pokémon
+| nomPrécédent=Nidoran♂
+| numéro=033
+| nom=Nidorino
+| nomSuivant=Nidoking
+}}
+
+[[Catégorie:Pokémon uniquement mâle]]
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Lune]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/33| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Nidorino| ]]
+
+[[de:Nidorino]]
+[[en:Nidorino (Pokémon)]]
+[[es:Nidorino]]
+[[it:Nidorino]]
+[[ja:ニドリーノ]]
+[[pl:Nidorino]]
+[[pt:Nidorino (pokémon)]]

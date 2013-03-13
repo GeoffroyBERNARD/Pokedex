@@ -1,0 +1,463 @@
+{{Ruban Pokémon
+| nomPrécédent=Rattata
+| numéro=020
+| nom=Rattatac
+| nomSuivant=Piafabec
+}}
+{{Infobox Pokémon 
+| nom=Rattatac
+| nomen=Raticate
+| nomja=ラッタ 
+| nomtm=Ratta
+| nomde=Rattikarl
+| légende=Artwork par Ken Sugimori
+| ndex=020
+| jdex=018
+| hdex=222
+| fdex=102
+| adex=068
+| espece=Souris
+| taille=0.7
+| poids=18.5
+| fmratio=.500 
+| oeufpas=3840 
+| effortval=+2 Vit.
+| type1=Normal
+| expval=116
+| expmax=1000000
+| captureval=127
+| groupoeuf1=Sol
+| capspe1=Cran
+| capspe2=Fuite (capacité spéciale){{!}}Fuite
+| capspe3=Agitation
+| couleur=Marron
+| forme=8
+}}
+'''Rattatac''' (anglais : '''Raticate''' ; japonais : '''ラッタ''' ''Ratta'') est un [[Pokémon]] de [[type]] {{type|normal}} de la [[première génération]].
+
+==À propos du Pokémon==
+
+===Physionomie===
+
+Rattatac est un Pokémon rapide et robuste capable de croquer n'importe quoi. Si l'on coupe ses moustaches il perdra de la vitesse et sera moins efficace au combat.
+
+==== Différences mâle/femelle ====
+
+Les Rattatac femelles ont des moustaches plus petites.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, le pelage dorsal de Rattatac est d'un orange plus vif, tandis que le pelage de la partie ventrale (et les moustaches) sont d'un blanc cassé tirant sur le vert.
+
+===[[Évolution]]===
+Rattatac est l'évolution de [[Rattata]] à partir du [[niveau]] 20.
+
+{{TableauEvolutionHaut|Normal|Rattata}}
+{{TableauEvolutionSimple|[[Niveau]] 20|Rattatac}}
+{{TableauEvolutionBas}}
+
+=== [[Capacité spéciale]] ===
+
+[[Cran]] : cette capacité sert à augmenter l'[[Attaque (statistique)|attaque]] s'il y a un problème de [[statut]].
+
+[[Fuite]] : les chances de fuir contre un Pokemon sauvage sont accrues.
+
+[[Agitation]] : l'attaque utilisée voit sa puissance augmenter de 50%. En contrepartie, sa précision diminue de 20%. (Monde des Rêves)
+
+===Étymologies===
+* Français : '''Rat''' et '''at'''t'''aque'''
+* Anglais : ''Rat'' et ''eradicate'' (éliminer)
+* Japonais : xxx.
+* Allemand : ''Ratte''.(rat) et ''Radikal''(radicalement)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Si ses moustaches sont coupées, il perds le sens de son équilibre et devient moins rapide.
+;[[Pokémon Jaune]]
+: Ses pattes sont palmées. Il peut poursuivre sa proie à travers les cours d'eau et les rivières.
+;[[Pokémon Stadium]]
+: Une fois attaqué, il se tient debout, montre ses crocs et hurle d'une façon intimidante vers son ennemi.
+;[[Pokémon Or]]
+: Sa morsure est redoutable. Ses terribles crocs peuvent ronger les fondations des immeubles.
+;[[Pokémon Argent]]
+: Ses moustaches favorisent son équilibre.Ses crocs grandissent sans cesse pour lieux mâcher.
+;[[Pokémon Cristal]]
+: Ses pattes arrière lui permettent de traverser les rivières. Il est toujours en quête de nourriture.
+;[[Pokémon Rubis et Saphir]]
+: Les crocs robustes de {{PCap|Rattatac}} poussent constamment. Pour éviter qu'ils raclent le sol, il se fait les dents sur des cailloux ou des troncs d'arbre. Il lui arrive même de ronger les murs des maisons.
+;[[Pokémon Émeraude]]
+: Les crocs robustes de {{PCap|Rattatac}} poussent constamment. Il se fait donc les dents sur des cailloux, des troncs d'arbre, voire des murs de maison.
+;[[Pokémon Rouge Feu]]
+:Ses pattes arrières ont trois doigts chacune. Elles sont palmées pour lui permettre de se déplacer dans les rivières.
+;[[Pokémon Vert feuille]]
+:Si ses moustaches sont coupées, il perd le sens de l'équilibre et devient moins rapide.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Rattatac}} se sert de ses dents pour détruire les Clôtures en Métal, par exemple.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Il grignote sans cesse pour apaiser la poussée de ses crocs. Il peut transpercer un mur de parpaings.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il mord ses ennemis à l'aide de ses puissantes incisives.
+;[[Pokémon Or HeartGold]]
+:Sa morsure est redoutable. Ses terribles crocs peuvent ronger les fondations des immeubles.
+;[[Pokémon Argent SoulSilver]]
+:Ses moustaches favorisent son équilibre. Ses crocs grandissent sans cesse pour mieux mâcher.
+;[[Pokémon Noir et Blanc]]
+: Il grignote sans cesse pour apaiser la poussée de ses crocs. Il peut transpercer un mur de parpaings.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Peu rare || Routes [[Route 16|16]], [[Route 17|17]], [[Route 18|18]]  et [[Route 21|21]]
+|-
+| [[Bleu]] || Peu rare || Routes [[Route 16|16]], [[Route 17|17]], [[Route 18|18]] et [[Route 21|21]]
+|-
+| [[Jaune]] || Peu rare ||Routes [[Route 9|9]], [[Route 10|10]], [[Route 11|11]], [[Route 16|16]], [[Route 18|18]], [[Route 21|21]] et [[Manoir Pokémon|Manoir Pokémon]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] ||  || 
+|-
+| [[Pokémon Or et Argent|Argent]] || || 
+|-
+| [[Cristal]] || || 
+|}
+
+
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À échanger
+|-
+| [[Saphir]] || Inexistant || À échanger
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À échanger
+|-
+| [[Rouge Feu]] || Commun || Routes [[Route 16|16]], [[Route 17|17]], [[Route 18|18]] et [[Manoir Pokémon|Manoir Pokémon]]
+|-
+| [[Vert Feuille]] || Commun || Routes [[Route 16|16]], [[Route 17|17]], [[Route 18|18]] et [[Manoir Pokémon|Manoir Pokémon]]
+|-
+| [[Colosseum]] || || 
+|-
+| [[XD]] || || 
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Commun || Routes [[Route 225|225]] et [[Route 226|226]]
+|-
+| [[Perle]] || Commun || Routes [[Route 225|225]] et [[Route 226|226]]
+|-
+| [[Platine]] || Commun || Routes [[Route 225|225]] et [[Route 226|226]]
+|-
+| [[Heartgold]] || Commun || Routes [[Route 7|7]], [[Route 9|9]], [[Route 10|10]], [[Route 26|26]], [[Route 27|27]], [[Route 38|38]], [[Route 39|39]], [[Route 47|47]], [[Caves Jumelles|Caves Jumelles]], [[Mont Creuset|Mont Creuset]], [[Tour Cendrée|Tour Cendrée]], [[Chutes Tohjo|Chutes Tohjo]] et [[Parc Safari|Parc Safari]]
+|-
+| [[Soulsilver]] || Commun || Routes [[Route 7|7]], [[Route 9|9]], [[Route 10|10]], [[Route 26|26]], [[Route 27|27]], [[Route 38|38]], [[Route 39|39]], [[Route 47|47]], [[Caves Jumelles|Caves Jumelles]], [[Mont Creuset|Mont Creuset]], [[Tour Cendrée|Tour Cendrée]], [[Chutes Tohjo|Chutes Tohjo]] et [[Parc Safari|Parc Safari]]
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Vestiges du Rêve]] ([[herbes doubles]])
+| style="vertical-align:middle;" | 47-50
+|-
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Vive-Attaque|40|100|30}}
+{{Attaque|N.14|Croc de Mort|80|90|15}}
+{{Attaque|N.27|Puissance|-|-|30}}
+{{Attaque|N.41|Croc Fatal|-|90|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Vive-Attaque|40|100|30}}
+{{Attaque|N.13|Croc de Mort|80|90|15}}
+{{Attaque|N.20|Grimace|-|90|10}}
+{{Attaque|N.30|Poursuite|40|100|20}}
+{{Attaque|N.40|Croc Fatal|-|90|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ<br>N.7|Vive-Attaque|40|100|30|sang-froid|3|0}}
+{{Attaque-III|N.13|Croc de Mort|80|90|15|sang-froid|1|4}}
+{{Attaque-III|N.20|Grimace|-|90|10|robustesse|2|1}}
+{{Attaque-III|N.30|Poursuite|40|100|20|intelligence|2|1}}
+{{Attaque-III|N.40|Croc Fatal|-|90|10|robustesse|2|1}}
+{{Attaque-III|N.50|Effort|-|100|5|robustesse|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Danse-Lames|-|-|30|beauté|0}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|Départ<br>N.4|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|Départ<br>N.7|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.10|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.13|Poursuite|40|100|20|intelligence|1}}
+{{Attaque-IV|N.16|Croc de Mort|80|90|15|sang-froid|2}}
+{{Attaque-IV|N.19|Coup Bas|80|100|5|intelligence|2}}
+{{Attaque-IV|N.20|Grimace|-|90|10|robustesse|2}}
+{{Attaque-IV|N.24|Mâchouille|80|100|15|robustesse|2}}
+{{Attaque-IV|N.29|Assurance|50|100|10|beauté|2}}
+{{Attaque-IV|N.34|Croc Fatal|-|90|10|robustesse|3}}
+{{Attaque-IV|N.39|Damoclès|120|100|15|robustesse|0}}
+{{Attaque-IV|N.44|Effort|-|100|5|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Danse-Lames|-|-|30}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ<br>N.4|Vive-Attaque|40|100|30}}
+{{Attaque-V|Départ<br>N.7|Puissance|-|-|30}}
+{{Attaque-V|N.10|Morsure|60|100|25}}
+{{Attaque-V|N.13|Poursuite|40|100|20}}
+{{Attaque-V|N.16|Croc de Mort|80|90|15}}
+{{Attaque-V|N.19|Coup Bas|80|100|5}}
+{{Attaque-V|N.20|Grimace|-|100|10}}
+{{Attaque-V|N.24|Mâchouille|80|100|15}}
+{{Attaque-V|N.29|Assurance|50|100|10}}
+{{Attaque-V|N.34|Croc Fatal|-|90|10}}
+{{Attaque-V|N.39|Damoclès|120|100|15}}
+{{Attaque-V|N.44|Effort|-|100|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+	
+{{incomplet}}
+
+====[[Première génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Normal}}" | [[Niveau]]
+! style="background:{{Couleur|Normal}}" | [[Attaque]]
+! style="background:{{Couleur|Normal}}" | [[Type]]
+! style="background:{{Couleur|Normal}}" | [[Puissance (statistique)|Puissance]]
+! style="background:{{Couleur|Normal}}" | [[Précision]]
+! style="background:{{Couleur|Normal}}" | [[PP]]
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}} || - || 85% || 10
+|-
+| [[CT08]] || [[Plaquage]] || {{type|normal}} || 85 || 100% || 15
+|-
+| [[CT09]] || [[Bélier]] || {{type|normal}} || 90 || 85% || 20
+|-
+| [[CT10]] || [[Damoclès]] || {{type|normal}} || 120 || 100% || 15
+|-
+| [[CT11]] || [[Bulles d'O]] || {{type|eau}} || 65 || 100% || 20
+|-
+| [[CT12]] || [[Pistolet à O]] || {{type|eau}} || 40 || 100% || 25
+|-
+| [[CT13]] || [[Laser Glace]] || {{type|glace}} || 95 || 100% || 10
+|-
+| [[CT14]] || [[Blizzard]] || {{type|glace}} || 120 || 90% || 5
+|-
+| [[CT15]] || [[Ultralaser]] || {{type|normal}} || 150 || 90% || 5
+|-
+| [[CT20]] || [[Frénésie]] || {{type|normal}} || 20 || 100% || 20
+|-
+| [[CT24]] || [[Tonnerre]] || {{type|électrique}} || 95 || 100% || 15
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}} || 120 || 70% || 10
+|-
+| [[CT28]] || [[Tunnel]] || {{type|sol}} || 100 || 100% || 10
+|-
+| [[CT31]] || [[Copie]] || {{type|normal}} || - || - || 10
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}} || - || - || 15
+|-
+| [[CT34]] || [[Patience]] || {{type|normal}} || - || - || 10
+|-
+| [[CT39]] || [[Météores]] || {{type|normal}} || 60 || - || 20
+|-
+| [[CT40]] || [[Coud'Krâne]] || {{type|normal}} || 100 || 100% || 15
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}} || - || - || 10
+|-
+| [[CT50]] || [[Clonage (attaque)|Clonage]] || {{type|normal}} || - || - || 10
+|}
+
+====[[Deuxième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Normal}}" | [[Niveau]]
+! style="background:{{Couleur|Normal}}" | [[Attaque]]
+! style="background:{{Couleur|Normal}}" | [[Type]]
+! style="background:{{Couleur|Normal}}" | [[Puissance (statistique)|Puissance]]
+! style="background:{{Couleur|Normal}}" | [[Précision]]
+! style="background:{{Couleur|Normal}}" | [[PP]]
+|-
+| [[CT02]] || [[Coup d'Boule]] || {{type|normal}}
+|-
+| [[CT03]] || [[Malédiction]] || {{type|inconnu}}
+|-
+| [[CT05]] || [[Hurlement]] || {{type|normal}}
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}}
+|-
+| [[CT08]] || [[Éclate-Roc]] || {{type|combat}}
+|-
+| [[CT10]] || [[Puissance Cachée]] || {{type|normal}}
+|-
+| [[CT11]] || [[Zénith]] || {{type|feu}}
+|-
+| [[CT13]] || [[Ronflement]] || {{type|normal}}
+|-
+| [[CT14]] || [[Blizzard]] || {{type|glace}}
+|-
+| [[CT15]] || [[Ultralaser]] || {{type|normal}}
+|-
+| [[CT16]] || [[Vent Glace]] || {{type|glace}}
+|-
+| [[CT17]] || [[Abri]] || {{type|normal}}
+|-
+| [[CT20]] || [[Ténacité]] || {{type|normal}}
+|-
+| [[CT21]] || [[Frustration]] || {{type|normal}}
+|-
+| [[CT23]] || [[Queue de Fer]] || {{type|acier}}
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}}
+|-
+| [[CT27]] || [[Retour]] || {{type|normal}}
+|-
+| [[CT28]] || [[Tunnel]] || {{type|sol}}
+|-
+| [[CT30]] || [[Ball'Ombre]] || {{type|spectre}}
+|-
+| [[CT31]] || [[Coud'Boue]] || {{type|sol}}
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}}
+|-
+| [[CT34]] || [[Vantardise]] || {{type|normal}}
+|-
+| [[CT35]] || [[Blabla Dodo]] || {{type|normal}}
+|-
+| [[CT39]] || [[Météores]] || {{type|normal}}
+|-
+| [[CT40]] || [[Boul'Armure]] || {{type|normal}}
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}}
+|-
+| [[CT45]] || [[Attraction]] || {{type|normal}}
+|-
+| [[CT46]] || [[Larcin]] || {{type|ténèbres}}
+|-
+| [[CS01]] || [[Coupe]] || {{type|normal}}
+|-
+| [[CS04]] || [[Force]] || {{type|normal}}
+|}
+
+===Par [[reproduction]]===
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=normal
+|PV=55
+|attaque=81
+|defense=60
+|atq-spc=50
+|def-spc=70
+|vitesse=97
+|special=50
+}}
+
+== Imagerie ==
+
+{{Imagerie Pokémon
+| pokemon=Rattatac
+| numero=020
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Rattatac RB.png
+| forme=8
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff-fm=oui
+| PDM2-supp=f
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Rattatac a une figurine à son effigie dans le jeu de figurines à collectionner, dans l'extension [[Groundbreakers (JFC)|Groundbreakers]], jamais sortie en France. Sa figurine est la numéro 27. Pour plus d'informations, voir ''[[Rattatac (Groundbreakers 27)]]''.
+
+[[Fichier:JFC-Groundbreakers-27.png|thumb|center|La figurine de Rattatac]]
+
+==Apparitions dans le [[dessin animé]]==
+
+Un Rattatac apparaît dans l'[[épisode 15]], où un dresseur, impressionné par le [[Papilusion]] de [[Sacha]], propose à ce dernier d'échanger Papilusion contre Rattatac. Sacha accepte, pour ensuite regretter l'échange et demande à faire l'échange dans le sens inverse.
+
+Un autre Rattatac apparaît dans les épisodes où [[Cassidy]] et [[Butch]] essaient de voler des Pokémon, car c'est le Pokémon de Cassidy, qui se sert beaucoup de ce Pokémon rapide et robuste.
+
+===Descriptions du [[Pokédex]]===
+Aucune
+
+{{Ruban Pokémon
+| nomPrécédent=Rattata
+| numéro=020
+| nom=Rattatac
+| nomSuivant=Piafabec
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/20| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Raticate| ]]
+
+[[de:Rattikarl]]
+[[en:Raticate (Pokémon)]]
+[[es:Raticate]]
+[[it:Raticate]]
+[[ja:ラッタ]]
+[[pl:Raticate]]
+[[pt:Raticate (pokémon)]]

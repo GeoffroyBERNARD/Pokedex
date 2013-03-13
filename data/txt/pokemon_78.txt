@@ -1,0 +1,333 @@
+{{ébauche|Pokémon}}
+{{Ruban Pokémon
+| nomPrécédent=Ponyta
+| numéro=078
+| nom=Galopa
+| nomSuivant=Ramoloss
+}}
+{{Infobox Pokémon
+| nom=Galopa
+| nomen=Rapidash
+| nomja=ギャロップ
+| nomtm=Gallop
+| nomromaji=Gyaroppa
+| nomde=Gallopa
+| légende=Artwork de Galopa pour {{RFVF}}
+| ndex=078
+| jdex=202
+| njdex=207
+| hdex=254
+| sdex=091
+| fdex=018
+| adex=177
+| espece=Cheval feu
+| taille=1.7
+| poids=95.0
+| fmratio=.5
+| oeufpas=5120
+| effortval=+2 Vit.
+| type1=Feu
+| expval=192
+| expmax=1000000
+| captureval=60
+| groupoeuf1=Sol
+| capspe1=Fuite (capacité spéciale){{!}}Fuite
+| capspe2=Torche
+| capspe3=Corps Ardent
+| couleur=Jaune
+| forme=8
+}}
+'''Galopa''' (anglais : '''Rapidash''' ; japonais : '''ギャロップ''' ''Gallop'') est un [[Pokémon]] de [[type]] {{type|feu}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Galopa a des flammes grises et une peau légèrement plus pâle que sa couleur classique.
+
+===[[Évolution]]===
+Galopa est l'évolution de [[Ponyta]] à partir du [[niveau]] 40.
+{{TableauEvolutionHaut|Feu|Ponyta}}
+{{TableauEvolutionSimple|[[Niveau]] 40|Galopa}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+* Français, Allemand, Japonais : vient de ''galop'' 
+* Anglais: ''Rapid'' (rapide) + ''Dash'' (courir)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Doté d'un esprit de compétition, il poursuit toute créature rapide pour faire la course.
+;[[Pokémon Jaune]]
+:Il aime la course. Il poursuit tout ce qui va plus vite que lui. Question d'honneur.
+;[[Pokémon Stadium]]
+:Il ne peut s'empêcher de courir après les voitures ou les trains. Il taquine les 240 km/h en vitesse de pointe.
+;[[Pokémon Or]]
+:Quand il galope, ses sabots frôlent le sol, ce qui donne l'impression qu'il glisse sur le vent.
+;[[Pokémon Argent]]
+:Capable d'une accélération incroyable, il peut atteindre les 240 Km/h en seulement 10 pas.
+;[[Pokémon Cristal]]
+:Il adore galoper. Pendant sa course, ses flammes s'allongent au fur et à mesure qu'il gagne de la vitesse.
+;[[Pokémon Rubis et Saphir]]
+:On voit souvent {{PCap|Galopa}} trotter dans les champs et les plaines. Cependant, lorsque ce {{PCap|Pok}}é{{PCap|mon}} s'en donne la peine, il peut galoper à plus de 240 Km/h et sa crinière flamboyante s'embrase.
+;[[Pokémon Émeraude]]
+:On voit souvent {{PCap|Galopa}} trotter dans les champs et les plaines. Ce {{PCap|Pok}}é{{PCap|mon}} peut galoper à plus de 240 Km/h et sa crinière flamboyante s'embrase.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} peut galoper jusqu'à 240 Km/h. Si vous pensez voir une boule de feu au loin, il s'agit peut-être d'un {{PCap|Galopa}} en pleine course.
+;[[Pokémon Vert Feuille]]
+:Doté d'un esprit de compétition, il poursuit toute créature rapide pour faire la course.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Galopa}} s'entoure de flammes destructrices et charge.
+;[[Pokémon Diamant]]
+:Son galop dépasse les 240 Km/h. Il file comme une flèche, laissant flotter sa crinière ardente.
+;[[Pokémon Perle]]
+:Un grand sprinter. En départ arrêté, dix foulées lui suffisent à atteindre une vitesse de pointe.
+;[[Pokémon Ranger 2]]
+:Il charge l'adversaire et crache du feu.
+;[[Pokémon Platine]]
+:À force de galoper, sa crinière de feu disperse au vent une myriade d'étincelles ardentes.
+;[[Pokémon Or HeartGold]]
+:Quand il galope, ses sabots frôlent à peine le sol, ce qui donne l'impression qu'il glisse sur le vent.
+;[[Pokémon Argent SoulSilver]]
+:Capable d'une accélération incroyable, il peut atteindre les 240 Km/h en seulement 10 pas !
+;[[Pokémon Noir et Blanc]]
+:Au grand galop, sa crinière de feu disperse au vent une myriade d'étincelles ardentes.
+
+==Localisations==
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Feu}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Route 12 (Unys)|Route 12]]
+| style="vertical-align:middle;" | 49-50
+|-
+|}
+
+==[[Attaque]]s apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|Départ|Écrasement|65|100|20}}
+{{Attaque|Départ|Danseflamme|15|70|15}}
+{{Attaque|N.47|Bélier|90|85|20}}
+{{Attaque|N.55|Hâte|-|-|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|Départ|Écrasement|65|100|20}}
+{{Attaque|Départ|Danseflamme|15|70|15}}
+{{Attaque|Départ|Bélier|90|85|20}}
+{{Attaque|N.40|Furie|15|85|20}}
+{{Attaque|N.47|Hâte|-|-|30}}
+{{Attaque|N.61|Déflagration|120|85|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.5|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|Départ<br>N.9|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ<br>N.14|Flammèche|40|100|25|beauté|4|0}}
+{{Attaque-III|N.19|Écrasement|65|100|20|robustesse|1|4}}
+{{Attaque-III|N.25|Danseflamme|15|70|15|beauté|3|0}}
+{{Attaque-III|N.31|Bélier|90|85|20|robustesse|6|0}}
+{{Attaque-III|N.38|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.40|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.50|Rebond|85|85|5|grâce|1|0}}
+{{Attaque-III|N.63|Déflagration|120|85|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Direct Toxik|80|100|20|intelligence|2}}
+{{Attaque-IV|Départ|Mégacorne|120|85|10|sang-froid|2}}
+{{Attaque-IV|Départ|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|Départ<br>N.7{{Sup|D}}{{Sup|P}}|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|Départ<br>N.6{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|N.15{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Roue de Feu|60|100|25|beauté|2}}
+{{Attaque-IV|Départ<br>N.16{{Sup|D}}{{Sup|P}}<br>N.10{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Flammèche|40|100|25|beauté|3}}
+{{Attaque-IV|N.19|Écrasement|65|100|20|robustesse|3}}
+{{Attaque-IV|N.25{{Sup|D}}{{Sup|P}}<br>N.24{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Danseflamme|15|70|15|beauté|0}}
+{{Attaque-IV|N.28|Bélier|90|85|20|robustesse|3}}
+{{Attaque-IV|N.34{{Sup|D}}{{Sup|P}}<br>N.33{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.38{{Sup|D}}{{Sup|P}}<br>N.37{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Déflagration|120|85|5|beauté|2}}
+{{Attaque-IV|N.40|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.49{{Sup|D}}{{Sup|P}}<br>N.47{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Rebond|85|85|5|grâce|1}}
+{{Attaque-IV|N.58{{Sup|D}}{{Sup|P}}<br>N.56{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Boutefeu|120|100|15|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Direct Toxik|80|100|20}}
+{{Attaque-V|Départ|Mégacorne|120|85|10}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ<br>N.4|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ<br>N.9|Flammèche|40|100|25}}
+{{Attaque-V|N.13|Roue de Feu|60|100|25}}
+{{Attaque-V|N.17|Écrasement|65|100|20}}
+{{Attaque-V|N.21|Nitrocharge|50|100|20}}
+{{Attaque-V|N.25|Danseflamme|35|85|15}}
+{{Attaque-V|N.29|Bélier|90|85|20}}
+{{Attaque-V|N.33|Feu d'Enfer|100|50|5}}
+{{Attaque-V|N.37|Hâte|-|-|30}}
+{{Attaque-V|N.40|Furie|15|85|20}}
+{{Attaque-V|N.41|Déflagration|120|85|5}}
+{{Attaque-V|N.45|Rebond|85|85|5}}
+{{Attaque-V|N.49|Boutefeu|120|100|15}}
+{{Attaques apprises-bas}}
+
+=== Par [[CT]]/[[CS]] ===
+
+{|class="wikitable collapsible"
+|-
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || {{type|poison}}
+|-
+|CT 10 || {{Infobulle|[[Puis.Cachée]]|Texte du jeu}} || {{type|normal}}
+|-
+|CT 11 || [[Zénith]] || {{type|feu}}
+|-
+|CT 15 || [[Ultralaser]] || {{type|normal}}
+|-
+|CT 17 || [[Abri]] || {{type|normal}}
+|-
+|CT 21 || [[Frustration]] || {{type|normal}}
+|-
+|CT 22 || [[Lance-Soleil]] || {{type|plante}}
+|-
+|CT 23 || [[Queue de Fer]] || {{type|acier}}
+|-
+|CT 27 || [[Retour]] || {{type|normal}}
+|-
+|CT 32 || [[Reflet]] || {{type|normal}}
+|-
+|CT 35 || [[Lance-Flamme]] || {{type|feu}}
+|-
+|CT 38 || [[Déflagration]] || {{type|feu}}
+|-
+|CT 42 || [[Façade]] || {{type|normal}}
+|-
+|CT 43 || [[Force Cachée]] || {{type|normal}}
+|-
+|CT 44 || [[Repos]] || {{type|psy}}
+|-
+|CT 45 || [[Attraction]] || {{type|normal}}
+|-
+|CT 50 || [[Surchauffe]] || {{type|feu}}
+|-
+|CT 58 || [[Ténacité]] || {{type|normal}}
+|-
+|CT 61 || [[Feu Follet]] || {{type|feu}}
+|-
+|CT 68 || [[Giga Impact]] || {{type|normal}}
+|-
+|CT 78 || [[Séduction]] || {{type|normal}}
+|-
+|CT 82 || [[Blabla Dodo]] || {{type|normal}}
+|-
+|CT 83 || [[Don Naturel]] || {{type|normal}}
+|-
+|CT 87 || [[Vantardise]] || {{type|normal}}
+|-
+|CT 90 || [[Clonage (attaque)|Clonage]] || {{type|normal}}
+|-
+|CS 04 || [[Force]] || {{type|normal}}
+|}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=feu
+|sensib-acier=0.5
+|sensib-eau=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=2
+|rmq-feu=Lorsque la [[capacité spéciale]] [[Torche]] de '''{{PAGENAME}}''' est active, les attaques de type [[Feu]] ne produisent pas de dégâts sur lui.
+|rmq-feu-num=1
+|rmq-glace=Dans la [[génération I]], les attaques de type [[Glace]] avaient une efficacité normale contre les Pokémon de type [[Feu]].
+|rmq-glace-num=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=feu
+|PV=65
+|attaque=100
+|defense=70
+|atq-spc=80
+|def-spc=80
+|vitesse=105
+|special=80
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Galopa
+| numero=078
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Galopa RB.png
+| forme=8
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+Galopa est apparu dans l' [[épisode 33]] de la série pendant le Poké-Marathon. Dans cet episode [[Sacha]] se retrouve contraint de monter le [[Ponyta]] de [[Lara Laramie]] pour y participer, suite à la blessure de cette dernière engendrée par la [[Team Rocket]] pour le compte d'un rival de Lara. 
+
+Suite à une course où la tricherie était permanente, ceci à cause, notamment, des agissements de la [[Team Rocket]], et où ont participé [[Pierre (dessin animé)|Pierre]] (sur [[Onix]]), {{da|Ondine}} (sur son [[Staross]]) et même le [[Pikachu de Sacha]] (sur et avec [[Carapuce]]), le Ponyta, afin de dépasser le [[Dodrio]] du rival de Lara à la dernière ligne droite de la course, a dû évoluer en Galopa, décrit comme le « le meilleur sprinter de tous les Pokémons» par le speaker dans ce même épisode.
+
+===Descriptions du [[Pokédex]]===
+
+{{Ruban Pokémon
+| nomPrécédent=Ponyta
+| numéro=078
+| nom=Galopa
+| nomSuivant=Ramoloss
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/78| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Rapidash| ]]
+
+[[de:Gallopa]]
+[[en:Rapidash (Pokémon)]]
+[[es:Rapidash]]
+[[it:Rapidash]]
+[[ja:ギャロップ]]
+[[pl:Rapidash]]
+[[pt:Rapidash (pokémon)]]

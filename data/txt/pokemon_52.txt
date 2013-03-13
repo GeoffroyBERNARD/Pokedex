@@ -1,0 +1,323 @@
+{{Ruban Pokémon
+| nomPrécédent=Triopikeur
+| numéro=052
+| nom=Miaouss
+| nomSuivant=Persian
+}}
+{{Infobox Pokémon 
+| nom=Miaouss
+| nomen=Meowth
+| nomja=ニャース
+| nomtm=Nyarth
+| nomromaji=Nyāsu
+| nomde=Mauzi
+| légende=Artwork de Miaouss
+| ndex=052
+| jdex=136
+| njdex=138
+| hdex=241
+| fdex=099
+| espece=Chadégout
+| taille=0.4
+| poids=4.2
+| fmratio=.5
+| couleur=Jaune
+| oeufpas=5120 
+| type1=Normal
+| captureval=255
+| capspe1=Ramassage
+| capspe2=Technicien
+| capspe3=Tension
+| expval=69
+| expmax=1000000
+| effortval=+1 Vit.
+| groupoeuf1=Sol
+| forme=8
+|}}
+'''Miaouss''' (anglais : '''Meowth''' ; japonais : '''ニャース''' ''Nyarth'') est un [[Pokémon]] de [[type]] {{type|normal}} de la [[première génération]]. Il est très connu de par son [[Miaouss de la Team Rocket|implication]] dans le [[dessin animé]].
+
+==À propos du Pokémon==
+===Physionomie===
+Miaouss ressemble à un chat, à la différence qu'il peut facilement se tenir sur ses deux pattes arrière, et parfois même se déplacer ainsi.
+
+====Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Miaouss évolue en [[Persian]] à partir du [[niveau]] 28.
+{{TableauEvolutionHaut|Normal|Miaouss}}
+{{TableauEvolutionSimple|[[Niveau]] 28|Persian}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+*[[Ramassage]] lui permet de ramasser des objets.
+*[[Technicien]] permet que la puissance des attaques avec une puissance inférieure à 60 soit incrémentée de 50%.
+
+===Étymologies===
+* Français : Miaouss vient de ''miaou'', le cri du chat (en français) et le mot français maouss.
+* Anglais : Meowth vient de ''meow'', le cri du chat (en anglais) et le ''th'' est repris depuis la fin de la prononciation du nom japonais.
+* Japonais : Nyarth vient de ''nyā'', le cri du chat (en japonais).
+* Allemand : ''Mauzi'' vient de ''miauz'', le cri du chat (en allemand).
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il adore les pièces de monnaie. Il hante les rues à la recherche de pièces oubliées par les passants.
+;[[Pokémon Jaune]]
+:Il est surtout actif la nuit. Il aime chaparder les objets ronds et brillants.
+;[[Pokémon Stadium]]
+: Dort le jour et vole la nuit. Une fois le soleil couché, ses yeux brillent et il s'adonne à son sport favori : piquer des pièces en riant.
+;[[Pokémon Or]]
+:Il est fasciné par les objets ronds. Il ne peut pas s'empêcher de jouer jusqu'à l'épuisement.
+;[[Pokémon Argent]]
+:Il aime tout ce qui brille, et particulièrement les pièces qu'il ramasse et accumule en secret.
+;[[Pokémon Cristal]]
+:Il est fasciné par les objet brillants. Lorsqu'il en voit un, la pièce sur son front brille.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Miaouss}} peut rentrer ses griffes dans ses pattes pour rôder gracieusement sans laisser de traces. Étrangement, ce {{PCap|Pok}}é{{PCap|mon}} raffole des pièces d'or qui brillent à la lumière.
+;[[Pokémon Émeraude]]
+:{{PCap|Miaouss}} peut rentrer ses griffes dans ses pattes pour rôder gracieusement sans laisser de traces. Il raffole des pièces d'or qui brillent à la lumière.
+;[[Pokémon Rouge Feu]]
+:Il passe ses journées à dormir. La nuit venue, il patrouille sur son territoire en utilisant ses yeux brillants.
+;[[Pokémon Vert Feuille]]
+:Il adore les pièces de monnaie. Il hante les rues à la recherche de pièces oubliées par les passants.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Miaouss}} coupe de petits objets avec ses griffes. Il marche sur ses pattes arrières.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Son regard s'anime à la vue d'un objet brillant. C'est un {{PCap|Pok}}é{{PCap|mon}} nocturne.
+;[[Pokémon Or HeartGold]]
+:Il est fasciné par les objets ronds et ne peut pas s'empêcher de jouer jusqu'à l'épuisement.
+;[[Pokémon Argent SoulSilver]]
+:Il aime tout ce qui brille, et particulièrement les pièces qu'il ramasse et accumule en secret.
+;[[Pokémon Noir et Blanc]]
+:Son regard s'anime à la vue d'un objet brillant. C'est un [[Pokémon]] nocturne.
+
+==Localisations==
+{{incomplet}}
+=== [[Troisième génération]] ===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|normal}}; width:150px" | Version
+! style="background-color:{{Couleur|normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|normal}}; width:450px" | Lieu
+|-
+| {{RS}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | [[Échange]]
+|-
+| {{RFVF}}
+| style="vertical-align: middle;" | Commun
+| style="vertical-align: middle;" | [[Route 5 (Kanto)|Routes 5]], [[Route 6 (Kanto)|6]], [[Route 7 (Kanto)|7]], [[Route 8 (Kanto)|8]], [[Pont du Lien]], [[Entrée du Canyon]], [[Cap Falaise]], [[Pré Île 5]], [[Route Tison]], [[Canyon Sesor]], [[Plage Trésor]], [[Agualcanal]].
+|-
+| {{E}}
+| style="vertical-align: middle;" | Unique
+| style="vertical-align: middle;" | Échange contre [[Skitty]] à la [[Zone de Combat (Génération III)|Zone de Combat]].
+|-
+| {{Colo}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | Échange
+|-
+| {{XD}}
+| style="vertical-align: middle;" | Unique
+| style="vertical-align: middle;" | [[Phénacit]] en tant que Pokémon Obscur
+|}
+=== [[Quatrième génération]] ===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|normal}}; width:150px" | Version
+! style="background-color:{{Couleur|normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|normal}}; width:450px" | Lieu
+|-
+| {{DPP}}
+| style="vertical-align: middle;" | Rare
+| style="vertical-align: middle;" | [[Jardin Trophée]], après avoir obtenu le Pokédex National
+|-
+| {{HG}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | [[Échange]]
+|-
+| {{SS}}
+| style="vertical-align: middle;" | Commun
+| style="vertical-align: middle;" | [[Route 38]]
+|}
+
+=== [[Cinquième génération]] ===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|normal}}; width:150px" | Version
+! style="background-color:{{Couleur|normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|normal}}; width:450px" | Lieu
+|-
+| {{NB}}
+| style="vertical-align: middle;" | Inexistant
+| style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]]
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.12|Morsure|60|100|25}}
+{{Attaque|N.17|Jackpot|40|100|20}}
+{{Attaque|N.24|Grincement|-|85|40}}
+{{Attaque|N.33|Combo-Griffe|18|80|15}}
+{{Attaque|N.44|Tranche|70|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Rugissement|-|100|40}}
+{{Attaque|N.11|Morsure|60|100|25}}
+{{Attaque|N.20|Jackpot|40|100|20}}
+{{Attaque|N.28|Feinte|60|-|20}}
+{{Attaque|N.35|Grincement|-|85|40}}
+{{Attaque|N.41|Combo-Griffe|18|80|15}}
+{{Attaque|N.46|Tranche|70|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ|Rugissement|-|100|40|grâce|2|0}}
+{{Attaque-III|N.11{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.10{{Sup|RF}}{{Sup|VF}}|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.20{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.18{{Sup|RF}}{{Sup|VF}}|Jackpot|40|100|20|intelligence|1|0}}
+{{Attaque-III|N.28{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.25{{Sup|RF}}{{Sup|VF}}|Feinte|60|-|20|intelligence|2|0}}
+{{Attaque-III|N.35{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.31{{Sup|RF}}{{Sup|VF}}|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.41{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.36{{Sup|RF}}{{Sup|VF}}|Combo-Griffe|18|80|15|robustesse|2|1}}
+{{Attaque-III|N.46{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.40{{Sup|RF}}{{Sup|VF}}|Tranche|70|100|20|sang-froid|3|0}}
+{{Attaque-III|N.50{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.43{{Sup|RF}}{{Sup|VF}}|Bluff|40|100|10|grâce|2|1}}
+{{Attaque-III|N.45{{Sup|RF}}{{Sup|VF}}|Vantardise|-|90|15|grâce|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Rugissement|-|100|40|grâce|2}}
+{{Attaque-IV|N.6|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|N.9|Bluff|40|100|10|grâce|2}}
+{{Attaque-IV|N.14|Combo-Griffe|18|80|15|robustesse|2}}
+{{Attaque-IV|N.17|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.22|Feinte|60|-|20|intelligence|2}}
+{{Attaque-IV|N.25|Provoc|-|100|20|intelligence|0}}
+{{Attaque-IV|N.30|Jackpot|40|100|20|intelligence|1}}
+{{Attaque-IV|N.33|Tranche|70|100|20|sang-froid|3}}
+{{Attaque-IV|N.38|Machination|-|-|20|grâce|0}}
+{{Attaque-IV|N.41|Assurance|50|100|10|beauté|2}}
+{{Attaque-IV|N.46|Séduction|-|100|20|beauté|2}}
+{{Attaque-IV|N.49|Tranche-Nuit|70|100|15|beauté|3}}
+{{Attaque-IV|N.54{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|Ruse|50|100|10|beauté|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|Départ|Rugissement|-|100|40}}
+{{Attaque-V|N.6|Morsure|60|100|25}}
+{{Attaque-V|N.9|Bluff|40|100|10}}
+{{Attaque-V|N.14|Combo-Griffe|18|80|15}}
+{{Attaque-V|N.17|Grincement|-|85|40}}
+{{Attaque-V|N.22|Feinte|60|-|20}}
+{{Attaque-V|N.25|Provoc|-|100|20}}
+{{Attaque-V|N.30|Jackpot|40|100|20}}
+{{Attaque-V|N.33|Tranche|70|100|20}}
+{{Attaque-V|N.38|Machination|-|-|20}}
+{{Attaque-V|N.41|Assurance|50|100|10}}
+{{Attaque-V|N.46|Séduction|-|100|20}}
+{{Attaque-V|N.49|Tranche-Nuit|70|100|15}}
+{{Attaque-V|N.54|Ruse|30|100|10}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=normal
+|PV=40
+|attaque=45
+|defense=35
+|atq-spc=40
+|def-spc=40
+|vitesse=90
+|special=40
+}}
+
+==Imagerie==
+{{Imagerie Pokémon
+| pokemon=Miaouss
+| numero=052
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Miaouss RB.png
+| artwork_supp2-nom=[[Pokémon Donjon Mystère]]
+| artwork_supp2-img=Miaouss-DM.png{{!}}x150px
+| artwork_supp3-nom=''[[Pokémon Donjon Mystère 2]]''
+| artwork_supp3-img=Miaouss-DM2.png
+| artwork_supp4-nom=[[Pokémon Donjon Mystère : Explorateurs du Ciel|Explorateurs du Ciel]]
+| artwork_supp4-img=Miaouss-EdC.png
+| forme=8
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+Miaouss a été [[Pokémon évènementiel|distribué de manière évènementielle]] en diverses occasions :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Pokémon Center - Œufs surprise|Miaouss œuf surprise, Pokémon Center]] (Japon)
+* '''2005'''
+** [[Liste des Pokémon distribués en 2004#Miaouss PokéPark|Miaouss PokéPark]] (Japon)
+* '''2006'''
+** [[Liste des Pokémon distribués en 2006#Miaouss|Miaouss Gotta Catch 'Em All]] (Japon)
+* '''2009'''
+** [[Liste des Pokémon distribués en 2009#Miaouss Osaka|Miaouss Osaka]] (Japon)
+** [[Liste des Pokémon pouvant être obtenus dans My Pokémon Ranch#Miaouss Yukina|Miaous Yukina]] (Japon)
+* '''2012'''
+** [[Liste des Pokémon distribués en 2012#Miaouss R-dan|Miaouss R-dan]] (Japon)
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Miaouss a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 11. Pour plus d'informations, voir ''[[Miaouss (Premier Défi 11)]]''.
+
+[[Fichier:JFC-Premier Défi-11.png|thumb|center|La figurine de Miaouss]]
+
+== Apparitions dans le [[dessin animé]] ==
+Le Miaouss le plus important du dessin animé est [[Miaouss de la Team Rocket|celui]] de la [[Team Rocket (trio)|Team Rocket]]. Il a la particularité de pouvoir se déplacer debout et surtout de parler.
+
+=== Descriptions du [[Pokédex]] ===
+
+;[[Épisode 383]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Chadégout. {{PCap|Miaouss}} aime rôder la nuit tombée pour ramasser des pièces et toutes sortes d'objets brillants, mais la sieste reste son activité principale.
+;[[Épisode 468]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Chadégout. {{PCap|Miaouss}} dort durant la majeure partie de la journée. Durant la nuit, en revanche, il explore son territoire.
+;[[Épisode 480]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Chadégout. {{PCap|Miaouss}} aime jouer avec tout ce qui est rond. Il en perd la notion du temps.
+
+{{Pokémon starter}}
+
+{{Ruban Pokémon
+| nomPrécédent=Triopikeur
+| numéro=052
+| nom=Miaouss
+| nomSuivant=Persian
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/52| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Meowth| ]]
+
+[[de:Mauzi]]
+[[en:Meowth (Pokémon)]]
+[[es:Meowth]]
+[[it:Meowth]]
+[[ja:ニャース]]
+[[pl:Meowth]]
+[[pt:Meowth (pokémon)]]

@@ -1,0 +1,300 @@
+{{Ruban Pokémon
+| nomPrécédent=Nœunœuf
+| numéro=103
+| nom=Noadkoko
+| nomSuivant=Osselait
+}}
+{{Infobox Pokémon
+| nom=Noadkoko
+| nomen=Exeggutor
+| nomja=ナッシー
+| nomtm=Nassy
+| nomromaji=Nasshī
+| nomde=Kokowei
+| légende=Artwork de Noadkoko pour {{RFVF}}
+| ndex=103
+| jdex=105
+| njdex=106
+| hdex=271
+| espece=Fruitpalme
+| taille=2.0
+| poids=120.0
+| fmratio=.5
+| oeufpas=5120
+| effortval=+2 Att. Spé
+| type1=Plante
+| type2=Psy
+| expval=212
+| expmax=1250000
+| captureval=45
+| groupoeuf1=Plante
+| capspe1=Chlorophyle
+| capspe2=Récolte
+| capspe2-reve=oui
+| couleur=Jaune
+| forme=7}}
+'''Noadkoko''' (anglais : '''Exeggutor''' ; japonais : '''ナッシー''' ''Nassy'') est un [[Pokémon]] de [[type]] {{type|plante}} et {{type|psy}} de la [[première génération]].
+
+==À propos du [[Pokémon]]==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Noadkoko est l'évolution de [[Nœunœuf]] lorsqu'il est mis au contact d'une [[Pierre Plante]].
+
+{{TableauEvolutionHaut|Plante|Nœunœuf}}
+{{TableauEvolutionSimple|Avec une [[Pierre Plante]]|imageObjet=Miniat pierre plante dp.png|Noadkoko}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+* Français : vient de la prononciation phonétique de ''Noix de coco''
+* Anglais : vient de ''egg'' (œuf) et ''executor'' (exécuteur)
+* Allemand : vient de ''Kokosnuss''(noix de coco) et de ''Owei''(noeunoeuf)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:On raconte que si une de ses têtes se détache, elle se transforme en {{PCap|[[Nœunœuf]]}}.
+;[[Pokémon Jaune]]
+:Son hurlement est strident car ses 3 têtes se chamaillent tout le temps.
+;[[Pokémon Stadium]]
+:Chacun des fruits est une tête pensante indépendante. Si l'une d'elles tombe, elle devient un {{PCap|[[Nœunœuf]]}}.
+;[[Pokémon Or]]
+:Ses trois têtes sont autonomes. Elles semblent, toutefois, en harmonie et ne se disputent jamais.
+;[[Pokémon Argent]]
+:Si une des têtes tombe,il émet un appel télépathique pour reconstituer la grappe de {{PCap|[[Nœunœuf]]}}.
+;[[Pokémon Cristal]]
+:En grandissant dans un environnement propice, il développe plusieurs têtes.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Noadkoko}} vient des tropiques. À force de vivre sous un soleil ardent, ses têtes ont rapidement grandis. On raconte que lorsque ses têtes tombent, elles se rassemblent et forment un {{PCap|[[Nœunœuf]]}}.
+;[[Pokémon Émeraude]]
+:{{PCap|Noadkoko}} vient des tropiques. Grâce au soleil ardent, ses têtes ont rapidement grandi. On raconte que lorsque ses têtes tombent, elles forment un {{PCap|[[Nœunœuf]]}}.
+;[[Pokémon Rouge Feu]]
+:On le surnomme « la forêt tropicale ambulante ». Chacune de ses noix possède un visage et un tempérament qui lui sont propres.
+;[[Pokémon Vert Feuille]]
+:On raconte que si une de ses têtes se détache, elle se transforme en un {{PCap|[[Nœunœuf]]}}.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:On l'appelle « jungle sur pattes ». Si une tête devient trop grosse, elle tombe et produit un {{PCap|[[Nœunœuf]]}}.
+;[[Pokémon Or HeartGold]]
+:Ses trois têtes sont autonomes. Elles semblent toutefois en harmonie et ne se disputent jamais.
+;[[Pokémon Argent SoulSilver]]
+:Si une des têtes tombe, elle émet un appel télépathique pour reconstituer une grappe de {{PCap|[[Nœunœuf]]}}.
+;[[Pokémon Noir et Blanc]]
+:On l'appelle "jungle sur pattes". Si une tête devient trop grosse, elle tombe et produit un [[Nœunœuf]].
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-   
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+!style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+|-
+| [[Rouge]] || Inexistant || Evolution ([[Pierre Plante]])
+|-
+| [[Bleu]] || Inexistant || Evolution ([[Pierre Plante]])
+|-
+| [[Jaune]] || Inexistant || Evolution ([[Pierre Plante]])
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-   
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+!style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+|-
+| [[Or]] || Inexistant || Evolution ([[Pierre Plante]])
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Evolution ([[Pierre Plante]])
+|-
+| [[Cristal]] || Inexistant || Evolution ([[Pierre Plante]])
+|}
+
+===[[Troisième génération ]] ===
+
+{| class="wikitable"
+|-   
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+!style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+|-
+| [[Rubis]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Saphir]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]].
+|-
+| [[Rouge Feu]] || Inexistant || Evolution ([[Pierre Plante]])
+|-
+| [[Vert Feuille]] || Inexistant || Evolution ([[Pierre Plante]])
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-   
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+!style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+|-
+| [[Diamant]] || Inexistant || Evolution ([[Pierre Plante]])
+|-
+| [[Perle]] || Inexistant || Evolution ([[Pierre Plante]])
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:150px" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Blanc}};" | {{Couleur lien|#000000|Blanc}} 
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| rowspan="2" style="vertical-align:middle;" | Faire évoluer [[Noeunoeuf]] ([[Pierre Plante]])
+| rowspan="2" style="vertical-align:middle;" | 10
+|-
+| style="background:{{Couleur|Noir}};" | {{Couleur lien|#FFFFFF|Noir}}
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Pilonnage|15|85|20}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|N.28|Écrasement|65|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Pilonnage|15|85|20}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|Départ|Choc Mental|50|100|25}}
+{{Attaque|N.19|Écrasement|65|100|20}}
+{{Attaque|N.31|Bomb'Œuf|100|75|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Pilonnage|15|85|20|robustesse|2|0}}
+{{Attaque-III|Départ|Hypnose|-|60|20|intelligence|1|3}}
+{{Attaque-III|Départ|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.19|Écrasement|65|100|20|robustesse|1|4}}
+{{Attaque-III|N.31|Bomb'Œuf|100|75|10|robustesse|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Canon Graine|80|100|15|intelligence|3}}
+{{Attaque-IV|Départ|Pilonnage|15|85|20|robustesse|2}}
+{{Attaque-IV|Départ|Hypnose|-|70{{Sup|D}}{{Sup|P}}<br>60{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|20|intelligence|2}}
+{{Attaque-IV|Départ|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|Départ<br>N.17|Écrasement|65|100|20|robustesse|3}}
+{{Attaque-IV|N.27|Bomb'Œuf|100|75|10|robustesse|3}}
+{{Attaque-IV|N.37|Martobois|120|100|15|robustesse|2}}
+{{Attaque-IV|N.47|Tempêteverte|140|90|5|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Canon Graine|80|100|15}}
+{{Attaque-V|Départ|Pilonnage|15|85|20}}
+{{Attaque-V|Départ|Hypnose|-|60|20}}
+{{Attaque-V|Départ|Choc Mental|50|100|25}}
+{{Attaque-V|Départ|Écrasement|65|100|20}}
+{{Attaque-V|N.17|Choc Psy|80|100|10}}
+{{Attaque-V|N.27|Bomb'Œuf|100|75|10}}
+{{Attaque-V|N.37|Martobois|120|100|15}}
+{{Attaque-V|N.47|Tempêteverte|140|90|5}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+| nom=Noadkoko
+| type=plante
+| sensib-combat=0.5
+| sensib-eau=0.5
+| sensib-électrique=0.5
+| sensib-feu=2
+| sensib-glace=2
+| sensib-insecte=4
+| sensib-plante=0.5
+| sensib-poison=2
+| sensib-psy=0.5
+| sensib-sol=0.5
+| sensib-spectre=2
+| sensib-ténèbres=2
+| sensib-vol=2
+| rmq-spectre=Dans la [[première génération]], les attaques de type [[Spectre]] étaient totalement inefficaces sur les Pokémon de type [[Psy]], donc sur Noadkoko
+| rmq-spectre-num=1
+}}
+==[[Statistiques]]==
+{{Statistiques
+|type=plante
+|PV=95
+|attaque=95
+|defense=85
+|atq-spc=125
+|def-spc=65
+|vitesse=55
+|special=125
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Noadkoko
+| numero=103
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Noadkoko RB.png
+| forme=7
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+La première apparition de Noadkoko se fait dans l'[[épisode 43]].
+
+[[Sacha]] bat un Noadkoko avec l'aide de [[Krabby de Sacha|Krabby]] lors de la [[Ligue Indigo]].
+
+[[Rudy]], le champion de l'[[Île Tartoufo]], possède un Noadkoko qui combat [[Bulbizarre de Sacha|Bulbizarre]] pendant le match d'arène.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 43]]
+:Le {{PCap|Noadkoko}} est un {{PCap|Pok}}é{{PCap|mon}} Cocotier. Il est aussi connu sous le non de "Forêt Tropicale Déambulante". Chaque {{PCap|Noadkoko}} possède plusieurs visages exprimant chacun une émotion différente. Son attaque spéciale est l'[[Hypnose]].
+
+{{Ruban Pokémon
+| nomPrécédent=Nœunœuf
+| numéro=103
+| nom=Noadkoko
+| nomSuivant=Osselait
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/103| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Exeggutor| ]]
+
+[[de:Kokowei]]
+[[en:Exeggutor (Pokémon)]]
+[[es:Exeggutor]]
+[[it:Exeggutor]]
+[[ja:ナッシー]]
+[[pl:Exeggutor]]
+[[pt:Exeggutor (pokémon)]]

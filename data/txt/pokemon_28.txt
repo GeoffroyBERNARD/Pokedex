@@ -1,0 +1,327 @@
+{{Ruban Pokémon
+| nomPrécédent=Sabelette
+| numéro=028
+| nom=Sablaireau
+| nomSuivant=Nidoran♀
+}}
+{{Infobox Pokémon 
+| nom=Sablaireau
+| nomen=Sandslash
+| nomja=サンドパン
+| nomromaji=Sandopan
+| nomtm=Sandpan
+| nomde=Sandamer
+| légende=Artwork de Sablaireau pour {{RFVF}}
+| ndex=028
+| jdex=049
+| hdex=113
+| adex=195
+| odex=R-181
+| opdex=N-011
+| espece=Souris
+| taille=1.0
+| poids=29.5
+| fmratio=.50 
+| oeufpas=5120
+| effortval=+2 Déf. 
+| type1=Sol
+| type2=
+| expval=163
+| expmax=1000000
+| captureval=90
+| groupoeuf1=Sol
+| groupoeuf2=
+| capspe1=Voile Sable
+| capspe2=Baigne Sable
+| capspe2-reve=oui 
+| couleur=Jaune
+| forme=6}}
+'''Sablaireau''' (anglais : '''Sandslash''' ; japonais : '''サンドパン''' ''Sandpan'') est un [[Pokémon]] de [[type]] {{type|sol}} de la [[première génération]]. [[Évolution]] de [[Sabelette]], dans une [[tempête de sable]], il peut plus facilement esquiver les attaques, son corps pouvant se confondre dans la tempête.
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+Sablaireau est un Pokémon ressemblant à la fois au blaireau (pattes) et au porc épic ou à l'hérisson, avec un corps jaune et un ventre blanc pâle. Il possède deux yeux noirs, deux grandes oreilles en pointes et une corne jaune sur la tête. Son dos est hérissé de grosses épines marrons allant de la tête jusqu'au bas du dos.
+
+Ce bipède est muni de deux grandes griffes aux bras et aux jambes.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+====Chromatique====
+Lorsqu'il est chromatique, Sablaireau a la peau d'une couleur verte tirant vers le gris et des épines dorsales plutôt rouges.
+
+===[[Évolution]]===
+Sablaireau est l'évolution de [[Sabelette]] à partir du [[niveau]] 22.
+
+{{TableauEvolutionHaut|Sol|Sabelette}}
+{{TableauEvolutionSimple|[[Niveau]] 22|Sablaireau}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+La capacité spéciale de Sablaireau est [[Voile Sable]] : celle-ci applique un coefficient de x0.8 à la précision adverse s'il y a une tempête de sable.
+
+===Étymologies===
+* Français : '''Sab'''le et B'''laireau'''
+* Anglais : ''Sand'' (Sable) et ''Slash'' (Trancher).
+* Japonais :''Sand'' (Sable) et ''Pangolin'' (Pangolin).
+* Allemand :''Sand'' (Sable) et ''Arm'' (bras)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il se roule en boule hérissée de piques s'il est menacé. Il peut ainsi s'enfuir ou attaquer.
+;[[Pokémon Jaune]]
+:Ses griffes sont redoutables. Si une d'elles se casse, elle repoussera en un jour.
+;[[Pokémon Stadium]]
+: Il se met en boule et sort ses piquants et s'abat sur ses ennemis. Il aime également trancher ses ennemis de ses griffes.
+;[[Pokémon Or]]
+:S'il est menacé il se met à courir frénétiquement pour soulever un nuage de poussière aveuglant.
+;[[Pokémon Argent]]
+:Il creuse si vite qu'il peut briser ses épines et ses griffes. Mais elles repoussent en une journée.
+;[[Pokémon Cristal]]
+:Il grimpe aux arbres et se roule en une boule couverte de pics pour se laisser tomber sur un ennemi.
+;[[Pokémon Rubis]]
+: Le corps de {{PCap|Sablaireau}} est recouvert de pointes très dures, qui sont des extensions de sa peau. Une fois par an, ce {{PCap|Pok}}é{{PCap|mon}} mue et les vieilles pointes tombent, remplacées par de nouvelles.
+;[[Pokémon Saphir]]
+:{{PCap|Sablaireau}} peut enrouler son corps pour prendre la forme d'une balle hérissée de pointes. Ce {{PCap|Pok}}é{{PCap|mon}} essaie de faire peur à son ennemi en le frappant avec ses pointes. Puis, il se rue sur lui avec ses griffes acérées.
+;[[Pokémon Émeraude]]
+:Il se roule sur lui-même pour se protéger des attaques de ses ennemis. Cette technique lui permet aussi de se protéger du soleil pendant la journée.
+;[[Pokémon Rouge Feu]]
+:Lorsqu'il fuit en tournoyant sur lui-même, il utilise les piques sur son dos ainsi que ses griffes acérées pour blesser ses ennemis.
+;[[Pokémon Vert Feuille]]
+:Il se roule en boule hérissée de piques s'il est menacé. Il peut ainsi s'enfuir ou attaquer.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il se met en boule pour percuter l'ennemi. Ses épines aiguisées font beaucoup de dégâts.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il attaque en jetant du sable sur l'ennemi.
+;[[Pokémon Or HeartGold]]
+:S'il est menacé, il se met à courir frénétiquement pour soulever un nuage de poussière aveuglant.
+;[[Pokémon Argent SoulSilver]]
+:Il creuse si vite qu'il peut briser ses épines et ses griffes. Mais elles repoussent en une journée.
+;[[Pokémon Noir et Blanc]]
+:Il se met en boule pour percuter l'ennemi. Ses épines aiguisées font beaucoup de dégâts.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant|| Doit être échangé avec les versions [[Bleu]] et [[Jaune]] ou évolué 
+|-
+| [[Bleu]] || Rare || Route 23 et [[Grotte Inconnue]]
+|-
+| [[Jaune]] || Rare|| [[Grotte Inconnue]] ou évolution de [[Sabelette]] au Niv. 22.
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Peu Commun || Routes 26-27 et [[Mont Sélénite]] 
+|-
+| [[Pokémon Argent]] ||Inexistant || Échange avec [[Rouge]], [[Bleu]] ou [[Jaune]] grâce au [[bloc temporel]] et [[Or]]
+|-
+| [[Pokémon Cristal]] ||Inexistant || [[Route 26]], [[Route Victoire]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || évolution ou échange avec les versions [[Saphir]] ; [[Pokémon Émeraude|Émeraude]] ; [[Rouge Feu]] ou [[Vert Feuille]]
+|-
+| [[Saphir]] || Inexistant || évolution ou échange avec les versions [[Rubis]] ; [[Pokémon Émeraude|Émeraude]] ; [[Rouge Feu]] ou [[Vert Feuille]]
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || évolution ou échange avec les versions [[Rubis]] ; [[Saphir]] ; [[Rouge Feu]] ou [[Vert Feuille]] 
+|-
+| [[Rouge Feu]] || Inexistant || évolution ou échange avec les versions [[Rubis]] ; [[Saphir]] ; [[Rouge Feu]] ou [[Vert Feuille]] 
+|-
+| [[Vert Feuille]] || || Route 23, [[Route Victoire]] , évolution ou échange
+|-
+| [[Colosseum]] ||Inexistant || Échange à partir de [[Rubis]] ; [[Saphir]]; [[Pokémon Émeraude|Émeraude]] ;[[Rouge Feu]] ou [[Vert Feuille]]
+|-
+| [[XD]] ||Inexistant || Échange à partir de [[Rubis]] ; [[Saphir]]; [[Pokémon Émeraude|Émeraude]] ; [[Rouge Feu]] ou [[Vert Feuille]]
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || échange  
+|-
+| [[Perle]] || Commun || Route 228, évolution ou échange 
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Sol}}; width:150px" | Version
+! style="background-color:{{Couleur|Sol}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Sol}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Sol}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Château Enfoui]]
+| style="vertical-align:middle;" | N/A
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Jet de Sable|-|100|15}}
+{{Attaque|Départ|Tranche|70|100|20}}
+{{Attaque|N.27|Dard-Venin|15|100|35}}
+{{Attaque|N.36|Météores|60|-|20}}
+{{Attaque|N.47|Combo-Griffe|18|80|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Boul'Armure|-|-|40}}
+{{Attaque|Départ|Jet de Sable|-|100|15}}
+{{Attaque|Départ|Dard-Venin|15|100|35}}
+{{Attaque|N.24|Tranche|70|100|20}}
+{{Attaque|N.33|Météores|60|-|20}}
+{{Attaque|N.42|Combo-Griffe|18|80|15}}
+{{Attaque|N.52|Tempêtesable|-|-|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.6|Boul'Armure|-|-|40|grâce|2|0}}
+{{Attaque-III|Départ<br>N.11|Jet de Sable|-|100|15|grâce|2|1}}
+{{Attaque-III|N.17|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|N.24|Tranche|70|100|20|sang-froid|3|0}}
+{{Attaque-III|N.33|Météores|60|-|20|sang-froid|2|0}}
+{{Attaque-III|N.42|Combo-Griffe|18|80|15|robustesse|2|1}}
+{{Attaque-III|N.52|Tourbi-Sable|15|70|15|intelligence|3|0}}
+{{Attaque-III|N.62|Tempêtesable|-|-|10|robustesse|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.3|Boul'Armure|-|-|40|grâce|2}}
+{{Attaque-IV|Départ<br>N.7|Jet de Sable|-|100|15|grâce|2}}
+{{Attaque-IV|N.9|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|N.13|Tour Rapide|20|100|40|sang-froid|2}}
+{{Attaque-IV|N.15|Météores|60|-|10|grâce|2}}
+{{Attaque-IV|N.19|Combo-Griffe|18|80|15|robustesse|2}}
+{{Attaque-IV|N.21|Roulade|30|90|20|robustesse|2}}
+{{Attaque-IV|N.22|Éclategriffe|75|95|10|sang-froid|3}}
+{{Attaque-IV|N.28|Taillade|10|95|20|robustesse|2}}
+{{Attaque-IV|N.33|Tourbi-Sable|15|70|15|intelligence|0}}
+{{Attaque-IV|N.40|Tranche|70|100|20|sang-froid|3}}
+{{Attaque-IV|N.45|Gyroballe|1|100|5|beauté|2}}
+{{Attaque-IV|N.52|Tempêtesable|-|-|10|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|Départ<br>N.3|Boul'Armure|-|-|40}}
+{{Attaque-V|Départ<br>N.7|Jet de Sable|-|100|15}}
+{{Attaque-V|N.9|Dard-Venin|15|100|35}}
+{{Attaque-V|N.13|Tour Rapide|20|100|40}}
+{{Attaque-V|N.15|Météores|60|-|20}}
+{{Attaque-V|N.19|Combo-Griffe|18|80|15}}
+{{Attaque-V|N.21|Roulade|30|90|20}}
+{{Attaque-V|N.22|Éclategriffe|75|95|10}}
+{{Attaque-V|N.28|Taillade|20|95|20}}
+{{Attaque-V|N.33|Tourbi-Sable|35|85|15}}
+{{Attaque-V|N.40|Tranche|70|100|20}}
+{{Attaque-V|N.45|Gyroballe|1|100|5}}
+{{Attaque-V|N.52|Tempêtesable|-|-|10}}
+{{Attaques apprises-bas}}
+
+===Par [[reproduction]]===
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=sol
+|sensib-eau=2
+|sensib-électrique=0
+|sensib-glace=2
+|sensib-plante=2
+|sensib-poison=0.5
+|sensib-roche=0.5
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=sol
+|PV=75
+|attaque=100
+|defense=110
+|atq-spc=45
+|def-spc=55
+|vitesse=65
+|special=55
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Sablaireau
+| numero=028
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Sablaireau RB.png
+| pinballRS=oui
+| forme=6
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+Un Sablaireau apparaît dans l'[[épisode 71]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 71]]
+:{{PCap|Pok}}é{{PCap|mon}} de la famille des [[:wp:Mustelidae|mustélidé]]. Forme évoluée du {{PCap|Sabelette}}. Il attaque ses adversaires avec ses écailles dorsales.
+
+;[[Épisode 474]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Souris. Quand il court à pleine vitesse, il génère un épais nuage de sable qui lui permet de se cacher.
+
+{{Ruban Pokémon
+| nomPrécédent=Sabelette
+| numéro=028
+| nom=Sablaireau
+| nomSuivant=Nidoran♀
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/28| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Sandslash| ]]
+
+[[de:Sandamer]]
+[[en:Sandslash (Pokémon)]]
+[[es:Sandslash]]
+[[it:Sandslash]]
+[[ja:サンドパン]]
+[[pl:Sandslash]]
+[[pt:Sandslash (pokémon)]]

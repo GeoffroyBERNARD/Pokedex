@@ -1,0 +1,641 @@
+{{Ruban Pokémon
+| nomPrécédent=Tadmorv
+| numéro=089
+| nom=Grotadmorv
+| nomSuivant=Kokiyas
+}}
+{{Infobox Pokémon
+| nom=Grotadmorv
+| nomen=Muk
+| nomja=ベトベトン
+| nomtm=Betbeton
+| nomromaji=Betobeton
+| nomde=Sleimok
+| légende=Artwork de Grotadmorv pour {{RFVF}}
+| ndex=089
+| jdex=117
+| njdex=118
+| hdex=107
+| fdex=088
+| adex=152
+| espece=Dégueu
+| taille=1.2
+| poids=30.0
+| fmratio=.5
+| oeufpas=5120
+| effortval=+1 PV ; +1 Att.
+| type1=Poison
+| expval=157
+| expmax=1000000
+| captureval=75
+| groupoeuf1=Indéterminé
+| capspe1=Puanteur
+| capspe2=Glue
+| capspe3=Toxitouche
+| couleur=Violet
+| forme=4}}
+'''Grotadmorv''' (anglais : '''Muk''' ; japonais : '''ベトベトン''' ''Betbeton'') est un [[Pokémon]] de [[type]] {{type|poison}} de la [[première génération]]. Il est l'évolution de [[Tadmorv]] et tout comme lui, il est fait de poison hautement toxique.
+
+==À propos du Pokémon==
+===Physionomie===
+Grotadmorv est un immonde mélange de plusieurs produits toxiques, son corps est entièrement composé d'une mixture pâteuse et épaisse grise violacée et qui dégagerait une odeur insupportable.
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Grotadmorv est vert plutôt que violet.
+
+===[[Évolution]]===
+
+Grotadmorv est l'évolution de [[Tadmorv]] à partir du [[niveau]] 38.
+{{TableauEvolutionHaut|Poison|Tadmorv}}
+{{TableauEvolutionSimple|[[Niveau]] 38|Grotadmorv}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+[[Puanteur]] repousse les Pokémon sauvages.<br/>
+[[Glue]] empêche le vol d'objets tenus.
+
+===Étymologies===
+
+* Français : gros tas de morve, inutile d'en dire plus.
+* Anglais : ''Muk'' est dérivé de ''muck'', boue.
+* Japonais : betobetā betobeton (respectivement les noms japonais de Tadmorv et Grotadmorv) désigne le son émis lorsque l'on débouche un évier. De plus, beto désigne quelque chose de gras, visqueux.
+* Allemand : vient de ''slime'' (une sorte de truc gélatino-visco-poisseux ...) et de ''muck'' (boue,en anglais)
+
+===Descriptions du [[Pokédex]]===
+
+;[[Pokémon Rouge et Bleu]]
+:Il est recouvert d'une épaisse couche toxique. Il laisse une trace empoisonnée derrière lui.
+;[[Pokémon Jaune]]
+:Son odeur immonde provoque des évanouissements. Son odorat s'est atrophié par sa propre puanteur.
+;[[Pokémon Stadium]]
+:Il est invisible s'il est entouré de détritus. Toucher son corps recouvert d'immondices peut entraîner un sévère empoisonnement.
+;[[Pokémon Or]]
+:Il recherche les endroits sales où il y a des ordures pour y établir son habitat puant et dégueulasse.
+;[[Pokémon Argent]]
+:Son corps sécrète un puissant poison pouvant causer de violents accès de fièvre en cas de contact.
+;[[Pokémon Cristal]]
+:En bougeant, il laisse un puissant poison derrière lui et rend stérile pour des ans.
+;[[Pokémon Rubis]]
+:Un fluide nauséabond suinte du corps de {{PCap|Grotadmorv}}, agressant les narines de ses ennemis. Une seule goutte de ce fluide suffit à faire croupir un bassin d'eau propre.
+;[[Pokémon Saphir]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} ne mange que ce qui est répugnant et abject. Les {{PCap|Grotadmorv}} se rassemblent dans les villes où les gens jettent tout par terre dans la rue.
+;[[Pokémon Émeraude]]
+:Il préfère les habitats chauds et humides. En été, les substances toxiques de son corps se développent et le font ressembler à un véritable tas d'ordures.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est très dur à repérer car il se liquéfie souvent sur le sol. Il suffit de le toucher pour être gravement empoisonné.
+;[[Pokémon Vert Feuille]]
+:Il est recouvert d'une épaisse couche toute sale. Il est si toxique que même ses traces de pas sont empoisonnées.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Grotadmorv}} se jette sur le Disque de Capture. Il lance de grosses boules de vase.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Son corps exsude un fluide toxique qui tue instantanément les plantes et les arbres au contact.
+;[[Pokémon Ranger : Nuit sur Almia]]
+:Il crache du poison et répand un brouillard toxique.
+;[[Pokémon Or HeartGold]]
+:Il recherche les endroits sales où il y a des ordures pour y établir son habitat puant et infect.
+;[[Pokémon Argent SoulSilver]]
+:Son corps sécrète un puissant poison pouvant causer de violents accès de fièvre en cas de contact.
+;[[Pokémon Noir et Blanc]]
+:Son corps exsude un fluide toxique qui tue instantanément les plantes et les arbres au contact.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Rouge]] || rowspan="4" style="vertical-align: middle;" | Rare || [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - Rez de chaussée || N. 39 || 4%
+|-
+| [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 37 || 4%
+|-
+| [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 42 || 4%
+|-
+| [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 42 || 4%
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Bleu]] || rowspan="4" style="vertical-align: middle;" | Rare || [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - Rez de chaussée || N. 37 || 10%
+|-
+| [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 39 || 10%
+|-
+| [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 38-40 || 20%
+|-
+| [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 40 || 10%
+|-
+| rowspan="5" style="vertical-align: middle;" |[[Jaune]] || rowspan="4" style="vertical-align: middle;" | Rare || [[Centrale]] || N. 33-37 || 10%
+|-
+| [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 35-38 || 20%
+|-
+| [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 38-41 || 20%
+|-
+| [[Manoir Pokémon (Kanto)|Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 41 || 10%
+|-
+| Unique || Échange avec un [[Kangourex]] proposé par un PNJ à [[Cramois'Île]] || ! colspan="2" | Niveau du Kangourex
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="6" style="vertical-align: middle;" |[[Or]] et [[Pokémon Or et Argent|Argent]] || rowspan="6" style="vertical-align: middle;" | Rare || [[Route 16 (Kanto)|Route 16]] || N. 30 || 5%
+|-
+| [[Route 17 (Kanto)|Route 17]] ([[Temps|Matin, Jour]]) || N. 32 || 5%
+|-
+| [[Route 17 (Kanto)|Route 17]] ([[Temps|Nuit]]) || N. 30-32 || 15%
+|-
+| [[Route 18 (Kanto)|Route 18]] ([[Temps|Matin, Jour]]) || N. 30 || 5%
+|-
+| [[Route 18 (Kanto)|Route 18]] ([[Temps|Nuit]]) || N. 28-30 || 15%
+|-
+| [[Céladopole]] - en utilisant [[Surf]] || N. 15-19 || 10%
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Cristal]] || rowspan="4" style="vertical-align: middle;" | Rare || [[Route 16 (Kanto)|Route 16]] || N. 30 || 5%
+|-
+| [[Route 17 (Kanto)|Route 17]] || N. 33 || 5%
+|-
+| [[Route 18 (Kanto)|Route 18]] || N. 30 || 5%
+|-
+| [[Céladopole]] - en utilisant [[Surf]] || N. 15-19 || 10%
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rubis]] || Inexistant || Faire évoluer [[Tadmorv]]. || ||
+|-
+| [[Saphir]] || Inexistant || Faire évoluer [[Tadmorv]]. || ||
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || Faire évoluer [[Tadmorv]]. || ||
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Tadmorv]]. || ||
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Vert Feuille]] || rowspan="4" style="vertical-align: middle;" | Rare || [[Manoir Pokémon]] à [[Cramois'Île]] - Rez de chaussée || N. 32 || 5%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 32 || 5%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 32 || 5%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 34 || 5%
+|-
+| [[Colosseum]] || Inexistant || À échanger depuis [[Vert Feuille]]. || ||
+|-
+| [[XD]] || Inexistant || Faire évoluer [[Tadmorv]]. || ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Tadmorv]].
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Tadmorv]].
+|}
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Poison}}; width:150px" | Version
+! style="background-color:{{Couleur|Poison}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Gaz Toxik|-|55|40}}
+{{Attaque|Départ|Lilliput|-|-|20}}
+{{Attaque|Départ|Détritus|65|100|20}}
+{{Attaque|N.45|Armure|-|-|30}}
+{{Attaque|N.53|Grincement|-|85|40}}
+{{Attaque|N.60|Acidarmure|-|-|40}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Gaz Toxik|-|55|40}}
+{{Attaque|Départ|Lilliput|-|-|20}}
+{{Attaque|Départ|Détritus|65|100|20}}
+{{Attaque|Départ|Armure|-|-|30}}
+{{Attaque|Départ|Grincement|-|85|40}}
+{{Attaque|N.45|Acidarmure|-|-|40}}
+{{Attaque|N.60|Bomb-Beurk|90|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Gaz Toxik|-|55|40|intelligence|3|0}}
+{{Attaque-III|Départ|Écras'Face|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.4|Armure|-|-|30|robustesse|2|0}}
+{{Attaque-III|N.8|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.13|Détritus|65|100|20|robustesse|1|4}}
+{{Attaque-III|N.19|Lilliput|-|-|20|grâce|2|0}}
+{{Attaque-III|N.26|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.34|Acidarmure|-|-|40|robustesse|1|0}}
+{{Attaque-III|N.47|Bomb-Beurk|90|100|10|robustesse|2|1}}
+{{Attaque-III|N.61|Souvenir|-|100|10|robustesse|8|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Gaz Toxik|-|55|40|intelligence|3}}
+{{Attaque-IV|Départ|Écras'Face|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.4|Armure|-|-|30|robustesse|2}}
+{{Attaque-IV|Départ<br>N.7|Coud'Boue|20|100|10|grâce|3}}
+{{Attaque-IV|N.12|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.17|Lilliput|-|-|20|grâce|2}}
+{{Attaque-IV|N.20|Détritus|65|100|20|robustesse|2}}
+{{Attaque-IV|N.23|Boue-Bombe|65|85|10|intelligence|2}}
+{{Attaque-IV|N.28|Dégommage|1|100|10|robustesse|1}}
+{{Attaque-IV|N.33|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.36|Bomb-Beurk|90|100|10|robustesse|2}}
+{{Attaque-IV|N.44|Acidarmure|-|-|40|robustesse|0}}
+{{Attaque-IV|N.54|Détricanon|120|70|5|sang-froid|3}}
+{{Attaque-IV|N.65|Souvenir|-|100|10|robustesse|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Gaz Toxik|-|80|40}}
+{{Attaque-V|Départ|Écras'Face|40|100|35}}
+{{Attaque-V|Départ<br>N.4|Armure|-|-|30}}
+{{Attaque-V|Départ<br>N.7|Coud'Boue|20|100|10}}
+{{Attaque-V|N.12|Entrave|-|100|20}}
+{{Attaque-V|N.17|Lilliput|-|-|20}}
+{{Attaque-V|N.20|Détritus|65|100|20}}
+{{Attaque-V|N.23|Boue-Bombe|65|85|10}}
+{{Attaque-V|N.28|Dégommage|1|100|10}}
+{{Attaque-V|N.33|Grincement|-|85|40}}
+{{Attaque-V|N.36|Bomb-Beurk|90|100|10}}
+{{Attaque-V|N.42|Acidarmure|-|-|40}}
+{{Attaque-V|N.50|Cradovague|95|100|10}}
+{{Attaque-V|N.58|Détricanon|120|70|5}}
+{{Attaque-V|N.64|Souvenir|-|100|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+{{incomplet}}
+====[[Première génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Poison}}" | [[Niveau]]
+! style="background:{{Couleur|Poison}}" | [[Attaque]]
+! style="background:{{Couleur|Poison}}" | [[Type]]
+! style="background:{{Couleur|Poison}}" | [[Attaque#Puissance, Précision et PP|Puissance]]
+! style="background:{{Couleur|Poison}}" | [[Précision]]
+! style="background:{{Couleur|Poison}}" | [[PP]]
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}} || — || 85 || 10
+|-
+| [[CT08]] || [[Plaquage]] || {{type|normal}} || 85 || 100 || 15
+|-
+| [[CT15]] || [[Ultralaser]] || {{type|normal}} || 150 || 90 || 5
+|-
+| [[CT20]] || [[Frénésie]] || {{type|normal}} || 20 || 100 || 20
+|-
+| [[CT21]] || [[Méga-Sangsue]] || {{type|plante}} || 40 || 100 || 10
+|-
+| [[CT24]] || [[Tonnerre]] || {{type|électrique}} || 95 || 100 || 15
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}} || 120 || 70 || 10
+|-
+| [[CT31]] || [[Copie]] || {{type|normal}} || — || — || 10
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}} || — || — || 15
+|-
+| [[CT34]] || [[Patience]] || {{type|normal}} || — || — || 10
+|-
+| [[CT36]] || [[Destruction]] || {{type|normal}} || 200 || 100 || 5
+|-
+| [[CT38]] || [[Déflagration]] || {{type|feu}} || 120 || 85 || 5
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}} || — || — || 10
+|-
+| [[CT47]] || [[Explosion]] || {{type|normal}} || 250 || 100 || 5
+|-
+| [[CT50]] || [[Clonage (attaque)|Clonage]] || {{type|normal}} || — || — || 10
+|}
+
+====[[Deuxième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Poison}}" | [[Niveau]]
+! style="background:{{Couleur|Poison}}" | [[Attaque]]
+! style="background:{{Couleur|Poison}}" | [[Type]]
+! style="background:{{Couleur|Poison}}" | [[Attaque#Puissance, Précision et PP|Puissance]]
+! style="background:{{Couleur|Poison}}" | [[Précision]]
+! style="background:{{Couleur|Poison}}" | [[PP]]
+|-
+| [[CT01]] || [[Dynamopoing]] || {{type|combat}} || 100 || 50 || 5
+|-
+| [[CT03]] || [[Malédiction]] || {{type|inconnu}} || — || — || 10
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}} || — || 90 || 10
+|-
+| [[CT07]] || [[Élécanon]] || {{type|électrique}} || 100 || 50 || 5
+|-
+| [[CT10]] || [[Puissance Cachée]] || {{type|normal}} || — || 100 || 15
+|-
+| [[CT11]] || [[Zénith]] || {{type|feu}} || — || — || 5
+|-
+| [[CT13]] || [[Ronflement]] || {{type|normal}} || 40 || 100 || 15
+|-
+| [[CT15]] || [[Ultralaser]] || {{type|normal}} || 150 || 90 || 5
+|-
+| [[CT17]] || [[Abri]] || {{type|normal}} || — || 100 || 10
+|-
+| [[CT19]] || [[Giga-Sangsue]] || {{type|plante}} || 60 || 100 || 10
+|-
+| [[CT20]] || [[Ténacité]] || {{type|normal}} || — || — || 10
+|-
+| [[CT21]] || [[Frustration]] || {{type|normal}} || — || 100 || 20
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}} || 120 || 70 || 10
+|-
+| [[CT27]] || [[Retour]] || {{type|normal}} || — || 100 || 20
+|-
+| [[CT31]] || [[Coud'Boue]] || {{type|sol}} || 20 || 100 || 10
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}} || — || — || 15
+|-
+| [[CT33]] || [[Poinglace]] || {{type|glace}} || 75 || 100 || 10
+|-
+| [[CT34]] || [[Vantardise]] || {{type|normal}} || — || 90 || 10
+|-
+| [[CT35]] || [[Blabla Dodo]] || {{type|normal}} || — || — || 10  
+|-
+| [[CT36]] || [[Bomb-Beurk]] || {{type|poison}} || 90 || 100 || 10
+|-
+| [[CT38]] || [[Déflagration]] || {{type|feu}} || 120 || 85 || 5
+|-
+| [[CT41]] || [[Poing-Éclair]] || {{type|électrique}} || 75 || 100 || 10
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}} || — || — || 10
+|-
+| [[CT45]] || [[Attraction]] || {{type|normal}} || — || 100 || 15 
+|-
+| [[CT46]] || [[Larcin]] || {{type|ténèbres}} || 40 || 100 || 10
+|-
+| [[CT48]] || [[Poing de Feu]] || {{type|feu}} || 75 || 100 || 10
+|}
+
+====[[Troisième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Poison}}" | [[Niveau]]
+! style="background:{{Couleur|Poison}}" | [[Attaque]]
+! style="background:{{Couleur|Poison}}" | [[Type]]
+! style="background:{{Couleur|Poison}}" | [[Attaque#Puissance, Précision et PP|Puissance]]
+! style="background:{{Couleur|Poison}}" | [[Précision]]
+! style="background:{{Couleur|Poison}}" | [[PP]]
+! style="background:{{Couleur|Poison}}" | [[Concours Pokémon|Concours]]
+! style="background:{{Couleur|Poison}}" | [[Charme (concours)|Charme]]
+! style="background:{{Couleur|Poison}}" | [[Blocage]]
+|-
+| [[CT01]] || [[Mitra-Poing]] || {{type|combat}}
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}}
+|-
+| [[CT10]] || [[Puissance Cachée]] || {{type|normal}}
+|-
+| [[CT11]] || [[Zénith]] || {{type|feu}}
+|-
+| [[CT12]] || [[Provoc]] || {{type|ténèbres}}
+|-
+| [[CT15]] || [[Ultralaser]] || {{type|normal}}
+|-
+| [[CT17]] || [[Abri]] || {{type|normal}}
+|-
+| [[CT18]] || [[Danse Pluie]] || {{type|eau}}
+|-
+| [[CT19]] || [[Giga-Sangsue]] || {{type|plante}}
+|-
+| [[CT21]] || [[Frustration]] || {{type|normal}}
+|-
+| [[CT24]] || [[Tonnerre]] || {{type|électrique}}
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}}
+|-
+| [[CT27]] || [[Retour]] || {{type|normal}}
+|-
+| [[CT28]] || [[Tunnel]] || {{type|sol}}
+|-
+| [[CT31]] || [[Casse-Brique]] || {{type|combat}}
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}}
+|-
+| [[CT34]] || [[Onde de Choc (attaque)|Onde de Choc]] || {{type|électrique}}
+|-
+| [[CT35]] || [[Lance-Flamme]] || {{type|feu}}
+|-
+| [[CT36]] || [[Bomb-Beurk]] || {{type|poison}}
+|-
+| [[CT38]] || [[Déflagration]] || {{type|feu}}
+|-
+| [[CT39]] || [[Tomberoche]] || {{type|roche}}
+|-
+| [[CT41]] || [[Tourmente]] || {{type|ténèbres}}
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}}
+|-
+| [[CT45]] || [[Attraction]] || {{type|normal}}
+|-
+| [[CT46]] || [[Larcin]] || {{type|ténèbres}}
+|-
+| [[CS04]] || [[Force]] || {{type|normal}}
+|-
+| [[CS06]] || [[Éclate-Roc]] || {{type|combat}}
+|}
+====[[Quatrième génération]]====
+{| class="wikitable" style="text-align:center;"
+! style="background:{{Couleur|Poison}}" | [[Niveau]]
+! style="background:{{Couleur|Poison}}" | [[Attaque]]
+! style="background:{{Couleur|Poison}}" | [[Type]]
+! style="background:{{Couleur|Poison}}" | [[Catégories d'attaque|Catégorie]]
+! style="background:{{Couleur|Poison}}" | [[Attaque#Puissance, Précision et PP|Puissance]]
+! style="background:{{Couleur|Poison}}" | [[Précision]]
+! style="background:{{Couleur|Poison}}" | [[PP]]
+! style="background:{{Couleur|Poison}}" | [[Concours Pokémon|Concours]]
+! style="background:{{Couleur|Poison}}" | [[Charme (concours)|Charme]]
+|-
+| [[CT01]] || [[Mitra-Poing]] || {{type|combat}}
+|-
+| [[CT06]] || [[Toxik]] || {{type|poison}}
+|-
+| [[CT10]] || [[Puissance Cachée]] || {{type|normal}}
+|-
+| [[CT11]] || [[Zénith]] || {{type|feu}}
+|-
+| [[CT12]] || [[Provoc]] || {{type|ténèbres}}
+|-
+| [[CT15]] || [[Ultralaser]] || {{type|normal}}
+|-
+| [[CT17]] || [[Abri]] || {{type|normal}}
+|-
+| [[CT18]] || [[Danse Pluie]] || {{type|eau}}
+|-
+| [[CT19]] || [[Giga-Sangsue]] || {{type|plante}}
+|-
+| [[CT21]] || [[Frustration]] || {{type|normal}}
+|-
+| [[CT24]] || [[Tonnerre]] || {{type|électrique}}
+|-
+| [[CT25]] || [[Fatal-Foudre]] || {{type|électrique}}
+|-
+| [[CT27]] || [[Retour]] || {{type|normal}}
+|-
+| [[CT28]] || [[Tunnel]] || {{type|sol}}
+|-
+| [[CT30]] || [[Ball'Ombre]] || {{type|spectre}}
+|-
+| [[CT31]] || [[Casse-Brique]] || {{type|combat}}
+|-
+| [[CT32]] || [[Reflet]] || {{type|normal}}
+|-
+| [[CT34]] || [[Onde de Choc (attaque)|Onde de Choc]] || {{type|électrique}}
+|-
+| [[CT35]] || [[Lance-Flamme]] || {{type|feu}}
+|-
+| [[CT36]] || [[Bomb-Beurk]] || {{type|poison}}
+|-
+| [[CT38]] || [[Déflagration]] || {{type|feu}}
+|-
+| [[CT39]] || [[Tomberoche]] || {{type|roche}}
+|-
+| [[CT41]] || [[Tourmente]] || {{type|ténèbres}}
+|-
+| [[CT44]] || [[Repos]] || {{type|psy}}
+|-
+| [[CT45]] || [[Attraction]] || {{type|normal}}
+|-
+| [[CT46]] || [[Larcin]] || {{type|ténèbres}}
+|-
+| [[CT52]] || [[Exploforce]] || {{type|combat}}
+|-
+| [[CT56]] || [[Dégommage]] || {{type|ténèbres}}
+|-
+| [[CT58]] || [[Ténacité]] || {{type|normal}}
+|-
+| [[CT64]] || [[Explosion]] || {{type|normal}}
+|-
+| [[CT66]] || [[Représailles]] || {{type|ténèbres}}
+|-
+| [[CT68]] || [[Giga Impact]] || {{type|normal}}
+|-
+| [[CT78]] || [[Séduction]] || {{type|normal}}
+|-
+| [[CT79]] || [[Vibrobscur]] || {{type|ténèbres}}
+|-
+| [[CT80]] || [[Éboulement]] || {{type|roche}}
+|-
+| [[CT82]] || [[Blabla Dodo]] || {{type|normal}}
+|-
+| [[CT83]] || [[Don Naturel]] || {{type|normal}}
+|-
+| [[CT84]] || [[Direct Toxik]] || {{type|poison}}
+|-
+| [[CT87]] || [[Vantardise]] || {{type|normal}}
+|-
+| [[CT90]] || [[Clonage (attaque)|Clonage]] || {{type|normal}}
+|-
+| [[CS04]] || [[Force]] || {{type|normal}}
+|-
+| [[CS06]] || [[Éclate-Roc]] || {{type|combat}}
+|}
+
+===Par [[reproduction]]===
+
+Grotadmorv ne peut être directement obtenu par reproduction, mais peut logiquement récupérer via son évolution toutes les attaques apprises par reproduction de [[Tadmorv]].
+
+===Par [[donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-combat=0.5
+|sensib-plante=0.5
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-sol=2
+|rmq-insecte=Les attaques de type [[Insecte (type)|Insecte]] étaient très efficaces sur les Pokémon de type [[Poison (type)|Poison]] - donc sur '''{{PAGENAME}}''' - dans la [[première génération]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=poison
+|PV=105
+|attaque=105
+|defense=75
+|atq-spc=65
+|def-spc=100
+|vitesse=50
+|special=65
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Grotadmorv
+| numero=089
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Grotadmorv RB.png
+| forme=4
+| pdm=oui
+| almia=oui
+| pinballRS=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:Ep77 8.png|thumb|left|Grotadmorv s'apprête à faire un câlin]]
+La première apparition de Grotadmorv dans le dessin animé se fait à l'[[Épisode 30]], à [[Salville]] où nos héros combattent un groupe de Tadmorv dirigés par un Grotadmorv qui occupent la centrale électrique. [[Sacha]] finira par capturer le Grotadmorv pour s'en débarrasser, puis l'enverra dans la foulée au [[Professeur Chen]] — l'odeur étant plutôt insupportable, même à travers la [[Poké Ball]]. Ce Grotadmorv s'avèrera au final très affectueux, puisqu'il adore se jeter sur le Professeur, mais également utile en combat, où ses aptitudes à encaisser les attaques au sein de sa structure interne molle sans broncher fera des merveilles à plusieurs reprises, comme lors du quatrième match de la [[Ligue Indigo]] de l'[[Épisode 77]], ou lors du combat contre Régis en seizièmes de finale de la [[Conférence Argentée]], à l'[[Épisode 270]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 30]]
+:[[évolution|Forme évoluée]] du {{PCap|Tadmorv}}. A manier avec beaucoup de précautions car sa structure boueuse contient du poison.
+;[[Épisode 553]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Dégueu. Un horrible liquide toxique suinte de toutes les parties de son corps.
+
+{{Ruban Pokémon
+| nomPrécédent=Tadmorv
+| numéro=089
+| nom=Grotadmorv
+| nomSuivant=Kokiyas
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/89| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Muk| ]]
+
+[[de:Sleimok]]
+[[en:Muk (Pokémon)]]
+[[es:Muk]]
+[[it:Muk]]
+[[ja:ベトベトン]]
+[[pl:Muk]]
+[[pt:Muk (pokémon)]]

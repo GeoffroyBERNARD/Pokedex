@@ -1,0 +1,435 @@
+{{Ruban Pokémon
+| nomPrécédent=Roucool
+| numéro=017
+| nom=Roucoups
+| nomSuivant=Roucarnage
+}}
+{{Infobox Pokémon 
+| nom=Roucoups
+| nomen=Pidgeotto
+| nomja=ピジョン
+| nomtm=Pigeon
+| nomromaji=Pijon
+| nomde=Tauboga
+| légende=Artwork de Roucoups pour {{RFVF}}
+| ndex=017
+| jdex=011
+| hdex=219
+| odex=R-002
+| opdex=N-008
+| espece=Oiseau
+| taille=1.1
+| poids=30.0
+| fmratio=.500
+| oeufpas=3840
+| effortval=+2 Vit.
+| type1=Normal
+| type2=Vol
+| expval=113
+| expmax=1059860
+| captureval=120
+| groupoeuf1=Vol
+| capspe1=Regard Vif
+| capspe2=Pied Confus
+| capspe3=Cœur de Coq
+| couleur=Marron
+| forme=9}}
+'''Roucoups''' (anglais : '''Pidgeotto''' ; japonais : '''ピジョン''' ''Pigeon'') est un [[Pokémon]] de [[type]] {{type|normal}} et {{type|vol}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+Roucoups est un Pokémon oiseau au corps plumé marron et blanc pâle. Son bec et ses pattes sont roses et très dangereux. Il a du noir sur les deux côtés de sa tête en plus de blanc sous le bec. L'intérieur de ses ailes est blanc, l'extérieur marron. Son ventre est complètement blanc pâle et il possède une longue crête rose sur sa tête.
+
+==== Différences mâle/femelle ====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+Comme pour leur pré-évolution, les teintes de l'ensemble du corps des Roucoups chromatiques tendent davantage vers le jaune qu'à l'ordinaire.
+
+===Évolution===
+Roucoups est l’évolution de [[Roucool]] au niveau 18, et il évolue en [[Roucarnage]] au niveau 36.
+{{TableauEvolutionHaut|Normal|Roucool}}
+{{TableauEvolutionSimple|[[Niveau]] 18|Roucoups}}
+{{TableauEvolutionSimple|[[Niveau]] 36|Roucarnage}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Les capacités spéciales que peut avoir Roucoups sont [[Regard Vif]], qui empêche la perte de [[précision]], et [[Pied Confus]], qui augmente l’[[esquive]] quand le Pokémon est [[confus]].
+
+===Étymologies===
+* Français : '''rou'''couler et '''coups'''
+* Anglais : vient de ''pigeon''.
+* Japonais : vient de ''pigeon''.
+* Allemand : ''Tauboga'' vient de ''Taube'' (pigeon)et de "bogen" (arc à flèches)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Il protège son territoire avec ardeur et repousse à coups de bec tout individu.
+;[[Pokémon Jaune]]
+: Ce Pokémon est très vivace. Il survole en permanence son territoire pour chasser.
+;[[Pokémon Stadium]]
+: Il fabrique son nid au centre de son large territoire. Ses griffes longues et puissantes lui servent à attraper les proies.
+;[[Pokémon Or]]
+: Il possède une très bonne vue qui lui permet de distinguer ses proies d'une très haute altitude.
+;[[Pokémon Argent]]
+: Il immobilise sa proie avec ses puissantes serres et peut la transporter sur plus de 100 Km.
+;[[Pokémon Cristal]]
+: Il vole au-dessus d'une zone précise en décrivant des cercles, tout en gardant un œil sur ses proies.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Roucoups}} utilise une vaste surface pour son territoire. Ce {{PCap|Pok}}é{{PCap|mon}} surveille régulièrement son espace aérien. Si quelqu'un pénètre sur son territoire, il corrige l'ennemi sans pitié d'un coup de ses terribles serres.
+;[[Pokémon Émeraude]]
+: {{PCap|Roucoups}} surveille régulièrement son vaste espace aérien. Si quelqu'un pénètre sur son territoire, il corrige l'ennemi sans pitié d'un coup de ses terribles serres.
+;[[Pokémon Rouge Feu]]
+:Grâce à ces griffes très puissantes, il est capable de transporter des {{PCap|[[Nœunœuf]]}} vers un nid éloigné de plus de 100 Km.
+;[[Pokémon Vert Feuille]]
+:Il protège son territoire avec ardeur et repousse à coups de bec tout intrus.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Il survole son vaste territoire en quête d'une proie avant de fondre sur elle toutes griffes en avant.
+;[[Pokémon Or HeartGold]]
+:Il possède une très bonne vue qui lui permet de distinguer ses proies d'une très haute altitude.
+;[[Pokémon Argent SoulSilver]]
+:Il immobilise sa proie avec ses puissantes serres et peut la transporter sur plus de 100 km.
+;[[Pokémon Noir et Blanc]]
+: Il survole son vaste territoire en quête d'une proie avant de fondre sur elle toutes griffes en avant.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| [[Pokémon Rouge et Bleu|Rouge]] || Peu || Routes [[Route 12|12]], [[Route 14|14]], [[Route 15|15]] et [[Route 21|21]]
+|-
+| [[Pokémon Rouge et Bleu|Bleu]] || Peu || Routes [[Route 12|12]], [[Route 14|14]], [[Route 15|15]] et [[Route 21|21]]
+|-
+| [[Pokémon Jaune|Jaune]] || Courant || [[Forêt de Jade]] - Routes [[Route 5|5]], [[Route 6|6]], [[Route 7|7]], [[Route 8|8]], [[Route 11|11]], [[Route 12|12]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Route 24|24]] et [[Route 25|25]] - [[Chenal 21]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Pokémon Or et Argent|Or]] || Courant || Routes [[Route 2 (Kanto)|2]], [[Route 8 (Kanto)|8]], [[Route 13 (Kanto)|13]], [[Route 14 (Kanto)|14]], [[Route 15 (Kanto)|15]], [[Route 25 (Kanto)|25]], [[Route 37|37]] et [[Route 43|43]]
+|-
+| [[Pokémon Or et Argent|Argent]] || Courant || Routes [[Route 2|2]], [[Route 8|8]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Route 25|25]], [[Route 37|37]] et [[Route 43|43]]
+|-
+| [[Pokémon Cristal|Cristal]] || Courant || Routes [[Route 2|2]], [[Route 5|5]], [[Route 8|8]], [[Route 11|11]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], [[Route 25|25]], [[Route 37|37]], [[Route 38|39]] et [[Route 43|43]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Pokémon Rubis et Saphir|Rubis]] || Inexistant || 
+|-
+| [[Pokémon Rubis et Saphir|Saphir]] || Inexistant ||
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || 
+|-
+| [[Pokémon Rouge Feu et Vert Feuille|Rouge Feu]] || Peu || [[Île 5]] - Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]]
+|-
+| [[Pokémon Rouge Feu et Vert Feuille|Vert Feuille]] || Peu || [[Île 5]] - Routes [[Route 13|13]], [[Route 14|14]] et [[Route 15|15]]
+|-
+| [[Pokémon Colosseum|Colosseum]] || Inexistant || 
+|-
+| [[Pokémon XD : le Souffle des Ténèbres|XD]] || Unique || 
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || 
+|-
+| [[Perle]] || Inexistant || 
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Roucool]]
+| style="vertical-align:middle;" | 18
+|-
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Tornade|40|100|35}}
+{{Attaque|Départ|Jet de Sable|-|100|15}}
+{{Attaque|Départ{{Sup|R}}{{Sup|B}}<br>N.12{{Sup|J}}|Vive-Attaque|40|100|30}}
+{{Attaque|N.21|Cyclone|-|100|20}}
+{{Attaque|N.31|Cru-Aile|35|100|35}}
+{{Attaque|N.40|Hâte|-|-|30}}
+{{Attaque|N.49|Mimique|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Jet de Sable|-|100|15}}
+{{Attaque|Départ|Tornade|40|100|35}}
+{{Attaque|N.13|Cyclone|-|100|20}}
+{{Attaque|N.15|Vive-Attaque|40|100|30}}
+{{Attaque|N.33|Cru-Aile|60|100|35}}
+{{Attaque|N.43|Hâte|-|-|30}}
+{{Attaque|N.55|Mimique|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ<br>N.5|Jet de Sable|-|100|15|grâce|2|1}}
+{{Attaque-III|Départ<br>N.9|Tornade|40|100|35|intelligence|3|0}}
+{{Attaque-III|N.13|Vive-Attaque|40|100|30|sang-froid|3|0}}
+{{Attaque-III|N.20|Cyclone|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.27|Cru-Aile|60|100|35|sang-froid|2|0}}
+{{Attaque-III|N.34|Danse-Plume|-|100|15|beauté|2|0}}
+{{Attaque-III|N.43|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.52|Mimique|-|-|20|intelligence|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ<br>N.5|Jet de Sable|-|100|15|grâce|2}}
+{{Attaque-IV|Départ<br>N.9|Tornade|40|100|35|intelligence|3}}
+{{Attaque-IV|N.13|Vive-Attaque|40|100|30|sang-froid|2}}
+{{Attaque-IV|N.17|Cyclone|-|100|20|intelligence|0}}
+{{Attaque-IV|N.22|Ouragan|40|100|20|sang-froid|3}}
+{{Attaque-IV|N.27|Danse-Plume|-|100|15|beauté|2}}
+{{Attaque-IV|N.32|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.37|Cru-Aile|60|100|35|sang-froid|3}}
+{{Attaque-IV|N.42|Atterrissage|-|-|10|sang-froid|0}}
+{{Attaque-IV|N.47|Vent Arrière|-|-|30|intelligence|2}}
+{{Attaque-IV|N.52|Mimique|-|-|20|intelligence|2}}
+{{Attaque-IV|N.57|Lame d'Air|75|95|20|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ<br>N.5|Jet de Sable|-|100|15}}
+{{Attaque-V|Départ<br>N.9|Tornade|40|100|35}}
+{{Attaque-V|N.13|Vive-Attaque|40|100|30}}
+{{Attaque-V|N.17|Cyclone|-|100|20}}
+{{Attaque-V|N.22|Ouragan|40|100|20}}
+{{Attaque-V|N.27|Danse-Plume|-|100|15}}
+{{Attaque-V|N.32|Hâte|-|-|30}}
+{{Attaque-V|N.37|Cru-Aile|60|100|35}}
+{{Attaque-V|N.42|Atterrissage|-|-|10}}
+{{Attaque-V|N.47|Vent Arrière|-|-|30}}
+{{Attaque-V|N.52|Mimique|-|-|20}}
+{{Attaque-V|N.57|Lame d'Air|75|95|20}}
+{{Attaque-V|N.62|Vent Violent|120|70|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 02 || [[Coupe-Vent]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 04 || [[Cyclone]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Piqué]] || [[Fichier:type miniat vol.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 43 || [[Détection]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 47 || [[Aile d'Acier]] || [[Fichier:type miniat acier.png]]
+|-
+|CS 02 || [[Vol (attaque)|Vol]] || [[Fichier:type miniat vol.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|}
+|}
+
+===Par [[reproduction]]===
+
+
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-électrique=2
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-roche=2
+|sensib-sol=0
+|sensib-spectre=0
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''Roucoups''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est normale.
+|rmq-sol-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=normal
+|PV=63
+|attaque=60
+|defense=55
+|atq-spc=50
+|def-spc=50
+|vitesse=71
+|special=50
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Roucoups
+| numero=017
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Roucoups RB.png
+| forme=9
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+Un [[Roucoups de Sacha|Roucoups]] apparaît dans l'[[épisode 3]], où [[Sacha]] le capture. Sacha fait souvent appel à lui par la suite et il participe à de nombreuses batailles avant d'évoluer en [[Roucarnage]] dans l'[[épisode 81]], quand Sacha rentre au [[Bourg-Palette]], pour défendre ses frères [[Roucool]] et Roucoups qui se font attaquer par des [[Piafabec]] et des [[Rapasdepic]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 3]]
+:Espèce dérivée du {{PCap|Roucool}}. Il est armé de serres très puissantes et attaque en plongeant sur sa proie. A l'inverse de l'innofensif {{PCap|Roucool}}, le {{PCap|[[Roucoups]]}} est dangereux. L'approcher avec beaucoup de précautions. 
+
+{{Ruban Pokémon
+| nomPrécédent=Roucool
+| numéro=017
+| nom=Roucoups
+| nomSuivant=Roucarnage
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/17| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Pidgeotto| ]]
+
+[[de:Tauboga]]
+[[en:Pidgeotto (Pokémon)]]
+[[es:Pidgeotto]]
+[[it:Pidgeotto]]
+[[ja:ピジョン]]
+[[pl:Pidgeotto]]
+[[pt:Pidgeotto (pokémon)]]

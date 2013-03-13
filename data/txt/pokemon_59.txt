@@ -1,0 +1,372 @@
+{{Ruban Pokémon
+| nomPrécédent=Caninos
+| numéro=059
+| nom=Arcanin
+| nomSuivant=Ptitard
+}}
+{{Infobox Pokémon 
+| nom=Arcanin
+| nomen=Arcanine
+| nomja=ウインディ
+| nomtm=Windie
+| nomromaji=Uindi
+| nomde=Arkani
+| légende=Artwork d'Arcanin pour {{RFVF}}
+| ndex=059
+| jdex=128
+| njdex=130
+| hdex=246
+| nudex=052
+| fdex=145
+| adex=066
+| type1=Feu
+| espece=Légendaire
+| taille=1.9
+| poids=155.0
+| capspe1=Intimidation (capacité spéciale){{!}}Intimidation
+| capspe2=Torche
+| groupoeuf1=Sol
+| oeufpas=5120
+| effortval=+2 Att.
+| expval=213
+| expmax=1250000
+| fmratio=.25 
+| captureval=75
+| couleur=Marron
+| forme=8}}
+'''Arcanin''' (anglais : '''Arcanine''' ; japonais : '''ウインディ''' ''Windie'') est un [[Pokémon]] de [[type]] {{type|feu}} de la [[première génération]]. Il est parfois à tort considéré comme [[légendaire]], du fait du nom de sa famille pouvant prêter à confusion. 
+
+==À propos du Pokémon==
+===Physionomie===
+
+Sous ses aspects terrifiants, il est doux et fidèle, et les dresseurs s'en servent comme monture. Quand il combat, il crache des flammes impressionnantes. Étrangement, il ressemble plus à un tigre qu'à n'importe quel canidé.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Arcanin est l'évolution de [[Caninos]] lorsque ce dernier est exposé aux radiations d'une [[Pierre Feu]].
+
+{{TableauEvolutionHaut|Feu|Caninos}}
+{{TableauEvolutionSimple|Avec une [[Pierre Feu]]|imageObjet=Miniat pierre feu dp.png|Arcanin}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Arcanin dispose soit de la capacité spéciale [[Intimidation (capacité spéciale)|Intimidation]], qui fait chuter l'attaque de l'adversaire d'un niveau lorsqu'il entre au combat et diminue de 50% les chances de rencontrer des Pokémon sauvages de bas niveau, soit de la capacité spéciale [[Torche]], qui augmente la puissance des attaques de type [[Feu]] s'il est touché par une attaque de type [[Fichier:Type miniat feu.png|Feu]].
+
+===Étymologies===
+
+* Français, Allemand, Anglais : Arcane (vis-à-vis de son côté quasi légendaire) et Canin (c'est un chien)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Un {{PCap|Pok}}é{{PCap|mon}} très recherché pour sa grâce légendaire. Son pas élégant semble glisser sur le vent.
+;[[Pokémon Jaune]]
+:Un {{PCap|Pok}}é{{PCap|mon}} légendaire en Chine. Il est admiré pour la grâce et la beauté de sa course.
+;[[Pokémon Stadium]]
+:Un Pokémon légendaire en Chine. Il est admiré pour la grâce et la beauté de sa course.
+;[[Pokémon Or]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} légendaire est magnifique. Son aura magique et sa crinière sont adorées en Chine.
+;[[Pokémon Argent]]
+:Son aboiement est tout simplement majestueux. On ne peut que ramper a ses pieds après l'avoir entendu.
+;[[Pokémon Cristal]]
+:Une vielle estampe montre que les humains suivaient ses mouvements lorsqu'il courait dans les champs.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Arcanin}} est célèbre pour son extraordinaire [[vitesse]], on le dit capable de parcourir plus de 10 000 Km en 24h. Le feu qui fait rage à l'intérieur du corps de ce {{PCap|Pok}}é{{PCap|mon}} est la source de son pouvoir.
+;[[Pokémon Émeraude]]
+:{{PCap|Arcanin}} serait capable de parcourir plus de 10 000 Km en 24 h. Le feu qui brûle à l'intérieur de son corps est la source de son pouvoir.
+;[[Pokémon Rouge Feu]]
+:On parle de ce {{PCap|Pok}}é{{PCap|mon}} dans les légendes chinoises. Il paraît qu'il peut courir à des [[vitesse]]s incroyables.
+;[[Pokémon Vert Feuille]]
+:Un {{PCap|Pok}}é{{PCap|mon}} très recherché pour sa grâce légendaire. Il court avec tellement d'agilité qu'on dirait qu'il vole.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Arcanin}} se déplace extrêmement rapidement et crache des flammes puissantes.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Son port altier et son attitude fière ont depuis longtemps conquis le cœur des hommes.
+;[[Pokémon Ranger 2]]
+:Il génère des flammes qui se propagent et cherche à charger son adversaire.
+;[[Pokémon Or HeartGold]]
+:Ce Pokémon légendaire en Chine a une crinière si somptueuse qu'il est vénéré par certains.
+;[[Pokémon Argent SoulSilver]]
+:Son aboiement est tout simplement majestueux. On ne peux que ramper a ses pieds après l'avoir entendu.
+;[[Pokémon Noir et Blanc]]
+:Son port altier et son attitude fière ont depuis longtemps conquis le cœur des hommes.
+;[[Pokémon Noir et Blanc 2]]
+:Capable de parcourir 10 000 km en 24 heures, ce majestueux Pokémon est admiré de tous.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Rouge}};"| {{couleur lien|#000000|Rouge}} || Inexistant || Faire évoluer [[Caninos]].
+|-
+| style="background:{{Couleur|Bleu}};"| {{couleur lien|#000000|Bleu}} || Inexistant || À obtenir par échange.
+|-
+| style="background:{{Couleur|Jaune}};"| {{couleur lien|#000000|Jaune}} || Inexistant || Faire évoluer [[Caninos]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Or}};"| {{couleur lien|#000000|Or}} || Inexistant || Faire évoluer [[Caninos]].
+|-
+| style="background:{{Couleur|Argent}};"| {{couleur lien|#000000|Argent}} || Inexistant || À obtenir par échange.
+|-
+| style="background:{{Couleur|Cristal}};"| {{couleur lien|#000000|Cristal}} || Inexistant || Faire évoluer [[Caninos]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Rubis}};"| {{couleur lien|#000000|Rubis}}
+| rowspan="3" style="vertical-align: middle;" | Inexistant
+| rowspan="3" style="vertical-align: middle;" | À obtenir par échange.
+|-
+| style="background:{{Couleur|Saphir}};"| {{couleur lien|#000000|Saphir}}
+|-
+| style="background:{{Couleur|Émeraude}};"| {{couleur lien|#000000|Émeraude}}
+|-
+| style="background:{{Couleur|Rouge Feu}};"| {{couleur lien|#000000|Rouge Feu}} || Inexistant || Faire évoluer [[Caninos]].
+|-
+| style="background:{{Couleur|Vert Feuille}};"| {{couleur lien|#000000|Vert Feuille}} || Inexistant || À obtenir par échange.
+|-
+| style="background:{{Couleur|Colosseum}};"| {{couleur lien|#000000|Colosseum}} || Inexistant || À obtenir par échange.
+|-
+| style="background:{{Couleur|XD}};"| {{couleur lien|#000000|XD}} || Inexistant || Faire évoluer [[Caninos]].
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Diamant}};"| {{couleur lien|#000000|Diamant}}
+| rowspan="3" style="vertical-align: middle;" | Inexistant
+| rowspan="3" style="vertical-align: middle;" | Faire évoluer [[Caninos]].
+|-
+| style="background:{{Couleur|Perle}};"| {{couleur lien|#000000|Perle}}
+|-
+| style="background:{{Couleur|Platine}};"| {{couleur lien|#000000|Platine}}
+|-
+| style="background:{{Couleur|Or HeartGold}};"| {{couleur lien|#000000|Or HeartGold}} || Inexistant || Faire évoluer [[Caninos]].
+|-
+| style="background:{{Couleur|Argent SoulSilver}};"| {{couleur lien|#000000|Argent SoulSilver}} || Inexistant || À obtenir par échange.
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Feu}}; width:150px" | Version
+! style="background-color:{{Couleur|Feu}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Feu}}; width:450px" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Hurlement|-|100|20}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Bélier|90|85|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Hurlement|-|100|20}}
+{{Attaque|Départ|Flammèche|40|100|25}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Bélier|90|85|20}}
+{{Attaque|N.50|Vit. Extrême|80|100|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|Départ|Hurlement|-|100|20|sang-froid|3|0}}
+{{Attaque-III|Départ|Flammèche|40|100|25|beauté|4|0}}
+{{Attaque-III|Départ|Flair|-|100|40|intelligence|3|0}}
+{{Attaque-III|N.49|Vit. Extrême|80|100|5|sang-froid|3|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Crocs Éclair|65|95|15|intelligence|3}}
+{{Attaque-IV|Départ|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|Départ|Hurlement|-|100|20|sang-froid|2}}
+{{Attaque-IV|Départ|Crocs Feu|65|95|15|beauté|3}}
+{{Attaque-IV|Départ|Flair|-|-|40|intelligence|2}}
+{{Attaque-IV|N.39|Vit. Extrême|80|100|5|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Crocs Éclair|65|95|15}}
+{{Attaque-V|Départ|Morsure|60|100|25}}
+{{Attaque-V|Départ|Hurlement|-|100|20}}
+{{Attaque-V|Départ|Crocs Feu|65|95|15}}
+{{Attaque-V|Départ|Flair|-|-|40}}
+{{Attaque-V|N.34<sup>NB2</sup>|Vit. Extrême|80|100|5}}
+{{Attaque-V|N.39<sup>NB</sup>|Vit. Extrême|80|100|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+| type=feu
+| sensib-acier=0.5
+| sensib-eau=2
+| sensib-feu=0.5
+| sensib-glace=0.5
+| sensib-insecte=0.5
+| sensib-plante=0.5
+| sensib-roche=2
+| sensib-sol=2
+| rmq-feu=Lorsque la [[capacité spéciale]] [[Torche]] de '''{{PAGENAME}}''' est active, les attaques de type [[Feu]] ne produisent pas de dégâts sur lui.
+| rmq-feu-num=1
+| rmq-glace=Dans la [[génération I]], les attaques de type [[Glace]] avaient une efficacité normale contre les Pokémon de type [[Feu]].
+| rmq-glace-num=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=feu
+|PV=90
+|attaque=110
+|defense=80
+|atq-spc=100
+|def-spc=80
+|vitesse=95
+|special=80
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Arcanin
+| numero=059
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Arcanin RB.png
+| forme=8
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Distributions évènementielles==
+Arcanin a été [[Pokémon évènementiel|distribué de manière évènementielle]] en une seule occasion à l'heure actuelle : :
+* 2009
+** [[Liste_des_Pokémon_distribués_en_2009#Arcanin_Battle_Series|Arcanin Battle Series]]
+
+==Apparitions dans le [[dessin animé]]==
+
+Arcanin est vu à plusieurs reprises dans le dessin animé. On peut notamment relever que [[Régis]] en possède un, que l'on découvre dans l'[[épisode 63]] lors de son match contre [[Giovanni]] et [[Mewtwo]] et que [[Sacha]] affrontera un Arcanin pour son troisième match de la [[Ligue Indigo]] lors de l'[[épisode 76]]. Tucker, le champion du dôme extrême, en possède un.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 190]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Légendaire. C'est la [[évolution|forme évoluée]] de {{PCap|[[Caninos]]}}. {{PCap|Arcanin}} est connu pour son courage et sa loyauté à toute épreuve. {{PCap|[[Caninos]]}} évolue en {{PCap|Arcanin}} au contact des [[Pierre Feu]].
+;[[Épisode 413]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Légendaire. Il court avec une telle souplesse qu'il donne l'impression de voler. Aussi connu pour son cri majestueux.  
+
+{{Ruban Pokémon
+| nomPrécédent=Caninos
+| numéro=059
+| nom=Arcanin
+| nomSuivant=Ptitard
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/59| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Arcanine| ]]
+
+[[de:Arkani]]
+[[en:Arcanine (Pokémon)]]
+[[es:Arcanine]]
+[[it:Arcanine]]
+[[ja:ウインディ]]
+[[pl:Arcanine]]
+[[pt:Arcanine (pokémon)]]

@@ -1,0 +1,332 @@
+{{Ruban Pokémon
+| nomPrécédent=Tygnon
+| numéro=108
+| nom=Excelangue
+| nomSuivant=Smogo
+}}
+{{Infobox Pokémon
+| nom=Excelangue
+| nomen=Lickitung
+| nomja=ベロリンガ
+| nomtm=Beroringa
+| nomde=Schlurp
+| légende=Artwork d'Excelangue pour {{RFVF}}
+| ndex=108
+| jdex=178
+| njdex=180
+| hdex=276
+| espece=Lécheur
+| taille=1.2
+| poids=65.5
+| fmratio=.5
+| oeufpas=5120
+| effortval=+2 PV
+| type1=Normal
+| expval=127
+| expmax=1000000
+| captureval=45
+| groupoeuf1=Monstre
+| capspe1=Benêt
+| capspe2=Tempo Perso
+| capspe3=Ciel Gris
+| couleur=Rose
+| forme=6
+}}
+'''Excelangue''' (anglais : '''Lickitung''' ; japonais : '''ベロリンガ''' ''Beroringa'') est un [[Pokémon]] de [[type]] {{type|normal}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Excelangue peut évoluer en [[Coudlangue]] s'il apprend l'attaque [[Roulade]].
+{{TableauEvolutionHaut|Normal|Excelangue}}
+{{TableauEvolutionSimple|En apprenant l'attaque [[Roulade]]|Coudlangue}}
+{{TableauEvolutionBas}}
+
+===Étymologies===
+
+* Français : vient de ''excellent'' et ''langue''
+* Anglais : vient de ''licky'',désignant quelque chose qui léchouille et ''tongue'',langue.
+* Allemand : vient de l'onomatopée ''schlurp'', typique d'un coup de langue baveux.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il peut projeter sa langue comme un caméléon. Tout contact avec elle produit une irritation.
+;[[Pokémon Jaune]]
+:Sa langue mesure 2m et elle est plus maniable que ses pattes. Son contact provoque la [[paralysie]].
+;[[Pokémon Stadium]]
+:Sa langue, deux fois plus longue que son corps, tournoie pour attraper une proie. Une léchouille provoque des frissons.
+;[[Pokémon Or]]
+:Sa langue est très sensible. Il peut l'utiliser pour manipuler adroitement des objets.
+;[[Pokémon Argent]]
+:Sa longue langue sécrète une salive gluante qui se colle à n'importe quoi. Elle est très efficace.
+;[[Pokémon Cristal]]
+:Sa langue fait plus de 2 mètres. Il s'en sert notamment pour se nettoyer.
+;[[Pokémon Rubis et Saphir]]
+:Chaque fois qu'{{PCap|Excelangue}} découvre quelque chose de nouveau, il le lèche. Sa mémoire est basée sur le goût et la texture des objets. Il n'aime pas les choses acides.
+;[[Pokémon Émeraude]]
+:Chaque fois qu'il découvre quelque chose, il le lèche. Sa mémoire est basée sur le goût et a la texture des objets. Il n'aime pas les choses acides.
+;[[Pokémon Rouge Feu]]
+:Sa langue fait deux fois la taille de son corps. Il l'utilise comme un bras pour saisir de la nourriture mais aussi pour attaquer.
+;[[Pokémon Vert Feuille]]
+:Il peut projeter sa langue comme un caméléon. Si un ennemi reçoit un coup de langue, il aura une sensation de picotement.
+;[[Pokémon Diamant et Perle]]
+:Il n'utilise pas ses mains mais sa langue qui fait deux fois sa taille. Sa salive est une colle puissante.
+;[[Pokémon Platine]]
+:Quand il déploie sa langue de près de deux mètres, sa queue s'agite. Elles seraient reliées entre elles.
+;[[Pokémon Or HeartGold]]
+:Sa langue est très sensible. Il peut l'utiliser pour manipuler adroitement des objets.
+;[[Pokémon Argent SoulSilver]]
+:Sa longue langue sécrète une salive gluante qui se colle à n'importe quoi. Elle est très efficace !
+;[[Pokémon Noir et Blanc]]
+:Quand il déploie sa langue de près de deux mètres, sa queue s'agite. Elles seraient reliées entre elles.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|normal}};width150px"|Version
+! style="background-color:{{couleur|normal}};width150px"|Rareté
+! style="background-color:{{couleur|normal}};width150px"|Lieu
+|-
+| style="background:#FF0000;"|{{couleur lien|#000000|Rouge}} || Unique || À obtenir par échange contre un [[Flagadoss]] sur la [[Route 18 (Kanto)]].
+|-
+| style="background:#0099FF;"|{{couleur lien|#000000|Bleu}}  || Unique || À obtenir par échange contre un [[Flagadoss]] sur la [[Route 18 (Kanto)]].
+|-
+| style="background:#FFFF00;"|{{couleur lien|#000000|Jaune}}  || Rare || [[Caverne Azurée]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Normal}};width:150px"|Version
+! style="background-color:{{couleur|Normal}};width:150px"|Rareté
+! style="background-color:{{couleur|Normal}};width:150px"|Lieu
+|-
+| style="background:#E6D600;"|{{couleur lien|#000000|Or}}|| Peu commun || Route 44
+|-
+| style="background:#D0D0D0;"|{{couleur lien|#000000|Argent}}|| Peu commun || Route 44
+|-
+| style="background:#00BAAD;"|{{couleur lien|#000000|Cristal}}||  Commun || [[Route 44]] - [[Temps (durée)|Matin]] et [[Temps (durée)|Journée]] uniquement
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Normal}};"|Version
+! style="background-color:{{couleur|Normal}};"|Rareté
+! style="background-color:{{couleur|Normal}};"|Lieu
+|-
+| style="background:#CD0000;"|{{couleur lien|#FFFFFF|Rubis}}|| Inexistant || À obtenir par échange.
+|-
+| style="background:#1100FF;"|{{couleur lien|#FFFFFF|Saphir}}|| Inexistant || À obtenir par échange.
+|-
+| style="background:#26BF26;"|{{couleur lien|#000000|Émeraude}}|| Inexistant || À obtenir par échange.
+|-
+| style="background:#FF6F00;"|{{couleur lien|#000000|Rouge Feu}}|| Unique || À obtenir par échange contre un [[Akwakwak]] sur la [[Route 18 (Kanto)]].
+|-
+| style="background:#5AEA4F;"|{{couleur lien|#000000|Vert Feuille}}|| Unique || À obtenir par échange contre un [[Flagadoss]] sur la [[Route 18 (Kanto)]].
+|-
+| style="background:#B0001D;"|{{couleur lien|#FFFFFF|Colosseum}}|| Inexistant || À obtenir par échange.
+|-
+| style="background:#9000CD;"|{{couleur lien|#FFFFFF|XD}}|| Unique || 
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{couleur|Normal}};width/150px"|Version
+! style="background-color:{{couleur|Normal}};width:150px"|Rareté
+! style="background-color:{{couleur|Normal}};width:150px"|Lieu
+! style="background-color:{{couleur|Normal}};width:150px"|Niveau
+! style="background-color:{{couleur|Normal}};width:150px"|Pourcentage de rencontre
+|-
+| style="background:#A7F6FF"|{{couleur lien|#000000| Diamant}}|| Rare || [[Lac Courage]] - si [[Essaim de Pokémon]]|| N. 34 - 36 || 40% (lors d'un [[Essaim de Pokémon|Essaim]])
+|-
+| style="background:#FFBFF9"|{{couleur lien|#000000| Perle}}||  Rare || [[Lac Courage]] - si [[Essaim de Pokémon]]|| N. 34 - 36 || 40% (lors d'un [[Essaim de Pokémon|Essaim]])
+|-
+| style="background:#606060"|{{couleur lien|#000000| Platine}}||  Peu commun || [[Route 215]] || N. 20 || 10%
+|-
+| rowspan="2" style="vertical-align: middle;background:#E1C300"|{{couleur lien|#000000| Or HeartGold}}|| rowspan="2" style="vertical-align: middle;" | Peu commun || [[Route 44]] || N. 24 - 26 || 15%
+|-
+| [[Parc Safari (Johto)]] ||  || 
+|-
+| rowspan="2" style="vertical-align: middle;background:#C1C1C1"|{{couleur lien|#000000| Argent Soulsilver}}|| rowspan="2" style="vertical-align: middle;" | Peu commun || [[Route 44]] || N. 24 - 26 || 15%
+|-
+| [[Parc Safari (Johto)]] ||  || 
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Normal}}; width:150px" | Version
+! style="background-color:{{Couleur|Normal}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Normal}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Normal}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}}
+| rowspan="2" style="vertical-align:middle;" | Peu commun 
+| style="vertical-align:middle;" | [[Antre d'Entraînement]] 
+| style="vertical-align:middle;" | 40
+|-
+| style="vertical-align:middle;" | [[Dream World]] : Le Bosquet
+| style="vertical-align:middle;" | 10
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Ultrason|-|55|20}}
+{{Attaque|Départ|Ligotage|15|85|20}}
+{{Attaque|N.7|Écrasement|65|100|20}}
+{{Attaque|N.15|Entrave|-|55|20}}
+{{Attaque|N.23|Boul'Armure|-|-|40}}
+{{Attaque|N.31|Souplesse|80|75|20}}
+{{Attaque|N.39|Grincement|-|85|40}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Léchouille|20|100|30}}
+{{Attaque|N.7|Ultrason|-|55|20}}
+{{Attaque|N.13|Boul'Armure|-|-|40}}
+{{Attaque|N.19|Écrasement|65|100|20}}
+{{Attaque|N.25|Ligotage|15|85|20}}
+{{Attaque|N.31|Entrave|-|55|20}}
+{{Attaque|N.37|Souplesse|80|75|20}}
+{{Attaque|N.43|Grincement|-|85|40}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Léchouille|20|100|30|robustesse|1|4}}
+{{Attaque-III|N.7|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.12|Boul'Armure|-|-|40|grâce|2|0}}
+{{Attaque-III|N.18|Sabotage|20|100|20|intelligence|1|4}}
+{{Attaque-III|N.23|Écrasement|65|100|20|robustesse|1|4}}
+{{Attaque-III|N.29|Ligotage|15|85|20|robustesse|3|0}}
+{{Attaque-III|N.34|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.40|Souplesse|80|75|20|robustesse|2|1}}
+{{Attaque-III|N.45|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.51|Régénération|-|100|20|grâce|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Léchouille|20|100|30|robustesse|2}}
+{{Attaque-IV|N.5|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|N.9|Boul'Armure|-|-|40|grâce|2}}
+{{Attaque-IV|N.13|Sabotage|20|100|20|intelligence|3}}
+{{Attaque-IV|N.17|Ligotage|15|85|20|robustesse|0}}
+{{Attaque-IV|N.21|Écrasement|65|100|20|robustesse|3}}
+{{Attaque-IV|N.25|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.29|Souplesse|80|75|20|robustesse|3}}
+{{Attaque-IV|N.33|Roulade|30|90|20|robustesse|2}}
+{{Attaque-IV|N.37|Moi d'Abord|-|-|20|grâce|2}}
+{{Attaque-IV|N.41|Régénération|-|-|20|grâce|0}}
+{{Attaque-IV|N.45|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.49|Mégafouet|120|85|10|beauté|3}}
+{{Attaque-IV|N.53|Essorage|1|100|5|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Léchouille|20|100|30}}
+{{Attaque-V|N.5|Ultrason|-|55|20}}
+{{Attaque-V|N.9|Boul'Armure|-|-|40}}
+{{Attaque-V|N.13|Sabotage|20|100|20}}
+{{Attaque-V|N.17|Ligotage|15|90|20}}
+{{Attaque-V|N.21|Écrasement|65|100|20}}
+{{Attaque-V|N.25|Entrave|-|100|20}}
+{{Attaque-V|N.29|Souplesse|80|75|20}}
+{{Attaque-V|N.33|Roulade|30|90|20}}
+{{Attaque-V|N.37|Attrition|70|100|20}}
+{{Attaque-V|N.41|Moi d'Abord|-|-|20}}
+{{Attaque-V|N.45|Régénération|-|-|20}}
+{{Attaque-V|N.49|Grincement|-|85|40}}
+{{Attaque-V|N.53|Mégafouet|120|85|10}}
+{{Attaque-V|N.57|Essorage|-|100|5}}
+{{Attaques apprises-bas}}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=normal
+|sensib-combat=2
+|sensib-spectre=0
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=normal
+|PV=40
+|attaque=55
+|defense=75
+|atq-spc=60
+|def-spc=75
+|vitesse=30
+|special=60
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Excelangue
+| numero=108
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Excelangue RB.png
+| forme=6
+| pinballRB-gif=oui
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=oui
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Excelangue n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en une seule occasion :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Excelangue|Excelangue œuf voeu (PCNY)]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Jessie]] capture un [[Excelangue de Jessie|Excelangue]] dans l'[[épisode 52]]. Il demeure dans son équipe jusqu'à l'[[épisode 146]] où il est échangé par erreur avec [[Qulbutoké de Jessie|Qulbutoké]].
+
+Depuis cet [[échange de Pokémon|échange]], ce Pokémon a été très peu vu dans le dessin animé.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 52]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Lécheur. Il utilise sa langue, qui mesure deux fois sa taille, pour attaquer ainsi que pour collecter sa nourriture.
+
+{{Ruban Pokémon
+| nomPrécédent=Tygnon
+| numéro=108
+| nom=Excelangue
+| nomSuivant=Smogo
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/108| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Lickitung| ]]
+
+[[de:Schlurp]]
+[[en:Lickitung (Pokémon)]]
+[[es:Lickitung]]
+[[it:Lickitung]]
+[[ja:ベロリンガ]]
+[[pl:Lickitung]]
+[[pt:Lickitung (pokémon)]]

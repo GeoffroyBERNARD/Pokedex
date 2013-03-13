@@ -1,0 +1,376 @@
+{{Ruban Pokémon
+| nomPrécédent=Chrysacier
+| numéro=012
+| nom=Papilusion
+| nomSuivant=Aspicot
+}}
+{{Infobox Pokémon 
+| nom=Papilusion
+| nomen=Butterfree
+| nomja=バタフリー
+| nomromaji=Batafurī
+| nomtm=Butterfree
+| nomde=Smettbo
+| légende=Artwork de Papilusion pour {{RFVF}}
+| ndex=012
+| jdex=026
+| njdex=026
+| hdex=214
+| espece=Papillion
+| taille=1.1
+| poids=32.0
+| fmratio=.500 
+| oeufpas=3840 
+| effortval=+2 Att. Spé ; +1 Déf. Spé
+| type1=Insecte
+| type2=Vol
+| expval=160
+| expmax=1000000
+| captureval=45
+| groupoeuf1=Insecte
+| capspe1=Œil Composé
+| capspe2=Lentiteintée
+| capspe2-reve=oui
+| couleur=Blanc
+| forme=13}}
+'''Papilusion''' (anglais : '''Butterfree''' ; japonais : '''バタフリー''' ''Butterfree'') est un Pokémon {{type|insecte}} et {{type|vol}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+Papilusion est un Pokémon papillon possédant de grandes antennes. Il est violet avec des parties bleues ; ses ailes, très grandes pour sa taille, permettant notamment les attaques de type [[Vol (type)|Vol]] ou l'utilisation de diverses poudres. Comme pour les insectes réels, ses yeux sont probablement [[wp:Œil composé|composés]].
+
+==== Différences mâle/femelle ====
+Les Papilusion femelles ont des marques violettes (foncées) sur les ailes du bas.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Papilusion a les reflets des ailes, les pattes et le "museau" roses au lieu de bleu, ainsi que les yeux verts plutôt que rouges.
+
+===Évolution===
+Papilusion est L'ultime évolution de [[Chenipan]], qui commence à évoluer au niveau 7 en [[Chrysacier]], puis il évolue au niveau 10 en Papilusion.
+
+{{TableauEvolutionHaut|Insecte|Chenipan}}
+{{TableauEvolutionSimple|[[Niveau]] 7|Chrysacier}}
+{{TableauEvolutionSimple|[[Niveau]] 10|Papilusion}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+[[Œil composé]] qui augmente d'un niveau sa [[précision]].
+
+===Étymologies===
+* Français : '''papil'''lon et ill'''usion'''.
+* Anglais : ''butterfly'' (papillon) + ''free'' (libre).
+* Japonais : transcription du nom anglais.
+* Allemand : "smett" vient de schmetterling (papillon) et "bo" vient de wind'''bo'''e(rafale de vent)
+* Chinois : "Ba Da Hu" signifie <<papillon libre>>
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: En combat il bat des ailes très rapidement pour jeter sur ses ennemis des poudres toxiques.
+;[[Pokémon Jaune]]
+: Ses ailes sont enduites d'une poudre toxique imperméable. Il peut voler sous la pluie.
+;[[Pokémon Stadium]]
+: Ses ailes sont couvertes de poussière empoisonnée. Si l'un d'eux bat des ailes, couvrez-vous la bouche sinon...
+;[[Pokémon Or]]
+: Il ramasse du miel chaque jour et il l'agglutine sur les poils de ses pattes pour le transporter.
+;[[Pokémon Argent]]
+: Une poudre imperméable protège ses ailes et lui permet de récupérer du miel par tous temps.
+;[[Pokémon Cristal]]
+: Il vole de fleur en fleur en récoltant du miel. Il peut même identifier des fleurs de très loin.
+;[[Pokémon Rubis et Saphir]]
+: {{PCap|Papilusion}} est très doué pour repérer le délicieux nectar qu'il butine dans les fleurs. Il peut détecter, extraire et transporter le nectar de fleurs situées à plus de dix kilomètres de son nid.
+;[[Pokémon Émeraude]]
+: {{PCap|Papilusion}} est très doué pour butiner les fleurs. Il peut détecter, extraire et transporter le délicieux nectar de fleurs situées à plus de dix kilomètres de son nid.
+;[[Pokémon Rouge Feu]]
+:Ses ailes sont recouvertes d'une poudre les protégeant de la pluie. Ce {{PCap|Pok}}é{{PCap|mon}} peut donc voler pendant de grosses averses.
+;[[Pokémon Vert Feuille]]
+:En combat, il bat des ailes très rapidement pour projeter des poudres toxiques sur ses ennemis.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Il raffole du nectar des fleurs. Il est capable de repérer la plus petite quantité de pollen.
+;[[Pokémon Or HeartGold]]
+:Il ramasse du miel chaque jour et il l'agglutine sur les poils de ses pattes pour le transporter.
+;[[Pokémon Argent SoulSilver]]
+:Une poudre imperméable protège ses ailes et lui permet de récupérer du miel par tout temps.
+;[[Pokémon Noir et Blanc]]
+:Il raffole du nectar des fleurs. Il est capable de repérer la plus petite quantité de pollen.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+|-
+| {{BR}} || rowspan="2" style="vertical-align: middle;" | Inexistant || rowspan="2" style="vertical-align: middle;" | Faire évoluer [[Chrysacier]]
+|-
+| ''[[Pokémon Jaune]]''
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Pourcentage de rencontre
+|-
+| rowspan="2" style="vertical-align: middle;" | ''[[Pokémon Or]]'' || rowspan="7" style="vertical-align: middle;" | Rare || [[Route 2 (Kanto)|Route 2]] || N. 7 || 10%
+|-
+| [[Parc Naturel]] lors du [[Concours de capture d'insecte]]. || N. 12-15 || 5% 
+|-
+| ''[[Pokémon Argent]]'' || [[Parc Naturel]] lors du [[Concours de capture d'insecte]]. || N. 12-15 || 5%
+|-
+| rowspan="4" style="vertical-align: middle;" | ''[[Pokémon Cristal]]'' || [[Route 2 (Kanto)|Route 2]] || N. 7 || 10%
+|-
+| [[Route 24]] || rowspan="2" style="vertical-align: middle;" | N. 14 || rowspan="2" style="vertical-align: middle;" | 5%
+|-
+| [[Route 25]]
+|-
+| [[Parc Naturel]] lors du [[Concours de capture d'insecte]]. || N. 12-15 || 5% 
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+|-
+| {{RS}} || rowspan="4" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}} ou [[XD]].
+|-
+| ''[[Pokémon Émeraude]]''
+|-
+| {{RFVF}} || Faire évoluer [[Chrysacier]].
+|-
+| [[Colosseum]] || À échanger depuis {{RFVF}} ou [[XD]].
+|-
+| [[XD]] || Unique || [[Pokémon obscurs]] à capturer.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Pourcentage de rencontre
+|-
+| {{DP}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;" | À transférer par le biais du [[Parc des Amis]]. || rowspan="2" style="vertical-align: middle;" | - || rowspan="2" style="vertical-align: middle;" | -
+|-
+| ''[[Pokémon Platine]]''
+|-
+| {{HGSS}} ||  Rare || [[Forêt de Jade]] ; [[Route 2 (Kanto)|Route 2]] (matin et jour seulement) et [[route 47 (Johto)|Route 47]] || {{Infobulle|7-8|matin à la Route 2}} {{Infobulle|7-10|jour à la Route 2}} {{Infobulle|7|Matin sur la Forêt de Jade}} {{Infobulle|25-30|jour à la Route 47}}|| {{Infobulle|10%|pour les deux lieux}}
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | ''[[Pokémon Blanc]]''
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Route 12 (Unys)|Route 12]] ([[Herbes mouvantes]])
+| style="vertical-align:middle;" | 50
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | [[Dream World]] : Le [[Vaste Ciel]]
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|N.12{{Sup|R}}{{Sup|B}}<br>N.10{{Sup|J}}|Choc Mental|50|100|25}}
+{{Attaque|N.15{{Sup|R}}{{Sup|B}}<br>N.13{{Sup|J}}|Poudre Toxik|-|75|35}}
+{{Attaque|N.16{{Sup|R}}{{Sup|B}}<br>N.14{{Sup|J}}|Para-Spore|-|75|30}}
+{{Attaque|N.17{{Sup|R}}{{Sup|B}}<br>N.15{{Sup|J}}|Poudre Dodo|-|75|15}}
+{{Attaque|N.21{{Sup|R}}{{Sup|B}}<br>N.18{{Sup|J}}|Ultrason|-|55|20}}
+{{Attaque|N.26{{Sup|R}}{{Sup|B}}<br>N.23{{Sup|J}}|Cyclone|-|100|20}}
+{{Attaque|N.28{{Sup|J}}|Tornade|40|100|35}}
+{{Attaque|N.32{{Sup|R}}{{Sup|B}}<br>N.34{{Sup|J}}|Rafale Psy|65|100|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|N.10|Choc Mental|50|100|25}}
+{{Attaque|N.13|Poudre Toxik|-|75|35}}
+{{Attaque|N.14|Para-Spore|-|75|30}}
+{{Attaque|N.15|Poudre Dodo|-|75|15}}
+{{Attaque|N.18|Ultrason|-|55|20}}
+{{Attaque|N.23|Cyclone|-|100|20}}
+{{Attaque|N.28|Tornade|40|100|35}}
+{{Attaque|N.34|Rafale Psy|65|100|20}}
+{{Attaque|N.40|Rune Protect|-|-|25}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ<br>N.10|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.13|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.14|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|N.15|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.18|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.23|Cyclone|-|100|20|intelligence|3|0}}
+{{Attaque-III|N.28|Tornade|40|100|35|intelligence|3|0}}
+{{Attaque-III|N.34|Rafale Psy|65|100|20|beauté|3|0}}
+{{Attaque-III|N.40|Rune Protect|-|-|25|beauté|1|0}}
+{{Attaque-III|N.47|Vent Argenté|60|100|5|beauté|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ<br>N.10|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.12|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.12|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|N.12|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.16|Tornade|40|100|35|intelligence|3}}
+{{Attaque-IV|N.18|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|N.22|Cyclone|-|100|20|intelligence|0}}
+{{Attaque-IV|N.24|Rafale Psy|65|100|20|beauté|2}}
+{{Attaque-IV|N.28|Vent Argenté|60|100|5|beauté|0}}
+{{Attaque-IV|N.30|Vent Arrière|-|-|30|intelligence|2}}
+{{Attaque-IV|N.34|Rune Protect|-|-|25|beauté|2}}
+{{Attaque-IV|N.36|Séduction|-|100|20|beauté|2}}
+{{Attaque-IV|N.40|Bourdon|90|100|10|grâce|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ<br>N.10|Choc Mental|50|100|25}}
+{{Attaque-V|N.12|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.12|Para-Spore|-|75|30}}
+{{Attaque-V|N.12|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.16|Tornade|40|100|35}}
+{{Attaque-V|N.18|Ultrason|-|55|20}}
+{{Attaque-V|N.22|Cyclone|-|100|20}}
+{{Attaque-V|N.24|Rafale Psy|65|100|20}}
+{{Attaque-V|N.28|Vent Argenté|60|100|5}}
+{{Attaque-V|N.30|Vent Arrière|-|-|30}}
+{{Attaque-V|N.34|PoudreFureur|-|-|20}}
+{{Attaque-V|N.36|Rune Protect|-|-|25}}
+{{Attaque-V|N.40|Séduction|-|100|20}}
+{{Attaque-V|N.42|Bourdon|90|100|10}}
+{{Attaque-V|N.46|Papillodanse|-|-|20}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| class="wikitable"
+! Numéro || [[Bleu]]/[[Rouge]]/[[Jaune]] || [[Or]]/[[Pokémon Or et Argent|Argent]]/[[Cristal]] || [[Rubis]]/[[Saphir]]/[[Pokémon Émeraude|Émeraude]]/[[RF]]/[[VF]] || [[Diamant]]/[[Perle]]/[[Platine]]/[[Or HeartGold]]/[[Argent SoulSilver]]
+|-
+|}
+
+===Par [[reproduction]]===
+
+
+===Par [[Donneur de capacités]]===
+===Attaques acquises lors d'un stade d'évolution antérieur===
+{| class="wikitable"
+! colspan="4" | Toutes générations
+|-
+![[Attaque]] || Type || Pré-évolution requise || Mode d'apprentissage
+|-
+|[[Charge]] || {{type|normal}} || 010 {{miniature|010}} [[Chenipan]] || Attaque de départ
+|-
+|[[Sécrétion]] || {{type|insecte}} || 010 {{miniature|010}} [[Chenipan]] || Attaque de départ
+|-
+|[[Armure]] || {{type|normal}} || 011 {{miniature|011}} [[Chrysacier]] || Attaque de départ / {{Infobulle|N.7|Si évolue de Chenipan}}
+|}
+
+==Sensibilités==
+
+{{Sensibilités
+|type=insecte
+|sensib-combat=0.25
+|sensib-électrique=2
+|sensib-feu=2
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-plante=0.25
+|sensib-roche=4
+|sensib-sol=0
+|sensib-vol=2
+|rmq-poison=Les attaques de type [[Poison (type)|poison]] étaient très efficaces sur les Pokémon de type [[Insecte]] -donc sur '''Papilusion'''- dans la [[première génération]].
+|rmq-poison-num=1
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol (type)|Sol]] à son encontre est d'1/2, du fait de son type [[Insecte (type)|Insecte]] qui y est résistant.
+|rmq-sol-num=2
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=insecte
+|PV=60
+|attaque=45
+|defense=50
+|atq-spc=80
+|def-spc=80
+|vitesse=70
+|special=80
+}}
+
+==Imagerie==
+ 
+{{Imagerie Pokémon
+| pokemon=Papilusion
+| numero=012
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Papilusion RB.png
+| forme=13
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff-fm=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+[[Fichier:Papilusion de Sacha.gif|thumb|right|[[Pikachu de Sacha]] combattant en équipe avec son coéquipier Papilusion.]]
+Sacha a possédé un [[Papilusion de Sacha|Papilusion]] qu'il a attrapé au stade de Chenipan. C'est le premier Pokémon que Sacha a capturé. Lors de l'[[épisode 21]], ''[[Un Pokémon amoureux]]'', Sacha relâche son Pokémon pour qu'il puisse s'accoupler avec un [[Papilusion Rose]].
+
+[[Richie]], [[Drew]] et [[Solidad]] ont également chacun un Papilusion.
+
+Un Papilusion avec un motif différent sur les ailes apparaît dans l'[[épisode 83]], ''[[Le danger Pokéball]]''.
+[[Fichier:Papilusion île Orange.png|thumb|left|Un Papilusion à motif différent.]]
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 4]]
+:{{PCap|Chenipan}} se transforme en {{PCap|Chrysacier}} et {{PCap|Chrysacier}} se transforme en {{PCap|[[Papilusion]]}}.
+;[[Épisode 417]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Papillon. {{PCap|[[Papilusion]]}} est l'[[évolution]] de {{PCap|Chrysacier}}. Ses ailes sont recouvertes d'écailles hydrofuges.
+
+{{Ruban Pokémon
+| nomPrécédent=Chrysacier
+| numéro=012
+| nom=Papilusion
+| nomSuivant=Aspicot
+}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/12| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Butterfree| ]]
+
+[[de:Smettbo]]
+[[en:Butterfree (Pokémon)]]
+[[es:Butterfree]]
+[[it:Butterfree]]
+[[ja:バタフリー]]
+[[pl:Butterfree]]
+[[pt:Butterfree (pokémon)]]

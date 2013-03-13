@@ -1,0 +1,386 @@
+{{Ruban Pokémon
+| nomPrécédent=Arcanin
+| numéro=060
+| nom=Ptitard
+| nomSuivant=Têtarte
+}}
+{{Infobox Pokémon 
+| nom=Ptitard
+| nomen=Poliwag
+| nomja=ニョロモ
+| nomtm=Nyoromo
+| nomde=Quapsel
+| légende=Artwork de Ptitard pour {{RFVF}}
+| ndex=060
+| jdex=072
+| hdex=247
+| fdex=052
+| type1=Eau
+| espece=Têtard
+| taille=0.6
+| poids=12.4
+| capspe1=Absorb Eau
+| capspe2=Moiteur
+| capspe3=Glissade.
+| groupoeuf1=Eau 1
+| oeufpas=5120
+| effortval=+1 Vit.
+| expval=77
+| expmax=1059860
+| fmratio=.5 
+| captureval=255
+| couleur=Bleu
+| forme=7
+}}
+'''Ptitard''' (anglais : '''Poliwag''' ; japonais : '''ニョロモ''' ''Nyoromo'') est un [[Pokémon]] de [[type]] {{type|eau}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Ptitard évolue en [[Têtarte]] à partir du [[niveau]] 25, qui peut lui-même évoluer en [[Tartard]] s'il est mis en contact avec une [[Pierre Eau]] ou en [[Tarpaud]] s'il est échangé en tenant une [[Roche Royale]].
+{{TableauEvolutionHaut|Eau|Ptitard|2}}
+{{TableauEvolutionSimple|Niveau 25|Têtarte|2}}
+{{TableauEvolutionConditionBranche/1|Avec une [[Pierre Eau]]|imageObjet=Miniat pierre eau dp.png}}
+{{TableauEvolutionConditionBranche|[[échange de Pokémon|Échange]] en tenant [[Roche Royale]]|imageObjet=Miniat roche royale dp.png}}
+{{TableauEvolutionBranche/1|Tartard}}
+{{TableauEvolutionBranche|Tarpaud}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Ptitard peut disposer soit de la capacité [[Absorb Eau]], qui lui permet de récupérer un quart de ses [[PV]] lorsqu'il est touché par une attaque Eau, soit de la capacité [[Moiteur]], qui empêche les combattants de s'autodétruire.
+
+===Étymologies===
+* Français : "p'tit" et tétard
+* Anglais : Polywag, Un surnom anglais pour un têtard
+* Allemand : vient de ''Kaulquappe''(têtard) et de ''Kapsel''(capsule)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il court mal avec ses petites pattes. Il préfère nager que de se tenir debout.
+;[[Pokémon Jaune]]
+:Le sens de la spirale sur son ventre diffère selon son origine. Il préfère la nage à la marche.
+;[[Pokémon Stadium]]
+:La spirale sur son ventre est un organe interne visible en transparence tant sa peau est fine. Il nage mieux qu'il ne marche.
+;[[Pokémon Or]]
+:A la naissance ses jambes ne peuvent le supporter, c'est pour cela qu'il ne fait que nager dans l'eau.
+;[[Pokémon Argent]]
+:Le sens de la spirale sur son ventre change suivant la région, on pense que c'est dû à l'équateur.
+;[[Pokémon Cristal]]
+:La spirale sur son ventre est son organisme, visible à travers la peau. Il est plus clair après son repas.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Ptitard}} a une peau très fine. On peut même voir les entrailles en spirale de ce {{PCap|Pok}}é{{PCap|mon}} à travers sa peau. Malgré sa finesse, cette peau est aussi très élastique. Même les crocs les plus acérés rebondissent dessus.
+;[[Pokémon Émeraude]]
+:{{PCap|Ptitard}} a une peau si fine qu'on peut voir ses entrailles en spirale à travers. Sa peau est aussi très élastique. Même des crocs très acérés rebondissent dessus.
+;[[Pokémon Rouge Feu]]
+:Sa peau est humide, lisse et surtout très fine. La forme en spirale sur son ventre est en fait une partie de ses organes internes que l'on peut apercevoir.
+;[[Pokémon Vert Feuille]]
+:Il est tellement mal à l'aise sur ses nouvelles pattes qu'il préfère la nage à la marche.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:Si {{PCap|Ptitard}} repère un Ranger, il prend peur et se cache sous l'eau.
+;[[Pokémon Diamant]], [[Pokémon Perle|Perle]] et [[Pokémon Platine|Platine]]
+:Sa peau est si mince qu'on voit ses organes internes. Il tient à peine sur ses nouveaux pieds.
+;[[Pokémon Or HeartGold]]
+:À la naissance, ses jambes ne peuvent le supporter. C'est pour cela qu'il ne fait que nager dans l'eau.
+;[[Pokémon Argent SoulSilver]]
+:Le sens de la spirale sur son ventre change suivant la région. On pense que c'est dû à l'équateur.
+;[[Pokémon Noir et Blanc]]
+:Sa peau est si mince qu'on voit ses organes internes. Il tient à peine sur ses nouveaux pieds.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Commun || [[Route 22]] - [[Jadielle]]
+|-
+| [[Bleu]] || Commun || [[Route 22]] - [[Jadielle]]
+|-
+| [[Jaune]] || Commun || [[Route 22]] - [[Bourg Palette]] - [[Jadielle]] - [[Carmin sur Mer]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || À venir.
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || [[Rosalia]].
+|-
+| [[Cristal]] || Commun || [[Route]]s [[Route 30|30]] et [[Route 31|31]].
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Commun || Pêcher avec la Méga canne.
+|-
+| [[Vert Feuille]] || Commun || Pêcher avec la Super Canne.
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Peu commun || Routes [[Route 225|225]], [[Route 227|227]] et [[Route 228|228]] -pêcher avec la [[Super Canne]]-
+|-
+| [[Perle]] || Peu commun || Routes [[Route 225|225]], [[Route 227|227]] et [[Route 228|228]] -pêcher avec la [[Super Canne]]-
+|-
+| [[Pokémon Platine|Platine]] || Commun || Zone d'eau sous le Mont Abrupt (surf)
+|}
+
+===[[Cinquième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Eau}}; width:200px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| rowspan="5" style="vertical-align:middle;" | {{NB}}
+| rowspan="5" style="vertical-align:middle;" | Commun
+| style="vertical-align:middle;" | [[Route 6 (Unys)|Route 6]]{{infobulle|*|Pêche}}
+| style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Veine Souterraine]]
+| style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Antre d'Entraînement]]
+| style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Route Victoire (Unys)|Route Victoire]]
+| style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Grotte Cyclopéenne]]{{infobulle|*|Pêche dans les Grottes}}
+| style="vertical-align:middle;" | 35-70
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Écume|20|100|30}}
+{{Attaque|N.16|Hypnose|-|60|20}}
+{{Attaque|N.19|Pistolet à O|40|100|25}}
+{{Attaque|N.25|Torgnoles|15|85|10}}
+{{Attaque|N.31|Plaquage|85|100|15}}
+{{Attaque|N.38|Amnésie|-|-|20}}
+{{Attaque|N.45|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écume|20|100|30}}
+{{Attaque|N.7|Hypnose|-|60|20}}
+{{Attaque|N.13|Pistolet à O|40|100|25}}
+{{Attaque|N.19|Torgnoles|15|85|10}}
+{{Attaque|N.25|Danse Pluie|-|-|5}}
+{{Attaque|N.31|Plaquage|85|100|15}}
+{{Attaque|N.37|Cognobidon|-|-|10}}
+{{Attaque|N.43|Hydrocanon|120|80|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Écume|20|100|30|grâce|2|2}}
+{{Attaque-III|N.7|Hypnose|-|60|20|intelligence|1|3}}
+{{Attaque-III|N.13|Pistolet à O|40|100|25|grâce|4|0}}
+{{Attaque-III|N.19|Torgnoles|15|85|10|robustesse|2|1}}
+{{Attaque-III|N.25|Danse Pluie|-|-|5|robustesse|1|0}}
+{{Attaque-III|N.31|Plaquage|85|100|15|robustesse|1|4}}
+{{Attaque-III|N.37|Cognobidon|-|-|10|grâce|1|0}}
+{{Attaque-III|N.43|Hydrocanon|120|80|5|beauté|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Tourniquet|-|-|15|grâce|2}}
+{{Attaque-IV|N.5|Écume|20|100|30|grâce|2}}
+{{Attaque-IV|N.8|Hypnose|-|70%{{Sup|D}}{{Sup|P}}<br>60{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|20|intelligence|2}}
+{{Attaque-IV|N.11|Pistolet à O|40|100|25|grâce|3}}
+{{Attaque-IV|N.15|Torgnoles|15|85|10|robustesse|2}}
+{{Attaque-IV|N.18|Danse Pluie|-|-|5|robustesse|2}}
+{{Attaque-IV|N.21|Plaquage|85|100|15|robustesse|3}}
+{{Attaque-IV|N.25|Bulles d'O|65|100|20|beauté|2}}
+{{Attaque-IV|N.28|Tir de Boue|55|95|15|robustesse|2}}
+{{Attaque-IV|N.31|Cognobidon|-|-|10|grâce|0}}
+{{Attaque-IV|N.35|Réveil Forcé|60|100|10|intelligence|0}}
+{{Attaque-IV|N.38|Hydrocanon|120|80|5|beauté|2}}
+{{Attaque-IV|N.41|Boue-Bombe|65|85|10|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Tourniquet|-|-|15}}
+{{Attaque-V|N.5|Écume|20|100|30}}
+{{Attaque-V|N.8|Hypnose|-|60|20}}
+{{Attaque-V|N.11|Pistolet à O|40|100|25}}
+{{Attaque-V|N.15|Torgnoles|15|85|10}}
+{{Attaque-V|N.18|Danse Pluie|-|-|5}}
+{{Attaque-V|N.21|Plaquage|85|100|15}}
+{{Attaque-V|N.25|Bulles d'O|65|100|20}}
+{{Attaque-V|N.28|Tir de Boue|55|95|15}}
+{{Attaque-V|N.31|Cognobidon|-|-|10}}
+{{Attaque-V|N.35|Réveil Forcé|60|100|10}}
+{{Attaque-V|N.38|Hydrocanon|120|80|5}}
+{{Attaque-V|N.41|Boue-Bombe|65|85|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=eau
+|sensib-acier=0.5
+|sensib-eau=0.5
+|sensib-électrique=2
+|sensib-feu=0.5
+|sensib-glace=0.5
+|sensib-plante=2
+|rmq-eau=Lorsque la [[capacité spéciale]] [[Absorb Eau]] de '''{{PAGENAME}}''' est active, les attaques de type [[Eau]] ne produisent pas de dégâts sur lui.
+|rmq-eau-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=40
+|attaque=50
+|defense=40
+|atq-spc=40
+|def-spc=40
+|vitesse=90
+|special=40
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Ptitard
+| numero=060
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Ptitard RB.png
+| forme=7
+| pinballRB-gif=oui
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== Distributions évènementielles ==
+À l'heure actuelle, Ptitard n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en une seule occasion :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Pokémon Center - Œufs surprise|Ptitard œuf surprise, Pokémon Center]] (Japon)
+
+==Apparitions dans le [[dessin animé]]==
+
+{{da|Ondine}} obtient un [[Ptitard d'Ondine|Ptitard]] dans l'[[épisode 110]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 110]]
+:{{PCap|Pok}}é{{PCap|mon}} Tétard. Il n'a pas de bras mais sa queue en fait un excellent nageur.
+
+{{Ruban Pokémon
+| nomPrécédent=Arcanin
+| numéro=060
+| nom=Ptitard
+| nomSuivant=Têtarte
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/60| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Poliwag| ]]
+
+[[de:Quapsel]]
+[[en:Poliwag (Pokémon)]]
+[[es:Poliwag]]
+[[it:Poliwag]]
+[[ja:ニョロモ]]
+[[pl:Poliwag]]
+[[pt:Poliwag (pokémon)]]

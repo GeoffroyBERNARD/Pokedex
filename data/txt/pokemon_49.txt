@@ -1,0 +1,398 @@
+{{Ruban Pokémon
+| nomPrécédent=Mimitoss
+| numéro=049
+| nom=Aéromite
+| nomSuivant=Taupiqueur
+}}
+{{Infobox Pokémon 
+| nom=Aéromite
+| nomen=Venomoth
+| nomja=モルフォン 
+| nomtm=Morphon
+| nomromaji=Morufon
+| nomde=Omot
+| légende=Artwork d'Aéromite pour {{RFVF}}
+| ndex=049
+| jdex=109
+| njdex=110
+| hdex=238
+| type1=Insecte
+| type2=Poison
+| espece=Papipoison
+| taille=1.5
+| poids=12.5
+| capspe1=Écran Poudre
+| capspe1-desc=Annule les effets cumulés d'une attaque ennemie.
+| capspe2=Lentiteintée
+| capspe2-desc=Améliore les capacités "pas très efficaces".
+| groupoeuf1=Insecte
+| oeufpas=5120 
+| effortval=+1 Att. Spé ; +1 Vit.
+| expval=138
+| expmax=1000000
+| fmratio=.5 
+| captureval=75
+| couleur=Violet
+| forme=13}}
+'''Aéromite''' (anglais : '''Venomoth''' ; japonais : '''モルフォン ''' ''Morphon''), [[Pokémon]] de la [[première génération]] inspiré d'une mite et [[évolution]] de [[Mimitoss]], est de [[type]] {{type|insecte}} et {{type|poison}}.<br/>
+On peut noter que cela l'expose aux attaques de type {{type|sol}}, ce qui, pour un Pokémon volant n'ayant même pas des pattes assez stables pour pouvoir se poser, est un comble.
+
+==À propos du Pokémon==
+===Physionomie===
+
+Aéromite est une grosse mite (sorte d'insecte ressemblant au papillon) avec des ailes violettes et un abdomen brun.
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Aéromite est l'évolution de [[Mimitoss]] à partir du [[niveau]] 31.
+{{TableauEvolutionHaut|Insecte|Mimitoss}}
+{{TableauEvolutionSimple|[[Niveau]] 31|Aéromite}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Aéromite dispose soit de la capacité spéciale [[Écran Poudre]], qui annule les effets secondaires des attaques subies (telle que la paralysie que peut engendrer [[Plaquage]], par exemple), soit de la capacité spéciale [[Lentiteintée]] qui double la puissance des attaques peu efficaces.
+
+===Étymologies===
+* Français : de "aéro-", préfixe de ce qui est aérien, et "mite"
+* Anglais : Venom(venin) et Moth(Les papillons de nuit, ou Les Hétérocères)
+* Allemand : de Motte(mite)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Les motifs ocres de ses ailes changent en fonction de son type de poison.
+;[[Pokémon Jaune]]
+:Les écailles de ses ailes sont inamovibles. Elles libèrent un poison violent au contact.
+;[[Pokémon Stadium]]
+: La poudre sur ses ailes est empoisonnée. Il en répand une dose à chaque battement, il est donc dangereux d'être sous le vent.
+;[[Pokémon Or]]
+:Il bat des ailes violemment pour projeter des poudres empoisonnées vers ses adversaires.
+;[[Pokémon Argent]]
+:Si la poudre sur ses ailes est sombre, elle empoisonne. Si elle est claire, elle paralyse.
+;[[Pokémon Cristal]]
+:Les écailles qu'il sème ont le pouvoir de paralyser totalement un ennemi.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Aéromite}} est un {{PCap|Pok}}é{{PCap|mon}} nocturne, il ne sort donc que la nuit. Ses proies préférées sont les petits insectes qui se rassemblent autour des réverbères, attirés par la lumière.
+;[[Pokémon Émeraude]]
+:C'est un {{PCap|Pok}}é{{PCap|mon}} nocturne, il ne sort donc que la nuit. Ses proies préférées sont les petits insectes qui se rassemblent autour des réverbères, attirés par la lumière.
+;[[Pokémon Rouge Feu]]
+:Ses ailes sont couvertes d'écailles poudreuses. A chaque battement d'ailes, il laisse tomber de la poudre hautement toxique.
+;[[Pokémon Vert Feuille]]
+:La couleur des écailles poudreuses qui recouvrent ses ailes change en fonction de son type de poison.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il répand ses écailles poudreuses en battant des ailes. Elles sont toxiques au toucher.
+;[[Pokémon Or HeartGold]]
+:Il bat des ailes violemment pour projeter des poudres empoisonnées vers ses adversaires.
+;[[Pokémon Argent SoulSilver]]
+:Si la poudre sur ses ailes est sombre, elle empoisonne. Si elle est claire, elle paralyse.
+;[[Pokémon Noir et Blanc]]
+:Il répand ses écailles poudreuses en battant des ailes. Elles sont toxiques au toucher.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Peu commun || [[Parc Safari]], [[Route Victoire]], [[Grotte Inconnue]].
+|-
+| [[Bleu]] || Peu commun || [[Parc Safari]], [[Route Victoire]], [[Grotte Inconnue]].
+|-
+| [[Jaune]] || Rare || Routes [[Route 14|14]], [[Route 15|15]] et [[Grotte Inconnue]].
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || Routes [[Route 24|24]] et [[Route 25|25]] ([[Temps|Nuit]]).
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Routes [[Route 24|24]] et [[Route 25|25]] ([[Temps|Nuit]]).
+|-
+| [[Cristal]] || Commun || Routes [[Route 9|9]], [[Route 10|10]], [[Route 13|13]], [[Route 14|14]], [[Route 15|15]], et [[Route 43|43]] ([[Temps|Nuit]])
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Rare || [[Parc Safari]], [[Île 3]] de l'[[Îles Sevii|Archipel Sevii]].
+|-
+| [[Vert Feuille]] || Rare || [[Parc Safari]], [[Île 3]] de l'[[Îles Sevii|Archipel Sevii]].
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Unique ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Diamant]] || Rare ([[Pokéradar]] uniquement) || [[Route 229]] || N. 50 || 20% (avec le [[Pokéradar]])
+|-
+| [[Perle]] ||  Rare ([[Pokéradar]] uniquement) || [[Route 229]] || N. 50 || 20% (avec le [[Pokéradar]])
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Version
+! style="background-color:{{Couleur|Insecte}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Insecte}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Insecte}}; width:50px" | Niveau
+|-
+| style="background:{{Couleur|Blanc}};" | {{Couleur lien|#000000|Blanc}} 
+| rowspan="2" style="vertical-align:middle;" | Commun
+| rowspan="2" style="vertical-align:middle;" | [[Vestiges du Rêve]] ([[herbes doubles]])
+| rowspan="2" style="vertical-align:middle;" | 47-50
+|-
+| style="background:{{Couleur|Noir}};" | {{Couleur lien|#FFFFFF|Noir}}
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ{{Sup|J}}|Ultrason|-|55|20}}
+{{Attaque|Départ{{Sup|J}}|Choc Mental|50|100|25}}
+{{Attaque|Départ|Poudre Toxik|-|75|35}}
+{{Attaque|Départ|Vampirisme|20|100|15}}
+{{Attaque|Départ|Para-Spore|-|75|30}}
+{{Attaque|N.38|Rafale Psy|65|100|20}}
+{{Attaque|N.43|Poudre Dodo|-|75|15}}
+{{Attaque|N.50|Psyko|90|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Clairvoyance|-|100|40}}
+{{Attaque|Départ|Ultrason|-|55|20}}
+{{Attaque|Départ|Choc Mental|50|100|25}}
+{{Attaque|Départ|Poudre Toxik|-|75|35}}
+{{Attaque|Départ|Vampirisme|20|100|15}}
+{{Attaque|Départ|Para-Spore|-|75|30}}
+{{Attaque|N.31|Tornade|40|100|35}}
+{{Attaque|N.36|Rafale Psy|65|100|20}}
+{{Attaque|N.42|Poudre Dodo|-|75|15}}
+{{Attaque|N.52|Psyko|90|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Vent Argenté|60|100|5|beauté|1|0}}
+{{Attaque-III|Départ|Charge|35|95|35|robustesse|4|0}}
+{{Attaque-III|Départ|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|Départ|Clairvoyance|-|100|40|intelligence|3|0}}
+{{Attaque-III|Départ<br>N.9|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.17|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.20|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.25|Vampirisme|20|100|15|intelligence|2|3}}
+{{Attaque-III|N.28|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|N.31|Tornade|40|100|35|intelligence|3|0}}
+{{Attaque-III|N.36|Rafale Psy|65|100|20|beauté|3|0}}
+{{Attaque-III|N.42|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.52|Psyko|90|100|10|intelligence|1|3}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Vent Argenté|60|100|5|beauté|0}}
+{{Attaque-IV|Départ|Charge|35|95|35|robustesse|3}}
+{{Attaque-IV|Départ|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|Départ|Clairvoyance|-|100|40|intelligence|1}}
+{{Attaque-IV|Départ<br>N.5|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|N.11|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.13|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.17|Vampirisme|20|100|15|intelligence|1}}
+{{Attaque-IV|N.23|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|N.25|Rafale Psy|65|100|20|beauté|2}}
+{{Attaque-IV|N.29|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.31|Tornade|40|100|35|intelligence|3}}
+{{Attaque-IV|N.37|Rayon Signal|75|100|15|beauté|0}}
+{{Attaque-IV|N.41|Psykoud'Boul|80|90|15|beauté|2}}
+{{Attaque-IV|N.47|Crochetvenin|50|100|15|intelligence|2}}
+{{Attaque-IV|N.55|Psyko|90|100|10|intelligence|2}}
+{{Attaque-IV|N.59|Bourdon|90|100|10|grâce|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Vent Argenté|60|100|5}}
+{{Attaque-V|Départ|Charge|50|100|35}}
+{{Attaque-V|Départ|Entrave|-|100|20}}
+{{Attaque-V|Départ|Clairvoyance|-|100|40}}
+{{Attaque-V|Départ<br>N.5|Ultrason|-|55|20}}
+{{Attaque-V|N.11|Choc Mental|50|100|25}}
+{{Attaque-V|N.13|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.17|Vampirisme|20|100|15}}
+{{Attaque-V|N.23|Para-Spore|-|75|30}}
+{{Attaque-V|N.25|Rafale Psy|65|100|20}}
+{{Attaque-V|N.29|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.31|Tornade|40|100|35}}
+{{Attaque-V|N.37|Rayon Signal|75|100|15}}
+{{Attaque-V|N.41|Psykoud'Boul|80|90|15}}
+{{Attaque-V|N.47|Crochetvenin|50|100|15}}
+{{Attaque-V|N.55|Psyko|90|100|10}}
+{{Attaque-V|N.59|Bourdon|90|100|10}}
+{{Attaque-V|N.63|Papillodanse|-|-|20}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=insecte
+|sensib-combat=0.25
+|sensib-feu=2
+|sensib-insecte=0.5
+|sensib-plante=0.25
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-roche=2
+|sensib-vol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison]] -donc sur '''{{PAGENAME}}'''- dans la [[première génération]].
+|rmq-insecte-num=1
+|rmq-poison=Les attaques de type [[Poison]] étaient très efficaces sur les Pokémon de type [[Insecte]] dans la [[première génération]]. De ce fait, elles possédaient dans cette génération une efficacité normale sur '''{{PAGENAME}}''' dans la mesure où ce dernier possède un double type [[Poison]] qui lui est résistant à ces attaques.
+|rmq-poison-num=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=insecte
+|PV=70
+|attaque=65
+|defense=60
+|atq-spc=90
+|def-spc=75
+|vitesse=90
+|special=90
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Aéromite
+| numero=049
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Aéromite RB.png
+| forme=13
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Le [[Mimitoss]] de [[Koga]] évolue en Aéromite durant l'[[épisode 32]].
+
+Dans l'introduction du premier film [[Pokémon : le Film]], le dresseur qui se bat contre [[Sacha]] utilise entre autres un Aéromite.
+
+On voit également Aéromite dans les épisodes [[épisode 103|103]] et [[épisode 287|287]].
+
+L'une des adversaires de [[Sacha]] pendant la ligue Hoenn utilise entre autres un Aéromite, que l'on voit dans les épisodes [[épisode 402|402]] et [[épisode 403|403]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 32]]
+: {{PCap|[[Aéromite]]}} est la [[évolution|forme évoluée]] de {{PCap|Mimitoss}}. Les petites écailles de ses ailes diffusent différentes variétés de spores.
+
+{{Ruban Pokémon
+| nomPrécédent=Mimitoss
+| numéro=049
+| nom=Aéromite
+| nomSuivant=Taupiqueur
+}}
+
+{{DEFAULTSORT:Aeromite}}
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/49| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Venomoth| ]]
+
+[[de:Omot]]
+[[en:Venomoth (Pokémon)]]
+[[es:Venomoth]]
+[[it:Venomoth]]
+[[ja:モルフォン]]
+[[pl:Venomoth]]
+[[pt:Venomoth (pokémon)]]

@@ -1,0 +1,340 @@
+{{Ruban Pokémon
+| nomPrécédent=Électrode
+| numéro=102
+| nom=Nœunœuf
+| nomSuivant=Noadkoko
+}}
+{{Infobox Pokémon 
+| nom=Nœunœuf
+| nomen=Exeggcute
+| nomja=タマタマ
+| nomtm=Tamatama
+| nomde=Owei
+| légende=Artwork de Nœunœuf pour {{RFVF}}
+| ndex=102
+| jdex=104
+| njdex=105
+| hdex=270
+| espece=Œuf
+| taille=0.4
+| poids=2.5
+| fmratio=.5
+| oeufpas=5120 
+| effortval=+1 Déf.
+| type1=Plante
+| type2=Psy
+| expval=98
+| expmax=1250000
+| captureval=90
+| groupoeuf1=Plante
+| capspe1=Chlorophyle
+| capspe2=Récolte
+| capspe2-reve=oui
+| couleur=Rose
+| forme=11}}
+'''Nœunœuf''' (anglais : '''Exeggcute''' ; japonais : '''タマタマ''' ''Tamatama'') est un [[Pokémon]] de [[type]] {{type|plante}} et {{type|psy}} de la [[première génération]]. Il peut évoluer en [[Noadkoko]] lorsqu'il est mis en contact avec une [[Pierre Plante]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Nœunœuf évolue en [[Noadkoko]] lorsqu'il est mis au contact d'une [[Pierre Plante]].
+
+{{TableauEvolutionHaut|Plante|Nœunœuf}}
+{{TableauEvolutionSimple|Avec une [[Pierre Plante]]|imageObjet=Miniat pierre plante dp.png|Noadkoko}}
+{{TableauEvolutionBas}}
+
+=== Étymologies ===
+* Français : Mélange de ''neuneu'' (niais, peu dégourdi) et d'''œuf''
+* Anglais : Vient de ''execute'' (exécuter), ''egg'' (œuf) et peut-être ''cute'' (mignon).
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Souvent pris pour des œufs, ils attaquent en groupe comme un essaim.
+;[[Pokémon Jaune]]
+:Les têtes sont attirées les unes vers les autres. Il en faut 6 pour qu'il établisse son équilibre.
+;[[Pokémon Stadium]]
+:Un Pokémon semblable aux graines d'un arbre. Si vous poursuivez l'une d'elles, d'autres s'y colleront sans que vous le remarquiez.
+;[[Pokémon Or]]
+:Sa coquille est très résistante. Si elle est fendue il peut survivre en gardant son intégrité.
+;[[Pokémon Argent]]
+:En utilisant leurs pouvoirs télépathiques, ils forment des grappes de six {{PCap|Nœunœuf}}.
+;[[Pokémon Cristal]]
+:Même si l'un d'eux est séparé du groupe, l'énergie qui les unit les fera se regrouper à nouveau.
+;[[Pokémon Rubis et Saphir]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} est constitué de six œufs formant une grappe serrée. Ces six œufs s'attirent mutuellement et pivotent. Quand des fissures apparaissent, ça signifie que {{PCap|Nœunœuf}} est sur le point d'évoluer.
+;[[Pokémon Émeraude]]
+:Il est constitué de six œufs formant une grappe serrée qui s'attirent mutuellement et pivotent. Des fissures apparaissent quand il est sur le point d'évoluer.
+;[[Pokémon Rouge Feu]]
+:Même s'il ressemble à des œufs, ce {{PCap|Pok}}é{{PCap|mon}} appartient à la famille des végétaux.
+;[[Pokémon Vert Feuille]]
+:Souvent pris pour des œufs, ils ont tendance à se regrouper pour attaquer.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Ces six œufs communiquent par télépathie. Ils peuvent se réunir rapidement si on les sépare.
+;[[Pokémon Or HeartGold]]
+:Sa coquille est très résistante. Si elle est fendue, il peut survivre en gardant sont intégrité.
+;[[Pokémon Argent SoulSilver]]
+:En utilisant leurs pouvoirs télépathiques, ils forment des grappes de six {{PCap|Nœunœuf}}.
+;[[Pokémon Noir et Blanc]]
+:Ces six œufs communiquent par télépathie. Ils peuvent se réunir rapidement si on les sépare.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-   
+! style="background-color:{{Couleur|Plante}}; width:250px" | Version
+!style="background-color:{{Couleur|Plante}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RB}}
+| style="vertical-align:middle;" | Peu commun
+| style="vertical-align:middle;" | [[Parc Safari (Kanto)|Parc Safari]]
+| style="vertical-align:middle;" | 23-27
+|-
+| ''[[Pokémon Jaune]]'' || Peu commun || [[Parc Safari (Kanto)|Parc Safari]] || 20-26
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-   
+! style="background-color:{{Couleur|Plante}}; width:250px" | Version
+!style="background-color:{{Couleur|Plante}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{OA}}
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | Arbres
+| style="vertical-align:middle;" | -
+|-
+| ''[[Pokémon Cristal]]'' || Rare || Bois aux Chènes, nuit; route 29 arbre
+|}
+
+===[[Troisième génération ]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-   
+! style="background-color:{{Couleur|Plante}}; width:250px" | Version
+! style="background-color:{{Couleur|Plante}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | À échanger depuis [[Rouge Feu]] ou [[Vert Feuille]]
+| style="vertical-align:middle;" | -
+|-
+| style="vertical-align:middle;" | {{RFVF}}
+| style="vertical-align:middle;" | Peu Commun
+| style="vertical-align:middle;" | [[Parc Safari]] - [[Bois Baies]].
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:250px" | Version
+!style="background-color:{{Couleur|Plante}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{DPP}} 
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Grand Marais]]
+|-
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Plante}}; width:250px" | Version
+! style="background-color:{{Couleur|Plante}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Plante}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}} 
+| rowspan="2" style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | Apparition des Troupeaux : [[Route 18 (Unys)|Route 18]]
+| style="vertical-align:middle;" | 35-55
+|-
+| style="vertical-align:middle;" | [[Dream World]] : Le [[Bosquet]]
+| style="vertical-align:middle;" | 10
+|}
+
+==[[Attaque]]s apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Pilonnage|15|85|20}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|N.25|Protection|-|-|20}}
+{{Attaque|N.28|Vampigraine|-|90|10}}
+{{Attaque|N.32|Para-Spore|-|75|30}}
+{{Attaque|N.37|Poudre Toxik|-|75|35}}
+{{Attaque|N.42|Lance-Soleil|120|100|10}}
+{{Attaque|N.48|Poudre Dodo|-|75|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Pilonnage|15|85|20}}
+{{Attaque|Départ|Hypnose|-|60|20}}
+{{Attaque|N.7|Protection|-|-|20}}
+{{Attaque|N.13|Vampigraine|-|90|10}}
+{{Attaque|N.19|Choc Mental|50|100|25}}
+{{Attaque|N.25|Para-Spore|-|75|30}}
+{{Attaque|N.31|Poudre Toxik|-|75|35}}
+{{Attaque|N.37|Poudre Dodo|-|75|15}}
+{{Attaque|N.43|Lance-Soleil|120|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Pilonnage|15|85|20|robustesse|2|0}}
+{{Attaque-III|Départ|Brouhaha|50|100|10|grâce|3|0}}
+{{Attaque-III|Départ|Hypnose|-|60|20|intelligence|1|3}}
+{{Attaque-III|N.7|Protection|-|-|20|intelligence|1|0}}
+{{Attaque-III|N.13|Vampigraine|-|90|10|intelligence|2|2}}
+{{Attaque-III|N.19|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.25|Para-Spore|-|75|30|intelligence|2|1}}
+{{Attaque-III|N.31|Poudre Toxik|-|75|35|intelligence|3|0}}
+{{Attaque-III|N.37|Poudre Dodo|-|75|15|intelligence|1|3}}
+{{Attaque-III|N.43|Lance-Soleil|120|100|10|sang-froid|4|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Pilonnage|15|85|20|robustesse|2}}
+{{Attaque-IV|Départ|Brouhaha|50|100|10|grâce|2}}
+{{Attaque-IV|Départ|Hypnose|-|70{{Sup|D}}{{Sup|P}}<br>60{{Sup|Pt}}{{Sup|HG}}{{Sup|SS}}|20|intelligence|2}}
+{{Attaque-IV|N.7|Protection|-|-|20|intelligence|2}}
+{{Attaque-IV|N.11|Vampigraine|-|90|10|intelligence|0}}
+{{Attaque-IV|N.17|Balle Graine|10|100|30|sang-froid|2}}
+{{Attaque-IV|N.19|Para-Spore|-|75|30|intelligence|2}}
+{{Attaque-IV|N.21|Poudre Toxik|-|75|35|intelligence|2}}
+{{Attaque-IV|N.23|Poudre Dodo|-|75|15|intelligence|2}}
+{{Attaque-IV|N.27|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.33|Soucigraine|-|100|10|beauté|2}}
+{{Attaque-IV|N.37|Don Naturel|1|100|15|sang-froid|2}}
+{{Attaque-IV|N.43|Lance-Soleil|120|100|10|sang-froid|1}}
+{{Attaque-IV|N.47|Psyko|90|100|10|intelligence|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Pilonnage|15|85|20}}
+{{Attaque-V|Départ|Brouhaha|90|100|10}}
+{{Attaque-V|Départ|Hypnose|-|60|20}}
+{{Attaque-V|N.7|Protection|-|-|20}}
+{{Attaque-V|N.11|Vampigraine|-|90|10}}
+{{Attaque-V|N.17|Balle Graine|25|100|30}}
+{{Attaque-V|N.19|Para-Spore|-|75|30}}
+{{Attaque-V|N.21|Poudre Toxik|-|75|35}}
+{{Attaque-V|N.23|Poudre Dodo|-|75|15}}
+{{Attaque-V|N.27|Choc Mental|50|100|25}}
+{{Attaque-V|N.33|Soucigraine|-|100|10}}
+{{Attaque-V|N.37|Don Naturel|1|100|15}}
+{{Attaque-V|N.43|Lance-Soleil|120|100|10}}
+{{Attaque-V|N.47|Psyko|90|100|10}}
+{{Attaque-V|N.53|Passe-Cadeau|-|-|15}}
+{{Attaques apprises-bas}}
+
+== Sensibilités ==
+
+{{Sensibilités
+| type=plante
+| sensib-combat=0.5
+| sensib-eau=0.5
+| sensib-électrique=0.5
+| sensib-feu=2
+| sensib-glace=2
+| sensib-insecte=4
+| sensib-plante=0.5
+| sensib-poison=2
+| sensib-psy=0.5
+| sensib-sol=0.5
+| sensib-spectre=2
+| sensib-ténèbres=2
+| sensib-vol=2
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=plante
+|PV=60
+|attaque=40
+|defense=80
+|atq-spc=60
+|def-spc=45
+|vitesse=40
+|special=60
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Nœunœuf
+| numero=102
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Nœunœuf RB.png
+| forme=11
+| pinballRB-gif=oui
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+
+== Distributions évènementielles ==
+À l'heure actuelle, Nœunœuf n'a été [[Pokémon évènementiel|distribué de manière évènementielle]] qu'en une seule occasion :
+* '''2004'''
+** [[Liste des Pokémon distribués en 2004#Nœunœuf|Nœunœuf œuf voeu (PCNY)]] (États-Unis)
+
+==Apparitions dans le [[dessin animé]]==
+
+On en voit un pour la première fois dans l'[[épisode 43]].
+
+Un autre Nœunœuf apparaît dans le court-métrage [[Pikachu à la rescousse]], où l'une de ses têtes est perdue puis retrouvée par un [[Leveinard]]. Les têtes du Nœunœuf dansent alors autour d'une [[Pierre Plante]], faisant évoluer le Pokémon en [[Noadkoko]].
+
+Nœunœuf a été peu vu dans le dessin animé.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 43]]
+:Bien que ressemblant à un œuf, {{PCap|Nœunœuf}} est en fait apparenté à la famille des {{PCap|Pok}}é{{PCap|mon}} végétaux. Étonnant, non ?
+
+{{Ruban Pokémon
+| nomPrécédent=Électrode
+| numéro=102
+| nom=Nœunœuf
+| nomSuivant=Noadkoko
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon évoluant avec une Pierre]]
+[[Catégorie:Pokémon évoluant avec une Pierre Plante]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/102| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Exeggcute| ]]
+
+[[de:Owei]]
+[[en:Exeggcute (Pokémon)]]
+[[es:Exeggcute]]
+[[it:Exeggcute]]
+[[ja:タマタマ]]
+[[pl:Exeggcute]]
+[[pt:Exeggcute (pokémon)]]

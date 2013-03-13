@@ -1,0 +1,534 @@
+{{Ruban Pokémon
+| nomPrécédent=Lamantine
+| numéro=088
+| nom=Tadmorv
+| nomSuivant=Grotadmorv
+}}
+{{Infobox Pokémon
+| nom=Tadmorv
+| nomen=Grimer
+| nomja=ベトベター
+| nomtm=Betbeter
+| nomromaji=Betobetā
+| nomde=Sleima
+| légende=Artwork de Tadmorv pour {{RFVF}}
+| ndex=088
+| jdex=116
+| njdex=117
+| hdex=106
+| fdex=087
+| espece=Dégueu
+| taille=0.9
+| poids=30.0
+| fmratio=.5 
+| oeufpas=5120
+| effortval=+1 PV
+| type1=Poison
+| expval=90
+| expmax=1000000
+| captureval=190
+| groupoeuf1=Indéterminé
+| capspe1=Puanteur
+| capspe2=Glue
+| capspe3=Toxitouche
+| couleur=Violet
+| forme=4}}
+'''Tadmorv''' (anglais : '''Grimer''' ; japonais : '''ベトベター''' ''Betbeter'') est un [[Pokémon]] de base de [[type]] {{type|poison}} fait de boues toxiques et apparu dans la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Tadmorv est vert plutôt que violet.
+
+===[[Évolution]]===
+
+Tadmorv peut évoluer en [[Grotadmorv]] à partir du [[niveau]] 38.
+{{TableauEvolutionHaut|Poison|Tadmorv}}
+{{TableauEvolutionSimple|[[Niveau]] 38|Grotadmorv}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+[[Puanteur]] repousse les Pokémon sauvages.<br/>
+[[Glue]] empêche le vol d'objets tenus et augmente le taux de prise lors de l'utilisation d'une [[Canne]].
+
+===Étymologies===
+
+* Français : tas de morve, inutile d'en dire plus.
+* Anglais : ''Grimer'' est dérivé de ''grime'', saleté ou crasse.
+* Japonais : betobetā betobeton (respectivement les noms japonais de Tadmorv et Grotadmorv) désigne le son émis lorsque l'on débouche un évier. De plus, beto désigne quelque chose de collant, visqueux. (ne citons que le yokai ''beto-beto san'' qui vous colle aux basques lorsque vous marchez seul la nuit)
+* Allemand : vient de ''Schleimisch ''(visqueux)
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Vivant dans des tas d'ordure, il se nourrit des déchets polluants rejetés par les usines.
+;[[Pokémon Jaune]]
+:Ce tas d'ordures concentrées sent très mauvais. Rien ne peut pousser dans son sillage putride.
+;[[Pokémon Stadium]]
+:Un truc collant transformé par les rayons X de la lune. Il adore tout ce qui est dégueu, toxique ou tout déchet industriel.
+;[[Pokémon Or]]
+:En se déplaçant il sème des parties de son corps qui deviendront plus tard des {{PCap|Tadmorv}}.
+;[[Pokémon Argent]]
+:Là où {{PCap|Tadmorv}} passe, les plantes trépassent et ne repoussent jamais.
+;[[Pokémon Cristal]]
+:Quand les corps de 2 {{PCap|Tadmorv}} se combinent, de nouveaux poisons sont créés.
+;[[Pokémon Rubis]]
+:Le corps boueux et gélatineux de {{PCap|Tadmorv}} peut être enfoncé dans n'importe quelle ouverture, même la plus petite. Ce {{PCap|Pok}}é{{PCap|mon}} se promène dans les tuyaux des égouts pour boire de l'eau croupie.
+;[[Pokémon Saphir]]
+:{{PCap|Tadmorv}} est apparu dans la vase accumulée sur un bord de mer pollué. Ce {{PCap|Pok}}é{{PCap|mon}} aime toute ce qui est dégoûtant. Une substance pleine de germes suinte constamment de tout son corps.
+;[[Pokémon Émeraude]]
+:Né de la pollution des océans, {{PCap|Tadmorv}} adore se nourrir de tout ce qui est crasseux. On en voit souvent en train d'avaler les eaux usées des usines.
+;[[Pokémon Rouge Feu]]
+:{{PCap|Tadmorv}} est né d'un tas de déchets exposé aux rayons X lunaires. Ce {{PCap|Pok}}é{{PCap|mon}} adore se nourrir de choses dégoûtantes.
+;[[Pokémon Vert Feuille]]
+:Vivant dans des tas d'ordures, il se nourrit des déchets polluants rejetés par les usines.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Tadmorv}} lance des boules de vase. Évitez les traces qu'il laisse derrière lui.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il est né d'un torrent de boue exposé aux rayons X de la lune. Il vit dans les ordures.
+;[[Pokémon Or HeartGold]]
+:En se déplaçant il sème des parties de son corps qui deviendront plus tard des {{PCap|Tadmorv}}.
+;[[Pokémon Argent SoulSilver]]
+:Là où {{PCap|Tadmorv}} passe, les plantes trépassent et ne repoussent plus jamais.
+;[[Pokémon Noir et Blanc]]
+:Il est né d'un torrent de boue exposé aux rayons X de la lune. Il vit dans les ordures.
+;[[Pokémon Noir 2 et Blanc 2]]
+:Torrent de boue devenu Pokémon, il vit dans les lieux les plus insalubres pour entretenir les microbes qu'il héberge.
+
+==Localisations==
+
+===[[Première génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Rouge]] || rowspan="4" style="vertical-align: middle;" | Rare || [[Manoir Pokémon]] à [[Cramois'Île]] - Rez de chaussée || N. 30 || 6%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 30 || 6%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 34 || 6%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 35 || 6%
+|-
+| rowspan="4" style="vertical-align: middle;" |[[Bleu]] || rowspan="4" style="vertical-align: middle;" | Commun || [[Manoir Pokémon]] à [[Cramois'Île]] - Rez de chaussée || N. 30-32 || 35%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 30-34 || 35%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 31-35 || 25%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 31-33 || 45%
+|-
+| rowspan="5" style="vertical-align: middle;" |[[Jaune]] || rowspan="5" style="vertical-align: middle;" | Commun || [[Centrale]] || N. 33-37 || 20%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - Rez de chaussée || N. 23-26 || 20%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 26-35 || 20%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 32-38 || 20%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 35-38 || 40%
+|}
+
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| rowspan="8" style="vertical-align: middle;" |[[Or]] et [[Pokémon Or et Argent|Argent]] || rowspan="6" style="vertical-align: middle;" | Commun || [[Route 16]] ([[Temps|Matin, Jour]]) || N. 26-28 || 50%
+|-
+| [[Route 16]] ([[Temps|Nuit]]) || N. 26-28 || 80%
+|-
+| [[Route 17]] ([[Temps|Matin]]) || N. 27-29 || 50%
+|-
+| [[Route 17]] ([[Temps|Jour]]) || N. 29 || 20%
+|-
+| [[Route 17]] ([[Temps|Nuit]]) || N. 27-29 || 80%
+|-
+| [[Route 18]] ([[Temps|Matin, Jour]]) || N. 26-28 || 50%
+|-
+| [[Route 18]] ([[Temps|Nuit]]) || N. 26-28 || 80%
+|-
+| [[Céladopole]] - en utilisant [[Surf]] || N. 15-24 || 90%
+|-
+| rowspan="8" style="vertical-align: middle;" |[[Cristal]] || rowspan="8" style="vertical-align: middle;" | CommunRare || [[Route 16]] ([[Temps|Matin, Jour]]) || N. 26-28 || 50%
+|-
+| [[Route 16]] ([[Temps|Nuit]]) || N. 26-28 || 80%
+|-
+| [[Route 17]] ([[Temps|Matin]]) || N. 29-33 || 55%
+|-
+| [[Route 17]] ([[Temps|Jour]]) || N. 29 || 20%
+|-
+| [[Route 17]] ([[Temps|Nuit]]) || N. 29-33 || 95%
+|-
+| [[Route 18]] ([[Temps|Matin, Jour]]) || N. 26-28 || 50%
+|-
+| [[Route 18]] ([[Temps|Nuit]]) || N. 26-29 || 95%
+|-
+| [[Céladopole]] - en utilisant [[Surf]] || N. 15-24 || 90%
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Rubis]] || Rare || [[Chemin Ardent]] || N. 14 || 2%
+|-
+| [[Saphir]] || Commun || [[Chemin Ardent]] || N. 15-16 || 25%
+|-
+| [[Pokémon Émeraude|Émeraude]] || Rare || [[Chemin Ardent]] || N. 14 || 2%
+|-
+| rowspan="5" style="vertical-align: middle;" |[[Rouge Feu]] || rowspan="5" style="vertical-align: middle;" | Rare || [[Manoir Pokémon]] à [[Cramois'Île]] - Rez de chaussée || N. 28 || 5%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 28 || 5%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 28 || 5%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 28 || 5%
+|-
+| [[Céladopole]] - Pêcher avec la [[Méga Canne]] || N. 30-40 || 1%
+|-
+| rowspan="5" style="vertical-align: middle;" |[[Vert Feuille]] || rowspan="5" style="vertical-align: middle;" | Commun || [[Manoir Pokémon]] à [[Cramois'Île]] - Rez de chaussée || N. 28-30 || 30%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 1er étage || N. 28-30 || 30%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - 2ème étage || N. 28-30 || 30%
+|-
+| [[Manoir Pokémon]] à [[Cramois'Île]] - Sous-sol || N. 28-30 || 30%
+|-
+| [[Céladopole]] - Pêcher avec la [[Méga Canne]] || N. 30-40 || 1%
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange || ||
+|-
+| [[XD]] || Unique || [[Phénacit]] || ||
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}};width:100px"|Version
+! style="background-color:{{Couleur|Poison}};width:200px"|Rareté
+! style="background-color:{{Couleur|Poison}};width:300px"|Lieu
+! style="background-color:{{Couleur|Poison}};width:100px"|Niveau
+! style="background-color:{{Couleur|Poison}};width:170px"|Pourcentage de rencontre
+|-
+| style="background:{{Couleur|Diamant}};"|{{Couleur lien|#000000|Diamant}} 
+| rowspan="3" style="vertical-align:middle" | Rare ([[Pokéradar]] uniquement) 
+| rowspan="3" style="vertical-align:middle" | [[Route 212]] - partie Sud 
+| rowspan="3" style="vertical-align:middle" | N. 18, 20 
+| rowspan="3" style="vertical-align:middle" | 12% 
+|-
+| style="background:{{couleur|Perle}};"|{{Couleur lien|#000000|Perle}}
+|-
+| style="background:{{couleur|Platine}};"|{{couleur lien|#000000|Platine}}
+|-
+| style="background:{{Couleur|hg}}"|{{Couleur lien|#000000|Or HeartGold}} || Commun || [[Route 16]], [[Route 17]], [[Route 18]] et [[ Céladopole]] || N/A|| 40% (70% à Celadopole)
+|-
+| style="background:{{Couleur|ss}};"|{{Couleur lien|#000000|Argent SoulSilver}} || Commun || [[Route 16]], [[Route 17]], [[Route 18]] et [[ Céladopole]] || N/A|| 40% (70% à Celadopole)
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Plante}}; width:150px;" | Version
+! style="background-color:{{Couleur|Plante}}; width:150px;" | Rareté
+! style="background-color:{{Couleur|Plante}}; width:450px;" | Lieu
+|-
+| style="background:{{Couleur|Noir}};"|{{couleur lien|#FFFFFF|Noir}}
+| rowspan="2" style="vertical-align: middle;" | Inexistant
+| rowspan="2" style="vertical-align: middle;" | À transférer par [[PokéFret]] ou dans le [[Pokémon Dream World]].
+|-
+| style="background:{{Couleur|Blanc}};"| {{couleur lien|#000000|Blanc}}
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|N.30|Gaz Toxik|-|55|40}}
+{{Attaque|N.33|Lilliput|-|-|20}}
+{{Attaque|N.37|Détritus|65|100|20}}
+{{Attaque|N.42|Armure|-|-|30}}
+{{Attaque|N.48|Grincement|-|85|40}}
+{{Attaque|N.55|Acidarmure|-|-|40}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Écras'Face|40|100|35}}
+{{Attaque|Départ|Gaz Toxik|-|55|40}}
+{{Attaque|N.5|Armure|-|-|30}}
+{{Attaque|N.10|Entrave|-|55|20}}
+{{Attaque|N.16|Détritus|65|100|20}}
+{{Attaque|N.23|Lilliput|-|-|20}}
+{{Attaque|N.31|Grincement|-|85|40}}
+{{Attaque|N.40|Acidarmure|-|-|40}}
+{{Attaque|N.50|Bomb-Beurk|90|100|10}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Gaz Toxik|-|55|40|intelligence|3|0}}
+{{Attaque-III|Départ|Écras'Face|40|100|35|robustesse|4|0}}
+{{Attaque-III|N.4|Armure|-|-|30|robustesse|2|0}}
+{{Attaque-III|N.8|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.13|Détritus|65|100|20|robustesse|1|4}}
+{{Attaque-III|N.19|Lilliput|-|-|20|grâce|2|0}}
+{{Attaque-III|N.26|Grincement|-|85|40|intelligence|1|3}}
+{{Attaque-III|N.34|Acidarmure|-|-|40|robustesse|1|0}}
+{{Attaque-III|N.43|Bomb-Beurk|90|100|10|robustesse|2|1}}
+{{Attaque-III|N.53|Souvenir|-|100|10|robustesse|8|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Gaz Toxik|-|55|40|intelligence|3}}
+{{Attaque-IV|Départ|Écras'Face|40|100|35|robustesse|3}}
+{{Attaque-IV|N.4|Armure|-|-|30|robustesse|2}}
+{{Attaque-IV|N.7|Coud'Boue|20|100|10|grâce|3}}
+{{Attaque-IV|N.12|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.17|Lilliput|-|-|20|grâce|2}}
+{{Attaque-IV|N.20|Détritus|65|100|20|robustesse|2}}
+{{Attaque-IV|N.23|Boue-Bombe|65|85|10|intelligence|2}}
+{{Attaque-IV|N.28|Dégommage|1|100|10|robustesse|1}}
+{{Attaque-IV|N.33|Grincement|-|85|40|intelligence|2}}
+{{Attaque-IV|N.36|Bomb-Beurk|90|100|10|robustesse|2}}
+{{Attaque-IV|N.39|Acidarmure|-|-|40|robustesse|0}}
+{{Attaque-IV|N.44|Détricanon|120|70|5|sang-froid|3}}
+{{Attaque-IV|N.49|Souvenir|-|100|10|robustesse|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Gaz Toxik|-|80|40}}
+{{Attaque-V|Départ|Écras'Face|40|100|35}}
+{{Attaque-V|N.4|Armure|-|-|30}}
+{{Attaque-V|N.7|Coud'Boue|20|100|10}}
+{{Attaque-V|N.12|Entrave|-|100|20}}
+{{Attaque-V|N.17|Lilliput|-|-|20}}
+{{Attaque-V|N.20|Détritus|65|100|20}}
+{{Attaque-V|N.23|Boue-Bombe|65|85|10}}
+{{Attaque-V|N.28|Dégommage|1|100|10}}
+{{Attaque-V|N.33|Grincement|-|85|40}}
+{{Attaque-V|N.36|Bomb-Beurk|90|100|10}}
+{{Attaque-V|N.39|Acidarmure|-|-|40}}
+{{Attaque-V|N.44|Cradovague|95|100|10}}
+{{Attaque-V|N.49|Détricanon|120|70|5}}
+{{Attaque-V|N.52|Souvenir|-|100|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Méga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 36 || [[Destruction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 47 || [[Explosion]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Dynamopoing]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 07 || [[Élécanon]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 10 || [[Puissance Cachée]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 19 || [[Giga-Sangsue]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Poinglace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 36 || [[Bomb-Beurk]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 41 || [[Poing-Éclair]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Attraction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 46 || [[Larcin]] || [[Fichier:type miniat tenebres.png]]
+|-
+|CT 48 || [[Poing de Feu]] || [[Fichier:type miniat feu.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+===Par [[donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-combat=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-sol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison]] -donc sur '''{{PAGENAME}}'''- dans la [[première génération]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=poison
+|PV=80
+|attaque=80
+|defense=50
+|atq-spc=40
+|def-spc=50
+|vitesse=25
+|special=40
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Tadmorv
+| numero=088
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Tadmorv RB.png
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| forme=4
+| pdm=oui
+| almia=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+On le verra dans un flashback de la mémoire d'[[Erika]] dans l'[[épisode 26]] nous expliquant comment un [[Ortide]] l'a sauvée d'un Tadmorv étant jeune, mais la première réelle rencontre entre les Tadmorv et [[Sacha]] se fait durant l'[[épisode 30]], à [[Salville]] où nos héros combattent un groupe de Tadmorv dirigés par un [[Grotadmorv de Sacha|Grotadmorv]] qui occupent la centrale électrique. Les Tadmorv seront finalement mis en déroute et le [[Grotadmorv de Sacha|Grotadmorv]] capturé par [[Sacha]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 30]]
+:{{PCap|Pok}}é{{PCap|mon}} Détritus. Né dans la boue, ce {{PCap|Pok}}é{{PCap|mon}} est un spécialiste des attaques [[Détritus]].
+;[[Épisode 554]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Dégueu. {{PCap|[[Tadmorv]]}} a vu le jour après qu'un tas de boue ait été exposé aux rayons x de la lune.
+
+{{Ruban Pokémon
+| nomPrécédent=Lamantine
+| numéro=088
+| nom=Tadmorv
+| nomSuivant=Grotadmorv
+}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/88| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Grimer| ]]
+
+[[de:Sleima]]
+[[en:Grimer (Pokémon)]]
+[[es:Grimer]]
+[[it:Grimer]]
+[[ja:ベトベター]]
+[[pl:Grimer]]
+[[pt:Grimer (pokémon)]]

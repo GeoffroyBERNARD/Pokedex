@@ -1,0 +1,356 @@
+{{Ruban Pokémon
+| nomPrécédent=Kokiyas
+| numéro=091
+| nom=Crustabri
+| nomSuivant=Fantominus
+}}
+{{Infobox Pokémon
+| nom=Crustabri
+| nomen=Cloyster
+| nomja=パルシェン
+| nomtm=Parshen
+| nomromaji=Parushen
+| nomde=Austos
+| légende=Artwork de Crustabri pour {{RFVF}}
+| ndex=091
+| jdex=170
+| njdex=172
+| hdex=261
+| type1=Eau
+| type2=Glace
+| espece=Bivalve
+| taille=1.5
+| poids=132.5
+| capspe1=Coque Armure
+| capspe2=Multi-Coups
+| capspe3=Envelocape
+| groupoeuf1=Eau 3
+| oeufpas=5120
+| effortval=+2 Déf. 
+| expval=203
+| expmax=1250000
+| fmratio=.5 
+| captureval=60
+| couleur=Violet
+| forme=1}}
+'''Crustabri''' (anglais : '''Cloyster''' ; japonais : '''パルシェン''' ''Parshen'') est un [[Pokémon]] de [[type]] {{type|eau}} et {{type|glace}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+===[[Évolution]]===
+Crustabri est l'évolution de [[Kokiyas]] lorsque ce dernier est mis en contact avec une [[Pierre Eau]].
+{{TableauEvolutionHaut|Eau|Kokiyas}}
+{{TableauEvolutionSimple|Avec une [[Pierre Eau]]|imageObjet=Miniat pierre eau dp.png|Crustabri}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Crustabri peut disposer soit de la capacité spéciale [[Coque Armure]], qui l'empêche d'être victime de [[coups critiques]], soit de la capacité spéciale [[Multi-Coups]], qui amène les attaques à tours multiples comme [[Picanon]] à toujours frapper 5 fois.
+
+===Étymologies===
+
+* Français : de ''crustacé'' et ''abri''.
+* Anglais : de ''to close'' (fermer) ou ''cloister'' (cloître), et de ''oyster'' (huître).
+* Japonais : de ''Sleeper'', celui qui dort.
+* Allemand : de ''Auster''(huître) et de ''Boss''
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Une fois menacé, il envoie de rapides volées de dards. Sa partie interne est inconnue.
+;[[Pokémon Jaune]]
+:Sa coquille plus dure que le diamant le protège. Il peut envoyer des volées de dards.
+;[[Pokémon Stadium]]
+:Sa coquille est si dure qu'elle peut résister à l'explosion d'une bombe. Personne n'a jamais vu ce qu'elle cache à l'intérieur.
+;[[Pokémon Or]]
+:Quand il referme sa coquille, il est impossible de la rouvrir, même avec une force hors du commun.
+;[[Pokémon Argent]]
+:Les {{PCap|[[Kokiyas]]}} vivant dans des mers aux courants forts développent des dards sur leur coquille.
+;[[Pokémon Cristal]]
+:Un missile ne peut pas détruire les pics qu'il jette sur ses ennemis. Ils sont plus durs que sa coquille.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Crustabri}} est capable de se déplacer dans les fonds marins en avalant de l'eau et en la rejetant vers l'arrière. Ce {{PCap|Pok}}é{{PCap|mon}} envoie des pointes en utilisant la même méthode.
+;[[Pokémon Émeraude]]
+:{{PCap|Crustabri}} est capable de se déplacer dans les fonds marins en avalant de l'eau et en la rejetant vers l'arrière. Il envoie des pointes en utilisant la même méthode.
+;[[Pokémon Rouge Feu]]
+:Sa coquille est extrêmement résistante. Rien ne peut la détruire, pas même une bombe. Il ne l'ouvre que lorsqu'il attaque.
+;[[Pokémon Vert Feuille]]
+:Une fois menacé, il envoie de rapides volées de dards. On ignore ce qui se trouve à l'intérieur de sa carapace.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]], [[Pokémon Platine|Platine]]
+:Il se défend en fermant sa coquille et projette des piquants qui repoussent ses agresseurs.
+;[[Pokémon Or HeartGold]]
+:Quand il referme sa coquille, il est impossible de la rouvrir, même avec une force hors du commun.
+;[[Pokémon Argent SoulSilver]]
+:Les {{PCap|Crustabri}} vivant dans les mers aux courants forts développent des dards sur leur coquille.
+;[[Pokémon Noir et Blanc]]
+:Il se défend en fermant sa coquille et projette des piquants qui repoussent ses agresseurs.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RBJ}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Kokiyas]].
+| style="vertical-align:middle;" | -
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{OAC}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Kokiyas]].
+| style="vertical-align:middle;" | -
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{RSE}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Kokiyas]].
+| style="vertical-align:middle;" | -
+|-
+| style="vertical-align:middle;" | {{RFVF}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Kokiyas]].
+| style="vertical-align:middle;" | -
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || Faire évoluer [[Kokiyas]].
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{DP}} 
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Kokiyas]].
+| style="vertical-align:middle;" | -
+|-
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Eau}}; width:250px" | Version
+! style="background-color:{{Couleur|Eau}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Eau}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Eau}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}} 
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Route 13 (Unys)|Route 13]] {{infobulle|*|Pêche Tourbillon}}
+| style="vertical-align:middle;" | 35-70
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Repli|-|-|40}}
+{{Attaque|Départ|Ultrason|-|55|20}}
+{{Attaque|Départ|Claquoir|35|75|10}}
+{{Attaque|Départ|Onde Boréale|65|100|20}}
+{{Attaque|N.41|Picanon|20|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Repli|-|-|40}}
+{{Attaque|Départ|Ultrason|-|55|20}}
+{{Attaque|Départ|Onde Boréale|65|100|20}}
+{{Attaque|Départ|Abri|-|-|10}}
+{{Attaque|N.33{{Sup|C}}|Picots|-|-|20}}
+{{Attaque|N.50|Picanon|20|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Repli|-|-|40|grâce|1|0}}
+{{Attaque-III|Départ|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|Départ|Onde Boréale|65|100|20|beauté|2|1}}
+{{Attaque-III|Départ|Abri|-|-|10|grâce|1|0}}
+{{Attaque-III|N.33{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.36{{Sup|RF}}{{Sup|VF}}|Picots|-|-|20|intelligence|2|0}}
+{{Attaque-III|N.41{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.43{{Sup|RF}}{{Sup|VF}}|Picanon|20|100|15|sang-froid|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Pics Toxik|-|-|20|intelligence|2}}
+{{Attaque-IV|Départ|Repli|-|-|40|grâce|2}}
+{{Attaque-IV|Départ|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|Départ|Abri|-|-|10|grâce|0}}
+{{Attaque-IV|Départ|Onde Boréale|65|100|20|beauté|2}}
+{{Attaque-IV|N.28|Picots|-|-|20|intelligence|2}}
+{{Attaque-IV|N.40|Picanon|20|100|15|sang-froid|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Pics Toxik|-|-|20}}
+{{Attaque-V|Départ|Repli|-|-|40}}
+{{Attaque-V|Départ|Ultrason|-|55|20}}
+{{Attaque-V|Départ|Abri|-|-|10}}
+{{Attaque-V|Départ|Onde Boréale|65|100|20}}
+{{Attaque-V|N.13|Picanon|20|100|15}}
+{{Attaque-V|N.28|Picots|-|-|20}}
+{{Attaque-V|N.52|Chute Glace|85|90|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+| type=Eau
+| sensib-eau=0.5
+| sensib-glace=0.25
+| sensib-électrique=2
+| sensib-plante=2
+| sensib-roche=2
+| sensib-combat=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=eau
+|PV=50
+|attaque=95
+|defense=180
+|atq-spc=85
+|def-spc=45
+|vitesse=70
+|special=85
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Crustabri
+| numero=091
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Crustabri RB.png
+| forme=1
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Crustabri a été vu à plusieurs reprises dans le dessin animé, la première fois dans l'[[Épisode 36]] en possession d'un adversaire d'{{da|Ondine}}, la seconde dans l'[[Épisode 76]] où l'adversaire du 3ème tour de la [[Ligue Indigo]] de [[Sacha]] verra son Crustabri se faire battre par [[Krabboss de Sacha|Krabboss]].<br/>
+On en verra ensuite à 2 reprises dans la Saison 2, sous les ordres d'un sculpteur dans l'[[Épisode 87]], et sous les ordres de [[Olga (Conseil 4)|Olga]] du [[Conseil des 4]] dans l'[[Épisode 99]].<br/>
+[[Butch]] de la [[Team Rocket]] en utilisera également un lorsqu'il essaye de capturer [[Sulfura]] avec [[Cassidy]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 36]]
+:{{PCap|Pok}}é{{PCap|mon}} Bivalve. Sa coquille est très épaisse et résiste aux bombes. Il ne s'ouvre que quand il attaque.
+
+{{Ruban Pokémon
+| nomPrécédent=Kokiyas
+| numéro=091
+| nom=Crustabri
+| nomSuivant=Fantominus
+}}
+ 
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/91| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Cloyster| ]]
+
+[[de:Austos]]
+[[en:Cloyster (Pokémon)]]
+[[es:Cloyster]]
+[[it:Cloyster]]
+[[ja:パルシェン]]
+[[pl:Cloyster]]
+[[pt:Cloyster (pokémon)]]

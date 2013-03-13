@@ -1,0 +1,397 @@
+{{Ruban Pokémon
+| nomPrécédent=Abra
+| numéro=064
+| nom=Kadabra
+| nomSuivant=Alakazam
+}}
+{{Infobox Pokémon
+| nom=Kadabra
+| nomen=Kadabra
+| nomja=ユンゲラー
+| nomromaji=Yungerā
+| nomtm=Yungerer
+| nomde=Kadabra
+| légende=Artwork de Kadabra pour {{RFVF}}
+| ndex=064
+| jdex=090
+| hdex=040
+| sdex=021
+| espece=Psy
+| taille=1.3
+| poids=56.5
+| fmratio=.25
+| oeufpas=5120
+| effortval=+2 Att. Spé
+| type1=Psy
+| expval=145
+| expmax=1059860
+| captureval=100
+| groupoeuf1=Humanoïde
+| capspe1=Synchro
+| capspe2=Attention
+| capspe3=Garde Magik
+| couleur=Marron
+| forme=6}}
+'''Kadabra''' (anglais : '''Kadabra''' ; japonais : '''ユンゲラー''' ''Yungerer'') est un Pokémon {{type|psy}} de la [[première génération]].
+
+==À propos du Pokémon==
+===Physionomie===
+
+====Différences mâle/femelle====
+
+Les Kadabra femelles ont une moustache plus courte.
+
+===[[Évolution]]===
+Kadabra est l'évolution à partir du [[niveau]] 16 d'[[Abra]], et évolue en cas d'échange entre dresseurs en [[Alakazam]].
+{{TableauEvolutionHaut|Psy|Abra}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Kadabra}}
+{{TableauEvolutionSimple|[[échange de Pokémon|Échange]]|Alakazam}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Kadabra peut disposer soit de la capacité spéciale [[Synchro]], qui transmet à l'ennemi l'[[empoisonnement]], la [[brûlure]] ou la [[paralysie]] du Pokémon et augmente la probabilité de rencontrer des Pokémon sauvages ayant la même nature lorsqu'il est en tête de l'équipe, soit de la capacité spéciale [[Attention]], qui l'empêche d'« [[Statut#Peur|avoir la trouille]] » et de passer son tour face à des attaques comme [[Morsure]].
+
+===Étymologies===
+* Français, Allemand, Anglais : ''kadabra'' vient de Abra''kadabra'', terme de magie
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Bleu et Rouge]]
+: Son corps émet des [[:wp:Rythme alpha|ondes alpha]] provoquant des migraines à ceux qui se trouvent à proximité.
+;[[Pokémon Jaune]]
+: Sa présence cause des événements étranges, comme des pendules marchant à l'envers.
+;[[Pokémon Stadium]]
+: En utilisant des pouvoirs {{PCap|[[Psy]]}}, tous ses neurones fonctionnent en symbiose pour créer de puissantes [[:wp:Rythme alpha|ondes alpha]].
+;[[Pokémon Or]]
+: Il est doté de puissants pouvoirs {{PCap|[[Psy]]}} qui s'adaptent à la force des ennemis qu'il rencontre.
+;[[Pokémon Argent]]
+: En utilisant ses pouvoirs, il émet des [[:wp:Rythme alpha|ondes alpha]] et cause des distorsions électroniques.
+;[[Pokémon Cristal]]
+: En fermant les yeux, le double de particules alpha se dégage de son corps.
+;[[Pokémon Rubis]]
+: {{PCap|Kadabra}} émet une onde alpha si particulière qu'elle vous donne mal à la tête. Seuls les gens avec un psychisme puissant peuvent espérer devenir {{PCap|Dresseur}} de ce {{PCap|Pok}}é{{PCap|mon}}.
+;[[Pokémon Saphir]]
+: {{PCap|Kadabra}} tient une cuillère en argent dans la main. Elle est utilisée pour amplifier les [[:wp:Rythme alpha|ondes alpha]] de son cerveau. Sans elle, on raconte que ce {{PCap|Pok}}é{{PCap|mon}} ne peut utiliser que la moitié de ses [[:wp:Psychokinésie|pouvoirs télékinésiques]].
+;[[Pokémon Émeraude]]
+: On dit que {{PCap|Kadabra}} était jadis un garçon. Ses pouvoirs psychiques l'auraient fait se transformer alors qu'il participait à des expériences extrasensorielles.
+;[[Pokémon Rouge Feu]]
+: Selon les rumeurs, {{PCap|Kadabra}} serait un petit garçon aux pouvoirs {{PCap|[[Psy]]}} qui se serait réveillé un jour sous cette apparence.
+;[[Pokémon Vert Feuille]]
+: Son corps émet des [[:wp:Rythme alpha|ondes alpha]] qui donnent la migraine à ceux qui se trouvent à proximité.
+;[[Pokémon Diamant]]
+: Une ombre inquiétante obscurcit l'écran télé quand il s'approche. Le malheur frappe celui qui la voit.
+;[[Pokémon Perle]]
+: Son pouvoir psychique émet des ondes alpha qui brouillent les appareils électroniques.
+;[[Pokémon Ranger 2]]
+:Il se déplace par téléportation et génère des orbes étranges pour attaquer.
+;[[Pokémon Platine]]
+:Il fixe sa cuillère d'argent afin de concentrer son esprit et d'émettre un maximum d'[[:wp:Rythme alpha|ondes alpha]].
+;[[Pokémon Or HeartGold]]
+:Il est doté de puissants pouvoirs {{PCap|[[Psy]]}} qui s'adaptent à la force des ennemis qu'il rencontre.
+;[[Pokémon Argent SoulSilver]]
+:En utilisant ses pouvoirs, il émet des ondes alpha et cause des distorsions électroniques.
+;[[Pokémon Noir et Blanc]]
+:Il fixe sa cuillère d'argent afin de concentrer son esprit et d'émettre un maximum d'[[:wp:Rythme alpha|ondes alpha]].
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Psy}}; width:50px" | Pourcentage de rencontre
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Rouge]] || rowspan="2" style="vertical-align: middle;" | Rare || [[Grotte Inconnue]] - Rez-de-chaussée || N. 49 || 6%
+|-
+|[[Grotte Inconnue]] - 1er étage || N. 51 || 8%
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Bleu]] || rowspan="2" style="vertical-align: middle;" | Rare || [[Grotte Inconnue]] - Rez-de-chaussée || N. 49 || 6%
+|-
+|[[Grotte Inconnue]] - 1er étage || N. 51 || 8%
+|-
+| [[Jaune]] || Rare || [[Route 8]] || N. 20-27 || 5%
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:250px" | Version
+! style="background-color:{{Couleur|Psy}}; width:100px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Psy}}; width:50px" | Rencontre
+|-
+| style="vertical-align:middle;" | {{OAC}} 
+| style="vertical-align:middle;" | Rare
+| style="vertical-align:middle;" | [[Route 8]]
+| style="vertical-align:middle;" | 15-18
+| style="vertical-align:middle;" | 5%
+|-
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Psy}}; width:50px" | Pourcentage de rencontre
+|-
+| [[Rubis]] || Inexistant || Faire évoluer Abra || - || -
+|-
+| [[Saphir]] || Inexistant || Faire évoluer Abra || - || -
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || Faire évoluer Abra || - || -
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Rouge Feu]] || rowspan="2" style="vertical-align: middle;" | Rare || [[Caverne Azurée]] - Rez-de-chaussée || N. 55-64 || 11%
+|-
+|[[Caverne Azurée]] - 2ème étage || N. 58-67 || 25%
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Vert Feuille]] || rowspan="2" style="vertical-align: middle;" | Rare || [[Caverne Azurée]] - Rez-de-chaussée || N. 55-64 || 11%
+|-
+|[[Caverne Azurée]] - 2ème étage || N. 58-67 || 25%
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange. || - || -
+|-
+| [[XD]] || Inexistant || À obtenir par échange. || - || -
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+! style="background-color:{{Couleur|Psy}}; width:50px" | Pourcentage de rencontre
+|-
+| rowspan="2" style="vertical-align: middle;" |[[Diamant]] et [[Perle]] || rowspan="2" style="vertical-align: middle;" | Peu commun || [[Route 215]] || N. 20-22 || 15%
+|-
+| [[Route Victoire]] - 2ème étage || N. 45-47 || 25%
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}}
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| rowspan="2" style="vertical-align:middle;" | Faire évoluer [[Abra]]
+| rowspan="2" style="vertical-align:middle;" | 16
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Téléport|-|-|20}}
+{{Attaque|Départ|Choc Mental|50|100|25}}
+{{Attaque|Départ|Télékinésie|-|80|15}}
+{{Attaque|N.20|Entrave|-|55|20}}
+{{Attaque|N.27|Rafale Psy|65|100|20}}
+{{Attaque|N.31|Soin|-|-|20}}
+{{Attaque|N.38|Psyko|90|100|10}}
+{{Attaque|N.42|Protection|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Téléport|-|-|20}}
+{{Attaque|Départ|Télékinésie|-|80|15}}
+{{Attaque|N.16|Choc Mental|50|100|25}}
+{{Attaque|N.18|Entrave|-|55|20}}
+{{Attaque|N.21|Rafale Psy|65|100|20}}
+{{Attaque|N.26|Soin|-|-|20}}
+{{Attaque|N.31|Prescience|80|90|15}}
+{{Attaque|N.38|Psyko|90|100|10}}
+{{Attaque|N.45|Protection|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Téléport|-|-|20|sang-froid|1|0}}
+{{Attaque-III|Départ|Télékinésie|-|80|15|intelligence|3|0}}
+{{Attaque-III|Départ<br>N.16|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|N.18|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.21|Rafale Psy|65|100|20|beauté|3|0}}
+{{Attaque-III|N.23|Protection|-|-|20|intelligence|1|0}}
+{{Attaque-III|N.25|Soin|-|-|20|intelligence|2|1}}
+{{Attaque-III|N.30|Prescience|80|90|15|intelligence|3|0}}
+{{Attaque-III|N.33|Imitation|-|100|10|grâce|1|0}}
+{{Attaque-III|N.36|Psyko|90|100|10|intelligence|1|3}}
+{{Attaque-III|N.43|Tourmagik|-|100|10|intelligence|2|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Téléport|-|-|20|sang-froid|2}}
+{{Attaque-IV|Départ|Télékinésie|-|80|15|intelligence|0}}
+{{Attaque-IV|Départ<br>N.16|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|N.18|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.22|Œil Miracle|-|-|40|grâce|1}}
+{{Attaque-IV|N.24|Rafale Psy|65|100|20|beauté|2}}
+{{Attaque-IV|N.28|Protection|-|-|20|intelligence|2}}
+{{Attaque-IV|N.30|Soin|-|-|10|intelligence|0}}
+{{Attaque-IV|N.34|Coupe Psycho|70|100|20|sang-froid|2}}
+{{Attaque-IV|N.36|Imitation|-|-|10|grâce|1}}
+{{Attaque-IV|N.40|Psyko|90|100|10|intelligence|2}}
+{{Attaque-IV|N.42|Prescience|80|90|15|intelligence|2}}
+{{Attaque-IV|N.46|Tourmagik|-|100|10|intelligence|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Téléport|-|-|20}}
+{{Attaque-V|Départ|Télékinésie|-|80|15}}
+{{Attaque-V|Départ<br>N.16|Choc Mental|50|100|25}}
+{{Attaque-V|N.18|Entrave|-|100|20}}
+{{Attaque-V|N.22|Œil Miracle|-|-|40}}
+{{Attaque-V|N.24|Interversion|-|-|15}}
+{{Attaque-V|N.28|Rafale Psy|65|100|20}}
+{{Attaque-V|N.30|Protection|-|-|20}}
+{{Attaque-V|N.34|Lévikinésie|-|-|15}}
+{{Attaque-V|N.36|Soin|-|-|10}}
+{{Attaque-V|N.40|Coupe Psycho|70|100|20}}
+{{Attaque-V|N.42|Imitation|-|-|10}}
+{{Attaque-V|N.46|Psyko|90|100|10}}
+{{Attaque-V|N.48|Prescience|100|100|10}}
+{{Attaque-V|N.52|Tourmagik|-|100|10}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=psy
+|sensib-combat=0.5
+|sensib-insecte=2
+|sensib-psy=0.5
+|sensib-spectre=2
+|sensib-ténèbres=2
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=psy
+|PV=40
+|attaque=35
+|defense=30
+|atq-spc=120
+|def-spc=70
+|vitesse=105
+|special=120
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Kadabra
+| numero=064
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Kadabra RB.png
+| forme=6
+| pdm=oui
+| almia=non
+| pinballRS=oui
+| diff_dp-pt=oui
+| diff-fm=oui
+| diff_rs-rfvf=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Première apparition sous le contrôle de [[Morgane]] dans l'[[épisode 22]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 22]]
+:{{PCap|Pok}}é{{PCap|mon}} psychique. La [[évolution|forme évoluée]] de {{PCap|Abra}}. Ses combats [[:wp:Psychokinésie|psychokinétiques]] sont puissants.
+
+{{Ruban Pokémon
+| nomPrécédent=Abra
+| numéro=064
+| nom=Kadabra
+| nomSuivant=Alakazam
+}}
+
+[[Catégorie:Pokémon évoluant lors d'un échange]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/64| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Kadabra| ]]
+
+[[de:Kadabra]]
+[[en:Kadabra (Pokémon)]]
+[[es:Kadabra]]
+[[it:Kadabra]]
+[[ja:ユンゲラー]]
+[[pl:Kadabra]]
+[[pt:Kadabra (pokémon)]]

@@ -1,0 +1,681 @@
+{{Ruban Pokémon
+| nomPrécédent=Dracolosse
+| numéro=150
+| nom=Mewtwo
+| nomSuivant=Mew
+}}
+{{Infobox Pokémon
+| nom=Mewtwo
+| nomen=Mewtwo
+| nomja=ミュウツー
+| nomromaji=Myūtsū
+| nomde=Mewtu
+| nomtm=Mewtwo
+| légende=Dessin officiel de Ken Sugimori
+| ndex=150
+| jdex=250
+| njdex=254
+| hdex=385
+| odex=R-293
+| espece=Génétique
+| taille=2.0
+| poids=122.0
+| fmratio=-1
+| groupoeuf1=Sans œuf
+| oeufpas=30720
+| effortval=+3 Att. Spé
+| type1=Psy
+| expval=220
+| expmax=1250000
+| couleur=Violet
+| captureval=3
+| capspe1=Pression
+| capspe2=Tension
+| capspe2-reve=oui
+| forme=6}}
+'''Mewtwo''' (anglais : '''Mewtwo''' ; japonais : '''ミュウツー''' ''Mewtwo'') est un [[Pokémon]] [[légendaire]] de [[type]] {{type|psy}} de la [[première génération]]. C'est également un [[Pokémon]] créé par l'homme à partir de cellules de [[Mew]].
+
+==À propos du Pokémon==
+===Physionomie===
+Comme Mewtwo a été créé à partir de [[Mew]], il est sans doute également à mi-chemin entre le [[:wp:chat|chat]] (pour la tête) et la [[:wp:gerboise|gerboise]] (pour le reste du corps).
+
+====Différences mâle/femelle====
+
+Ce Pokémon est unique et asexué, il n'y a donc pas de Mewtwo mâle ou femelle.
+
+==== [[Chromatique]] ====
+Lorsqu'il est chromatique, Mewtwo a une queue et des yeux verts.
+
+=== [[Évolution]] ===
+
+Mewtwo est un [[Pokémon légendaire]]. Il n'a donc pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===[[Capacité spéciale]]===
+[[Pression]] : permet de faire consommer deux [[PP]] à l'adversaire au lieu d'un seul.
+
+===Étymologies===
+* Français, anglais, allemand : Mew, le Pokémon cloné, et ''two'', qui signifie ''deux'' en Anglais.
+* Japonais : ''Myūtsū'' est la transcription de Mewtwo.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Il est le fruit de nombreuses expériences génétiques horribles et malsaines.
+;[[Pokémon Jaune]]
+:Son ADN est le même que celui de {{PCap|[[Mew]]}} mais sa taille et son aspect sont très différents.
+;[[Pokémon Stadium]]
+:Un {{PCap|Pok}}é{{PCap|mon}} {{PCap|[[Psy]]}} vicieux et dangereux créé par l'homme. Ses yeux froids et brillants pétrifient de peur chaque adversaire.
+;[[Pokémon Or]]
+:Ses capacités de combat ont été améliorées au niveau maximum. Il ne pense qu'à la victoire.
+;[[Pokémon Argent]]
+:Habituellement, il reste immobile pour économiser son énergie qu'il préfère consacrer au combat.
+;[[Pokémon Cristal]]
+:On dit qu'il se repose dans une [[grotte inconnue]]. Il a été créé uniquement pour le combat.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Mewtwo}} est un {{PCap|Pok}}é{{PCap|mon}} créé par manipulation génétique. Cependant, bien que les connaissances scientifiques des humains aient réussi à créer son corps, elles n'ont pas pu doter {{PCap|Mewtwo}} d'un cœur sensible.
+;[[Pokémon Rouge Feu]]
+:Le caractère malfaisant de ce {{PCap|Pok}}é{{PCap|mon}} est le résultat de nombreuses expériences qui visaient à modifier son code génétique.
+;[[Pokémon Vert Feuille]]
+:Il est le fruit de nombreuses expériences génétiques horribles et malsaines.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Un {{PCap|Pok}}é{{PCap|mon}} conçu en réorganisant les gènes de {{PCap|[[Mew]]}}. On raconte qu'il s'agit du {{PCap|Pok}}é{{PCap|mon}} le plus féroce.
+;[[Pokémon Or HeartGold]]
+:Ses capacités de combat ont été améliorées au niveau maximum. Il ne pense qu'à se battre.
+;[[Pokémon Argent SoulSilver]]
+:Habituellement, il reste immobile pour économiser son énergie qu'il préfère consacrer au combat.
+;[[Pokémon Ranger : Sillages de Lumière]]
+:Attaque avec des orbes psychiques ou un puissant rayon laser.
+;[[Pokémon Noir et Blanc]]
+:Un Pokémon conçu en réorganisant les gènes de [[Mew]]. On raconte qu'il s'agit du Pokémon le plus féroce.
+
+==Localisations==
+
+===[[Première génération]]===
+
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+|-
+| {{RB}} || rowspan="2" style="vertical-align: middle;"| Unique || rowspan="2" style="vertical-align: middle;"| [[Grotte Azurée]] || rowspan="2" style="vertical-align: middle;"| N. 70
+|-
+| ''[[Pokémon Jaune]]''
+|}
+
+===[[Deuxième génération]]===
+
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+|-
+| {{OA}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{BRJ}}.
+|-
+| ''[[Pokémon Cristal]]''
+|}
+
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+|-
+| {{RS}} || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. || rowspan="2" style="vertical-align: middle;"| -
+|-
+| ''[[Pokémon Émeraude]]''
+|-
+| {{RFVF}} || Unique || [[Grotte Azurée]] || N. 70
+|-
+| ''[[Pokémon Colosseum]]'' || rowspan="2" style="vertical-align: middle;"| Inexistant || rowspan="2" style="vertical-align: middle;"| À échanger depuis {{RFVF}}. || rowspan="2" style="vertical-align: middle;"| -
+|-
+| ''[[Pokémon XD]]''
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Psy}}; width:50px" | Niveau
+|-
+| {{DPP}} || style="vertical-align: middle;"| Inexistant || style="vertical-align: middle;" | À transférer par le biais du [[Parc des Amis]] ou via un échange avec [[Pokémon Or HeartGold et Argent SoulSilver|''Pokémon Or HeartGold'']] ou [[Pokémon Or HeartGold et Argent SoulSilver|''Pokémon Argent SoulSilver'']]. || style="vertical-align: middle;" | -
+|-
+| {{HGSS}} || style="vertical-align: middle;" | Unique || style="vertical-align: middle;" | [[Grotte Azurée]] || style="vertical-align: middle;" | N. 70
+|}
+
+===[[Cinquième génération]]===
+{| class="wikitable" style="text-align:center;"
+! style="background-color:{{Couleur|Psy}}; width:150px" | Version
+! style="background-color:{{Couleur|Psy}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Psy}}; width:450px" | Lieu
+|-
+| {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align: middle;" | À transférer par [[PokéFret]] ou via le [[Cadeau Mystère]] à partir du 26 mars 2012 jusqu'au 30 avril 2012.
+|}
+
+==Attaques apprises==
+
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Choc Mental|50|100|25}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|Départ|Météores|60|-|20}}
+{{Attaque|N.63|Bouclier|-|-|30}}
+{{Attaque|N.66|Psyko|90|100|10}}
+{{Attaque|N.70|Soin|-|-|20}}
+{{Attaque|N.75|Brume|-|-|30}}
+{{Attaque|N.81|Amnésie|-|-|20}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Choc Mental|50|100|25}}
+{{Attaque|Départ|Entrave|-|55|20}}
+{{Attaque|N.11|Bouclier|-|-|30}}
+{{Attaque|N.22|Météores|60|-|20}}
+{{Attaque|N.33|Boost|-|-|10}}
+{{Attaque|N.44|Prescience|80|90|15}}
+{{Attaque|N.55|Brume|-|-|30}}
+{{Attaque|N.66|Psyko|90|100|10}}
+{{Attaque|N.77|Amnésie|-|-|20}}
+{{Attaque|N.88|Soin|-|-|20}}
+{{Attaque|N.99|Rune Protect|-|-|25}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Choc Mental|50|100|25|intelligence|2|3}}
+{{Attaque-III|Départ|Entrave|-|55|20|intelligence|2|0}}
+{{Attaque-III|N.11|Bouclier|-|-|30|sang-froid|1|0}}
+{{Attaque-III|N.22{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.33{{Sup|RF}}{{Sup|VF}}|Météores|60|-|20|sang-froid|2|0}}
+{{Attaque-III|N.33{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.77{{Sup|RF}}{{Sup|VF}}|Boost|-|-|10|intelligence|2|0}}
+{{Attaque-III|N.44{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.88{{Sup|RF}}{{Sup|VF}}|Prescience|80|90|15|intelligence|3|0}}
+{{Attaque-III|N.55{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.22{{Sup|RF}}{{Sup|VF}}|Brume|-|-|30|beauté|1|0}}
+{{Attaque-III|N.66|Psyko|90|100|10|intelligence|1|3}}
+{{Attaque-III|N.77{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.99{{Sup|RF}}{{Sup|VF}}|Amnésie|-|-|20|grâce|1|0}}
+{{Attaque-III|N.88{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.44{{Sup|RF}}{{Sup|VF}}|Soin|-|-|20|intelligence|2|1}}
+{{Attaque-III|N.99{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.55{{Sup|RF}}{{Sup|VF}}|Rune Protect|-|-|25|beauté|1|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV}}
+{{Attaque-IV|Départ|Choc Mental|50|100|25|intelligence|3}}
+{{Attaque-IV|Départ|Entrave|-|80|20|intelligence|2}}
+{{Attaque-IV|N.8|Bouclier|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.15|Météores|60|-|20|sang-froid|2}}
+{{Attaque-IV|N.22|Prescience|80|90|15|intelligence|2}}
+{{Attaque-IV|N.29|Boost|-|-|10|intelligence|0}}
+{{Attaque-IV|N.36|Œil Miracle|-|-|40|grâce|1}}
+{{Attaque-IV|N.43|Brume|-|-|30|beauté|2}}
+{{Attaque-IV|N.50|Coupe Psycho|70|100|20|sang-froid|2}}
+{{Attaque-IV|N.57|Amnésie|-|-|20|grâce|0}}
+{{Attaque-IV|N.64|Permuforce|-|-|10|beauté|0}}
+{{Attaque-IV|N.64|Permugarde|-|-|10|grâce|0}}
+{{Attaque-IV|N.71|Psyko|90|100|10|intelligence|2}}
+{{Attaque-IV|N.79|Moi d'Abord|-|-|20|grâce|2}}
+{{Attaque-IV|N.86|Soin|-|-|10|intelligence|0}}
+{{Attaque-IV|N.93|Rune Protect|-|-|25|beauté|2}}
+{{Attaque-IV|N.100|Aurasphère|90|-|20|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Choc Mental|50|100|25}}
+{{Attaque-V|Départ|Entrave|-|100|20}}
+{{Attaque-V|Départ|Bouclier|-|-|30}}
+{{Attaque-V|N.8|Météores|60|-|20}}
+{{Attaque-V|N.15|Prescience|100|100|10}}
+{{Attaque-V|N.22|Boost|-|-|10}}
+{{Attaque-V|N.29|Œil Miracle|-|-|40}}
+{{Attaque-V|N.36|Brume|-|-|30}}
+{{Attaque-V|N.43|Coupe Psycho|70|100|20}}
+{{Attaque-V|N.50|Amnésie|-|-|20}}
+{{Attaque-V|N.57|Permuforce|-|-|10}}
+{{Attaque-V|N.57|Permugarde|-|-|10}}
+{{Attaque-V|N.64|Psyko|90|100|10}}
+{{Attaque-V|N.71|Moi d'abord|-|-|20}}
+{{Attaque-V|N.79|Soin|-|-|10}}
+{{Attaque-V|N.86|Rune protect|-|-|25}}
+{{Attaque-V|N.93|Aurasphere|90|-|20}}
+{{Attaque-V|N.100|Frappe Psy|100|100|10}}
+{{Attaques apprises-bas}}
+À noter que [[Frappe Psy]] est une [[Attaque signature]] propre à Mewtwo dans la [[cinquième génération]].
+
+===Par [[CT]]/[[CS]]===
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="20%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text align:center;"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+|CT 01 || [[Ultimapoing]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 05 || [[Ultimawashi]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+|CT 08 || [[Plaquage]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 09 || [[Bélier]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 10 || [[Damoclès]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 11 || [[Bulles d'O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 12 || [[Pistolet à O]] || [[Fichier:type miniat eau.png]]
+|-
+|CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+|CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 16 || [[Jackpot]]{{Sup|Rouge}}{{Sup|Bleu}} || [[Fichier:type miniat normal.png]]
+|-
+|CT 17 || [[Sacrifice]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 18 || [[Riposte]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 19 || [[Frappe Atlas]] || [[Fichier:type miniat combat.png]]
+|-
+|CT 20 || [[Frénésie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 22 || [[Lance-Soleil]] || [[Fichier:type miniat plante.png]]
+|-
+|CT 24 || [[Tonnerre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 29 || [[Psyko]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 30 || [[Téléport]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 31 || [[Copie]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 34 || [[Patience]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 35 || [[Métronome (attaque)|Métronome]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 36 || [[Destruction]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+|CT 40 || [[Coud'Krâne]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 45 || [[Cage-Éclair]] || [[Fichier:type miniat electrique.png]]
+|-
+|CT 46 || [[Vague Psy]] || [[Fichier:type miniat psy.png]]
+|-
+|CT 49 || [[Triplattaque]] || [[Fichier:type miniat normal.png]]
+|-
+|CT 50 || [[Clonage (attaque)|Clonage]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+|CS 05 || [[Flash]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text align:center;"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CT 01 || [[Dynamopoing]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 02 || [[Coup d'Boule]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 03 || [[Malédiction]] || [[Fichier:type miniat inconnu.png]]
+|-
+| CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+| CT 07 || [[Élécanon]] || [[Fichier:type miniat electrique.png]]
+|-
+| CT 08 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 09 || [[Boost]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 10 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+| CT 13 || [[Ronflement]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 16 || [[Vent Glace]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 17 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 20 || [[Ténacité]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 22 || [[Lance-Soleil]] || [[Fichier:type miniat plante.png]]
+|-
+| CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+| CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat electrique.png]]
+|-
+| CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 29 || [[Psyko]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 30 || [[Ball'Ombre]] || [[Fichier:type miniat spectre.png]]
+|-
+| CT 31 || [[Coud'Boue]] || [[Fichier:type miniat sol.png]]
+|-
+| CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 33 || [[Poinglace]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 34 || [[Vantardise]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 35 || [[Blabla Dodo]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+| CT 39 || [[Météores]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 41 || [[Poing-Éclair]] || [[Fichier:type miniat electrique.png]]
+|-
+| CT 42 || [[Dévorêve]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 43 || [[Détection]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 48 || [[Poing de Feu]] || [[Fichier:type miniat feu.png]]
+|-
+| CT 50 || [[Cauchemar]] || [[Fichier:type miniat spectre.png]]
+|-
+| CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+| CS 05 || [[Flash]] || [[Fichier:type miniat normal.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text align:center;"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CT 01 || [[Mitra-Poing]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 03 || [[Vibraqua]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 04 || [[Plénitude]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 06 || [[Toxik]] || [[Fichier:type miniat poison.png]]
+|-
+| CT 07 || [[Grêle (attaque)|Grêle]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 08 || [[Gonflette]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 10 || [[Puissance cachée]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 11 || [[Zénith]] || [[Fichier:type miniat feu.png]]
+|-
+| CT 13 || [[Laser Glace]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 14 || [[Blizzard]] || [[Fichier:type miniat glace.png]]
+|-
+| CT 15 || [[Ultralaser]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 16 || [[Mur Lumière]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 17 || [[Abri]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 18 || [[Danse Pluie]] || [[Fichier:type miniat eau.png]]
+|-
+| CT 20 || [[Rune Protectrice]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 21 || [[Frustration]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 22 || [[Lance-Soleil]] || [[Fichier:type miniat plante.png]]
+|-
+| CT 23 || [[Queue de Fer]] || [[Fichier:type miniat acier.png]]
+|-
+| CT 24 || [[Tonnerre]] || [[Fichier:type miniat electrique.png]]
+|-
+| CT 25 || [[Fatal-Foudre]] || [[Fichier:type miniat electrique.png]]
+|-
+| CT 26 || [[Séisme]] || [[Fichier:type miniat sol.png]]
+|-
+| CT 27 || [[Retour]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 29 || [[Psyko]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 30 || [[Ball'Ombre]] || [[Fichier:type miniat spectre.png]]
+|-
+| CT 31 || [[Casse-Brique]] || [[Fichier:type miniat combat.png]]
+|-
+| CT 32 || [[Reflet]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 33 || [[Protection]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 34 || [[Onde de Choc (attaque)|Onde de Choc]] || [[Fichier:type miniat electrique.png]]
+|-
+| CT 35 || [[Lance-Flamme]] || [[Fichier:type miniat feu.png]]
+|-
+| CT 37 || [[Tempêtesable]] || [[Fichier:type miniat roche.png]]
+|-
+| CT 38 || [[Déflagration]] || [[Fichier:type miniat feu.png]]
+|-
+| CT 39 || [[Tomberoche]] || [[Fichier:type miniat roche.png]]
+|-
+| CT 40 || [[Aéropique]] || [[Fichier:type miniat vol.png]]
+|-
+| CT 41 || [[Tourmente]] || [[Fichier:type miniat ténèbres.png]]
+|-
+| CT 42 || [[Façade]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 43 || [[Force cachée]] || [[Fichier:type miniat normal.png]]
+|-
+| CT 44 || [[Repos]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 48 || [[Échange (attaque)|Échange]] || [[Fichier:type miniat psy.png]]
+|-
+| CT 49 || [[Saisie]] || [[Fichier:type miniat ténèbres.png]]
+|-
+| CS 04 || [[Force]] || [[Fichier:type miniat normal.png]]
+|-
+| CS 05 || [[Flash]] || [[Fichier:type miniat normal.png]]
+|-
+| CS 06 || [[Éclate-Roc]] || [[Fichier:type miniat combat.png]]
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="20%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable collapsible collapsed" style="text align:center;"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+| CT 01 || [[Mitra-Poing]] || {{type|Combat}}
+|-
+| CT 03 || [[Vibraqua]] || {{type|Eau}}
+|-
+| CT 04 || [[Plenitude]] || {{type|psy}}
+|-
+| CT 06 || [[Toxik]] || {{type|poison}}
+|-
+| CT 07 || [[Grele]] || {{type|glace}}
+|-
+| CT 08 || [[Gonflette]] || {{type|combat}}
+|-
+| CT 10 || [[Puis.cachée]] || {{type|normal}}
+|-
+| CT 11 || [[Zenith]] || {{type|feu}}
+|-
+| CT 11 || [[Provoc]] || {{type|ténèbres}}
+|-
+| CT 13 || [[Laser Glace]] || {{type|glace}}
+|-
+| CT 14 || [[Blizzard]] || {{type|glace}}
+|-
+| CT 15 || [[Ultralaser]] || {{type|normal}}
+|-
+| CT 16 || [[Mur lumière]] || {{type|psy}}
+|-
+| CT 17 || [[Abri]] || {{type|normal}}
+|- 
+| CT 18 || [[Danse Pluie]] || {{type|eau}}
+|-
+| CT 19 || [[Lévikinésie]] || {{type|psy}}
+|-
+| CT 20 || [[Rune Protect]] || {{type|normal}}
+|-
+| CT 21 || [[Frustration]] || {{type|normal}}
+|-
+| CT 22 || [[Lance-soleil]] || {{type|plante}}
+|-
+| CT 24 || [[Tonnerre]] || {{type|electrique}}
+|-
+| CT 25 || [[Fatal-Foudre]] || {{type|electrique}}
+|-
+| CT 26 || [[Seisme]] || {{type|sol}}
+|-
+| CT 27 || [[retour]] || {{type|normal}}
+|-
+| CT 29 || [[Psyko]] || {{type|psy}}
+|-
+| CT 30 || [[Ball'Ombre]] || {{type|spectre}}
+|-
+| CT 31 || [[Casse-Brique]] || {{type|combat}}
+|-
+| CT 32 || [[Reflet]]|| {{type|normal}} 
+|-
+| CT 33 || [[Protection]]|| {{type|psy}}
+|-
+|}
+|}
+
+===Par [[reproduction]]===
+
+Mewtwo ne peut se reproduire.
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+{{Sensibilités
+|type=psy
+|sensib-combat=0.5
+|sensib-insecte=2
+|sensib-psy=0.5
+|sensib-spectre=2
+|sensib-ténèbres=2
+}}
+==[[Statistiques]]==
+
+{{Statistiques
+|type=psy
+|PV=106
+|attaque=110
+|defense=90
+|atq-spc=154
+|def-spc=90
+|vitesse=130
+|special=154
+}}
+
+== Imagerie ==
+
+{{Imagerie Pokémon
+| pokemon=Mewtwo
+| numero=150
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Mewtwo RB.png
+| forme=6
+| pinballRB-gif=oui
+| pdm=oui
+| almia=non
+| diff_rs-rfvf=non
+| diff_dp-pt=non
+| diff_4G-fm=non
+}}
+
+== L'histoire de Mewtwo ==
+
+Il y a quelques années, des scientifiques ont organisé une expédition pour trouver le Pokémon le plus rare, Mew. Lors des recherches, les scientifiques ont découvert un temple dédié à Mew où ils trouvèrent un cil fossilisé ayant appartenu à ce Pokémon. Les scientifiques se rendirent tout de suite à leur laboratoire et créèrent plusieurs clones à partir de l'ADN. de ce cil. Ces expériences étaient financées par [[Giovanni]], le patron de la [[Team Rocket]] (une organisation clandestine), qui exigeait en retour que le clone soit plus puissant que le plus puissant des Pokémon (en l'occurrence [[Mew]]) et qu'il en devienne le propriétaire.
+
+Un des scientifiques importants était le professeur Fuji. Son principal but n'était pas de cloner Mew. Il voulait cloner sa fille, Ai, qui était morte dans un accident de voiture. Il créa un clone de sa fille, puis d'un [[Bulbizarre]] (nommé Bulbasaurtwo), d'un [[Salamèche]] (nommé Charmandertwo), d'un [[Carapuce]] (nommé Squirtletwo) puis de Mew : Mewtwo. Bien qu'ils fussent encore inconscients, ils pouvaient communiquer entre eux par télépathie. Malheureusement, Bulbizarre, Salamèche et Carapuce n'étaient pas assez forts et résistants. Ils moururent et la même chose arriva au clone d'Ai. Comme la plupart des jeunes enfants, Mewtwo ne comprenait pas encore la mort. Mewtwo se mit à se poser plusieurs questions et se réveilla trop vite. Le professeur Fuji lui injecta une substance qui le remit dans son sommeil qui dura jusqu'à ce qu'il soit adulte.
+
+Adulte, dans son cylindre, Mewtwo se posait plein de questions : "Qui suis-je?", "Où suis-je?" en voyant des images de Mew dans ses pensées. Il entendait les scientifiques parler de lui. C'est là qu'il comprit qu'il n'était que le résultat d'une expérience. Ceci le mit en colère. Il utilisa ses pouvoirs psychiques pour détruire son cylindre. Fuji lui parla mais Mewtwo se mit tellement en colère qu'il fit exploser le laboratoire. Il utilisait déjà ses nombreux pouvoirs psychiques et il pouvait parler. Soudain Giovanni, le boss de la Team Rocket, arriva et réussit à le convaincre de venir avec lui. Il lui promit alors qu'ils seraient égaux.
+
+Plusieurs jours passèrent pendant lesquels Mewtwo ne fit qu'obéir à Giovanni qui lui avait mis une armure spéciale pour le rendre plus puissant. Évidemment, Giovanni ne tint pas ses promesses. Il disait qu'un humain et un Pokémon ne pouvaient pas être égaux. Mewtwo se sauva en détruisant la base de la Team Rocket mais Giovanni survécut. Mewtwo se débarrassa de son armure et prépara un plan pour devenir le maître du monde et anéantir les humains. Pour cela, il fit perdre la mémoire à une infirmière Joëlle qu'il enleva et en fit son assistante. Il avait plusieurs Pokémon sous ses ordres.
+
+Il espionna des dresseurs et regroupa les meilleurs dont [[Sacha]] pour les combattre. Il voulait cloner leurs Pokémon et devenir le plus grand dresseur du monde. Mewtwo créa un ouragan et seul Sacha, trois autres dresseurs et [[Jessie]], [[James]] et [[Miaouss]] déguisés en Vikings se rendirent dans l'arène au milieu de la mer. Ils furent accueillis par l'[[infirmière Joëlle]] qui était inconsciente de ce qu'elle faisait. Elle les conduisit à l'intérieur et leur demanda de sortir leurs Pokémon. Mewtwo arriva et leur révéla ses plans. Il commença à capturer les Pokémon des dresseurs en envoyant des "Clone Balls". Il créa des clones de tous les Pokémon mais Sacha revint avec les originaux. Les clones se mirent à attaquer les Pokémon véritables. L'arrivée de Mew déclencha en Mewtwo une envie de prouver sa surpuissance. Seul [[Pikachu]], qui refusait d'attaquer son clone, le vrai et le faux Miaouss ne se combattirent pas. Sacha ne pouvait supporter cet horrible spectacle. Il s'élança entre Mewtwo et Mew pour qu'ils s'arrêtent mais leur puissance transforma Sacha en statue.
+
+Mewtwo ne comprenait pas pourquoi il avait fait ça. Mew expliqua à Mewtwo que les humains n'était pas tous comme ceux qui l'avaient créé. Tous les Pokémon, et surtout Pikachu, prirent conscience de l'horreur de la mort. Leurs larmes réveillèrent Sacha, et Mewtwo compris enfin que la façon de naître n'est pas importante, c'est ce qui est fait de la vie qui compte. Il partit avec Mew et ses clones pour s'isoler et trouver une signification à son existence. Il effaça ces évènements de la mémoire des dresseurs et des Pokémon et les firent revenir dans le passé avant qu'ils n'affrontent la tempête.
+
+Mewtwo et les clones s'installèrent sur le Mont quéna, une haute montagne, où ils demeurèrent en paix jusqu'à ce qu'il rencontre de nouveau Sacha, {{da|Ondine}} et {{da|Pierre}}. [[Domino]], membre élevée de la Team Rocket, avait été chargée par Giovanni, le seul qui n'eût rien oublié, de retrouver Mewtwo. Mewtwo, lui, était très surpris de revoir Sacha. Domino localisa Mewtwo et ses clones. Pikachu rencontra son clone qui n'était pas content qu'il ait emmené des humains. Le clone l'attaqua mais Mewtwo l'arrêta. Giovanni arriva en attaquant tous les clones. Pour qu'il arrête, Mewtwo dût se mettre sous ses ordres. Il entra dans une bulle d'énergie où il perdait toutes ses forces. Il était gravement blessé et la machine était presque indestructible. En combinant leurs forces, les deux Pikachu réussirent à la détruire, mais Mewtwo avait perdu presque toute son énergie.
+
+Sacha dut vite emmener Mewtwo à une source guérisseuse qui lui redonna toute son énergie. Il en sortit et téléporta l'endroit sur une autre montagne plus sûre en laissant la Team Rocket là-bas sauf Jessie, James et Miaouss qui ne lui voulaient pas de mal. Mewtwo leur dit qu'il allait de nouveau leur effacer la mémoire. Miaouss s'avança et dit que c'était injuste. Il parlait pour eux et pour les enfants des clones qui voulaient aussi savoir qui ils étaient. Mewtwo décida d'effacer la mémoire uniquement à ceux qui leur voulaient du mal.
+
+Maintenant, Mewtwo cherche encore une signification à sa vie mais sa quête avance. Bien qu'il parle la même langue que les humains, il comprend bien ce que disent les autres Pokémon. Il se pose sans cesse des questions existentielles mais sa sagesse finira par prendre le dessus sur sa haine des humains.
+
+Il est difficile de percevoir Mewtwo comme un Pokémon. Son incommensurable puissance pouvant aisément rivaliser avec un Pokémon légendaire comme [[Kyogre]]/[[Groudon]] ou le virus de l'espace [[Deoxys]], ainsi que son existence qui provient de manipulations génetiques laissent perplexe sur ce sujet. De plus, Mewtwo tient plus de l'homme que du Pokémon. Tout le monde pourrait donc supposer qu'il fut créé à partir des gènes de Mew mais aussi à partir de gênes humains. Ce Pokémon est donc un très grand mystère, un énorme. Mi-homme et mi-Pokémon, né hors des lois divines et faisant de lui un être à part comprenant humains comme Pokémon, cherchant à protéger les clones qui le voient comme un sauveur... Il reste donc l'un des plus fascinants personnages de Pokémon. Qui sait, peut-être, les fans auront la joie de le revoir un jour dans un nouveau film.
+
+== Apparition dans le [[dessin animé]] ==
+
+Mewtwo fait sa première apparition et devient célèbre lors du tout premier film de Pokémon. [[Mewtwo (dessin animé)|Mewtwo]] et [[Mew]] furent les premiers Pokémon légendaires à apparaître, après [[Ho-Oh]]. 
+Il fait son grand retour dans le film nommé en français : ''[[Le retour de Mewtwo]]''
+
+Mewtwo apparaît également dans un épisode spécial -24 : Le Maître des Mirages, où il est un mirage issu de la mémoire de Pikachu, il affronte plusieurs Pokémon, dont le Léviator d'Ondine, le Galifeu de Flora et le Dracolosse du professeur Chen puis Pikachu mais il sera défait par le mirage de Mew.
+
+Le Seizième film Pokémon avec comme vedette Genesect, devrait également accueillir Mewtwo. Pour le moment, aucune information n'a filtré de la part de Nintendo.
+
+==Anecdotes==
+*L'histoire de [[Genesect]] est semblable à celle de Mewtwo. Ces deux derniers ont respectivement été créés par la [[Team Plasma]] et la [[Team Rocket]] et génétiquement modifiés pour être plus puissants. Ils seront par ailleurs tous deux dans le prochain film Pokémon.
+{{légendaire|gén=1}}
+
+{{Ruban Pokémon
+| nomPrécédent=Dracolosse
+| numéro=150
+| nom=Mewtwo
+| nomSuivant=Mew
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon asexué]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/150| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Mewtwo| ]]
+
+[[de:Mewtu]]
+[[en:Mewtwo (Pokémon)]]
+[[es:Mewtwo]]
+[[it:Mewtwo]]
+[[ja:ミュウツー]]
+[[pl:Mewtwo]]
+[[pt:Mewtwo (pokémon)]]

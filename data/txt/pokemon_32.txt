@@ -1,0 +1,382 @@
+{{Ruban Pokémon
+| nomPrécédent=Nidoqueen
+| numéro=032
+| nom=Nidoran♂
+| nomSuivant=Nidorino
+}}
+{{Infobox Pokémon 
+| nom=Nidoran♂
+| nomen=Nidoran♂
+| nomja=ニドラン♂
+| nomtm=Nidoran♂
+| nomde=Nidoran♂
+| légende=Artwork de Nidoran♂ pour {{RFVF}}
+| ndex=032
+| jdex=098
+| hdex=230
+| espece=Venepic
+| taille=0.5
+| poids=9.0
+| fmratio=0 
+| oeufpas=5120 
+| effortval=+1 Att.
+| type1=Poison
+| expval=60
+| expmax=1059860
+| captureval=235
+| groupoeuf1=Monstre
+| groupoeuf2=Sol
+| capspe1=Point Poison
+| capspe2=Rivalité
+| capspe3=Agitation
+| couleur=Violet
+| forme=8
+}}
+'''Nidoran♂''' (anglais : '''Nidoran♂''' ; japonais : '''ニドラン♂''' ''Nidoran♂'') est un [[Pokémon]] de [[type]] {{type|poison}} de la [[première génération]]. Il constitue la première espèce (avec les [[Nidoran♀]]) a avoir été différenciée par leur sexe (notion qui n'existait pas en dehors de ces deux Pokémon dans la première génération). Ironiquement, les deux espèces sont aujourd'hui considérées comme différentes et asexuées afin de ne pas désordonner la numérotation du [[Pokédex National]].
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+
+Nidoran♂ est un Pokémon mâle de couleur mauve. Son dos est muni de trois rangées de piquants. Ses grandes oreilles, dont l'intérieur est bleu vert, sont cornées. Sa peau est tachetée de violet sur chaque côté de son corps. Sa mâchoire ne compte qu'une dent et ses yeux sont rouges. Ce quadrupède possède deux griffes à chacune de ses pattes, ainsi qu'une corne sur son front.
+
+====Différences mâle/femelle====
+
+Cette espèce est composée uniquement d'individus mâles.
+
+==== [[Chromatique]] ====
+
+Lorsqu'il est chromatique, Nidoran♂ a la peau bleue plutôt que violacée, et l'intérieur de ses oreilles est rougeâtre.
+
+===[[Évolution]]===
+Nidoran♂ évolue à partir du [[niveau]] 16 en [[Nidorino]], qui évolue en [[Nidoking]] lorsqu'il est mis en contact avec une [[Pierre Lune]].
+
+{{TableauEvolutionHaut|Poison|Nidoran♂}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Nidorino}}
+{{TableauEvolutionSimple|Avec une [[Pierre Lune]]|imageObjet=Miniat pierre lune dp.png|Nidoking}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+Les Nidoran♂ peuvent avoir l'une de ces 2 capacités :
+*'''[[Point Poison]]''', qui peut causer un empoisonnement à l'ennemi s'il utilise une attaque de contact ;
+*'''[[Rivalité]]''', qui augmentera l'attaque du Pokémon de 50% si l'adversaire est du même sexe, mais la diminuera s'il est du sexe opposé.
+
+===Étymologies===
+Français:'''Nidoran''' = ''aiguilles'' en Japonais.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Son ouïe très fine l'avertit du danger. Plus ses cornes sont grandes, plus son poison est mortel.
+;[[Pokémon Jaune]]
+: Ses grandes oreilles sont toujours dressées. S'il est menacé, il se défend avec un dard venimeux.
+;[[Pokémon Stadium]]
+: Ses larges oreilles sentent le danger. Il étendra ses pics s'il est en colère, les plus longs étant les plus toxiques.
+;[[Pokémon Or]]
+: Il est tout petit, mais ses cornes sont enduites d'un poison fulgurant qu'il inocule en chargeant.
+;[[Pokémon Argent]]
+: Il soulève ses oreilles pour surveiller les environs et frappe en premier en cas de danger.
+;[[Pokémon Cristal]]
+: Il bouge ses grandes oreilles dans tous les sens pour détecter un éventuel danger.
+;[[Pokémon Rubis et Saphir]]
+: Le {{PCap|Nidoran}} mâle a développé des muscles pour bouger ses oreilles. Ainsi, il peut les orienter à sa guise. Ce {{PCap|Pok}}é{{PCap|mon}} peut entendre le plus discret des bruits.
+;[[Pokémon Émeraude]]
+: Le {{PCap|Nidoran}} mâle a développé des muscles pour bouger ses oreilles. Ainsi, il peut les orienter à sa guise. Ce {{PCap|Pok}}é{{PCap|mon}} peut entendre le plus discret des bruits.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} agite ses oreilles comme pour entendre tout ce qui se passe au loin. Il déploie des aiguillons toxiques quand il est en colère.
+;[[Pokémon Vert Feuille]]
+:Son ouïe très fine l'avertit du danger. Plus ses cornes sont grandes, plus son poison est mortel.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+:Il jauge le terrain en laissant ses oreilles dépasser de l'herbe. Il se défend avec sa corne toxique.
+;[[Pokémon Or HeartGold]]
+:Il est tout petit, mais ses piquants sont enduits d'un poison fulgurant qu'il inocule en chargeant.
+;[[Pokémon Argent SoulSilver]]
+:Il soulève ses oreilles pour surveiller les environs et frappe en premier en cas de danger.
+;[[Pokémon Noir et Blanc]]
+:Il jauge le terrain en laissant ses oreilles dépasser de l'herbe. Il se défend avec sa corne toxique.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Commun || [[Route 22]], [[Parc Safari]]
+|-
+| [[Bleu]] || Rare || [[Route 22]], [[Parc Safari]]
+|-
+| [[Jaune]] || Commun || Routes [[Route 2|2]], [[Route 9|9]], [[Route 10|10]], [[Route 22|22]] et [[Parc Safari]]
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Commun || Routes [[Route 35|35]] et [[Route 36|36]]
+|-
+| [[Pokémon Or et Argent|Argent]] || Commun || Routes [[Route 35|35]] et [[Route 36|36]]
+|-
+| [[Cristal]] || Commun || [[Route 35]], [[Parc Naturel]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Commun || [[Route 3]], [[Parc Safari]]
+|-
+| [[Vert Feuille]] || Rare || [[Route 3]], [[Parc Safari]], Echange avec PnJ dans le [[Souterrain (routes 5-6)]] contre un [[Nidoran♀]]
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau || Pourcentage de rencontre
+|-
+| [[Diamant]] || Rare ([[Pokéradar]] uniquement) || [[Route 201]] || N. 2 || 2% (avec le [[Pokéradar]])
+|-
+| [[Perle]] ||  Rare ([[Pokéradar]] uniquement) || [[Route 201]] || N. 3 || 20% (avec le [[Pokéradar]])
+|}
+
+=== [[Cinquième génération]] ===
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:150px" | Version
+! style="background-color:{{Couleur|Poison}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | ''[[Pokémon Blanc]]''
+| style="vertical-align:middle;" | Variable
+| style="vertical-align:middle;" | [[Forêt Blanche]] (à condition que Gurvan soit dans la forêt)
+| style="vertical-align:middle;" | 5
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | [[Dream World]]: Le Bosquet
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.8|Koud'Korne|65|100|25}}
+{{Attaque|N.14{{Sup|R}}{{Sup|B}}<br>N.17{{Sup|J}}|Dard-Venin|15|100|35}}
+{{Attaque|N.21{{Sup|R}}{{Sup|B}}<br>N.23{{Sup|J}}|Puissance|-|-|30}}
+{{Attaque|N.29{{Sup|R}}{{Sup|B}}<br>N.30{{Sup|J}}|Furie|15|85|20}}
+{{Attaque|N.36{{Sup|R}}{{Sup|B}}<br>N.38{{Sup|J}}|Empal'Korne|-|-|5}}
+{{Attaque|N.43{{Sup|R}}{{Sup|B}}<br>N.12{{Sup|J}}|Double Pied|30|100|30}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Groz'Yeux|-|100|30}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|N.8|Koud'Korne|65|100|25}}
+{{Attaque|N.12|Double Pied|30|100|30}}
+{{Attaque|N.17|Dard-Venin|15|100|35}}
+{{Attaque|N.23|Puissance|-|-|30}}
+{{Attaque|N.30|Furie|15|85|20}}
+{{Attaque|N.38|Empal'Korne|-|-|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Groz'Yeux|-|100|30|sang-froid|3|0}}
+{{Attaque-III|Départ|Picpic|35|100|35|sang-froid|4|0}}
+{{Attaque-III|N.8|Puissance|-|-|30|sang-froid|1|3}}
+{{Attaque-III|N.12|Double Pied|30|100|30|sang-froid|2|0}}
+{{Attaque-III|N.17|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|N.20|Koud'Korne|65|100|25|sang-froid|4|0}}
+{{Attaque-III|N.23|Coup d'Main|-|100|20|intelligence|2|0}}
+{{Attaque-III|N.30|Furie|15|85|20|sang-froid|2|1}}
+{{Attaque-III|N.38|Flatterie|-|100|15|intelligence|2|0}}
+{{Attaque-III|N.47|Empal'Korne|-|-|5|sang-froid|2|1}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Groz'Yeux|-|100|30|sang-froid|2}}
+{{Attaque-IV|Départ|Picpic|35|100|35|sang-froid|3}}
+{{Attaque-IV|N.7|Puissance|-|-|30|sang-froid|0}}
+{{Attaque-IV|N.9|Double Pied|30|100|30|sang-froid|2}}
+{{Attaque-IV|N.13|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|N.19|Furie|15|85|20|sang-froid|2}}
+{{Attaque-IV|N.21|Koud'Korne|65|100|25|sang-froid|3}}
+{{Attaque-IV|N.25|Coup d'Main|-|100|20|intelligence|1}}
+{{Attaque-IV|N.31|Pics Toxik|-|-|20|intelligence|2}}
+{{Attaque-IV|N.33|Flatterie|-|100|15|intelligence|2}}
+{{Attaque-IV|N.37|Direct Toxik|80|100|20|intelligence|2}}
+{{Attaque-IV|N.43|Séduction|-|100|20|beauté|2}}
+{{Attaque-IV|N.45|Empal'Korne|-|-|5|sang-froid|0}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Groz'Yeux|-|100|30}}
+{{Attaque-V|Départ|Picpic|35|100|35}}
+{{Attaque-V|N.7|Puissance|-|-|30}}
+{{Attaque-V|N.9|Double Pied|30|100|30}}
+{{Attaque-V|N.13|Dard-Venin|15|100|35}}
+{{Attaque-V|N.19|Furie|15|85|20}}
+{{Attaque-V|N.21|Koud'Korne|65|100|25}}
+{{Attaque-V|N.25|Coup d'Main|-|100|20}}
+{{Attaque-V|N.31|Pics Toxik|-|-|20}}
+{{Attaque-V|N.33|Flatterie|-|100|15}}
+{{Attaque-V|N.37|Direct Toxik|80|100|20}}
+{{Attaque-V|N.43|Séduction|-|100|20}}
+{{Attaque-V|N.45|Empal'Korne|-|-|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-combat=0.5
+|sensib-insecte=0.5
+|sensib-plante=0.5
+|sensib-poison=0.5
+|sensib-psy=2
+|sensib-sol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison]] -donc sur Nidoran♂- dans la [[première génération]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=poison
+|PV=46
+|attaque=57
+|defense=40
+|atq-spc=40
+|def-spc=40
+|vitesse=50
+|special=40
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Nidoran♂
+| numero=032
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Nidoran♂ RB.png
+| forme=8
+| pinballRB-gif=oui
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+}}
+
+==Dans le [[Jeu de Figurines à Collectionner]]==
+Nidoran♂ a une figurine à son effigie dans le jeu de figurines à collectionner, dans la première extension : le [[Premier Défi (JFC)|Premier Défi]]. Sa figurine est la numéro 32. Pour plus d'informations, voir ''[[Nidoran♂ (Premier Défi 32)]]''.
+
+[[Fichier:JFC-Premier Défi-32.png|thumb|center|La figurine de Nidoran♂]]
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:Episode 102.jpg|thumb|left|Le Nidoran♂ dans les bras de son dresseur]]
+Les deux espèces de Nidoran étaient au centre du scénario de l'[[épisode 100]], où deux Nidoran de sexes opposés appartenant à deux dresseurs ne pouvant pas se supporter étaient amoureux l'un de l'autre.
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 100]]
+:{{PCap|Pok}}é{{PCap|mon}} Vénépic. Sa corne est plus importante que celle de la femelle. Son attaque [[Koud'Korne]] est redoutable.
+
+{{Ruban Pokémon
+| nomPrécédent=Nidoqueen
+| numéro=032
+| nom=Nidoran♂
+| nomSuivant=Nidorino
+}}
+
+[[Catégorie:Pokémon de base]]
+[[Catégorie:Pokémon uniquement mâle]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/32| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Nidoran♂| ]]
+
+[[de:Nidoran♂]]
+[[en:Nidoran♂ (Pokémon)]]
+[[es:Nidoran♂]]
+[[it:Nidoran♂]]
+[[ja:ニドラン♂]]
+[[pl:Nidoran♂]]
+[[pt:Nidoran♂ (pokémon)]]

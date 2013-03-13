@@ -1,0 +1,359 @@
+{{Ruban Pokémon
+| nomPrécédent=Nidorina
+| numéro=031
+| nom=Nidoqueen
+| nomSuivant=Nidoran♂
+}}
+{{Infobox Pokémon 
+| nom=Nidoqueen
+| nomen=Nidoqueen
+| nomja=ニドクイン
+| nomtm=Nidoqueen
+| nomromaji=Nidokuin
+| nomde=Nidoqueen
+| légende=Artwork de Nidoqueen pour {{RFVF}}
+| ndex=031
+| jdex=097
+| hdex=229
+| espece=Perceur
+| taille=1.3
+| poids=60.0
+| fmratio=1 
+| oeufpas=5120 
+| effortval=+3 PV 
+| type1=Poison
+| type2=Sol
+| expval=194
+| expmax=1059860
+| captureval=45
+| groupoeuf1=Sans œuf
+| capspe1=Point Poison
+| capspe2=Rivalité
+| capspe3=Sans Limite
+| couleur=Bleu
+| forme=6}}
+'''Nidoqueen''' (anglais : '''Nidoqueen''' ; japonais : '''ニドクイン''' ''Nidoqueen'') est un [[Pokémon]] de [[type]] {{type|poison}} et {{type|sol}} de la [[première génération]] et constitue la seconde et dernière [[évolution]] de [[Nidoran♀]], par le biais de la [[Pierre Lune]].
+
+Tout comme [[Nidorina]] (et à l'inverse de [[Nidoran♀]] ainsi que des 3 évolutions de la famille des [[Nidoran♂]]), il (ou plutôt elle, puisqu'il s'agit d'un Pokémon exclusivement femelle) ne peut avoir d'œufs.
+
+==À propos du Pokémon==
+===Physionomie et attitude===
+Nidoqueen est un Pokémon femelle au corps bleu indigo. Elle possède une colonne de piques longeant son dos, des yeux noirs et deux grandes oreilles à l'intérieur marron en plus d'une corne sur son front. Contrairement à [[Nidoran♀]] et [[Nidorina]], elle ne possède ni de dents mais une sorte de bec puissant, ni de moustaches.
+
+Ce bipède possède trois griffes aux pattes avants et deux aux pattes arrières. Son menton est blanc pâle en plus du bas de son dos et de sa poitrine. Son corps est complètement cuirassé.
+
+====Différences mâle/femelle====
+
+Cette espèce est composée uniquement d'individus femelles.
+
+==== [[Chromatique]] ====
+
+Lorsqu'elle est chromatique, Nidoqueen a la peau verte et non bleutée, tandis que l'intérieur de ses oreilles et les parties de son buste habituellement marron pâle ou blanc sont roses.
+
+===[[Évolution]]===
+[[Nidoran♀]] évolue en [[Nidorina]] à partir du [[niveau]] 16, et se transforme ensuite en Nidoqueen lorsqu'elle est mise en contact avec une [[Pierre Lune]].
+{{TableauEvolutionHaut|Poison|Nidoran♀}}
+{{TableauEvolutionSimple|[[Niveau]] 16|Nidorina}}
+{{TableauEvolutionSimple|Avec une [[Pierre Lune]]|imageObjet=Miniat pierre lune dp.png|Nidoqueen}}
+{{TableauEvolutionBas}}
+
+===[[Capacité spéciale]]===
+
+Tout comme leurs précédentes préévolutions, les Nidoqueen peuvent avoir l'une des 2 capacités spéciales suivantes :
+*'''[[Point Poison]]''', qui peut causer un empoisonnement à l'ennemi s'il utilise une attaque de contact ;
+*'''[[Rivalité]]''', qui augmente l'attaque du Pokémon de 50% si son adversaire est du même sexe, mais la diminuera s'il est du sexe opposé.
+
+===Étymologies===
+Français, allemand,anglais,japonais:'''Nido'''ran = ''aiguilles'' en Japonais + '''Queen''' (reine en anglais).
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+: Ses écailles très résistantes et son corps massif sont des armes dévastatrices.
+;[[Pokémon Jaune]]
+: Son corps musclé est recouvert de lourdes écailles. Elles poussent selon un cycle et un ordre précis.
+;[[Pokémon Stadium]]
+: Ses écailles dures et piquantes se dressent en cas d'agression. Il utilise sa masse imposante pour assener de puissants coups.
+;[[Pokémon Or]]
+: Son corps est couvert de pointes formant une carapace très résistante qui le protège en combat.
+;[[Pokémon Argent]]
+: Il se sert de son corps lourdement protégé pour empêcher les prédateurs d'accéder à son nid.
+;[[Pokémon Cristal]]
+: Son corps est couvert d'écailles le protégeant des éventuelles attaques ennemies.
+;[[Pokémon Rubis et Saphir]]
+: Le corps de {{PCap|Nidoqueen}} est protégé par des écailles extrêmement dures. Il aime envoyer ses ennemis voler en leur fonçant dessus. Ce {{PCap|Pok}}é{{PCap|mon}} montre toute sa puissance lorsqu'il protège ses petits.
+;[[Pokémon Émeraude]]
+: Son corps est protégé par des écailles extrêmement dures. Il envoie ses ennemis voler en leur fonçant dessus. Il utilise toute sa force pour protéger ses petits.
+;[[Pokémon Rouge Feu]]
+:Son corps est recouvert d'écailles en formes de pointes. Quand ce {{PCap|Pok}}é{{PCap|mon}} s'énerve, ses pointes de façon menaçante.
+;[[Pokémon Vert Feuille]]
+:Ses écailles très résistantes la protègent. Son corps massif lui permet d'exécuter des attaques dévastatrice.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Son corps est recouvert d'écailles solides. Il donnera sa vie pour secourir les petits de son terrier.
+;[[Pokémon Or HeartGold]]
+:Son corps est couvert de pointes formant une carapace très résistante qui le protège en combat.
+;[[Pokémon Argent SoulSilver]]
+:Il se sert de son corps lourdement protégé pour empêcher les prédateurs d'accéder à son nid.
+;[[Pokémon Noir et Blanc]]
+: Son corps est recouvert d'écailles solides. Il donnera sa vie pour secourir les petits de son terrier.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rouge]] || Inexistant || Faire évoluer [[Nidorina]] ou échange.
+|-
+| [[Bleu]] || Inexistant || Faire évoluer [[Nidorina]] ou échange.
+|-
+| [[Jaune]] || Inexistant || Faire évoluer [[Nidorina]] ou échange.
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Or]] || Inexistant || Faire évoluer [[Nidorina]] ou échange.
+|-
+| [[Pokémon Or et Argent|Argent]] || Inexistant || Faire évoluer [[Nidorina]] ou échange.
+|-
+| [[Cristal]] || Inexistant || Faire évoluer [[Nidorina]] ou échange.
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.
+|-
+| [[Rouge Feu]] || Inexistant || Faire évoluer [[Nidorina]] ou échange.
+|-
+| [[Vert Feuille]] || Inexistant || Faire évoluer [[Nidorina]] ou échange.
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.
+|-
+| [[XD]] || Inexistant || À obtenir par échange.
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu
+|-
+| [[Diamant]] || Inexistant || Faire évoluer [[Nidorina]] ou échange.
+|-
+| [[Perle]] || Inexistant || Faire évoluer [[Nidorina]] ou échange.
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Poison}}; width:150px" | Version
+! style="background-color:{{Couleur|Poison}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Poison}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Poison}}; width:50px" | Niveau
+|-
+| style="vertical-align:middle;" | {{NB}}
+| style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Faire évoluer [[Nidorina]] ([[Pierre Lune]])
+| style="vertical-align:middle;" | N/A
+|-
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ{{Sup|J}}|Double Pied|30|100|30}}
+{{Attaque|N.14{{Sup|R}}{{Sup|B}}<br>N.19{{Sup|J}}|Dard-Venin|15|100|35}}
+{{Attaque|N.23|Plaquage|85|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Charge|35|95|35}}
+{{Attaque|Départ|Griffe|40|100|35}}
+{{Attaque|Départ|Mimi-Queue|-|100|30}}
+{{Attaque|Départ|Double Pied|30|100|30}}
+{{Attaque|N.23|Plaquage|85|100|15}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Griffe|40|100|35|robustesse|4|0}}
+{{Attaque-III|Départ|Mimi-Queue|-|100|30|grâce|2|0}}
+{{Attaque-III|Départ|Double Pied|30|100|30|sang-froid|2|0}}
+{{Attaque-III|Départ|Dard-Venin|15|100|35|intelligence|2|3}}
+{{Attaque-III|N.23{{Sup|Ru}}{{Sup|Sa}}{{Sup|E}}<br>N.22{{Sup|RF}}{{Sup|VF}}|Plaquage|85|100|15|robustesse|1|4}}
+{{Attaque-III|N.43{{Sup|RF}}{{Sup|VF}}|Surpuissance|120|100|5|robustesse|6|0}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Griffe|40|100|35|robustesse|3}}
+{{Attaque-IV|Départ|Mimi-Queue|-|100|30|grâce|2}}
+{{Attaque-IV|Départ|Double Pied|30|100|30|sang-froid|2}}
+{{Attaque-IV|Départ|Dard-Venin|15|100|35|intelligence|2}}
+{{Attaque-IV|N.23|Plaquage|85|100|15|robustesse|3}}
+{{Attaque-IV|N.43|Telluriforce|90|100|10|intelligence|2}}
+{{Attaque-IV|N.58|Surpuissance|120|100|5|robustesse|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Griffe|40|100|35}}
+{{Attaque-V|Départ|Mimi-Queue|-|100|30}}
+{{Attaque-V|Départ|Double Pied|30|100|30}}
+{{Attaque-V|Départ|Dard-Venin|15|100|35}}
+{{Attaque-V|N.23|Attrition|70|100|20}}
+{{Attaque-V|N.35|Plaquage|85|100|15}}
+{{Attaque-V|N.43|Telluriforce|90|100|10}}
+{{Attaque-V|N.58|Surpuissance|120|100|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+
+==Sensibilités==
+
+{{Sensibilités
+|type=poison
+|sensib-combat=0.5
+|sensib-eau=2
+|sensib-électrique=0
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-poison=0.25
+|sensib-psy=2
+|sensib-roche=0.5
+|sensib-sol=2
+|rmq-insecte=Les attaques de type [[Insecte]] étaient très efficaces sur les Pokémon de type [[Poison]] -donc sur Nidoqueen- dans la [[première génération]].
+|rmq-insecte-num=1
+}}
+
+==[[Statistiques]]==
+
+{{Statistiques
+|type=poison
+|PV=90
+|attaque=82
+|defense=87
+|atq-spc=75
+|def-spc=85
+|vitesse=76
+|special=75
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Nidoqueen
+| numero=031
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Nidoqueen RB.png
+| pdm=oui
+| diff_rs-rfvf=oui
+| diff_dp-pt=non
+| forme=6
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+Nidoqueen apparaît pour la première fois dans le premier film [[Pokémon : le Film]], où il fait partie des Pokémon enlevés et clonés par [[Mewtwo]].<br/>
+Le second champion d'arène de l'[[Archipel Orange]] que [[Sacha]] affrontera dans l'[[Épisode 93]] utilisera un Nidoqueen lors de cette confrontation (qui ne sera pas un match Pokémon mais une suite de divers concours d'adresse).<br/>
+[[Régis]] possède lui aussi un Nidoqueen, que l'on verra pour la première fois dans l'[[Épisode 115]], et il l'utilisera notamment dans son match contre [[Sacha]] durant la [[Conférence Argentée]] ([[Épisode 270]]), triomphant de [[Tauros]] mais ne pouvant lutter contre la puissance de [[Ronflex]].
+
+===Descriptions du [[Pokédex]]===
+;[[Épisode 346]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Perceur. {{PCap|Nidoqueen}} possède une peau très épaisse qui la protège de ses adversaires et de leurs attaques.
+
+{{Ruban Pokémon
+| nomPrécédent=Nidorina
+| numéro=031
+| nom=Nidoqueen
+| nomSuivant=Nidoran♂
+}}
+
+[[Catégorie:Pokémon uniquement femelle]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/31| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Nidoqueen| ]]
+
+[[de:Nidoqueen]]
+[[en:Nidoqueen (Pokémon)]]
+[[es:Nidoqueen]]
+[[it:Nidoqueen]]
+[[ja:ニドクイン]]
+[[pl:Nidoqueen]]
+[[pt:Nidoqueen (pokémon)]]

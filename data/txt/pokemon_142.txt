@@ -1,0 +1,391 @@
+{{Ruban Pokémon
+| nomPrécédent=Kabutops
+| numéro=142
+| nom=Ptéra
+| nomSuivant=Ronflex
+}}
+{{Infobox Pokémon
+| nom=Ptéra
+| nomen=Aerodactyl
+| nomja=プテラ
+| nomtm=Ptera
+| nomromaji=Putera
+| nomde=Aerodactyl
+| légende=Artwork de Ptéra pour {{RFVF}}
+| ndex=142
+| jdex=224
+| njdex=229
+| hdex=297
+| fdex=198
+| adex=258
+| type1=Roche
+| type2=Vol
+| espece=Fossile
+| taille=1.8
+| poids=59.0
+| capspe1=Tête de Roc
+| capspe2=Pression
+| capspe3=Tension
+| groupoeuf1=Vol
+| oeufpas=8960
+| effortval=+2 Vit.
+| expval=202
+| expmax=1250000
+| fmratio=.125
+| captureval=45
+| couleur=Violet
+| forme=9}}
+'''Ptéra''' (anglais : '''Aerodactyl''' ; japonais : '''プテラ''' ''Ptera'') fait partie des [[Pokémon]] préhistoriques qui ne sont supposément plus censés exister autrement qu'à l'état de fossiles. Il est néanmoins possible de le faire revivre grâce à partir d'un [[Vieil Ambre]] contenant son ADN fossilisé, que l'on peut trouver depuis la [[première génération]].<br/>
+
+
+==À propos du Pokémon==
+===Physionomie===
+
+Sa forme "vivante" ressemble à un grand dinosaure carnassier volant grâce à des membranes tendues entre ses doigts, proche du [[wp:ptérodactyle|ptérodactyle]] dont il tire son nom, mais constitué de roche (dont le poids ne semble étonnement pas l'empêcher de voler), d'où sa classification en Pokémon de base de [[type]] [[Fichier:Type miniat roche.png|Roche]] et [[Fichier:Type miniat vol.png|Vol]].
+
+====Différences mâle/femelle====
+
+Il n’y a aucune différence entre les individus mâles et femelles de cette espèce.
+
+=== [[Évolution]] ===
+Ptéra n'a pas d'évolution et n'est l'évolution d'aucun Pokémon.
+
+===[[Capacité spéciale]]===
+
+Ptéra dispose soit de la capacité spéciale [[Tête de Roc]], qui l'empêchera de ressentir les dégâts de contrecoups, à savoir les [[PV]]s perdus lors de l'utilisation d'attaques comme [[Bélier]] ou [[Damoclès]], soit de la capacité spéciale [[Pression]], qui amène l'adversaire à consommer deux [[PP]] au lieu d'un à chaque fois qu'il utilise une attaque et, lorsque dans les hautes herbes le Pokémon la possédant est en tête de l'équipe, diminue de 50% les chances de rencontrer des Pokémon de haut [[niveau]].
+
+===Étymologies===
+* Français : de [[wp:ptérodactyle|ptérodactyle]]/[[wp:ptéranodon|ptéranodon]], reptile volant dont il est inspiré.
+* Anglais, Allemand : de ''aero'', préfixe grec pour aérien, et ''pterodactyl'', ptérodactyle en anglais.
+
+===Descriptions du [[Pokédex]]===
+;[[Pokémon Rouge et Bleu]]
+:Un {{PCap|Pok}}é{{PCap|mon}} préhistorique qui attaque son ennemi à la gorge avec ses crocs acérés.
+;[[Pokémon Jaune]]
+:Un {{PCap|Pok}}é{{PCap|mon}} sauvage disparu il y a longtemps. Il est créé à partir d'ADN fossilisé dans de l'ambre.
+;[[Pokémon Stadium]]
+:Un Pokémon ressuscité grâce à l'ADN d'un dinosaure. Il attaque avec ses crocs et est extrêmement vicieux.
+;[[Pokémon Or]]
+:Un {{PCap|Pok}}é{{PCap|mon}} vicieux qui nous vient du passé. Il vole en étirant ses ailes pour planer dans les airs.
+;[[Pokémon Argent]]
+:Ce terrible {{PCap|Pok}}é{{PCap|mon}} a dominé les cieux d'une autre époque, terrorisant ses ennemis.
+;[[Pokémon Cristal]]
+:À la préhistoire ce {{PCap|Pok}}é{{PCap|mon}} volait librement et sans crainte d'être chassé.
+;[[Pokémon Rubis et Saphir]]
+:{{PCap|Ptéra}} est un {{PCap|Pok}}é{{PCap|mon}} de l'ère des dinosaures. Il fut ressuscité à partir de cellules extraites d'un morceau d'ambre. On pense qu'il était le roi des cieux à l'époque préhistorique.
+;[[Pokémon Émeraude]]
+:C'est un {{PCap|Pok}}é{{PCap|mon}} de l'ère des dinosaures. Il fut ressuscité à partir de cellules dans un morceau d'ambre. On pense qu'il était le roi des cieux à l'époque préhistorique.
+;[[Pokémon Rouge Feu]]
+:Ce {{PCap|Pok}}é{{PCap|mon}} a été reconstitué à partir d'une cellule d'un dinosaure trouvée dans un morceau d'ambre. Il vole très haut en poussant des cris très aigus.
+;[[Pokémon Vert Feuille]]
+:Un {{PCap|Pok}}é{{PCap|mon}} préhistorique qui attaque son ennemi à la gorge avec ses crocs acérés.
+;[[Pokémon Ranger (jeu vidéo)|Pokémon Ranger]]
+:{{PCap|Ptéra}} erre dans le ciel en lançant des rayons dévastateurs.
+;[[Pokémon Diamant et Perle|Pokémon Diamant, Perle]] et [[Pokémon Platine|Platine]]
+: Un {{PCap|Pok}}é{{PCap|mon}} qui arpentait le ciel au temps des dinosaures. Ses crocs sont pareils à des scies.
+;[[Pokémon Ranger 2]]
+:Il vole en lançant de puissants rayons et des ultrasons.
+;[[Pokémon Or HeartGold]]
+:Un {{PCap|Pok}}é{{PCap|mon}} féroce qui nous vient du passé. Il vole en étirant ses ailes pour planer dans les airs.
+;[[Pokémon Argent SoulSilver]]
+:Ce terrible Pokémon a dominé les cieux d'une autre époque, terrorisant ses ennemis.
+;[[Pokémon Noir et Blanc]]
+: Un Pokémon qui arpentait le ciel au temps des dinosaures. Ses crocs sont pareils à des scies.
+
+==Localisations==
+===[[Première génération]]===
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Rouge]] || Unique || À faire réanimer à [[Cramois'Île]] à partir du [[Vieil Ambre]] trouvé au musée d'[[Argenta]] (entrée arrière) || Niveau 30
+|-
+| [[Bleu]] || Unique || À faire réanimer à [[Cramois'Île]] à partir du [[Vieil Ambre]] trouvé au musée d'[[Argenta]] (entrée arrière) || Niveau 30
+|-
+| [[Jaune]] || Unique || À faire réanimer à [[Cramois'Île]] à partir du [[Vieil Ambre]] trouvé au musée d'[[Argenta]] (entrée arrière) || Niveau 30
+|}
+
+===[[Deuxième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Or]] || Unique || Échange interne contre un [[Leveinard]] sur la [[Route 14]]
+|-
+| [[Pokémon Or et Argent|Argent]] || Unique || Échange interne contre un [[Leveinard]] sur la [[Route 14]]
+|-
+| [[Cristal]] || Unique || Échange interne contre un [[Leveinard]] sur la [[Route 14]]
+|}
+
+===[[Troisième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Rubis]] || Inexistant || À obtenir par échange.|| -
+|-
+| [[Saphir]] || Inexistant || À obtenir par échange.|| -
+|-
+| [[Pokémon Émeraude|Émeraude]] || Inexistant || À obtenir par échange.|| -
+|-
+| [[Rouge Feu]] || Unique || À faire réanimer à [[Cramois'Île]] à partir du [[Vieil Ambre]] trouvé au musée d'[[Argenta]] (entrée arrière) || Niveau 5
+|-
+| [[Vert Feuille]] || Unique || À faire réanimer à [[Cramois'Île]] à partir du [[Vieil Ambre]] trouvé au musée d'[[Argenta]] (entrée arrière) || Niveau 5
+|-
+| [[Colosseum]] || Inexistant || À obtenir par échange.|| -
+|-
+| [[XD]] || Inexistant || À obtenir par échange.|| -
+|}
+
+===[[Quatrième génération]]===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! Version || Rareté || Lieu || Niveau
+|-
+| [[Diamant]], [[Perle]] et [[Pokémon Platine|Platine]] || Rare || À faire réanimer à [[Charbourg]] à partir d'un [[Vieil Ambre]], que l'on peut trouver dans le [[Souterrain de Sinnoh]] || Niveau 20
+|-
+| {{OHAS}} || Rare || À faire réanimer au [[Musée des Sciences d'Argenta]] à partir d'un [[Vieil Ambre]] || -
+|}
+
+=== [[Cinquième génération]] ===
+
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background-color:{{Couleur|Roche}}; width:150px" | Version
+! style="background-color:{{Couleur|Roche}}; width:150px" | Rareté
+! style="background-color:{{Couleur|Roche}}; width:450px" | Lieu
+! style="background-color:{{Couleur|Roche}}; width:50px" | Niveau
+|-
+| rowspan="2" style="vertical-align:middle;" | {{NB}} 
+| rowspan="2" style="vertical-align:middle;" | Inexistant
+| style="vertical-align:middle;" | Réanimer le [[Fossile]] [[Vieil Ambre]] à [[Maillard]] ([[Musée de Maillard|Musée]])
+| style="vertical-align:middle;" | 25
+|-
+| style="vertical-align:middle;" | [[Dream World]] : Vaste Ciel
+| style="vertical-align:middle;" | 10
+|}
+
+==Attaques apprises==
+===Par montée en [[niveau]]===
+
+====[[Première génération]]====
+{{Attaques apprises|gen=I}}
+{{Attaque|Départ|Cru-Aile|35|100|35}}
+{{Attaque|Départ|Hâte|-|-|30}}
+{{Attaque|N.33|Ultrason|-|55|20}}
+{{Attaque|N.38|Morsure|60|100|25}}
+{{Attaque|N.45|Bélier|90|85|20}}
+{{Attaque|N.54|Ultralaser|150|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Deuxième génération]]====
+{{Attaques apprises|gen=II}}
+{{Attaque|Départ|Cru-Aile|60|100|35}}
+{{Attaque|N.8|Hâte|-|-|30}}
+{{Attaque|N.15|Morsure|60|100|25}}
+{{Attaque|N.22|Ultrason|-|55|20}}
+{{Attaque|N.29|Pouv. Antique|60|100|5}}
+{{Attaque|N.36|Grimace|-|90|10}}
+{{Attaque|N.43|Bélier|90|85|20}}
+{{Attaque|N.50|Ultralaser|150|90|5}}
+{{Attaques apprises-bas}}
+
+====[[Troisième génération]]====
+{{Attaques apprises|gen=III}}
+{{Attaque-III|Départ|Cru-Aile|60|100|35|sang-froid|2|0}}
+{{Attaque-III|N.8|Hâte|-|-|30|sang-froid|3|0}}
+{{Attaque-III|N.15|Morsure|60|100|25|robustesse|1|3}}
+{{Attaque-III|N.22|Ultrason|-|55|20|intelligence|3|0}}
+{{Attaque-III|N.29|Pouv. Antique|60|100|5|robustesse|1|0}}
+{{Attaque-III|N.36|Grimace|-|90|10|robustesse|2|1}}
+{{Attaque-III|N.43|Bélier|90|85|20|robustesse|6|0}}
+{{Attaque-III|N.50|Ultralaser|150|90|5|sang-froid|4|4}}
+{{Attaques apprises-bas}}
+
+====[[Quatrième génération]]====
+{{Attaques apprises|gen=IV|afficher=1}}
+{{Attaque-IV|Départ|Crocs Givre|65|95|15|sang-froid|3}}
+{{Attaque-IV|Départ|Crocs Feu|65|95|15|beauté|3}}
+{{Attaque-IV|Départ|Crocs Éclair|65|95|15|intelligence|3}}
+{{Attaque-IV|Départ|Cru-Aile|60|100|35|sang-froid|3}}
+{{Attaque-IV|Départ|Ultrason|-|55|20|intelligence|2}}
+{{Attaque-IV|Départ|Morsure|60|100|25|robustesse|3}}
+{{Attaque-IV|Départ|Grimace|-|90|10|robustesse|2}}
+{{Attaque-IV|N.9|Hurlement|-|100|20|sang-froid|2}}
+{{Attaque-IV|N.17|Hâte|-|-|30|sang-froid|2}}
+{{Attaque-IV|N.25|Pouv. Antique|60|100|5|robustesse|2}}
+{{Attaque-IV|N.33|Mâchouille|80|100|15|robustesse|2}}
+{{Attaque-IV|N.41|Bélier|90|85|20|robustesse|3}}
+{{Attaque-IV|N.49|Tête de Fer|80|100|15|robustesse|2}}
+{{Attaque-IV|N.57|Ultralaser|150|90|5|sang-froid|2}}
+{{Attaque-IV|N.65|Éboulement|75|90|10|robustesse|3}}
+{{Attaque-IV|N.73|Giga Impact|150|90|5|beauté|2}}
+{{Attaques apprises-bas}}
+
+====[[Cinquième génération]]====
+{{Attaques apprises|gen=V|afficher=1}}
+{{Attaque-V|Départ|Crocs Givre|65|95|15}}
+{{Attaque-V|Départ|Crocs Feu|65|95|15}}
+{{Attaque-V|Départ|Crocs Éclair|65|95|15}}
+{{Attaque-V|Départ|Cru-Aile|60|100|35}}
+{{Attaque-V|Départ|Ultrason|-|55|20}}
+{{Attaque-V|Départ|Morsure|60|100|25}}
+{{Attaque-V|Départ|Grimace|-|100|10}}
+{{Attaque-V|N.9|Hurlement|-|100|20}}
+{{Attaque-V|N.17|Hâte|-|-|30}}
+{{Attaque-V|N.25|Pouv. Antique|60|100|5}}
+{{Attaque-V|N.33|Mâchouille|80|100|15}}
+{{Attaque-V|N.41|Bélier|90|85|20}}
+{{Attaque-V|N.49|Chute Libre|60|100|10}}
+{{Attaque-V|N.57|Tête de Fer|80|100|15}}
+{{Attaque-V|N.65|Ultralaser|150|90|5}}
+{{Attaque-V|N.73|Éboulement|75|90|10}}
+{{Attaque-V|N.81|Giga Impact|150|90|5}}
+{{Attaques apprises-bas}}
+
+===Par [[CT]]/[[CS]]===
+
+{| id="Liste des CT/CS" width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|-
+| id="Génération I" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération I]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération II" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération II]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération III" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération III]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+
+| style="padding:6px;font-size:1px"|&nbsp;
+| id="Génération IV" width="25%" style="padding:0.3em;" valign="top"|
+
+{| class="wikitable"
+! colspan="3" | [[Génération IV]]
+|-
+! Numéro || [[Attaque]] || [[Type]]
+|-
+! colspan="3" | À venir
+|}
+|}
+
+===Par [[reproduction]]===
+
+====Dans [[Pokémon Or]], [[Pokémon Argent]] et [[Pokémon Cristal]]====
+
+====Dans les jeux de [[troisième génération]]====
+
+====Dans [[Pokémon Diamant et Perle]]====
+
+===Par [[Donneur de capacités]]===
+==Sensibilités==
+{{Sensibilités
+|type=Roche
+|sensib-acier=2
+|sensib-électrique=2
+|sensib-eau=2
+|sensib-feu=0.5
+|sensib-glace=2
+|sensib-insecte=0.5
+|sensib-normal=0.5
+|sensib-poison=0.5
+|sensib-roche=2
+|sensib-sol=0
+|sensib-vol=0.5
+|rmq-sol=Si l'attaque [[Gravité]] est utilisée ou que '''{{PAGENAME}}''' tient une [[Balle Fer]], l'efficacité des attaques [[Sol]] à son encontre est de x2
+|rmq-sol-num=1
+}}
+
+==[[Statistiques]]==
+{{Statistiques
+|type=roche
+|PV=80
+|attaque=105
+|defense=65
+|atq-spc=60
+|def-spc=75
+|vitesse=130
+|special=60
+}}
+
+==Imagerie==
+
+{{Imagerie Pokémon
+| pokemon=Ptéra
+| numero=142
+| artwork_supp1-nom=Génération 1
+| artwork_supp1-img=Ptéra RB.png
+| forme=9
+| pinballRB-gif=oui
+| pinballRS=oui
+| pinballRS-gif=oui
+| pdm=oui
+| diff_rs-rfvf=oui
+| almia=oui
+}}
+
+==Apparitions dans le [[dessin animé]]==
+
+[[Fichier:Ptéra anime.png|thumb|left|200px|Ptéra lors du cinquième film.]]
+
+Un Ptéra apparaît dans l'[[épisode 46]], où suite à des fouilles à la recherche de fossiles, [[Sacha]] et la [[Team Rocket (trio)|Team Rocket]] réveillent au fin fond d'une série de grottes des Pokémon fossiles qui dormaient là depuis des millénaires. Il déclenche l'évolution du [[Reptincel de Sacha]] en [[Dracaufeu]] et permet la découverte de l'[[œuf]] de [[Togepi d'Ondine|Togepi]]. On apprend dans l'[[épisode 55]] que [[Todd]] a pris une photo de la scène.
+
+Un autre Ptéra apparaît dans l'épisode spécial [[Hoso 13]], où [[Régis]] s'occupe de lui après l'avoir ramené à la vie.
+
+On voit également un Ptéra dans le [[DP017]].
+
+Dans le film 5, [[les protecteurs de la cité des eaux]], les deux espionnes au service de la [[Team Rocket]] recréent un Ptéra à l'aide de son fossile afin qu'il aille chercher [[Latias]].
+===Descriptions du [[Pokédex]]===
+;[[Épisode 46]]
+:{{PCap|Ptéra}} est un {{PCap|Pok}}é{{PCap|mon}} volant dont l'espèce a disparu depuis plusieurs millions d'années. Sa dentition suggère qu'il était carnivore et ses griffes acérées servaient probablement à capturer ses proies.
+;[[Épisode 483]]
+:Le {{PCap|Pok}}é{{PCap|mon}} Fossile. {{PCap|Ptéra}} est un {{PCap|Pok}}é{{PCap|mon}} ancien de [[type]] [[Vol (type)|Vol]], doté de crocs acérées.
+
+{{Ruban Pokémon
+| nomPrécédent=Kabutops
+| numéro=142
+| nom=Ptéra
+| nomSuivant=Ronflex
+}}
+
+{{DEFAULTSORT:Ptera}}
+
+[[Catégorie:Pokémon de base]]
+
+
+<!-- liens un peu particuliers -->
+[[Equivalent URI::http://pokedex.dataincubator.org/pokemon/142| ]]
+[[Equivalent URI::http://dbpedia.org/resource/Aerodactyl| ]]
+
+[[de:Aerodactyl]]
+[[en:Aerodactyl (Pokémon)]]
+[[es:Aerodactyl]]
+[[it:Aerodactyl]]
+[[ja:プテラ]]
+[[pl:Aerodactyl]]
+[[pt:Aerodactyl (pokémon)]]
