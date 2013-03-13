@@ -1,19 +1,68 @@
 #!/usr/bin/env ruby
 
-require 'pp'
+require 'json'
 
-file = ARGV[0]
+files = ARGV
 
-text_content = File.read(file)
+class Pokemon
+  def initialize(text_description)
+    @text_description = text_description
+  end
 
-data = {}
+  attr_reader :text_description
 
-text_content.each_line do |line|
-  next unless line[/^\| .+=/]
-  next if line[/="/] # style="blabla"
+  def properties
+    @properties ||= begin
+      data = {}
 
-  key, value = line.delete('| ').split('=')
-  data[key.strip] = value.strip
+      text_description.each_line do |line|
+        next unless line[/^\| .+=/]
+        next if line[/="/] # style="blabla"
+
+        key, value = line.delete('| ').split('=')
+        data[key.strip] = value.strip
+      end
+
+      reading_attacks = false
+      attacks = []
+      text_description.each_line do |line|
+        line.strip!
+
+        if line == "{{Attaques apprises|gen=I}}"
+          reading_attacks = true
+          next
+        end
+
+        if line == "{{Attaques apprises-bas}}"
+          reading_attacks = false
+        end
+
+        if reading_attacks
+          line.delete!('{}')
+          _, niveau, nom, puissance, precision, pp = line.strip.split('|')
+          attacks << {
+            niveau: niveau,
+            nom: nom,
+            puissance: puissance,
+            precision: precision,
+            pp: pp
+          }
+        end
+      end
+
+      data["attaques"] = attacks
+
+      data
+    end
+  end
 end
 
-pp data
+pokemons = []
+
+files.each do |file|
+  pokemons << Pokemon.new(File.read(file)).properties
+end
+
+File.open('data/pokemons.json', 'w') do |f|
+  f.write JSON.pretty_generate pokemons
+end
