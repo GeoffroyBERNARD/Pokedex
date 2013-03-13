@@ -30,8 +30,8 @@ class PokemonDescription
   end
 end
 
-(1..350).each do |pokemon_number|
-  file_name = "pokemon_#{pokemon_number}.txt"
+(1..151).each do |pokemon_number|
+  file_name = "data/txt/pokemon_#{pokemon_number}.txt"
   next if File.exists?(file_name)
 
   puts "Pokemon #{pokemon_number} - Fetch"
