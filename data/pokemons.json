@@ -2,7 +2,6 @@
   {
     "numéro": "001",
     "nom": "Bulbizarre",
-    "nomSuivant": "Herbizarre",
     "nomen": "Bulbasaur",
     "nomja": "フシギダネ",
     "nomtm": "Fushigidane",
@@ -102,10 +101,8 @@
     ]
   },
   {
-    "nomPrécédent": "Tortank",
     "numéro": "010",
     "nom": "Chenipan",
-    "nomSuivant": "Chrysacier",
     "nomen": "Caterpie",
     "nomja": "キャタピ",
     "nomromaji": "Kyatapī",
@@ -158,10 +155,8 @@
     ]
   },
   {
-    "nomPrécédent": "Krabboss",
     "numéro": "100",
     "nom": "Voltorbe",
-    "nomSuivant": "Électrode",
     "nomen": "Voltorb",
     "nomja": "ビリリダマ",
     "nomtm": "Biriridama",
@@ -256,10 +251,8 @@
     ]
   },
   {
-    "nomPrécédent": "Voltorbe",
     "numéro": "101",
     "nom": "Électrode",
-    "nomSuivant": "Nœunœuf",
     "nomen": "Electrode",
     "nomja": "マルマイン",
     "nomtm": "Marumine",
@@ -352,10 +345,8 @@
     ]
   },
   {
-    "nomPrécédent": "Électrode",
     "numéro": "102",
     "nom": "Nœunœuf",
-    "nomSuivant": "Noadkoko",
     "nomen": "Exeggcute",
     "nomja": "タマタマ",
     "nomtm": "Tamatama",
@@ -466,10 +457,8 @@
     ]
   },
   {
-    "nomPrécédent": "Nœunœuf",
     "numéro": "103",
     "nom": "Noadkoko",
-    "nomSuivant": "Osselait",
     "nomen": "Exeggutor",
     "nomja": "ナッシー",
     "nomtm": "Nassy",
@@ -547,10 +536,8 @@
     ]
   },
   {
-    "nomPrécédent": "Noadkoko",
     "numéro": "104",
     "nom": "Osselait",
-    "nomSuivant": "Ossatueur",
     "nomen": "Cubone",
     "nomja": "カラカラ",
     "nomtm": "Karakara",
@@ -655,10 +642,8 @@
     ]
   },
   {
-    "nomPrécédent": "Osselait",
     "numéro": "105",
     "nom": "Ossatueur",
-    "nomSuivant": "Kicklee",
     "nomen": "Marowak",
     "nomja": "ガラガラ",
     "nomtm": "Garagara",
@@ -755,10 +740,8 @@
     ]
   },
   {
-    "nomPrécédent": "Ossatueur",
     "numéro": "106",
     "nom": "Kicklee",
-    "nomSuivant": "Tygnon",
     "nomen": "Hitmonlee",
     "nomja": "サワムラー",
     "nomtm": "Sawamular",
@@ -850,10 +833,8 @@
     ]
   },
   {
-    "nomPrécédent": "Kicklee",
     "numéro": "107",
     "nom": "Tygnon",
-    "nomSuivant": "Excelangue",
     "nomen": "Hitmonchan",
     "nomja": "エビワラー",
     "nomtm": "Ebiwalar",
@@ -945,10 +926,8 @@
     ]
   },
   {
-    "nomPrécédent": "Tygnon",
     "numéro": "108",
     "nom": "Excelangue",
-    "nomSuivant": "Smogo",
     "nomen": "Lickitung",
     "nomja": "ベロリンガ",
     "nomtm": "Beroringa",
@@ -1037,10 +1016,8 @@
     ]
   },
   {
-    "nomPrécédent": "Excelangue",
     "numéro": "109",
     "nom": "Smogo",
-    "nomSuivant": "Smogogo",
     "nomen": "Koffing",
     "nomja": "ドガース",
     "nomtm": "Dogars",
@@ -1137,10 +1114,8 @@
     ]
   },
   {
-    "nomPrécédent": "Chenipan",
     "numéro": "011",
     "nom": "Chrysacier",
-    "nomSuivant": "Papilusion",
     "nomen": "Metapod",
     "nomja": "トランセル",
     "nomromaji": "Toranseru",
@@ -1183,10 +1158,8 @@
     ]
   },
   {
-    "nomPrécédent": "Smogo",
     "numéro": "110",
     "nom": "Smogogo",
-    "nomSuivant": "Rhinocorne",
     "nomen": "Weezing",
     "nomja": "マタドガス",
     "nomtm": "Matadogas",
@@ -1278,10 +1251,8 @@
     ]
   },
   {
-    "nomPrécédent": "Smogogo",
     "numéro": "111",
     "nom": "Rhinocorne",
-    "nomSuivant": "Rhinoféros",
     "nomen": "Rhyhorn",
     "nomja": "サイホーン",
     "nomtm": "Sihorn",
@@ -1378,10 +1349,8 @@
     ]
   },
   {
-    "nomPrécédent": "Rhinocorne",
     "numéro": "112",
     "nom": "Rhinoféros",
-    "nomSuivant": "Leveinard",
     "nomen": "Rhydon",
     "nomja": "サイドン",
     "nomtm": "Sidon",
@@ -1477,10 +1446,8 @@
     ]
   },
   {
-    "nomPrécédent": "Rhinoféros",
     "numéro": "113",
     "nom": "Leveinard",
-    "nomSuivant": "Saquedeneu",
     "nomen": "Chansey",
     "nomja": "ラッキー",
     "nomtm": "Lucky",
@@ -1597,10 +1564,8 @@
     ]
   },
   {
-    "nomPrécédent": "Leveinard",
     "numéro": "114",
     "nom": "Saquedeneu",
-    "nomSuivant": "Kangourex",
     "nomen": "Tangela",
     "nomja": "モンジャラ",
     "nomtm": "Monjara",
@@ -1723,10 +1688,8 @@
     ]
   },
   {
-    "nomPrécédent": "Saquedeneu",
     "numéro": "115",
     "nom": "Kangourex",
-    "nomSuivant": "Hypotrempe",
     "nomen": "Kangaskhan",
     "nomja": "ガルーラ",
     "nomtm": "Garura",
@@ -1822,10 +1785,8 @@
     ]
   },
   {
-    "nomPrécédent": "Kangourex",
     "numéro": "116",
     "nom": "Hypotrempe",
-    "nomSuivant": "Hypocéan",
     "nomen": "Horsea",
     "nomja": "タッツー",
     "nomtm": "Tattu",
@@ -1914,10 +1875,8 @@
     ]
   },
   {
-    "nomPrécédent": "Hypotrempe",
     "numéro": "117",
     "nom": "Hypocéan",
-    "nomSuivant": "Poissirène",
     "nomen": "Seadra",
     "nomja": "シードラ",
     "nomtm": "Seadra",
@@ -2004,10 +1963,8 @@
     ]
   },
   {
-    "nomPrécédent": "Hypocéan",
     "numéro": "118",
     "nom": "Poissirène",
-    "nomSuivant": "Poissoroy",
     "nomen": "Goldeen",
     "nomja": "トサキント",
     "nomtm": "Tosakinto",
@@ -2114,10 +2071,8 @@
     ]
   },
   {
-    "nomPrécédent": "Poissirène",
     "numéro": "119",
     "nom": "Poissoroy",
-    "nomSuivant": "Stari",
     "nomen": "Seaking",
     "nomja": "アズマオウ",
     "nomtm": "Azumao",
@@ -2225,10 +2180,8 @@
     ]
   },
   {
-    "nomPrécédent": "Chrysacier",
     "numéro": "012",
     "nom": "Papilusion",
-    "nomSuivant": "Aspicot",
     "nomen": "Butterfree",
     "nomja": "バタフリー",
     "nomromaji": "Batafurī",
@@ -2323,10 +2276,8 @@
     ]
   },
   {
-    "nomPrécédent": "Poissoroy",
     "numéro": "120",
     "nom": "Stari",
-    "nomSuivant": "Staross",
     "nomen": "Staryu",
     "nomja": "ヒトデマン",
     "nomtm": "Hitodeman",
@@ -2429,10 +2380,8 @@
     ]
   },
   {
-    "nomPrécédent": "Stari",
     "numéro": "121",
     "nom": "Staross",
-    "nomSuivant": "M.Mime",
     "nomen": "Starmie",
     "nomja": "スターミー",
     "nomtm": "Starmie",
@@ -2478,10 +2427,8 @@
     ]
   },
   {
-    "nomPrécédent": "Staross",
     "numéro": "122",
     "nom": "M.Mime",
-    "nomSuivant": "Insécateur",
     "nomen": "Mr.Mime",
     "nomja": "バリヤード",
     "nomtm": "Barrierd",
@@ -2569,10 +2516,8 @@
     ]
   },
   {
-    "nomPrécédent": "M.Mime",
     "numéro": "123",
     "nom": "Insécateur",
-    "nomSuivant": "Lippoutou",
     "nomen": "Scyther",
     "nomja": "ストライク",
     "nomde": "Sichlor",
@@ -2673,10 +2618,8 @@
     ]
   },
   {
-    "nomPrécédent": "Insécateur",
     "numéro": "124",
     "nom": "Lippoutou",
-    "nomSuivant": "Élektek",
     "nomen": "Jynx",
     "nomja": "ルージュラ",
     "nomde": "Rossana",
@@ -2783,10 +2726,8 @@
     ]
   },
   {
-    "nomPrécédent": "Lippoutou",
     "numéro": "125",
     "nom": "Élektek",
-    "nomSuivant": "Magmar",
     "nomen": "Electabuzz",
     "nomja": "エレブー",
     "nomde": "Elektek",
@@ -2880,10 +2821,8 @@
     ]
   },
   {
-    "nomPrécédent": "Élektek",
     "numéro": "126",
     "nom": "Magmar",
-    "nomSuivant": "Scarabrute",
     "nomen": "Magmar",
     "nomja": "ブーバー",
     "nomtm": "Boober",
@@ -2978,10 +2917,8 @@
     ]
   },
   {
-    "nomPrécédent": "Magmar",
     "numéro": "127",
     "nom": "Scarabrute",
-    "nomSuivant": "Tauros",
     "nomen": "Pinsir",
     "nomja": "カイロス",
     "nomromaji": "Kairosu",
@@ -3075,10 +3012,8 @@
     ]
   },
   {
-    "nomPrécédent": "Scarabrute",
     "numéro": "128",
     "nom": "Tauros",
-    "nomSuivant": "Magicarpe",
     "nomen": "Tauros",
     "nomja": "ケンタロス",
     "nomtm": "Kentauros",
@@ -3166,10 +3101,8 @@
     ]
   },
   {
-    "nomPrécédent": "Tauros",
     "numéro": "129",
     "nom": "Magicarpe",
-    "nomSuivant": "Léviator",
     "nomen": "Magikarp",
     "nomja": "コイキング",
     "nomtm": "Koiking",
@@ -3237,10 +3170,8 @@
     ]
   },
   {
-    "nomPrécédent": "Papilusion",
     "numéro": "013",
     "nom": "Aspicot",
-    "nomSuivant": "Coconfort",
     "nomen": "Weedle",
     "nomja": "ビードル",
     "nomromaji": "Bīdoru",
@@ -3296,10 +3227,8 @@
     ]
   },
   {
-    "nomPrécédent": "Magicarpe",
     "numéro": "130",
     "nom": "Léviator",
-    "nomSuivant": "Lokhlass",
     "nomen": "Gyarados",
     "nomja": "ギャラドス",
     "nomromaji": "Gyaradosu",
@@ -3395,10 +3324,8 @@
     ]
   },
   {
-    "nomPrécédent": "Léviator",
     "numéro": "131",
     "nom": "Lokhlass",
-    "nomSuivant": "Métamorph",
     "nomen": "Lapras",
     "nomja": "ラプラス",
     "nomtm": "Laplace",
@@ -3508,10 +3435,8 @@
     ]
   },
   {
-    "nomPrécédent": "Lokhlass",
     "numéro": "132",
     "nom": "Métamorph",
-    "nomSuivant": "Évoli",
     "nomen": "Ditto",
     "nomja": "メタモン",
     "nomtm": "Metamon",
@@ -3558,10 +3483,8 @@
     ]
   },
   {
-    "nomPrécédent": "Métamorph",
     "numéro": "133",
     "nom": "Évoli",
-    "nomSuivant": "Aquali",
     "nomen": "Eevee",
     "nomja": "イーブイ",
     "nomromaji": "Ībui",
@@ -3666,10 +3589,8 @@
     ]
   },
   {
-    "nomPrécédent": "Évoli",
     "numéro": "134",
     "nom": "Aquali",
-    "nomSuivant": "Voltali",
     "nomen": "Vaporeon",
     "nomja": "シャワーズ",
     "nomtm": "Showers",
@@ -3798,10 +3719,8 @@
     ]
   },
   {
-    "nomPrécédent": "Aquali",
     "numéro": "135",
     "nom": "Voltali",
-    "nomSuivant": "Pyroli",
     "nomen": "Jolteon",
     "nomja": "サンダース",
     "nomtm": "Thunders",
@@ -3915,10 +3834,8 @@
     ]
   },
   {
-    "nomPrécédent": "Voltali",
     "numéro": "136",
     "nom": "Pyroli",
-    "nomSuivant": "Porygon",
     "nomen": "Flareon",
     "nomja": "ブースター",
     "nomtm": "Booster",
@@ -4040,10 +3957,8 @@
     ]
   },
   {
-    "nomPrécédent": "Pyroli",
     "numéro": "137",
     "nom": "Porygon",
-    "nomSuivant": "Amonita",
     "nomen": "Porygon",
     "nomja": "ポリゴン",
     "nomtm": "Porygon",
@@ -4135,10 +4050,8 @@
     ]
   },
   {
-    "nomPrécédent": "Porygon",
     "numéro": "138",
     "nom": "Amonita",
-    "nomSuivant": "Amonistar",
     "nomen": "Omanyte",
     "nomja": "オムナイト",
     "nomtm": "Omnite",
@@ -4234,10 +4147,8 @@
     ]
   },
   {
-    "nomPrécédent": "Amonita",
     "numéro": "139",
     "nom": "Amonistar",
-    "nomSuivant": "Kabuto",
     "nomen": "Omastar",
     "nomja": "オムスター",
     "nomtm": "Omstar",
@@ -4334,10 +4245,8 @@
     ]
   },
   {
-    "nomPrécédent": "Aspicot",
     "numéro": "014",
     "nom": "Coconfort",
-    "nomSuivant": "Dardargnan",
     "nomen": "Kakuna",
     "nomja": "コクーン",
     "nomromaji": "Kokūn",
@@ -4381,10 +4290,8 @@
     ]
   },
   {
-    "nomPrécédent": "Amonistar",
     "numéro": "140",
     "nom": "Kabuto",
-    "nomSuivant": "Kabutops",
     "nomen": "Kabuto",
     "nomja": "カブト",
     "nomtm": "Kabuto",
@@ -4480,10 +4387,8 @@
     ]
   },
   {
-    "nomPrécédent": "Kabuto",
     "numéro": "141",
     "nom": "Kabutops",
-    "nomSuivant": "Ptéra",
     "nomen": "Kabutops",
     "nomja": "カブトプス",
     "nomtm": "Kabutops",
@@ -4580,10 +4485,8 @@
     ]
   },
   {
-    "nomPrécédent": "Kabutops",
     "numéro": "142",
     "nom": "Ptéra",
-    "nomSuivant": "Ronflex",
     "nomen": "Aerodactyl",
     "nomja": "プテラ",
     "nomtm": "Ptera",
@@ -4669,10 +4572,8 @@
     ]
   },
   {
-    "nomPrécédent": "Ptéra",
     "numéro": "143",
     "nom": "Ronflex",
-    "nomSuivant": "Artikodin",
     "nomen": "Snorlax",
     "nomja": "カビゴン",
     "nomtm": "Kabigon",
@@ -4763,10 +4664,8 @@
     ]
   },
   {
-    "nomPrécédent": "Ronflex",
     "numéro": "144",
     "nom": "Artikodin",
-    "nomSuivant": "Électhor",
     "nomen": "Articuno",
     "nomja": "フリーザー",
     "nomtm": "Freezer",
@@ -4845,10 +4744,8 @@
     ]
   },
   {
-    "nomPrécédent": "Artikodin",
     "numéro": "145",
     "nom": "Électhor",
-    "nomSuivant": "Sulfura",
     "nomen": "Zapdos",
     "nomko": "썬더''Sseondeo''",
     "nomch": "閃電鳥''Shǎndiànniǎo''",
@@ -4925,10 +4822,8 @@
     ]
   },
   {
-    "nomPrécédent": "Électhor",
     "numéro": "146",
     "nom": "Sulfura",
-    "nomSuivant": "Minidraco",
     "nomen": "Moltres",
     "nomja": "ファイヤー",
     "nomtm": "Fire",
@@ -5005,10 +4900,8 @@
     ]
   },
   {
-    "nomPrécédent": "Sulfura",
     "numéro": "147",
     "nom": "Minidraco",
-    "nomSuivant": "Draco",
     "nomen": "Dratini",
     "nomja": "ミニリュウ",
     "nomtm": "Miniryu",
@@ -5100,10 +4993,8 @@
     ]
   },
   {
-    "nomPrécédent": "Minidraco",
     "numéro": "148",
     "nom": "Draco",
-    "nomSuivant": "Dracolosse",
     "nomen": "Dragonair",
     "nomja": "ハクリュー",
     "nomtm": "Hakuryu",
@@ -5194,10 +5085,8 @@
     ]
   },
   {
-    "nomPrécédent": "Draco",
     "numéro": "149",
     "nom": "Dracolosse",
-    "nomSuivant": "Mewtwo",
     "nomen": "Dragonite",
     "nomja": "カイリュー",
     "nomtm": "Kairyu",
@@ -5287,10 +5176,8 @@
     ]
   },
   {
-    "nomPrécédent": "Coconfort",
     "numéro": "015",
     "nom": "Dardargnan",
-    "nomSuivant": "Roucool",
     "nomen": "Beedrill",
     "nomja": "スピアー",
     "nomtm": "Spear",
@@ -5373,10 +5260,8 @@
     ]
   },
   {
-    "nomPrécédent": "Dracolosse",
     "numéro": "150",
     "nom": "Mewtwo",
-    "nomSuivant": "Mew",
     "nomen": "Mewtwo",
     "nomja": "ミュウツー",
     "nomromaji": "Myūtsū",
@@ -5474,10 +5359,8 @@
     ]
   },
   {
-    "nomPrécédent": "Mewtwo",
     "numéro": "151",
     "nom": "Mew",
-    "nomSuivant": "Germignon",
     "nomen": "Mew",
     "nomja": "ミュウ",
     "nomromaji": "Myū",
@@ -5560,10 +5443,8 @@
     ]
   },
   {
-    "nomPrécédent": "Dardargnan",
     "numéro": "016",
     "nom": "Roucool",
-    "nomSuivant": "Roucoups",
     "nomen": "Pidgey",
     "nomja": "ポッポ",
     "nomtm": "Poppo",
@@ -5652,10 +5533,8 @@
     ]
   },
   {
-    "nomPrécédent": "Roucool",
     "numéro": "017",
     "nom": "Roucoups",
-    "nomSuivant": "Roucarnage",
     "nomen": "Pidgeotto",
     "nomja": "ピジョン",
     "nomtm": "Pigeon",
@@ -5744,10 +5623,8 @@
     ]
   },
   {
-    "nomPrécédent": "Roucoups",
     "numéro": "018",
     "nom": "Roucarnage",
-    "nomSuivant": "Rattata",
     "nomen": "Pidgeot",
     "nomja": "ピジョット",
     "nomromaji": "Pijotto",
@@ -5838,10 +5715,8 @@
     ]
   },
   {
-    "nomPrécédent": "Roucarnage",
     "numéro": "019",
     "nom": "Rattata",
-    "nomSuivant": "Rattatac",
     "nomen": "Rattata",
     "nomja": "コラッタ",
     "nomtm": "Koratta",
@@ -5925,10 +5800,8 @@
     ]
   },
   {
-    "nomPrécédent": "Bulbizarre",
     "numéro": "002",
     "nom": "Herbizarre",
-    "nomSuivant": "Florizarre",
     "nomen": "Ivysaur",
     "nomja": "フシギソウ",
     "nomtm": "Fushigisou",
@@ -6046,10 +5919,8 @@
     ]
   },
   {
-    "nomPrécédent": "Rattata",
     "numéro": "020",
     "nom": "Rattatac",
-    "nomSuivant": "Piafabec",
     "nomen": "Raticate",
     "nomja": "ラッタ",
     "nomtm": "Ratta",
@@ -6132,10 +6003,8 @@
     ]
   },
   {
-    "nomPrécédent": "Rattatac",
     "numéro": "021",
     "nom": "Piafabec",
-    "nomSuivant": "Rapasdepic",
     "nomen": "Spearow",
     "nomja": "オニスズメ",
     "nomtm": "Onisuzume",
@@ -6225,10 +6094,8 @@
     ]
   },
   {
-    "nomPrécédent": "Piafabec",
     "numéro": "022",
     "nom": "Rapasdepic",
-    "nomSuivant": "Abo",
     "nomen": "Fearow",
     "nomja": "オニドリル",
     "nomtm": "Onidrill",
@@ -6318,10 +6185,8 @@
     ]
   },
   {
-    "nomPrécédent": "Rapasdepic",
     "numéro": "023",
     "nom": "Abo",
-    "nomSuivant": "Arbok",
     "nomen": "Ekans",
     "nomja": "アーボ",
     "nomromaji": "Ābo",
@@ -6412,10 +6277,8 @@
     ]
   },
   {
-    "nomPrécédent": "Abo",
     "numéro": "024",
     "nom": "Arbok",
-    "nomSuivant": "Pikachu",
     "nomen": "Arbok",
     "nomja": "アーボック",
     "nomromaji": "Ābokku",
@@ -6507,10 +6370,8 @@
     ]
   },
   {
-    "nomPrécédent": "Arbok",
     "numéro": "025",
     "nom": "Pikachu",
-    "nomSuivant": "Raichu",
     "nomen": "Pikachu",
     "nomja": "ピカチュウ",
     "nomromaji": "Pikachū",
@@ -6652,10 +6513,8 @@
     ]
   },
   {
-    "nomPrécédent": "Pikachu",
     "numéro": "026",
     "nom": "Raichu",
-    "nomSuivant": "Sabelette",
     "nomen": "Raichu",
     "nomja": "ライチュウ",
     "nomromaji": "Raichū",
@@ -6721,10 +6580,8 @@
     ]
   },
   {
-    "nomPrécédent": "Raichu",
     "numéro": "027",
     "nom": "Sabelette",
-    "nomSuivant": "Sablaireau",
     "nomen": "Sandshrew",
     "nomja": "サンド",
     "nomromaji": "Sando",
@@ -6811,10 +6668,8 @@
     ]
   },
   {
-    "nomPrécédent": "Sabelette",
     "numéro": "028",
     "nom": "Sablaireau",
-    "nomSuivant": "Nidoran♀",
     "nomen": "Sandslash",
     "nomja": "サンドパン",
     "nomromaji": "Sandopan",
@@ -6901,10 +6756,8 @@
     ]
   },
   {
-    "nomPrécédent": "Sablaireau",
     "numéro": "029",
     "nom": "Nidoran♀",
-    "nomSuivant": "Nidorina",
     "nomen": "Nidoran♀",
     "nomja": "ニドラン♀",
     "nomtm": "Nidoran♀",
@@ -6997,10 +6850,8 @@
     ]
   },
   {
-    "nomPrécédent": "Herbizarre",
     "numéro": "003",
     "nom": "Florizarre",
-    "nomSuivant": "Salamèche",
     "nomen": "Venusaur",
     "nomja": "フシギバナ",
     "nomtm": "Fushigibana",
@@ -7108,10 +6959,8 @@
     ]
   },
   {
-    "nomPrécédent": "Nidoran♀",
     "numéro": "030",
     "nom": "Nidorina",
-    "nomSuivant": "Nidoqueen",
     "nomen": "Nidorina",
     "nomja": "ニドリーナ",
     "nomtm": "Nidorina",
@@ -7204,10 +7053,8 @@
     ]
   },
   {
-    "nomPrécédent": "Nidorina",
     "numéro": "031",
     "nom": "Nidoqueen",
-    "nomSuivant": "Nidoran♂",
     "nomen": "Nidoqueen",
     "nomja": "ニドクイン",
     "nomtm": "Nidoqueen",
@@ -7287,10 +7134,8 @@
     ]
   },
   {
-    "nomPrécédent": "Nidoqueen",
     "numéro": "032",
     "nom": "Nidoran♂",
-    "nomSuivant": "Nidorino",
     "nomen": "Nidoran♂",
     "nomja": "ニドラン♂",
     "nomtm": "Nidoran♂",
@@ -7384,10 +7229,8 @@
     ]
   },
   {
-    "nomPrécédent": "Nidoran♂",
     "numéro": "033",
     "nom": "Nidorino",
-    "nomSuivant": "Nidoking",
     "nomen": "Nidorino",
     "nomja": "ニドリーノ",
     "nomtm": "Nidorino",
@@ -7481,10 +7324,8 @@
     ]
   },
   {
-    "nomPrécédent": "Nidorino",
     "numéro": "034",
     "nom": "Nidoking",
-    "nomSuivant": "Mélofée",
     "nomen": "Nidoking",
     "nomja": "ニドキング",
     "nomtm": "Nidoking",
@@ -7558,10 +7399,8 @@
     ]
   },
   {
-    "nomPrécédent": "Nidoking",
     "numéro": "035",
     "nom": "Mélofée",
-    "nomSuivant": "Mélodelfe",
     "nomen": "Clefairy",
     "nomja": "ピッピ",
     "nomtm": "Pippi",
@@ -7655,10 +7494,8 @@
     ]
   },
   {
-    "nomPrécédent": "Mélofée",
     "numéro": "036",
     "nom": "Mélodelfe",
-    "nomSuivant": "Goupix",
     "nomen": "Clefable",
     "nomja": "ピクシー",
     "nomtm": "Pixy",
@@ -7724,10 +7561,8 @@
     ]
   },
   {
-    "nomPrécédent": "Goupix",
     "numéro": "038",
     "nom": "Feunard",
-    "nomSuivant": "Rondoudou",
     "nomen": "Ninetales",
     "nomja": "キュウコン",
     "nomtm": "Kyukon",
@@ -7805,10 +7640,8 @@
     ]
   },
   {
-    "nomPrécédent": "Feunard",
     "numéro": "039",
     "nom": "Rondoudou",
-    "nomSuivant": "Grodoudou",
     "nomen": "Jigglypuff",
     "nomja": "プリン",
     "nomtm": "Purin",
@@ -7907,10 +7740,8 @@
     ]
   },
   {
-    "nomPrécédent": "Florizarre",
     "numéro": "004",
     "nom": "Salamèche",
-    "nomSuivant": "Reptincel",
     "nomen": "Charmander",
     "nomja": "ヒトカゲ",
     "nomtm": "Hitokage",
@@ -8017,10 +7848,8 @@
     ]
   },
   {
-    "nomPrécédent": "Rondoudou",
     "numéro": "040",
     "nom": "Grodoudou",
-    "nomSuivant": "Nosferapti",
     "nomen": "Wigglytuff",
     "nomja": "プクリン",
     "nomtm": "Pukurin",
@@ -8092,10 +7921,8 @@
     ]
   },
   {
-    "nomPrécédent": "Grodoudou",
     "numéro": "041",
     "nom": "Nosferapti",
-    "nomSuivant": "Nosferalto",
     "nomen": "Zubat",
     "nomja": "ズバット",
     "nomtm": "Zubat",
@@ -8188,10 +8015,8 @@
     ]
   },
   {
-    "nomPrécédent": "Nosferapti",
     "numéro": "042",
     "nom": "Nosferalto",
-    "nomSuivant": "Mystherbe",
     "nomen": "Golbat",
     "nomja": "ゴルバット",
     "nomtm": "Golbat",
@@ -8280,10 +8105,8 @@
     ]
   },
   {
-    "nomPrécédent": "Nosferalto",
     "numéro": "043",
     "nom": "Mystherbe",
-    "nomSuivant": "Ortide",
     "nomen": "Oddish",
     "nomja": "ナゾノクサ",
     "nomtm": "Nazonokusa",
@@ -8378,10 +8201,8 @@
     ]
   },
   {
-    "nomPrécédent": "Mystherbe",
     "numéro": "044",
     "nom": "Ortide",
-    "nomSuivant": "Rafflesia",
     "nomen": "Gloom",
     "nomja": "クサイハナ",
     "nomtm": "Kusaihana",
@@ -8474,10 +8295,8 @@
     ]
   },
   {
-    "nomPrécédent": "Ortide",
     "numéro": "045",
     "nom": "Rafflesia",
-    "nomSuivant": "Paras",
     "nomen": "Vileplume",
     "nomja": "ラフレシア",
     "nomtm": "Ruffresia",
@@ -8543,10 +8362,8 @@
     ]
   },
   {
-    "nomPrécédent": "Rafflesia",
     "numéro": "046",
     "nom": "Paras",
-    "nomSuivant": "Parasect",
     "nomen": "Paras",
     "nomja": "パラス",
     "nomtm": "Paras",
@@ -8644,10 +8461,8 @@
     ]
   },
   {
-    "nomPrécédent": "Paras",
     "numéro": "047",
     "nom": "Parasect",
-    "nomSuivant": "Mimitoss",
     "nomen": "Parasect",
     "nomja": "パラセクト",
     "nomtm": "Parasect",
@@ -8744,10 +8559,8 @@
     ]
   },
   {
-    "nomPrécédent": "Parasect",
     "numéro": "048",
     "nom": "Mimitoss",
-    "nomSuivant": "Aéromite",
     "nomen": "Venonat",
     "nomja": "コンパン",
     "nomtm": "Kongpang",
@@ -8860,10 +8673,8 @@
     ]
   },
   {
-    "nomPrécédent": "Mimitoss",
     "numéro": "049",
     "nom": "Aéromite",
-    "nomSuivant": "Taupiqueur",
     "nomen": "Venomoth",
     "nomja": "モルフォン",
     "nomtm": "Morphon",
@@ -8975,10 +8786,8 @@
     ]
   },
   {
-    "nomPrécédent": "Salamèche",
     "numéro": "005",
     "nom": "Reptincel",
-    "nomSuivant": "Dracaufeu",
     "nomen": "Charmeleon",
     "nomja": "リザード",
     "nomromaji": "Rizādo",
@@ -9070,10 +8879,8 @@
     ]
   },
   {
-    "nomPrécédent": "Aéromite",
     "numéro": "050",
     "nom": "Taupiqueur",
-    "nomSuivant": "Triopikeur",
     "nomen": "Diglett",
     "nomja": "ディグダ",
     "nomtm": "Digda",
@@ -9161,10 +8968,8 @@
     ]
   },
   {
-    "nomPrécédent": "Taupiqueur",
     "numéro": "051",
     "nom": "Triopikeur",
-    "nomSuivant": "Miaouss",
     "nomen": "Dugtrio",
     "nomja": "ダグトリオ",
     "nomtm": "Dugtrio",
@@ -9251,10 +9056,8 @@
     ]
   },
   {
-    "nomPrécédent": "Triopikeur",
     "numéro": "052",
     "nom": "Miaouss",
-    "nomSuivant": "Persian",
     "nomen": "Meowth",
     "nomja": "ニャース",
     "nomtm": "Nyarth",
@@ -9351,10 +9154,8 @@
     ]
   },
   {
-    "nomPrécédent": "Miaouss",
     "numéro": "053",
     "nom": "Persian",
-    "nomSuivant": "Psykokwak",
     "nomen": "Persian",
     "nomja": "ペルシアン",
     "nomtm": "Persian",
@@ -9445,10 +9246,8 @@
     ]
   },
   {
-    "nomPrécédent": "Persian",
     "numéro": "054",
     "nom": "Psykokwak",
-    "nomSuivant": "Akwakwak",
     "nomen": "Psyduck",
     "nomja": "コダック",
     "nomtm": "Koduck",
@@ -9546,10 +9345,8 @@
     ]
   },
   {
-    "nomPrécédent": "Psykokwak",
     "numéro": "055",
     "nom": "Akwakwak",
-    "nomSuivant": "Férosinge",
     "nomen": "Golduck",
     "nomja": "ゴルダック",
     "nomtm": "Golduck",
@@ -9635,10 +9432,8 @@
     ]
   },
   {
-    "nomPrécédent": "Akwakwak",
     "numéro": "056",
     "nom": "Férosinge",
-    "nomSuivant": "Colossinge",
     "nomen": "Mankey",
     "nomja": "マンキー",
     "nomtm": "Mankey",
@@ -9746,10 +9541,8 @@
     ]
   },
   {
-    "nomPrécédent": "Férosinge",
     "numéro": "057",
     "nom": "Colossinge",
-    "nomSuivant": "Caninos",
     "nomen": "Primeape",
     "nomja": "オコリザル",
     "nomtm": "Okorizaru",
@@ -9862,10 +9655,8 @@
     ]
   },
   {
-    "nomPrécédent": "Colossinge",
     "numéro": "058",
     "nom": "Caninos",
-    "nomSuivant": "Arcanin",
     "nomen": "Growlithe",
     "nomja": "ガーディ",
     "nomromaji": "Gādi",
@@ -9957,10 +9748,8 @@
     ]
   },
   {
-    "nomPrécédent": "Caninos",
     "numéro": "059",
     "nom": "Arcanin",
-    "nomSuivant": "Ptitard",
     "nomen": "Arcanine",
     "nomja": "ウインディ",
     "nomtm": "Windie",
@@ -10043,10 +9832,8 @@
     ]
   },
   {
-    "nomPrécédent": "Reptincel",
     "numéro": "006",
     "nom": "Dracaufeu",
-    "nomSuivant": "Carapuce",
     "nomen": "Charizard",
     "nomja": "リザードン",
     "nomromaji": "Rizādon",
@@ -10140,10 +9927,8 @@
     ]
   },
   {
-    "nomPrécédent": "Arcanin",
     "numéro": "060",
     "nom": "Ptitard",
-    "nomSuivant": "Têtarte",
     "nomen": "Poliwag",
     "nomja": "ニョロモ",
     "nomtm": "Nyoromo",
@@ -10232,10 +10017,8 @@
     ]
   },
   {
-    "nomPrécédent": "Ptitard",
     "numéro": "061",
     "nom": "Têtarte",
-    "nomSuivant": "Tartard",
     "nomen": "Poliwhirl",
     "nomja": "ニョロゾ",
     "nomtm": "Nyorozo",
@@ -10323,10 +10106,8 @@
     ]
   },
   {
-    "nomPrécédent": "Têtarte",
     "numéro": "062",
     "nom": "Tartard",
-    "nomSuivant": "Abra",
     "nomen": "Poliwrath",
     "nomja": "ニョロボン",
     "nomtm": "Nyorobon",
@@ -10394,10 +10175,8 @@
     ]
   },
   {
-    "nomPrécédent": "Tartard",
     "numéro": "063",
     "nom": "Abra",
-    "nomSuivant": "Kadabra",
     "nomen": "Abra",
     "nomja": "ケーシィ",
     "nomtm": "Casey",
@@ -10449,10 +10228,8 @@
     ]
   },
   {
-    "nomPrécédent": "Abra",
     "numéro": "064",
     "nom": "Kadabra",
-    "nomSuivant": "Alakazam",
     "nomen": "Kadabra",
     "nomja": "ユンゲラー",
     "nomromaji": "Yungerā",
@@ -10549,10 +10326,8 @@
     ]
   },
   {
-    "nomPrécédent": "Kadabra",
     "numéro": "065",
     "nom": "Alakazam",
-    "nomSuivant": "Machoc",
     "nomen": "Alakazam",
     "nomja": "フーディン",
     "nomromaji": "Fūdin",
@@ -10643,10 +10418,8 @@
     ]
   },
   {
-    "nomPrécédent": "Alakazam",
     "numéro": "066",
     "nom": "Machoc",
-    "nomSuivant": "Machopeur",
     "nomen": "Machop",
     "nomja": "ワンリキー",
     "nomtm": "Wanriky",
@@ -10738,10 +10511,8 @@
     ]
   },
   {
-    "nomPrécédent": "Machoc",
     "numéro": "067",
     "nom": "Machopeur",
-    "nomSuivant": "Mackogneur",
     "nomen": "Machoke",
     "nomja": "ゴーリキー",
     "nomtm": "Goriky",
@@ -10829,10 +10600,8 @@
     ]
   },
   {
-    "nomPrécédent": "Machopeur",
     "numéro": "068",
     "nom": "Mackogneur",
-    "nomSuivant": "Chétiflor",
     "nomen": "Machamp",
     "nomja": "カイリキー",
     "nomtm": "Kairiky",
@@ -10918,10 +10687,8 @@
     ]
   },
   {
-    "nomPrécédent": "Mackogneur",
     "numéro": "069",
     "nom": "Chétiflor",
-    "nomSuivant": "Boustiflor",
     "nomen": "Bellsprout",
     "nomja": "マダツボミ",
     "nomtm": "Madatsubomi",
@@ -11025,10 +10792,8 @@
     ]
   },
   {
-    "nomPrécédent": "Dracaufeu",
     "numéro": "007",
     "nom": "Carapuce",
-    "nomSuivant": "Carabaffe",
     "nomen": "Squirtle",
     "nomja": "ゼニガメ",
     "nomtm": "Zenigame",
@@ -11131,10 +10896,8 @@
     ]
   },
   {
-    "nomPrécédent": "Chétiflor",
     "numéro": "070",
     "nom": "Boustiflor",
-    "nomSuivant": "Empiflor",
     "nomen": "Weepinbell",
     "nomja": "ウツドン",
     "nomtm": "Utsudon",
@@ -11237,10 +11000,8 @@
     ]
   },
   {
-    "nomPrécédent": "Boustiflor",
     "numéro": "071",
     "nom": "Empiflor",
-    "nomSuivant": "Tentacool",
     "nomen": "Victreebel",
     "nomja": "ウツボット",
     "nomtm": "Utsubotto",
@@ -11313,10 +11074,8 @@
     ]
   },
   {
-    "nomPrécédent": "Empiflor",
     "numéro": "072",
     "nom": "Tentacool",
-    "nomSuivant": "Tentacruel",
     "nomen": "Tentacool",
     "nomja": "メノクラゲ",
     "nomtm": "Menokurage",
@@ -11424,10 +11183,8 @@
     ]
   },
   {
-    "nomPrécédent": "Tentacool",
     "numéro": "073",
     "nom": "Tentacruel",
-    "nomSuivant": "Racaillou",
     "nomen": "Tentacruel",
     "nomja": "ドククラゲ",
     "nomtm": "Dokukurage",
@@ -11534,10 +11291,8 @@
     ]
   },
   {
-    "nomPrécédent": "Tentacruel",
     "numéro": "074",
     "nom": "Racaillou",
-    "nomSuivant": "Gravalanch",
     "nomen": "Geodude",
     "nomja": "イシツブテ",
     "nomtm": "Ishitsubute",
@@ -11633,10 +11388,8 @@
     ]
   },
   {
-    "nomPrécédent": "Racaillou",
     "numéro": "075",
     "nom": "Gravalanch",
-    "nomSuivant": "Grolem",
     "nomen": "Graveler",
     "nomja": "ゴローン",
     "nomtm": "Golone",
@@ -11733,10 +11486,8 @@
     ]
   },
   {
-    "nomPrécédent": "Gravalanch",
     "numéro": "076",
     "nom": "Grolem",
-    "nomSuivant": "Ponyta",
     "nomen": "Golem",
     "nomja": "ゴローニャ",
     "nomtm": "Golonya",
@@ -11833,10 +11584,8 @@
     ]
   },
   {
-    "nomPrécédent": "Grolem",
     "numéro": "077",
     "nom": "Ponyta",
-    "nomSuivant": "Galopa",
     "nomen": "Ponyta",
     "nomja": "ポニータ",
     "nomtm": "Ponyta",
@@ -11935,10 +11684,8 @@
     ]
   },
   {
-    "nomPrécédent": "Ponyta",
     "numéro": "078",
     "nom": "Galopa",
-    "nomSuivant": "Ramoloss",
     "nomen": "Rapidash",
     "nomja": "ギャロップ",
     "nomtm": "Gallop",
@@ -12030,10 +11777,8 @@
     ]
   },
   {
-    "nomPrécédent": "Carapuce",
     "numéro": "008",
     "nom": "Carabaffe",
-    "nomSuivant": "Tortank",
     "nomen": "Wartortle",
     "nomja": "カメール",
     "nomromaji": "Kamēru",
@@ -12130,10 +11875,8 @@
     ]
   },
   {
-    "nomPrécédent": "Ramoloss",
     "numéro": "080",
     "nom": "Flagadoss",
-    "nomSuivant": "Magnéti",
     "nomen": "Slowbro",
     "nomja": "ヤドラン",
     "nomtm": "Yadoran",
@@ -12229,10 +11972,8 @@
     ]
   },
   {
-    "nomPrécédent": "Magnéti",
     "numéro": "082",
     "nom": "Magnéton",
-    "nomSuivant": "Canarticho",
     "nomen": "Magneton",
     "nomja": "レアコイル",
     "nomtm": "Rarecoil",
@@ -12327,10 +12068,8 @@
     ]
   },
   {
-    "nomPrécédent": "Magnéton",
     "numéro": "083",
     "nom": "Canarticho",
-    "nomSuivant": "Doduo",
     "nomen": "Farfetch’d",
     "nomja": "カモネギ",
     "nomtm": "Kamonegi",
@@ -12420,10 +12159,8 @@
     ]
   },
   {
-    "nomPrécédent": "Doduo",
     "numéro": "085",
     "nom": "Dodrio",
-    "nomSuivant": "Otaria",
     "nomen": "Dodrio",
     "nomja": "ドードリオ",
     "nomtm": "Dodorio",
@@ -12519,10 +12256,8 @@
     ]
   },
   {
-    "nomPrécédent": "Dodrio",
     "numéro": "086",
     "nom": "Otaria",
-    "nomSuivant": "Lamantine",
     "nomen": "Seel",
     "nomja": "パウワウ",
     "nomtm": "Pawou",
@@ -12613,10 +12348,8 @@
     ]
   },
   {
-    "nomPrécédent": "Lamantine",
     "numéro": "088",
     "nom": "Tadmorv",
-    "nomSuivant": "Grotadmorv",
     "nomen": "Grimer",
     "nomja": "ベトベター",
     "nomtm": "Betbeter",
@@ -12716,10 +12449,8 @@
     ]
   },
   {
-    "nomPrécédent": "Tadmorv",
     "numéro": "089",
     "nom": "Grotadmorv",
-    "nomSuivant": "Kokiyas",
     "nomen": "Muk",
     "nomja": "ベトベトン",
     "nomtm": "Betbeton",
@@ -12818,10 +12549,8 @@
     ]
   },
   {
-    "nomPrécédent": "Grotadmorv",
     "numéro": "090",
     "nom": "Kokiyas",
-    "nomSuivant": "Crustabri",
     "nomen": "Shellder",
     "nomja": "シェルダー",
     "nomtm": "Shellder",
@@ -12918,10 +12647,8 @@
     ]
   },
   {
-    "nomPrécédent": "Kokiyas",
     "numéro": "091",
     "nom": "Crustabri",
-    "nomSuivant": "Fantominus",
     "nomen": "Cloyster",
     "nomja": "パルシェン",
     "nomtm": "Parshen",
@@ -13004,10 +12731,8 @@
     ]
   },
   {
-    "nomPrécédent": "Fantominus",
     "numéro": "093",
     "nom": "Spectrum",
-    "nomSuivant": "Ectoplasma",
     "nomen": "Haunter",
     "nomja": "ゴースト",
     "nomtm": "Ghost",
@@ -13088,10 +12813,8 @@
     ]
   },
   {
-    "nomPrécédent": "Spectrum",
     "numéro": "094",
     "nom": "Ectoplasma",
-    "nomSuivant": "Onix",
     "nomen": "Gengar",
     "nomja": "ゲンガー",
     "nomromaji": "Gengā",
@@ -13170,10 +12893,8 @@
     ]
   },
   {
-    "nomPrécédent": "Onix",
     "numéro": "096",
     "nom": "Soporifik",
-    "nomSuivant": "Hypnomade",
     "nomen": "Drowzee",
     "nomja": "スリープ",
     "nomtm": "Sleep",
@@ -13273,10 +12994,8 @@
     ]
   },
   {
-    "nomPrécédent": "Soporifik",
     "numéro": "097",
     "nom": "Hypnomade",
-    "nomSuivant": "Krabby",
     "nomen": "Hypno",
     "nomja": "スリーパー",
     "nomtm": "Sleeper",
@@ -13374,10 +13093,8 @@
     ]
   },
   {
-    "nomPrécédent": "Krabby",
     "numéro": "099",
     "nom": "Krabboss",
-    "nomSuivant": "Voltorbe",
     "nomen": "Kingler",
     "nomja": "キングラー",
     "nomtm": "Kingler",

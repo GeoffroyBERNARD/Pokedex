@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+#encoding: utf-8
 
 require 'json'
 
@@ -51,6 +52,9 @@ class Pokemon
       end
 
       data["attaques"] = attacks
+
+      data.delete 'nomSuivant'
+      data.delete 'nomPrécédent'
 
       data
     end
