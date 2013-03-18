@@ -1,6 +1,6 @@
 # Pokedex
 
-Extrait la pokedex depuis http://www.pokepedia.fr
+Extrait le pokedex depuis http://www.pokepedia.fr
 
 ## Utilisation
 

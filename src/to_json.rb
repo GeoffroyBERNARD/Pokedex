@@ -67,6 +67,6 @@ files.each do |file|
   pokemons << Pokemon.new(File.read(file)).properties
 end
 
-File.open('data/pokemons.json', 'w') do |f|
+File.open('data/pokedex.json', 'w') do |f|
   f.write JSON.pretty_generate pokemons
 end
