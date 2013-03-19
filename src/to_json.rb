@@ -39,10 +39,15 @@ class Pokemon
         end
 
         if reading_attacks
-          line.delete!('{}')
+          line.strip!
+          line = line[2..-3] # remove wrapping {{ and }}
+          next if line.nil?
+
+          line.gsub!(/\{\{[^}]*\}\}/, '') # remove {{Sup|N}} from niveau
+
           _, niveau, nom, puissance, precision, pp = line.strip.split('|')
           attacks << {
-            niveau: niveau,
+            niveau: niveau.gsub(/<br>.*$/, ''),
             nom: nom,
             puissance: puissance,
             precision: precision,

@@ -584,11 +584,11 @@
         "pp": "20"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "J",
-        "puissance": "Mimi-Queue",
-        "precision": "-",
-        "pp": "100"
+        "niveau": "Départ",
+        "nom": "Mimi-Queue",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "30"
       },
       {
         "niveau": "Départ",
@@ -598,11 +598,11 @@
         "pp": "40"
       },
       {
-        "niveau": "N.18Sup",
-        "nom": "J",
-        "puissance": "Coup d'Boule",
-        "precision": "70",
-        "pp": "100"
+        "niveau": "N.18",
+        "nom": "Coup d'Boule",
+        "puissance": "70",
+        "precision": "100",
+        "pp": "15"
       },
       {
         "niveau": "N.25",
@@ -696,11 +696,11 @@
         "pp": "40"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "J",
-        "puissance": "Coup d'Boule",
-        "precision": "70",
-        "pp": "100"
+        "niveau": "Départ",
+        "nom": "Coup d'Boule",
+        "puissance": "70",
+        "precision": "100",
+        "pp": "15"
       },
       {
         "niveau": "Départ",
@@ -1149,11 +1149,11 @@
     "diff_rs-rfvf": "oui",
     "attaques": [
       {
-        "niveau": "DépartSup",
-        "nom": "RSup",
-        "puissance": "B<br>N.7Sup",
-        "precision": "J",
-        "pp": "Armure"
+        "niveau": "Départ",
+        "nom": "Armure",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "30"
       }
     ]
   },
@@ -1623,25 +1623,25 @@
         "pp": "35"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "RSup",
-        "puissance": "B<br>N.24Sup",
-        "precision": "J",
-        "pp": "Étreinte"
+        "niveau": "Départ",
+        "nom": "Étreinte",
+        "puissance": "15",
+        "precision": "75",
+        "pp": "20"
       },
       {
-        "niveau": "N.29Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.27Sup",
-        "precision": "J",
-        "pp": "Vol-Vie"
+        "niveau": "N.29",
+        "nom": "Vol-Vie",
+        "puissance": "20",
+        "precision": "100",
+        "pp": "20"
       },
       {
-        "niveau": "N.29Sup",
-        "nom": "J",
-        "puissance": "Fouet Lianes",
-        "precision": "35",
-        "pp": "100"
+        "niveau": "N.29",
+        "nom": "Fouet Lianes",
+        "puissance": "35",
+        "precision": "100",
+        "pp": "10"
       },
       {
         "niveau": "N.32",
@@ -1672,18 +1672,18 @@
         "pp": "20"
       },
       {
-        "niveau": "N.48Sup",
-        "nom": "J",
-        "puissance": "Croissance",
+        "niveau": "N.48",
+        "nom": "Croissance",
+        "puissance": "-",
         "precision": "-",
-        "pp": "-"
+        "pp": "40"
       },
       {
-        "niveau": "N.49Sup",
-        "nom": "BSup",
-        "puissance": "R",
-        "precision": "Croissance",
-        "pp": "-"
+        "niveau": "N.49",
+        "nom": "Croissance",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "40"
       }
     ]
   },
@@ -2218,60 +2218,60 @@
     "diff-fm": "oui",
     "attaques": [
       {
-        "niveau": "N.12Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.10Sup",
-        "precision": "J",
-        "pp": "Choc Mental"
+        "niveau": "N.12",
+        "nom": "Choc Mental",
+        "puissance": "50",
+        "precision": "100",
+        "pp": "25"
       },
       {
-        "niveau": "N.15Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.13Sup",
-        "precision": "J",
-        "pp": "Poudre Toxik"
+        "niveau": "N.15",
+        "nom": "Poudre Toxik",
+        "puissance": "-",
+        "precision": "75",
+        "pp": "35"
       },
       {
-        "niveau": "N.16Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.14Sup",
-        "precision": "J",
-        "pp": "Para-Spore"
+        "niveau": "N.16",
+        "nom": "Para-Spore",
+        "puissance": "-",
+        "precision": "75",
+        "pp": "30"
       },
       {
-        "niveau": "N.17Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.15Sup",
-        "precision": "J",
-        "pp": "Poudre Dodo"
+        "niveau": "N.17",
+        "nom": "Poudre Dodo",
+        "puissance": "-",
+        "precision": "75",
+        "pp": "15"
       },
       {
-        "niveau": "N.21Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.18Sup",
-        "precision": "J",
-        "pp": "Ultrason"
+        "niveau": "N.21",
+        "nom": "Ultrason",
+        "puissance": "-",
+        "precision": "55",
+        "pp": "20"
       },
       {
-        "niveau": "N.26Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.23Sup",
-        "precision": "J",
-        "pp": "Cyclone"
+        "niveau": "N.26",
+        "nom": "Cyclone",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "20"
       },
       {
-        "niveau": "N.28Sup",
-        "nom": "J",
-        "puissance": "Tornade",
-        "precision": "40",
-        "pp": "100"
+        "niveau": "N.28",
+        "nom": "Tornade",
+        "puissance": "40",
+        "precision": "100",
+        "pp": "35"
       },
       {
-        "niveau": "N.32Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.34Sup",
-        "precision": "J",
-        "pp": "Rafale Psy"
+        "niveau": "N.32",
+        "nom": "Rafale Psy",
+        "puissance": "65",
+        "precision": "100",
+        "pp": "20"
       }
     ]
   },
@@ -2567,18 +2567,18 @@
         "pp": "30"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "RSup",
-        "puissance": "B<br>N.17Sup",
-        "precision": "J",
-        "pp": "Groz'Yeux"
+        "niveau": "Départ",
+        "nom": "Groz'Yeux",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "30"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "RSup",
-        "puissance": "B<br>N.20Sup",
-        "precision": "J",
-        "pp": "Puissance"
+        "niveau": "Départ",
+        "nom": "Puissance",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "30"
       },
       {
         "niveau": "N.24",
@@ -2609,11 +2609,11 @@
         "pp": "30"
       },
       {
-        "niveau": "N.50Sup",
-        "nom": "J",
-        "puissance": "Cru-Aile",
-        "precision": "35",
-        "pp": "100"
+        "niveau": "N.50",
+        "nom": "Cru-Aile",
+        "puissance": "35",
+        "precision": "100",
+        "pp": "35"
       }
     ]
   },
@@ -2968,11 +2968,11 @@
         "pp": "30"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "RSup",
-        "puissance": "B<br>N.21Sup",
-        "precision": "J",
-        "pp": "Étreinte"
+        "niveau": "Départ",
+        "nom": "Étreinte",
+        "puissance": "15",
+        "precision": "75",
+        "pp": "20"
       },
       {
         "niveau": "N.25",
@@ -3552,11 +3552,11 @@
         "pp": "40"
       },
       {
-        "niveau": "N.27Sup",
-        "nom": "RSup",
-        "puissance": "B<br>DépartSup",
-        "precision": "J",
-        "pp": "Vive-Attaque"
+        "niveau": "N.27",
+        "nom": "Vive-Attaque",
+        "puissance": "40",
+        "precision": "100",
+        "pp": "30"
       },
       {
         "niveau": "N.31",
@@ -3573,11 +3573,11 @@
         "pp": "25"
       },
       {
-        "niveau": "N.36Sup",
-        "nom": "J",
-        "puissance": "Puissance",
+        "niveau": "N.36",
+        "nom": "Puissance",
+        "puissance": "-",
         "precision": "-",
-        "pp": "-"
+        "pp": "30"
       },
       {
         "niveau": "N.45",
@@ -3668,53 +3668,46 @@
         "pp": "30"
       },
       {
-        "niveau": "N.40Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.30Sup",
-        "precision": "J",
-        "pp": "Morsure"
+        "niveau": "N.40",
+        "nom": "Morsure",
+        "puissance": "60",
+        "precision": "100",
+        "pp": "25"
       },
       {
-        "niveau": "N.36Sup",
-        "nom": "J",
-        "puissance": "Onde Boréale",
-        "precision": "65",
-        "pp": "100"
+        "niveau": "N.36",
+        "nom": "Onde Boréale",
+        "puissance": "65",
+        "precision": "100",
+        "pp": "20"
       },
       {
-        "niveau": "N.42Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.47Sup",
-        "precision": "J",
-        "pp": "Acidarmure"
+        "niveau": "N.42",
+        "nom": "Acidarmure",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "40"
       },
       {
-        "niveau": null,
-        "nom": null,
-        "puissance": null,
-        "precision": null,
-        "pp": null
+        "niveau": "N.44",
+        "nom": "Buée Noire",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "30"
       },
       {
-        "niveau": "N.44Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.42Sup",
-        "precision": "J",
-        "pp": "Buée Noire"
+        "niveau": "N.48",
+        "nom": "Brume",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "30"
       },
       {
-        "niveau": "N.48Sup",
-        "nom": "RSup",
-        "puissance": "B",
-        "precision": "Brume",
-        "pp": "-"
-      },
-      {
-        "niveau": "N.54Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.52Sup",
-        "precision": "J",
-        "pp": "Hydrocanon"
+        "niveau": "N.54",
+        "nom": "Hydrocanon",
+        "puissance": "120",
+        "precision": "80",
+        "pp": "5"
       }
     ]
   },
@@ -3797,39 +3790,39 @@
         "pp": "30"
       },
       {
-        "niveau": "N.40Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.42Sup",
-        "precision": "J",
-        "pp": "Cage-Éclair"
+        "niveau": "N.40",
+        "nom": "Cage-Éclair",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "20"
       },
       {
-        "niveau": "N.42Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.30Sup",
-        "precision": "J",
-        "pp": "Double Pied"
+        "niveau": "N.42",
+        "nom": "Double Pied",
+        "puissance": "30",
+        "precision": "100",
+        "pp": "30"
       },
       {
-        "niveau": "N.44Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.47Sup",
-        "precision": "J",
-        "pp": "Hâte"
+        "niveau": "N.44",
+        "nom": "Hâte",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "30"
       },
       {
-        "niveau": "N.48Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.36Sup",
-        "precision": "J",
-        "pp": "Dard-Nuée"
+        "niveau": "N.48",
+        "nom": "Dard-Nuée",
+        "puissance": "14",
+        "precision": "85",
+        "pp": "20"
       },
       {
-        "niveau": "N.54Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.52Sup",
-        "precision": "J",
-        "pp": "Fatal-Foudre"
+        "niveau": "N.54",
+        "nom": "Fatal-Foudre",
+        "puissance": "120",
+        "precision": "70",
+        "pp": "10"
       }
     ]
   },
@@ -3913,46 +3906,46 @@
         "pp": "30"
       },
       {
-        "niveau": "N.40Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.30Sup",
-        "precision": "J",
-        "pp": "Morsure"
+        "niveau": "N.40",
+        "nom": "Morsure",
+        "puissance": "60",
+        "precision": "100",
+        "pp": "25"
       },
       {
-        "niveau": "N.42Sup",
-        "nom": "J",
-        "puissance": "Purédpois",
-        "precision": "20",
-        "pp": "70"
-      },
-      {
-        "niveau": "N.42Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.47Sup",
-        "precision": "J",
-        "pp": "Groz'Yeux"
-      },
-      {
-        "niveau": "N.44Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.36Sup",
-        "precision": "J",
-        "pp": "Danseflamme"
-      },
-      {
-        "niveau": "N.48Sup",
-        "nom": "RSup",
-        "puissance": "B",
-        "precision": "Frénésie",
+        "niveau": "N.42",
+        "nom": "Purédpois",
+        "puissance": "20",
+        "precision": "70",
         "pp": "20"
       },
       {
-        "niveau": "N.54Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.52Sup",
-        "precision": "J",
-        "pp": "Lance-Flamme"
+        "niveau": "N.42",
+        "nom": "Groz'Yeux",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "30"
+      },
+      {
+        "niveau": "N.44",
+        "nom": "Danseflamme",
+        "puissance": "15",
+        "precision": "70",
+        "pp": "15"
+      },
+      {
+        "niveau": "N.48",
+        "nom": "Frénésie",
+        "puissance": "20",
+        "precision": "100",
+        "pp": "20"
+      },
+      {
+        "niveau": "N.54",
+        "nom": "Lance-Flamme",
+        "puissance": "95",
+        "precision": "100",
+        "pp": "15"
       }
     ]
   },
@@ -4281,11 +4274,11 @@
     "diff_4G-fm": "non",
     "attaques": [
       {
-        "niveau": "DépartSup",
-        "nom": "RSup",
-        "puissance": "B<br>N.7Sup",
-        "precision": "J",
-        "pp": "Armure"
+        "niveau": "Départ",
+        "nom": "Armure",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "30"
       }
     ]
   },
@@ -5586,11 +5579,11 @@
         "pp": "15"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "RSup",
-        "puissance": "B<br>N.12Sup",
-        "precision": "J",
-        "pp": "Vive-Attaque"
+        "niveau": "Départ",
+        "nom": "Vive-Attaque",
+        "puissance": "40",
+        "precision": "100",
+        "pp": "30"
       },
       {
         "niveau": "N.21",
@@ -5763,11 +5756,11 @@
         "pp": "35"
       },
       {
-        "niveau": "N.4Sup",
-        "nom": "RSup",
-        "puissance": "B<br>DépartSup",
-        "precision": "J",
-        "pp": "Mimi-Queue"
+        "niveau": "N.4",
+        "nom": "Mimi-Queue",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "30"
       },
       {
         "niveau": "N.7",
@@ -6441,53 +6434,53 @@
         "pp": "40"
       },
       {
-        "niveau": "N.6Sup",
-        "nom": "J",
-        "puissance": "Mimi-Queue",
+        "niveau": "N.6",
+        "nom": "Mimi-Queue",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "30"
+      },
+      {
+        "niveau": "N.9",
+        "nom": "Cage-Éclair",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "20"
+      },
+      {
+        "niveau": "N.16",
+        "nom": "Vive-Attaque",
+        "puissance": "40",
+        "precision": "100",
+        "pp": "30"
+      },
+      {
+        "niveau": "N.15",
+        "nom": "Reflet",
+        "puissance": "-",
         "precision": "-",
-        "pp": "100"
+        "pp": "15"
       },
       {
-        "niveau": "N.9Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.8Sup",
-        "precision": "J",
-        "pp": "Cage-Éclair"
+        "niveau": "N.20",
+        "nom": "Souplesse",
+        "puissance": "80",
+        "precision": "75",
+        "pp": "20"
       },
       {
-        "niveau": "N.16Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.11Sup",
-        "precision": "J",
-        "pp": "Vive-Attaque"
+        "niveau": "N.26",
+        "nom": "Tonnerre",
+        "puissance": "95",
+        "precision": "100",
+        "pp": "15"
       },
       {
-        "niveau": "N.15Sup",
-        "nom": "J",
-        "puissance": "Reflet",
+        "niveau": "N.26",
+        "nom": "Météores",
+        "puissance": "60",
         "precision": "-",
-        "pp": "-"
-      },
-      {
-        "niveau": "N.20Sup",
-        "nom": "J",
-        "puissance": "Souplesse",
-        "precision": "80",
-        "pp": "75"
-      },
-      {
-        "niveau": "N.26Sup",
-        "nom": "J",
-        "puissance": "Tonnerre",
-        "precision": "95",
-        "pp": "100"
-      },
-      {
-        "niveau": "N.26Sup",
-        "nom": "RSup",
-        "puissance": "B",
-        "precision": "Météores",
-        "pp": "60"
+        "pp": "20"
       },
       {
         "niveau": "N.33",
@@ -6497,18 +6490,18 @@
         "pp": "30"
       },
       {
-        "niveau": "N.43Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.41Sup",
-        "precision": "J",
-        "pp": "Fatal-Foudre"
+        "niveau": "N.43",
+        "nom": "Fatal-Foudre",
+        "puissance": "120",
+        "precision": "70",
+        "pp": "10"
       },
       {
-        "niveau": "N.50Sup",
-        "nom": "J",
-        "puissance": "Mur Lumière",
+        "niveau": "N.50",
+        "nom": "Mur Lumière",
+        "puissance": "-",
         "precision": "-",
-        "pp": "-"
+        "pp": "30"
       }
     ]
   },
@@ -6813,39 +6806,39 @@
         "pp": "35"
       },
       {
-        "niveau": "N.14Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.17Sup",
-        "precision": "J",
-        "pp": "Dard-Venin"
+        "niveau": "N.14",
+        "nom": "Dard-Venin",
+        "puissance": "15",
+        "precision": "100",
+        "pp": "35"
       },
       {
-        "niveau": "N.23Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.21Sup",
-        "precision": "J",
-        "pp": "Mimi-Queue"
+        "niveau": "N.23",
+        "nom": "Mimi-Queue",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "30"
       },
       {
-        "niveau": "N.29Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.30Sup",
-        "precision": "J",
-        "pp": "Morsure"
+        "niveau": "N.29",
+        "nom": "Morsure",
+        "puissance": "60",
+        "precision": "100",
+        "pp": "25"
       },
       {
-        "niveau": "N.36Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.38Sup",
-        "precision": "J",
-        "pp": "Combo-Griffe"
+        "niveau": "N.36",
+        "nom": "Combo-Griffe",
+        "puissance": "18",
+        "precision": "80",
+        "pp": "15"
       },
       {
-        "niveau": "N.43Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.12Sup",
-        "precision": "J",
-        "pp": "Double Pied"
+        "niveau": "N.43",
+        "nom": "Double Pied",
+        "puissance": "30",
+        "precision": "100",
+        "pp": "30"
       }
     ]
   },
@@ -7016,18 +7009,18 @@
         "pp": "35"
       },
       {
-        "niveau": "N.14Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.19Sup",
-        "precision": "J",
-        "pp": "Dard-Venin"
+        "niveau": "N.14",
+        "nom": "Dard-Venin",
+        "puissance": "15",
+        "precision": "100",
+        "pp": "35"
       },
       {
-        "niveau": "N.23Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.27Sup",
-        "precision": "J",
-        "pp": "Mimi-Queue"
+        "niveau": "N.23",
+        "nom": "Mimi-Queue",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "30"
       },
       {
         "niveau": "N.36",
@@ -7037,18 +7030,18 @@
         "pp": "25"
       },
       {
-        "niveau": "N.41Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.46Sup",
-        "precision": "J",
-        "pp": "Combo-Griffe"
+        "niveau": "N.41",
+        "nom": "Combo-Griffe",
+        "puissance": "18",
+        "precision": "80",
+        "pp": "15"
       },
       {
-        "niveau": "N.50Sup",
-        "nom": "RSup",
-        "puissance": "B<br>DépartSup",
-        "precision": "J",
-        "pp": "Double Pied"
+        "niveau": "N.50",
+        "nom": "Double Pied",
+        "puissance": "30",
+        "precision": "100",
+        "pp": "30"
       }
     ]
   },
@@ -7111,18 +7104,18 @@
         "pp": "30"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "J",
-        "puissance": "Double Pied",
-        "precision": "30",
-        "pp": "100"
+        "niveau": "Départ",
+        "nom": "Double Pied",
+        "puissance": "30",
+        "precision": "100",
+        "pp": "30"
       },
       {
-        "niveau": "N.14Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.19Sup",
-        "precision": "J",
-        "pp": "Dard-Venin"
+        "niveau": "N.14",
+        "nom": "Dard-Venin",
+        "puissance": "15",
+        "precision": "100",
+        "pp": "35"
       },
       {
         "niveau": "N.23",
@@ -7192,39 +7185,39 @@
         "pp": "25"
       },
       {
-        "niveau": "N.14Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.17Sup",
-        "precision": "J",
-        "pp": "Dard-Venin"
+        "niveau": "N.14",
+        "nom": "Dard-Venin",
+        "puissance": "15",
+        "precision": "100",
+        "pp": "35"
       },
       {
-        "niveau": "N.21Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.23Sup",
-        "precision": "J",
-        "pp": "Puissance"
+        "niveau": "N.21",
+        "nom": "Puissance",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "30"
       },
       {
-        "niveau": "N.29Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.30Sup",
-        "precision": "J",
-        "pp": "Furie"
+        "niveau": "N.29",
+        "nom": "Furie",
+        "puissance": "15",
+        "precision": "85",
+        "pp": "20"
       },
       {
-        "niveau": "N.36Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.38Sup",
-        "precision": "J",
-        "pp": "Empal'Korne"
+        "niveau": "N.36",
+        "nom": "Empal'Korne",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "5"
       },
       {
-        "niveau": "N.43Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.12Sup",
-        "precision": "J",
-        "pp": "Double Pied"
+        "niveau": "N.43",
+        "nom": "Double Pied",
+        "puissance": "30",
+        "precision": "100",
+        "pp": "30"
       }
     ]
   },
@@ -7287,39 +7280,39 @@
         "pp": "25"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "RSup",
-        "puissance": "B<br>N.19Sup",
-        "precision": "J",
-        "pp": "Dard-Venin"
+        "niveau": "Départ",
+        "nom": "Dard-Venin",
+        "puissance": "15",
+        "precision": "100",
+        "pp": "35"
       },
       {
-        "niveau": "N.23Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.27Sup",
-        "precision": "J",
-        "pp": "Puissance"
+        "niveau": "N.23",
+        "nom": "Puissance",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "30"
       },
       {
-        "niveau": "N.32Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.36Sup",
-        "precision": "J",
-        "pp": "Furie"
+        "niveau": "N.32",
+        "nom": "Furie",
+        "puissance": "15",
+        "precision": "85",
+        "pp": "20"
       },
       {
-        "niveau": "N.41Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.46Sup",
-        "precision": "J",
-        "pp": "Empal'Korne"
+        "niveau": "N.41",
+        "nom": "Empal'Korne",
+        "puissance": "-",
+        "precision": "-",
+        "pp": "5"
       },
       {
-        "niveau": "N.50Sup",
-        "nom": "RSup",
-        "puissance": "B<br>DépartSup",
-        "precision": "J",
-        "pp": "Double Pied"
+        "niveau": "N.50",
+        "nom": "Double Pied",
+        "puissance": "30",
+        "precision": "100",
+        "pp": "30"
       }
     ]
   },
@@ -7383,11 +7376,11 @@
         "pp": "35"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "J",
-        "puissance": "Double Pied",
-        "precision": "30",
-        "pp": "100"
+        "niveau": "Départ",
+        "nom": "Double Pied",
+        "puissance": "30",
+        "precision": "100",
+        "pp": "30"
       },
       {
         "niveau": "N.23",
@@ -7804,11 +7797,11 @@
         "pp": "40"
       },
       {
-        "niveau": "N.9Sup",
-        "nom": "RSup",
-        "puissance": "B<br>DépartSup",
-        "precision": "J",
-        "pp": "Flammèche"
+        "niveau": "N.9",
+        "nom": "Flammèche",
+        "puissance": "40",
+        "precision": "100",
+        "pp": "25"
       },
       {
         "niveau": "N.15",
@@ -8339,21 +8332,21 @@
     "PDM2-supp": "f",
     "attaques": [
       {
-        "niveau": "Départ<br>N.15",
+        "niveau": "Départ",
         "nom": "Poudre Toxik",
         "puissance": "-",
         "precision": "75",
         "pp": "35"
       },
       {
-        "niveau": "Départ<br>N.17",
+        "niveau": "Départ",
         "nom": "Para-Spore",
         "puissance": "-",
         "precision": "75",
         "pp": "30"
       },
       {
-        "niveau": "Départ<br>N.19",
+        "niveau": "Départ",
         "nom": "Poudre Dodo",
         "puissance": "-",
         "precision": "75",
@@ -8615,25 +8608,25 @@
         "pp": "20"
       },
       {
-        "niveau": "N.11Sup",
-        "nom": "J",
-        "puissance": "Ultrason",
-        "precision": "-",
-        "pp": "55"
+        "niveau": "N.11",
+        "nom": "Ultrason",
+        "puissance": "-",
+        "precision": "55",
+        "pp": "20"
       },
       {
-        "niveau": "N.19Sup",
-        "nom": "J",
-        "puissance": "Choc Mental",
-        "precision": "50",
-        "pp": "100"
+        "niveau": "N.19",
+        "nom": "Choc Mental",
+        "puissance": "50",
+        "precision": "100",
+        "pp": "25"
       },
       {
-        "niveau": "N.24Sup",
-        "nom": "RSup",
-        "puissance": "B<br>N.22Sup",
-        "precision": "J",
-        "pp": "Poudre Toxik"
+        "niveau": "N.24",
+        "nom": "Poudre Toxik",
+        "puissance": "-",
+        "precision": "75",
+        "pp": "35"
       },
       {
         "niveau": "N.27",
@@ -8728,18 +8721,18 @@
         "pp": "20"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "J",
-        "puissance": "Ultrason",
-        "precision": "-",
-        "pp": "55"
+        "niveau": "Départ",
+        "nom": "Ultrason",
+        "puissance": "-",
+        "precision": "55",
+        "pp": "20"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "J",
-        "puissance": "Choc Mental",
-        "precision": "50",
-        "pp": "100"
+        "niveau": "Départ",
+        "nom": "Choc Mental",
+        "puissance": "50",
+        "precision": "100",
+        "pp": "25"
       },
       {
         "niveau": "Départ",
@@ -9395,18 +9388,18 @@
         "pp": "35"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "RSup",
-        "puissance": "B<br>N.28Sup",
-        "precision": "J",
-        "pp": "Mimi-Queue"
+        "niveau": "Départ",
+        "nom": "Mimi-Queue",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "30"
       },
       {
-        "niveau": "N.31Sup",
-        "nom": "RSup",
-        "puissance": "B<br>DépartSup",
-        "precision": "J",
-        "pp": "Entrave"
+        "niveau": "N.31",
+        "nom": "Entrave",
+        "puissance": "-",
+        "precision": "55",
+        "pp": "20"
       },
       {
         "niveau": "N.39",
@@ -9490,11 +9483,11 @@
         "pp": "30"
       },
       {
-        "niveau": "N.9Sup",
-        "nom": "J",
-        "puissance": "Balayage",
-        "precision": "50",
-        "pp": "100"
+        "niveau": "N.9",
+        "nom": "Balayage",
+        "puissance": "50",
+        "precision": "100",
+        "pp": "20"
       },
       {
         "niveau": "N.15",
@@ -9532,11 +9525,11 @@
         "pp": "20"
       },
       {
-        "niveau": "N.45Sup",
-        "nom": "J",
-        "puissance": "Grincement",
-        "precision": "-",
-        "pp": "85"
+        "niveau": "N.45",
+        "nom": "Grincement",
+        "puissance": "-",
+        "precision": "85",
+        "pp": "40"
       }
     ]
   },
@@ -9597,18 +9590,18 @@
         "pp": "30"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "J",
-        "puissance": "Balayage",
-        "precision": "50",
-        "pp": "100"
+        "niveau": "Départ",
+        "nom": "Balayage",
+        "puissance": "50",
+        "precision": "100",
+        "pp": "20"
       },
       {
-        "niveau": "N.15Sup",
-        "nom": "RSup",
-        "puissance": "B<br>DépartSup",
-        "precision": "J",
-        "pp": "Poing-Karaté"
+        "niveau": "N.15",
+        "nom": "Poing-Karaté",
+        "puissance": "50",
+        "precision": "100",
+        "pp": "25"
       },
       {
         "niveau": "N.21",
@@ -9625,11 +9618,11 @@
         "pp": "30"
       },
       {
-        "niveau": "N.28Sup",
-        "nom": "J",
-        "puissance": "Frénésie",
-        "precision": "20",
-        "pp": "100"
+        "niveau": "N.28",
+        "nom": "Frénésie",
+        "puissance": "20",
+        "precision": "100",
+        "pp": "20"
       },
       {
         "niveau": "N.37",
@@ -9639,11 +9632,11 @@
         "pp": "20"
       },
       {
-        "niveau": "N.45Sup",
-        "nom": "J",
-        "puissance": "Grincement",
-        "precision": "-",
-        "pp": "85"
+        "niveau": "N.45",
+        "nom": "Grincement",
+        "puissance": "-",
+        "precision": "85",
+        "pp": "40"
       },
       {
         "niveau": "N.46",
@@ -10845,18 +10838,18 @@
         "pp": "35"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "J<br/>N.4Sup",
-        "puissance": "RSup",
-        "precision": "B",
-        "pp": "Mimi-Queue"
+        "niveau": "Départ<br/>N.4",
+        "nom": "Mimi-Queue",
+        "puissance": "-",
+        "precision": "100",
+        "pp": "30"
       },
       {
-        "niveau": "DépartSup",
-        "nom": "J<br/>N.8Sup",
-        "puissance": "RSup",
-        "precision": "B",
-        "pp": "Écume"
+        "niveau": "Départ<br/>N.8",
+        "nom": "Écume",
+        "puissance": "20",
+        "precision": "100",
+        "pp": "30"
       },
       {
         "niveau": "N.15",
